@@ -27,13 +27,13 @@ JSON_FENCE_RE = re.compile(r"```(?:json)?\s*([\s\S]*?)```", re.IGNORECASE)
 # ---------------------------
 # I/O paths 
 # ---------------------------
-in_csv    = "/Users/skamanski/Documents/GitHub/CS590-Project1/Full_Datasets/bluesky_data.csv"
-out_jsonl = "bluesky_results.jsonl"
-out_csv   = "bluesky_results.csv"
+in_csv    = "/Users/skamanski/Documents/GitHub/CS590-Project1/Full_Datasets/meta_data.csv"
+out_jsonl = "meta_results.jsonl"
+out_csv   = "meta_results.csv"
 
 # Dataset columns 
-cid_col  = "cid"
-text_col = "text"
+cid_col  = "ad_archive_id"
+text_col = "ad_creative_bodies"
 
 max_chars = 1200
 limit = 0
