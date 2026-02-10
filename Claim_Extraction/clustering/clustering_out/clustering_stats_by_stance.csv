@@ -1,0 +1,4 @@
+n_total,n_outliers,pct_outliers,n_clusters,largest_cluster,median_cluster_size,stance
+4753,1673,0.35198821796759944,66,172,29.0,Neutral
+17892,7267,0.40615917728593787,144,782,35.0,Pro-Climate
+3632,1201,0.3306718061674009,62,193,31.0,Pro-Energy
