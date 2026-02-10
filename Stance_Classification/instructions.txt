@@ -1,0 +1,4 @@
+We use a randomly sampled 500/500 Pro-Energy Pro-Climate split, and 150 Neutral samples.
+Goal: train a classifier to accurately label each text from the full datasets as Pro-Climate or Pro-Energy
+
+Example classifier to improve/build off of is "logistic_regression.py"
