@@ -1,0 +1,8 @@
+segment,cluster_id,cluster_claim,num_texts,error,model_used
+Neutral,Neutral_14,Corporate polluters disproportionately harm public health and should be held accountable to prevent avoidable suffering.,5,,mistral-large-2407
+Neutral,Neutral_19,Sustainable aviation fuel is the most viable solution for decarbonizing the aviation industry.,5,,mistral-large-2407
+Neutral,Neutral_37,Toyota’s marketing of its electrified vehicles misrepresents their environmental and financial benefits.,5,,mistral-large-2407
+Neutral,Neutral_4,Current policies and political inaction are failing to adequately protect public lands from exploitation and privatization.,5,,mistral-large-2407
+Neutral,Neutral_5,"Electing candidates with a proven commitment to Vermont families will advance a quality, affordable, and sustainable child care system.",5,,mistral-large-2407
+Neutral,Neutral_51,Human activities are driving the rapid extinction of endangered wildlife species.,5,,mistral-large-2407
+Neutral,Neutral_55,Modern work and household demands are unsustainable without significant reductions in labor expectations.,5,,mistral-large-2407

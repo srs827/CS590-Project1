@@ -1,0 +1,6 @@
+segment,cluster_id,cluster_claim,num_texts,error,model_used
+Pro-Energy,Pro-Energy_41,Renewable energy is essential for achieving true American energy independence.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_54,The Trump administration’s environmental policies prioritize corporate interests over public health and ecological protection.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_130,Federal investments in clean energy drive economic growth and job creation while reducing pollution.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_142,Renewable energy projects provide essential economic and generational benefits for farmers and rural communities.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_40,Corporations responsible for climate pollution should be held financially accountable for the damages they cause.,5,,mistral-large-2407
