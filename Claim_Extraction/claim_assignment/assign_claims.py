@@ -475,10 +475,12 @@ def run_assignment(
     out_df = pd.DataFrame(final_rows)
 
     # Write
-    os.makedirs(os.path.dirname(out_jsonl) or ".", exist_ok=True)
-    os.makedirs(os.path.dirname(out_csv) or ".", exist_ok=True)
     out_jsonl = f"{out_prefix}.jsonl"
     out_csv   = f"{out_prefix}.csv"
+
+    os.makedirs(os.path.dirname(out_jsonl) or ".", exist_ok=True)
+    os.makedirs(os.path.dirname(out_csv) or ".", exist_ok=True)
+
     print(f"[WRITE] {out_jsonl}")
     with open(out_jsonl, "w", encoding="utf-8") as f:
         for row in final_rows:
@@ -582,6 +584,8 @@ def run_segment_restricted_assignment(
     # Write merged outputs
     out_jsonl = f"{out_prefix}.jsonl"
     out_csv   = f"{out_prefix}.csv"
+    os.makedirs(os.path.dirname(out_jsonl) or ".", exist_ok=True)
+    os.makedirs(os.path.dirname(out_csv) or ".", exist_ok=True)
     print(f"[WRITE] merged {out_jsonl}")
     with open(out_jsonl, "w", encoding="utf-8") as f:
         for row in merged.to_dict(orient="records"):
