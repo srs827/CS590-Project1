@@ -17,9 +17,7 @@ from tenacity import retry, stop_after_attempt, retry_if_exception, wait_random
 SYSTEM_PROMPT = """You are an information extraction system.
 
 For the given text:
-- Identify the main statement being promoted.
-- Identify any explicit reason or evidence mentioned.
-- Identify any explicit explanation that connects the reason to the statement.
+- Identify the claim, ground, and warrant.
 
 Rules:
 - Extract only what is explicitly written.
