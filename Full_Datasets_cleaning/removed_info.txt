@@ -1,0 +1,11 @@
+Loading bluesky_clean.csv...
+  Rows before : 18,977
+  Rows removed: 196  (1.0%)
+  Rows after  : 18,781
+  → Saved to bluesky_clean_filtered.csv
+
+Loading meta_clean.csv...
+  Rows before : 16,322
+  Rows removed: 165  (1.0%)
+  Rows after  : 16,157
+  → Saved to meta_clean_filtered.csv
