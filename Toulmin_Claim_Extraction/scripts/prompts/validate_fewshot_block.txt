@@ -1,0 +1,70 @@
+Example 1
+Text:
+Accelerating the future of energy, together
+Claim:
+Not present
+Answer:
+VALID
+
+
+Example 2
+Text:
+Our spray foam insulation helps reduce energy waste and supports a more sustainable future.
+Claim:
+Using this insulation supports a more sustainable future.
+Answer:
+VALID
+
+
+Example 3
+Text:
+Our spray foam insulation helps reduce energy waste.
+Claim:
+This insulation will cut your energy bills by 50%.
+Answer:
+INVALID
+
+
+Example 4
+Text:
+Protecting the Endangerment Finding = Protecting Children's Health! Moms across the country share what rolling back this protection means. Tell EPA to keep cutting climate pollution.
+Claim:
+Protecting the Endangerment Finding protects children's health.
+Answer:
+VALID
+
+
+Example 5
+Text:
+Stop Kamala's Radical Plan for America Before It's Too Late. Her policies would raise taxes, weaken safety, and harm the country. Don’t let her lead America down this dangerous path.
+Claim:
+Kamala Harris's policies are dangerous and would weaken America, so her plan should be stopped.
+Answer:
+VALID
+
+
+Example 6
+Text:
+Conduct undergraduate research using next-gen DNA sequencing aboard a sailing research vessel. Present your work at a symposium.
+Claim:
+Not present
+Answer:
+VALID
+
+
+Example 7
+Text:
+The statistics about the Michigan Department of Corrections are misleading. The job is dangerous and at a critical point. Please vote this Tuesday to keep me in this fight.
+Claim:
+You should vote this Tuesday to keep me in office.
+Answer:
+VALID
+
+
+Example 8
+Text:
+We’re the third fastest warming city in the nation here in Tucson, and Phoenix is fourth.
+Claim:
+Not present
+Answer:
+VALID

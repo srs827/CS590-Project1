@@ -1,0 +1,855 @@
+cluster_id,size,sample_size,topic,summary,keywords,raw,error
+0,164,40,AI and Climate Change,"Many claims express concern that AI use and infrastructure contribute significantly to climate change, pollution, and social inequality, while also questioning AI's ability to solve complex global challenges. There are calls for ethical, sustainable development and skepticism toward corporate motives and AI's environmental impact.","[""AI pollution"", ""climate change"", ""sustainability"", ""environmental impact"", ""ethical concerns"", ""corporate responsibility""]","{
+  ""topic"": ""AI and Climate Change"",
+  ""summary"": ""Many claims express concern that AI use and infrastructure contribute significantly to climate change, pollution, and social inequality, while also questioning AI's ability to solve complex global challenges. There are calls for ethical, sustainable development and skepticism toward corporate motives and AI's environmental impact."",
+  ""keywords"": [""AI pollution"", ""climate change"", ""sustainability"", ""environmental impact"", ""ethical concerns"", ""corporate responsibility""]
+}",
+1,208,40,Climate Change and Wildfires,"Most claims assert that climate change is increasing the frequency, scale, and intensity of wildfires globally, affecting regions like California, Canada, and Europe. Several statements tie drought, heat, and fire seasonality directly to greenhouse gas emissions and global warming, while a minority cite misinformation or alternative causes.","[""climate change"", ""wildfires"", ""drought"", ""greenhouse gases"", ""fire intensity"", ""misinformation""]","{
+  ""topic"": ""Climate Change and Wildfires"",
+  ""summary"": ""Most claims assert that climate change is increasing the frequency, scale, and intensity of wildfires globally, affecting regions like California, Canada, and Europe. Several statements tie drought, heat, and fire seasonality directly to greenhouse gas emissions and global warming, while a minority cite misinformation or alternative causes."",
+  ""keywords"": [""climate change"", ""wildfires"", ""drought"", ""greenhouse gases"", ""fire intensity"", ""misinformation""]
+}",
+2,40,40,"Environmental Policy, Greenwashing, and Energy Transition in Europe","The claims highlight concerns about greenwashing, ineffective or misleading climate solutions, environmental degradation, and policy failures related to energy transition, especially in the EU. There is skepticism toward certain renewable initiatives, criticism of fossil fuel reliance, and anxiety regarding pollution, legislative shortcomings, and threats to climate and conservation efforts.","[""greenwashing"", ""energy transition"", ""EU policy"", ""fossil fuels"", ""pollution"", ""climate regulation""]","{
+  ""topic"": ""Environmental Policy, Greenwashing, and Energy Transition in Europe"",
+  ""summary"": ""The claims highlight concerns about greenwashing, ineffective or misleading climate solutions, environmental degradation, and policy failures related to energy transition, especially in the EU. There is skepticism toward certain renewable initiatives, criticism of fossil fuel reliance, and anxiety regarding pollution, legislative shortcomings, and threats to climate and conservation efforts."",
+  ""keywords"": [""greenwashing"", ""energy transition"", ""EU policy"", ""fossil fuels"", ""pollution"", ""climate regulation""]
+}",
+3,60,40,Reality of climate change,"This cluster strongly asserts the existence and ongoing impact of climate change, with some claims emphasizing its scientific proof, worsening effects, human causes, and the need for urgent response.","[""climate change"", ""real"", ""scientific consensus"", ""impacts"", ""urgency"", ""human-caused""]","{
+  ""topic"": ""Reality of climate change"",
+  ""summary"": ""This cluster strongly asserts the existence and ongoing impact of climate change, with some claims emphasizing its scientific proof, worsening effects, human causes, and the need for urgent response."",
+  ""keywords"": [
+    ""climate change"",
+    ""real"",
+    ""scientific consensus"",
+    ""impacts"",
+    ""urgency"",
+    ""human-caused""
+  ]
+}",
+4,115,40,Fracking risks and regulation,"Claims highlight widespread concerns about fracking's environmental and public health impacts, linking it to earthquakes, water contamination, and regulatory failures. Some advocate for bans or stricter regulation, while a few defend fracking's necessity or downplay its harms, reflecting deep controversy and calls for increased transparency and oversight.","[""earthquakes"", ""water contamination"", ""public health"", ""regulation"", ""ban fracking"", ""transparency""]","{
+  ""topic"": ""Fracking risks and regulation"",
+  ""summary"": ""Claims highlight widespread concerns about fracking's environmental and public health impacts, linking it to earthquakes, water contamination, and regulatory failures. Some advocate for bans or stricter regulation, while a few defend fracking's necessity or downplay its harms, reflecting deep controversy and calls for increased transparency and oversight."",
+  ""keywords"": [
+    ""earthquakes"",
+    ""water contamination"",
+    ""public health"",
+    ""regulation"",
+    ""ban fracking"",
+    ""transparency""
+  ]
+}",
+5,22,22,Oil Industry and Climate Change Denial,"Many claims assert that the oil and gas industry promotes climate change denial, prioritizes profit over environmental responsibility, and influences governments and public discourse through funding and lobbying. Some note minor investments in climate solutions, but the prevailing view is that these actions are insufficient or insincere, enabling continued environmental harm.","[""oil companies"", ""climate change denial"", ""profit motive"", ""lobbying"", ""government influence"", ""environmental harm""]","{
+  ""topic"": ""Oil Industry and Climate Change Denial"",
+  ""summary"": ""Many claims assert that the oil and gas industry promotes climate change denial, prioritizes profit over environmental responsibility, and influences governments and public discourse through funding and lobbying. Some note minor investments in climate solutions, but the prevailing view is that these actions are insufficient or insincere, enabling continued environmental harm."",
+  ""keywords"": [""oil companies"", ""climate change denial"", ""profit motive"", ""lobbying"", ""government influence"", ""environmental harm""]
+}",
+6,118,40,Electric Vehicles (EVs) Market and Social Dynamics,"The cluster centers on debates surrounding EV adoption, policy impacts, market disruption, and sustainability concerns. Arguments cover government incentives, infrastructure challenges, competitive dynamics, social perceptions of brands like Tesla, as well as environmental and economic implications of broader EV integration.","[""EV adoption"", ""Tesla"", ""sustainability"", ""policy"", ""market disruption"", ""infrastructure""]","{
+  ""topic"": ""Electric Vehicles (EVs) Market and Social Dynamics"",
+  ""summary"": ""The cluster centers on debates surrounding EV adoption, policy impacts, market disruption, and sustainability concerns. Arguments cover government incentives, infrastructure challenges, competitive dynamics, social perceptions of brands like Tesla, as well as environmental and economic implications of broader EV integration."",
+  ""keywords"": [""EV adoption"", ""Tesla"", ""sustainability"", ""policy"", ""market disruption"", ""infrastructure""]
+}",
+7,32,32,"Canadian Politics, Climate Change, and Energy Policy","This cluster discusses contentious political dynamics in Canada, particularly Alberta, centering on oil and gas, climate change denial, and government integrity. It also highlights global and domestic legal battles, the impacts of climate crises, infrastructure issues, and the influence of both left- and right-wing governments.","[""Alberta"", ""oil and gas"", ""climate change"", ""Canadian politics"", ""energy policy"", ""government integrity""]","{
+  ""topic"": ""Canadian Politics, Climate Change, and Energy Policy"",
+  ""summary"": ""This cluster discusses contentious political dynamics in Canada, particularly Alberta, centering on oil and gas, climate change denial, and government integrity. It also highlights global and domestic legal battles, the impacts of climate crises, infrastructure issues, and the influence of both left- and right-wing governments."",
+  ""keywords"": [""Alberta"", ""oil and gas"", ""climate change"", ""Canadian politics"", ""energy policy"", ""government integrity""]
+}",
+8,43,40,Arctic Geopolitics and Climate Change,"Many claims link increasing interest in Greenland, Canada, and the broader Arctic region to climate change, arguing that melting ice is opening lucrative shipping routes, exposing valuable resources, and making northern territory more habitable. Political and business leaders, especially Trump and Putin, are depicted as seeking control over these regions for strategic, economic, and survival reasons as global warming progresses.","[""Greenland"", ""climate change"", ""resource extraction"", ""geopolitics"", ""Arctic melting"", ""strategic interests""]","{
+  ""topic"": ""Arctic Geopolitics and Climate Change"",
+  ""summary"": ""Many claims link increasing interest in Greenland, Canada, and the broader Arctic region to climate change, arguing that melting ice is opening lucrative shipping routes, exposing valuable resources, and making northern territory more habitable. Political and business leaders, especially Trump and Putin, are depicted as seeking control over these regions for strategic, economic, and survival reasons as global warming progresses."",
+  ""keywords"": [
+    ""Greenland"",
+    ""climate change"",
+    ""resource extraction"",
+    ""geopolitics"",
+    ""Arctic melting"",
+    ""strategic interests""
+  ]
+}",
+9,35,35,"Aviation, Emissions, and Sustainable Fuels","Claims center on the high emissions from aviation, skepticism and optimism about sustainable aviation fuels (SAF), regulatory and policy debates on emissions standards, and related environmental impacts. There is discussion of technological alternatives, industry initiatives, and the limits of current solutions to address aviation’s carbon footprint.","[""aviation emissions"", ""sustainable aviation fuel"", ""regulation"", ""carbon footprint"", ""technology alternatives"", ""policy challenges""]","{
+  ""topic"": ""Aviation, Emissions, and Sustainable Fuels"",
+  ""summary"": ""Claims center on the high emissions from aviation, skepticism and optimism about sustainable aviation fuels (SAF), regulatory and policy debates on emissions standards, and related environmental impacts. There is discussion of technological alternatives, industry initiatives, and the limits of current solutions to address aviation’s carbon footprint."",
+  ""keywords"": [""aviation emissions"", ""sustainable aviation fuel"", ""regulation"", ""carbon footprint"", ""technology alternatives"", ""policy challenges""]
+}",
+10,117,40,Sustainable and Equitable Transportation Systems,"The cluster discusses the need for safer, more equitable, and environmentally friendly transportation solutions, including improvements to cycling, public transit, walkability, and rail infrastructure, while reducing car dependency and traffic congestion. Claims highlight the benefits of active travel, integrated planning, and policy reforms for healthier, more vibrant, and more sustainable cities.","[""sustainable transport"", ""public transit"", ""cycling infrastructure"", ""active travel"", ""car dependency"", ""urban planning""]","{
+  ""topic"": ""Sustainable and Equitable Transportation Systems"",
+  ""summary"": ""The cluster discusses the need for safer, more equitable, and environmentally friendly transportation solutions, including improvements to cycling, public transit, walkability, and rail infrastructure, while reducing car dependency and traffic congestion. Claims highlight the benefits of active travel, integrated planning, and policy reforms for healthier, more vibrant, and more sustainable cities."",
+  ""keywords"": [""sustainable transport"", ""public transit"", ""cycling infrastructure"", ""active travel"", ""car dependency"", ""urban planning""]
+}",
+11,48,40,Human extinction and population pressures,"The cluster discusses concerns about humanity's potential extinction driven by overpopulation, unsustainable practices, denial of environmental risks, and short-term thinking. Some claims suggest lower birth rates or reduced population may be beneficial for the planet, while others debate the ethics and implications of such approaches, highlighting both pessimism about humanity’s future and arguments for proactive stewardship.","[""human extinction"", ""overpopulation"", ""environmental crisis"", ""population control"", ""sustainability"", ""future of humanity""]","{
+  ""topic"": ""Human extinction and population pressures"",
+  ""summary"": ""The cluster discusses concerns about humanity's potential extinction driven by overpopulation, unsustainable practices, denial of environmental risks, and short-term thinking. Some claims suggest lower birth rates or reduced population may be beneficial for the planet, while others debate the ethics and implications of such approaches, highlighting both pessimism about humanity’s future and arguments for proactive stewardship."",
+  ""keywords"": [
+    ""human extinction"",
+    ""overpopulation"",
+    ""environmental crisis"",
+    ""population control"",
+    ""sustainability"",
+    ""future of humanity""
+  ]
+}",
+12,25,25,insurance market challenges,"Claims discuss rising insurance costs driven by climate disasters, regulatory issues, and market dysfunction, particularly in regions prone to natural disasters like Florida and California. There are concerns about insurer withdrawal, affordability, the need for regulatory reform, and the potential for public alternatives.","[""insurance premiums"", ""climate disasters"", ""insurer withdrawal"", ""market regulation"", ""affordability"", ""regional crises""]","{
+  ""topic"": ""insurance market challenges"",
+  ""summary"": ""Claims discuss rising insurance costs driven by climate disasters, regulatory issues, and market dysfunction, particularly in regions prone to natural disasters like Florida and California. There are concerns about insurer withdrawal, affordability, the need for regulatory reform, and the potential for public alternatives."",
+  ""keywords"": [""insurance premiums"", ""climate disasters"", ""insurer withdrawal"", ""market regulation"", ""affordability"", ""regional crises""]
+}",
+13,53,40,insurance industry and climate change,"Claims highlight that insurance companies recognize the reality and economic impact of climate change, incorporating it into premiums, risk assessments, and policy decisions. The rising costs and shifts in insurance practices serve as financial evidence supporting climate change and may drive broader public and policy action.","[""insurance companies"", ""climate change"", ""premiums"", ""risk assessment"", ""economic impact"", ""policy""]","{
+  ""topic"": ""insurance industry and climate change"",
+  ""summary"": ""Claims highlight that insurance companies recognize the reality and economic impact of climate change, incorporating it into premiums, risk assessments, and policy decisions. The rising costs and shifts in insurance practices serve as financial evidence supporting climate change and may drive broader public and policy action."",
+  ""keywords"": [""insurance companies"", ""climate change"", ""premiums"", ""risk assessment"", ""economic impact"", ""policy""]
+}",
+14,24,24,Climate Change and Fascism,"This group of claims discusses the intertwined threats of climate change and the rise of fascism, arguing that fascist movements accelerate or ignore environmental destruction for political or profit motives. The cluster also highlights the urgent need for anti-fascist and climate action, noting the difficulties in mobilizing public response and referencing recent climate policy developments, particularly in Australia and the Pacific region.","[""climate change"", ""fascism"", ""environmental policy"", ""political extremism"", ""Australia"", ""migration""]","{
+  ""topic"": ""Climate Change and Fascism"",
+  ""summary"": ""This group of claims discusses the intertwined threats of climate change and the rise of fascism, arguing that fascist movements accelerate or ignore environmental destruction for political or profit motives. The cluster also highlights the urgent need for anti-fascist and climate action, noting the difficulties in mobilizing public response and referencing recent climate policy developments, particularly in Australia and the Pacific region."",
+  ""keywords"": [
+    ""climate change"",
+    ""fascism"",
+    ""environmental policy"",
+    ""political extremism"",
+    ""Australia"",
+    ""migration""
+  ]
+}",
+15,20,20,Heating System Innovations and Geothermal Energy,"Claims discuss the modernization and decarbonization of heating systems through innovations such as heat pumps and advanced geothermal technologies. Key points include energy savings, cost reduction, government incentives, environmental benefits, and the repurposing of existing infrastructure.","[""heat pumps"", ""geothermal drilling"", ""energy savings"", ""decarbonization"", ""infrastructure reuse"", ""government incentives""]","{
+  ""topic"": ""Heating System Innovations and Geothermal Energy"",
+  ""summary"": ""Claims discuss the modernization and decarbonization of heating systems through innovations such as heat pumps and advanced geothermal technologies. Key points include energy savings, cost reduction, government incentives, environmental benefits, and the repurposing of existing infrastructure."",
+  ""keywords"": [""heat pumps"", ""geothermal drilling"", ""energy savings"", ""decarbonization"", ""infrastructure reuse"", ""government incentives""]
+}",
+16,32,32,Hydrogen as an Energy Solution,"Hydrogen, particularly green hydrogen, is being promoted as a key player in energy storage and decarbonization, with advancements in production, transport, and usage across various sectors. However, there is significant debate about its true sustainability, cost-effectiveness, and potential for greenwashing, especially compared to direct electrification and other energy solutions.","[""green hydrogen"", ""energy storage"", ""decarbonization"", ""production cost"", ""sustainability"", ""fossil fuel alternatives""]","{
+  ""topic"": ""Hydrogen as an Energy Solution"",
+  ""summary"": ""Hydrogen, particularly green hydrogen, is being promoted as a key player in energy storage and decarbonization, with advancements in production, transport, and usage across various sectors. However, there is significant debate about its true sustainability, cost-effectiveness, and potential for greenwashing, especially compared to direct electrification and other energy solutions."",
+  ""keywords"": [""green hydrogen"", ""energy storage"", ""decarbonization"", ""production cost"", ""sustainability"", ""fossil fuel alternatives""]
+}",
+17,72,40,Water Pollution and Management,"The cluster discusses increasing concerns about water pollution from various sources such as agricultural runoff, industry, and water companies, with a focus on legislative measures, accountability, and proposals for water nationalization. Calls for stricter regulation, improved water quality, and sustainable investment also emerge, particularly in the UK and US contexts.","[""water pollution"", ""regulation"", ""nationalization"", ""agricultural runoff"", ""accountability"", ""investment gap""]","{
+  ""topic"": ""Water Pollution and Management"",
+  ""summary"": ""The cluster discusses increasing concerns about water pollution from various sources such as agricultural runoff, industry, and water companies, with a focus on legislative measures, accountability, and proposals for water nationalization. Calls for stricter regulation, improved water quality, and sustainable investment also emerge, particularly in the UK and US contexts."",
+  ""keywords"": [""water pollution"", ""regulation"", ""nationalization"", ""agricultural runoff"", ""accountability"", ""investment gap""]
+}",
+18,25,25,Fossil Fuel Accountability and Climate Litigation,"There is a growing movement to hold fossil fuel companies and their executives legally and financially responsible for their role in climate change, including through lawsuits, climate Superfund laws, and efforts to link emissions to specific damages. Activists, governments, and advocates call for increased litigation, transparency, and reforms to ensure accountability and compensation for climate-related harms.","[""fossil fuel litigation"", ""climate accountability"", ""climate Superfund laws"", ""corporate responsibility"", ""emissions damages"", ""legal reform""]","{
+  ""topic"": ""Fossil Fuel Accountability and Climate Litigation"",
+  ""summary"": ""There is a growing movement to hold fossil fuel companies and their executives legally and financially responsible for their role in climate change, including through lawsuits, climate Superfund laws, and efforts to link emissions to specific damages. Activists, governments, and advocates call for increased litigation, transparency, and reforms to ensure accountability and compensation for climate-related harms."",
+  ""keywords"": [
+    ""fossil fuel litigation"",
+    ""climate accountability"",
+    ""climate Superfund laws"",
+    ""corporate responsibility"",
+    ""emissions damages"",
+    ""legal reform""
+  ]
+}",
+19,44,40,Canada's Energy Policy and Climate Change,"The cluster discusses the tensions between fossil fuel reliance and the growing push for renewable energy in Canada, especially in the context of climate change and economic transformation. Claims highlight controversial policies, the need to transition from oil and gas, regional disparities, the effects of wildfires, and calls for systemic reforms toward sustainability.","[""fossil fuels"", ""renewable energy"", ""climate change"", ""policy reform"", ""Canada"", ""economic transition""]","{
+  ""topic"": ""Canada's Energy Policy and Climate Change"",
+  ""summary"": ""The cluster discusses the tensions between fossil fuel reliance and the growing push for renewable energy in Canada, especially in the context of climate change and economic transformation. Claims highlight controversial policies, the need to transition from oil and gas, regional disparities, the effects of wildfires, and calls for systemic reforms toward sustainability."",
+  ""keywords"": [
+    ""fossil fuels"",
+    ""renewable energy"",
+    ""climate change"",
+    ""policy reform"",
+    ""Canada"",
+    ""economic transition""
+  ]
+}",
+20,93,40,greenhouse gases and climate change,"This cluster discusses the impacts and sources of greenhouse gases, such as CO2 and methane, focusing on their roles in global warming, emission sources like agriculture and industry, and potential mitigation and removal strategies. Several claims highlight the urgency of action to limit emissions and develop new technologies to address rising atmospheric greenhouse gas concentrations.","[""CO2"", ""methane"", ""emissions"", ""carbon sinks"", ""climate mitigation"", ""global warming""]","{
+  ""topic"": ""greenhouse gases and climate change"",
+  ""summary"": ""This cluster discusses the impacts and sources of greenhouse gases, such as CO2 and methane, focusing on their roles in global warming, emission sources like agriculture and industry, and potential mitigation and removal strategies. Several claims highlight the urgency of action to limit emissions and develop new technologies to address rising atmospheric greenhouse gas concentrations."",
+  ""keywords"": [
+    ""CO2"",
+    ""methane"",
+    ""emissions"",
+    ""carbon sinks"",
+    ""climate mitigation"",
+    ""global warming""
+  ]
+}",
+21,51,40,"Ukraine War, NATO, and Global Power Dynamics","The cluster discusses the ongoing conflict in Ukraine, debates on NATO membership and Western military aid, complex international relations involving Russia, China, the US, and Europe, and the broader geostrategic and economic consequences of the war. Claims highlight conflicting views on aid, energy policy, sanctions, China's global rise, and concerns over Western unity in confronting Russian aggression.","[""Ukraine war"", ""NATO expansion"", ""Russia sanctions"", ""China strategy"", ""Western aid"", ""global security""]","{
+  ""topic"": ""Ukraine War, NATO, and Global Power Dynamics"",
+  ""summary"": ""The cluster discusses the ongoing conflict in Ukraine, debates on NATO membership and Western military aid, complex international relations involving Russia, China, the US, and Europe, and the broader geostrategic and economic consequences of the war. Claims highlight conflicting views on aid, energy policy, sanctions, China's global rise, and concerns over Western unity in confronting Russian aggression."",
+  ""keywords"": [""Ukraine war"", ""NATO expansion"", ""Russia sanctions"", ""China strategy"", ""Western aid"", ""global security""]
+}",
+22,49,40,China's leadership in renewable energy,"China is perceived as surpassing the United States and other countries in the development, innovation, and adoption of renewable energy technologies and markets. These claims emphasize China's rapid investments, global influence, and growing dominance in clean energy sectors, while highlighting the U.S.'s comparative stagnation or regression.","[""China"", ""renewable energy"", ""U.S. comparison"", ""green technology"", ""global leadership"", ""innovation""]","{
+  ""topic"": ""China's leadership in renewable energy"",
+  ""summary"": ""China is perceived as surpassing the United States and other countries in the development, innovation, and adoption of renewable energy technologies and markets. These claims emphasize China's rapid investments, global influence, and growing dominance in clean energy sectors, while highlighting the U.S.'s comparative stagnation or regression."",
+  ""keywords"": [""China"", ""renewable energy"", ""U.S. comparison"", ""green technology"", ""global leadership"", ""innovation""]
+}",
+23,72,40,Drilling and its Impacts,"The claims discuss various aspects of drilling, such as the noise disruption it causes, technical and industrial uses, difficulties, and references in both literal and figurative contexts. Some comments are about the nuisance and health effects, while others focus on drilling in construction, resources exploration, education, and even metaphorical uses.","[""drilling noise"", ""construction"", ""resource exploration"", ""tools"", ""techniques"", ""disruption""]","{
+  ""topic"": ""Drilling and its Impacts"",
+  ""summary"": ""The claims discuss various aspects of drilling, such as the noise disruption it causes, technical and industrial uses, difficulties, and references in both literal and figurative contexts. Some comments are about the nuisance and health effects, while others focus on drilling in construction, resources exploration, education, and even metaphorical uses."",
+  ""keywords"": [""drilling noise"", ""construction"", ""resource exploration"", ""tools"", ""techniques"", ""disruption""]
+}",
+24,26,26,Big Oil Industry Criticisms,"These claims criticize the oil industry's environmental, political, and economic impact, alleging that Big Oil exerts manipulative power, avoids accountability, and misleads about sustainability. They call for holding the industry responsible for environmental harm, question its long-term viability, and highlight its influence over governments and public opinion.","[""oil industry"", ""Big Oil"", ""sustainability"", ""manipulation"", ""accountability"", ""environmental impact""]","{
+  ""topic"": ""Big Oil Industry Criticisms"",
+  ""summary"": ""These claims criticize the oil industry's environmental, political, and economic impact, alleging that Big Oil exerts manipulative power, avoids accountability, and misleads about sustainability. They call for holding the industry responsible for environmental harm, question its long-term viability, and highlight its influence over governments and public opinion."",
+  ""keywords"": [""oil industry"", ""Big Oil"", ""sustainability"", ""manipulation"", ""accountability"", ""environmental impact""]
+}",
+25,139,40,oil drilling policies and impacts,"The claims center on debates about oil drilling—covering government bans, regulatory rollbacks, economic consequences like gas prices and inflation, and environmental risks. Opinions differ on whether increased drilling benefits the economy, lowers prices, or harms the environment, with additional discussion about political influence and regional policies.","[""oil drilling"", ""bans"", ""economic impact"", ""environment"", ""regulations"", ""policy""]","{
+  ""topic"": ""oil drilling policies and impacts"",
+  ""summary"": ""The claims center on debates about oil drilling—covering government bans, regulatory rollbacks, economic consequences like gas prices and inflation, and environmental risks. Opinions differ on whether increased drilling benefits the economy, lowers prices, or harms the environment, with additional discussion about political influence and regional policies."",
+  ""keywords"": [""oil drilling"", ""bans"", ""economic impact"", ""environment"", ""regulations"", ""policy""]
+}",
+26,90,40,Global Plastic Pollution and Treaty Negotiations,"Plastic pollution poses a severe global threat to human and environmental health, with calls for strong international policies, legally binding measures, and transparent treaty negotiations. Ongoing talks on a Global Plastics Treaty are marred by industry influence, disagreement, and inadequate commitments to cutting plastic production and supporting affected communities.","[""plastic pollution"", ""Global Plastics Treaty"", ""policy measures"", ""industry influence"", ""health impact"", ""international negotiations""]","{
+  ""topic"": ""Global Plastic Pollution and Treaty Negotiations"",
+  ""summary"": ""Plastic pollution poses a severe global threat to human and environmental health, with calls for strong international policies, legally binding measures, and transparent treaty negotiations. Ongoing talks on a Global Plastics Treaty are marred by industry influence, disagreement, and inadequate commitments to cutting plastic production and supporting affected communities."",
+  ""keywords"": [""plastic pollution"", ""Global Plastics Treaty"", ""policy measures"", ""industry influence"", ""health impact"", ""international negotiations""]
+}",
+27,66,40,Fossil Fuel Industry Influence on Politicians,"Numerous claims point to politicians, particularly Trump and his associates, being heavily influenced or controlled by the fossil fuel industry through donations, lobbying, and policy pressure. Critics allege these ties lead to policy decisions that prioritize fossil fuel interests over environmental protection or public good.","[""fossil fuel donors"", ""political influence"", ""Trump administration"", ""policy decisions"", ""environment"", ""lobbying""]","{
+  ""topic"": ""Fossil Fuel Industry Influence on Politicians"",
+  ""summary"": ""Numerous claims point to politicians, particularly Trump and his associates, being heavily influenced or controlled by the fossil fuel industry through donations, lobbying, and policy pressure. Critics allege these ties lead to policy decisions that prioritize fossil fuel interests over environmental protection or public good."",
+  ""keywords"": [
+    ""fossil fuel donors"",
+    ""political influence"",
+    ""Trump administration"",
+    ""policy decisions"",
+    ""environment"",
+    ""lobbying""
+  ]
+}",
+28,71,40,corporate greenwashing,"Many claims criticize businesses, organizations, and marketing practices for misleadingly presenting themselves or their products as environmentally friendly, a practice known as greenwashing. This trend contributes to public distrust, regulatory scrutiny, and calls for greater transparency and accountability.","[""greenwashing"", ""misleading claims"", ""corporate responsibility"", ""environmental marketing"", ""public distrust"", ""regulatory action""]","{
+  ""topic"": ""corporate greenwashing"",
+  ""summary"": ""Many claims criticize businesses, organizations, and marketing practices for misleadingly presenting themselves or their products as environmentally friendly, a practice known as greenwashing. This trend contributes to public distrust, regulatory scrutiny, and calls for greater transparency and accountability."",
+  ""keywords"": [""greenwashing"", ""misleading claims"", ""corporate responsibility"", ""environmental marketing"", ""public distrust"", ""regulatory action""]
+}",
+29,26,26,"Fossil Fuels, Climate Policy, and Accountability","The cluster discusses the role of fossil fuel companies in climate change, the push for holding them financially and legally responsible for environmental damages, their influence on climate policy, and controversies surrounding their involvement in climate negotiations. There are also calls for stricter regulation, compensation for damages, and critiques of corporate and governmental actions.","[""fossil fuels"", ""climate change"", ""liability"", ""policy influence"", ""accountability"", ""environmental damage""]","{
+  ""topic"": ""Fossil Fuels, Climate Policy, and Accountability"",
+  ""summary"": ""The cluster discusses the role of fossil fuel companies in climate change, the push for holding them financially and legally responsible for environmental damages, their influence on climate policy, and controversies surrounding their involvement in climate negotiations. There are also calls for stricter regulation, compensation for damages, and critiques of corporate and governmental actions."",
+  ""keywords"": [""fossil fuels"", ""climate change"", ""liability"", ""policy influence"", ""accountability"", ""environmental damage""]
+}",
+30,23,23,urban and technological pollution,"The claims discuss various forms of pollution—air, noise, and informational—caused by cars, technology, industrial launches, and urban development. There is a focus on the harmful impacts on health, community, and the environment, with some solutions and criticisms regarding current mitigation efforts.","[""noise pollution"", ""air pollution"", ""urban environment"", ""technology"", ""health impacts"", ""car traffic""]","{
+  ""topic"": ""urban and technological pollution"",
+  ""summary"": ""The claims discuss various forms of pollution—air, noise, and informational—caused by cars, technology, industrial launches, and urban development. There is a focus on the harmful impacts on health, community, and the environment, with some solutions and criticisms regarding current mitigation efforts."",
+  ""keywords"": [""noise pollution"", ""air pollution"", ""urban environment"", ""technology"", ""health impacts"", ""car traffic""]
+}",
+31,282,40,pollution and its impacts,"This cluster discusses the wide-ranging effects of pollution, particularly air pollution, on health, the environment, and society. It covers sources of pollution, regulatory approaches, individual versus corporate responsibility, and the necessity for both local and global interventions to mitigate pollution's harms.","[""air pollution"", ""health risks"", ""corporate responsibility"", ""policy"", ""environmental regulation"", ""global impacts""]","{
+  ""topic"": ""pollution and its impacts"",
+  ""summary"": ""This cluster discusses the wide-ranging effects of pollution, particularly air pollution, on health, the environment, and society. It covers sources of pollution, regulatory approaches, individual versus corporate responsibility, and the necessity for both local and global interventions to mitigate pollution's harms."",
+  ""keywords"": [""air pollution"", ""health risks"", ""corporate responsibility"", ""policy"", ""environmental regulation"", ""global impacts""]
+}",
+32,51,40,Trump Administration EPA Policy and Pollution Regulation Rollbacks,"The claims highlight significant rollbacks of environmental and pollution regulations under the Trump administration, often favoring industry interests over public health. Critics argue these actions increase air and water pollution, reverse decades of safeguards, and undermine the EPA's mission.","[""EPA rollbacks"", ""pollution regulations"", ""Trump administration"", ""industry exemptions"", ""public health"", ""environmental protections""]","{
+  ""topic"": ""Trump Administration EPA Policy and Pollution Regulation Rollbacks"",
+  ""summary"": ""The claims highlight significant rollbacks of environmental and pollution regulations under the Trump administration, often favoring industry interests over public health. Critics argue these actions increase air and water pollution, reverse decades of safeguards, and undermine the EPA's mission."",
+  ""keywords"": [""EPA rollbacks"", ""pollution regulations"", ""Trump administration"", ""industry exemptions"", ""public health"", ""environmental protections""]
+}",
+33,35,35,EPA Rollbacks on Climate Regulation,"The claims describe significant rollbacks by the EPA, particularly under the Trump administration, targeting regulations on greenhouse gas emissions, reporting, and climate protections. These actions are widely viewed as reducing environmental oversight, threatening climate progress, and undermining public health and transparency.","[""EPA"", ""greenhouse gas"", ""climate regulation"", ""rollbacks"", ""Trump administration"", ""environmental protection""]","{
+  ""topic"": ""EPA Rollbacks on Climate Regulation"",
+  ""summary"": ""The claims describe significant rollbacks by the EPA, particularly under the Trump administration, targeting regulations on greenhouse gas emissions, reporting, and climate protections. These actions are widely viewed as reducing environmental oversight, threatening climate progress, and undermining public health and transparency."",
+  ""keywords"": [""EPA"", ""greenhouse gas"", ""climate regulation"", ""rollbacks"", ""Trump administration"", ""environmental protection""]
+}",
+34,31,31,Fossil Fuels vs. Renewable Energy Policy,"This cluster discusses political and regulatory actions impacting the development of renewable energy and fossil fuel industries, highlighting government interventions, climate change denial, and the challenges facing clean energy adoption. It emphasizes conflicting policies, inefficiencies in energy systems, and the politicization of environmental decisions across regions and leaders.","[""fossil fuels"", ""renewable energy"", ""government policy"", ""climate change"", ""energy transition"", ""regulation""]","{
+  ""topic"": ""Fossil Fuels vs. Renewable Energy Policy"",
+  ""summary"": ""This cluster discusses political and regulatory actions impacting the development of renewable energy and fossil fuel industries, highlighting government interventions, climate change denial, and the challenges facing clean energy adoption. It emphasizes conflicting policies, inefficiencies in energy systems, and the politicization of environmental decisions across regions and leaders."",
+  ""keywords"": [""fossil fuels"", ""renewable energy"", ""government policy"", ""climate change"", ""energy transition"", ""regulation""]
+}",
+35,40,40,global warming debate,"The cluster presents a mix of skepticism and acceptance regarding global warming, with some denying its existence and others expressing concern over its impacts, scientific understanding, and societal response. There are recurring themes of disbelief, perceived lack of action, and concern about underestimation or misinformation.","[""global warming"", ""climate change"", ""denial"", ""scientific debate"", ""societal response"", ""impacts""]","{
+  ""topic"": ""global warming debate"",
+  ""summary"": ""The cluster presents a mix of skepticism and acceptance regarding global warming, with some denying its existence and others expressing concern over its impacts, scientific understanding, and societal response. There are recurring themes of disbelief, perceived lack of action, and concern about underestimation or misinformation."",
+  ""keywords"": [""global warming"", ""climate change"", ""denial"", ""scientific debate"", ""societal response"", ""impacts""]
+}",
+36,191,40,global warming (climate change),"Claims in this cluster discuss the existence, causes, severity, and potential solutions for global warming. Views range from scientific consensus about human causation and the urgency of the issue, to skepticism, sarcasm, and proposed or fantastical remedies, reflecting both concern and cynicism about climate change impacts and actions.","[""climate change"", ""human causation"", ""urgency"", ""skepticism"", ""possible solutions"", ""impacts""]","{
+  ""topic"": ""global warming (climate change)"",
+  ""summary"": ""Claims in this cluster discuss the existence, causes, severity, and potential solutions for global warming. Views range from scientific consensus about human causation and the urgency of the issue, to skepticism, sarcasm, and proposed or fantastical remedies, reflecting both concern and cynicism about climate change impacts and actions."",
+  ""keywords"": [""climate change"", ""human causation"", ""urgency"", ""skepticism"", ""possible solutions"", ""impacts""]
+}",
+37,81,40,nuclear energy debate,"The sampled claims reflect a contentious debate over nuclear energy's role in the future energy mix. Views range from supporting nuclear as a clean, reliable solution essential for climate change mitigation and grid reliability, to criticisms citing high costs, safety risks, lack of sustainability, and cleaner alternatives in renewables.","[""nuclear power"", ""clean energy"", ""climate change"", ""energy costs"", ""renewables"", ""safety""]","{
+  ""topic"": ""nuclear energy debate"",
+  ""summary"": ""The sampled claims reflect a contentious debate over nuclear energy's role in the future energy mix. Views range from supporting nuclear as a clean, reliable solution essential for climate change mitigation and grid reliability, to criticisms citing high costs, safety risks, lack of sustainability, and cleaner alternatives in renewables."",
+  ""keywords"": [
+    ""nuclear power"",
+    ""clean energy"",
+    ""climate change"",
+    ""energy costs"",
+    ""renewables"",
+    ""safety""
+  ]
+}",
+38,59,40,"Carbon Pricing, Capture, and Credits in Climate Policy","The claims debate the effectiveness of carbon pricing (especially carbon taxes) and carbon capture technologies as climate solutions. While some view carbon pricing as a cost-effective and necessary climate tool, others criticize carbon capture and carbon credits as greenwashing tactics promoted by fossil fuel interests to delay real action, arguing they are costly, unproven, or distract from renewable energy investment.","[""carbon pricing"", ""carbon capture"", ""carbon tax"", ""carbon credits"", ""greenwashing"", ""fossil fuels""]","{
+  ""topic"": ""Carbon Pricing, Capture, and Credits in Climate Policy"",
+  ""summary"": ""The claims debate the effectiveness of carbon pricing (especially carbon taxes) and carbon capture technologies as climate solutions. While some view carbon pricing as a cost-effective and necessary climate tool, others criticize carbon capture and carbon credits as greenwashing tactics promoted by fossil fuel interests to delay real action, arguing they are costly, unproven, or distract from renewable energy investment."",
+  ""keywords"": [
+    ""carbon pricing"",
+    ""carbon capture"",
+    ""carbon tax"",
+    ""carbon credits"",
+    ""greenwashing"",
+    ""fossil fuels""
+  ]
+}",
+39,56,40,Green New Deal policy debates,"The cluster covers a wide array of opinions and arguments about the Green New Deal, including its necessity, perceived benefits like job creation and climate action, political controversies, branding, and implementation challenges. Discussions highlight both support for bold climate policy and criticism of political handling, costs, and shifting narratives.","[""Green New Deal"", ""climate policy"", ""infrastructure"", ""political debate"", ""job creation"", ""environment""]","{
+  ""topic"": ""Green New Deal policy debates"",
+  ""summary"": ""The cluster covers a wide array of opinions and arguments about the Green New Deal, including its necessity, perceived benefits like job creation and climate action, political controversies, branding, and implementation challenges. Discussions highlight both support for bold climate policy and criticism of political handling, costs, and shifting narratives."",
+  ""keywords"": [
+    ""Green New Deal"",
+    ""climate policy"",
+    ""infrastructure"",
+    ""political debate"",
+    ""job creation"",
+    ""environment""
+  ]
+}",
+40,148,40,green energy transition,"The shift toward green energy is presented as inevitable, driven by cost reductions, global security needs, and climate concerns. Though many see benefits such as job creation and energy independence, there are ongoing challenges including industry adaptation, policy support, and ensuring inclusivity for affected communities.","[""green energy"", ""transition"", ""renewables"", ""job creation"", ""policy"", ""energy independence""]","{
+  ""topic"": ""green energy transition"",
+  ""summary"": ""The shift toward green energy is presented as inevitable, driven by cost reductions, global security needs, and climate concerns. Though many see benefits such as job creation and energy independence, there are ongoing challenges including industry adaptation, policy support, and ensuring inclusivity for affected communities."",
+  ""keywords"": [""green energy"", ""transition"", ""renewables"", ""job creation"", ""policy"", ""energy independence""]
+}",
+41,24,24,Fossil Fuel Phase-Out and Clean Energy Transition,"The cluster discusses the urgent need to reduce and ultimately eliminate reliance on fossil fuels, emphasizing a shift to renewable, clean energy sources both at the systemic and individual levels. Claims also highlight policy, technological, and economic strategies to facilitate this transition, including electrification, reduction of energy subsidies for polluting options, and discouraging waste-to-energy incineration.","[""fossil fuels"", ""renewable energy"", ""clean energy"", ""subsidies"", ""electrification"", ""energy transition""]","{
+  ""topic"": ""Fossil Fuel Phase-Out and Clean Energy Transition"",
+  ""summary"": ""The cluster discusses the urgent need to reduce and ultimately eliminate reliance on fossil fuels, emphasizing a shift to renewable, clean energy sources both at the systemic and individual levels. Claims also highlight policy, technological, and economic strategies to facilitate this transition, including electrification, reduction of energy subsidies for polluting options, and discouraging waste-to-energy incineration."",
+  ""keywords"": [""fossil fuels"", ""renewable energy"", ""clean energy"", ""subsidies"", ""electrification"", ""energy transition""]
+}",
+42,45,40,Fossil Fuels and Climate Policy in Australia and Beyond,"The cluster centers on criticism of Australia's continued reliance on and expansion of fossil fuel production, which is seen as inconsistent with climate goals and global commitments. Claims address economic impacts, regulatory failures, greenwashing, international legal risks, the distribution of emissions, and the inadequacy of proposed climate actions, highlighting broader concerns about fossil fuel industry influence worldwide.","[""Australia"", ""fossil fuel expansion"", ""climate policy"", ""emissions"", ""economic impacts"", ""greenwashing""]","{
+  ""topic"": ""Fossil Fuels and Climate Policy in Australia and Beyond"",
+  ""summary"": ""The cluster centers on criticism of Australia's continued reliance on and expansion of fossil fuel production, which is seen as inconsistent with climate goals and global commitments. Claims address economic impacts, regulatory failures, greenwashing, international legal risks, the distribution of emissions, and the inadequacy of proposed climate actions, highlighting broader concerns about fossil fuel industry influence worldwide."",
+  ""keywords"": [
+    ""Australia"",
+    ""fossil fuel expansion"",
+    ""climate policy"",
+    ""emissions"",
+    ""economic impacts"",
+    ""greenwashing""
+  ]
+}",
+43,423,40,fossil fuel industry influence and criticism,"Claims center on the outsized influence of the fossil fuel industry on politics, finance, and public opinion, highlighting issues such as lobbying, misinformation, environmental harm, and resistance to change. Criticism is directed at governments, corporations, and media for enabling or defending fossil fuel interests at the expense of climate action and the public good.","[""fossil fuel lobbying"", ""misinformation"", ""environmental harm"", ""political influence"", ""corporate power"", ""climate policy""]","{
+  ""topic"": ""fossil fuel industry influence and criticism"",
+  ""summary"": ""Claims center on the outsized influence of the fossil fuel industry on politics, finance, and public opinion, highlighting issues such as lobbying, misinformation, environmental harm, and resistance to change. Criticism is directed at governments, corporations, and media for enabling or defending fossil fuel interests at the expense of climate action and the public good."",
+  ""keywords"": [
+    ""fossil fuel lobbying"",
+    ""misinformation"",
+    ""environmental harm"",
+    ""political influence"",
+    ""corporate power"",
+    ""climate policy""
+  ]
+}",
+44,94,40,coal mining debate and opposition,"The cluster predominantly expresses opposition to new and existing coal mining projects, particularly in sensitive areas like the Eastern Slopes of the Rockies, citing environmental, health, and climate concerns. Some claims discuss political actions, economic impacts on communities, and skepticism about so-called 'clean coal', while a minority note the mixed interests of local communities or question the merits of returning to coal mining.","[""coal mining"", ""environmental impact"", ""Eastern Slopes"", ""policy opposition"", ""clean coal"", ""community effects""]","{
+  ""topic"": ""coal mining debate and opposition"",
+  ""summary"": ""The cluster predominantly expresses opposition to new and existing coal mining projects, particularly in sensitive areas like the Eastern Slopes of the Rockies, citing environmental, health, and climate concerns. Some claims discuss political actions, economic impacts on communities, and skepticism about so-called 'clean coal', while a minority note the mixed interests of local communities or question the merits of returning to coal mining."",
+  ""keywords"": [""coal mining"", ""environmental impact"", ""Eastern Slopes"", ""policy opposition"", ""clean coal"", ""community effects""]
+}",
+45,41,40,"Palm Oil, Deforestation, and Wildlife Protection","Claims debate the effectiveness of sustainable palm oil versus boycotts to address deforestation, wildlife endangerment, and human rights abuses linked to palm oil production. Some advocate for sustainable sourcing, while others emphasize boycotts and call out corporate greenwashing and continued environmental harm.","[""palm oil"", ""deforestation"", ""wildlife"", ""boycott"", ""sustainable sourcing"", ""greenwashing""]","{
+  ""topic"": ""Palm Oil, Deforestation, and Wildlife Protection"",
+  ""summary"": ""Claims debate the effectiveness of sustainable palm oil versus boycotts to address deforestation, wildlife endangerment, and human rights abuses linked to palm oil production. Some advocate for sustainable sourcing, while others emphasize boycotts and call out corporate greenwashing and continued environmental harm."",
+  ""keywords"": [""palm oil"", ""deforestation"", ""wildlife"", ""boycott"", ""sustainable sourcing"", ""greenwashing""]
+}",
+46,21,21,Opposition to Renewable Energy,"A network of fossil fuel interests, political groups, and media are allegedly propagating opposition to renewable energy projects such as wind and solar, often using disinformation and legislative tactics. Public engagement and transparency are seen as important for countering these anti-renewable narratives and supporting clean energy initiatives.","[""fossil fuel interests"", ""renewable energy opposition"", ""disinformation"", ""offshore wind"", ""public hearings"", ""policy influence""]","{
+  ""topic"": ""Opposition to Renewable Energy"",
+  ""summary"": ""A network of fossil fuel interests, political groups, and media are allegedly propagating opposition to renewable energy projects such as wind and solar, often using disinformation and legislative tactics. Public engagement and transparency are seen as important for countering these anti-renewable narratives and supporting clean energy initiatives."",
+  ""keywords"": [
+    ""fossil fuel interests"",
+    ""renewable energy opposition"",
+    ""disinformation"",
+    ""offshore wind"",
+    ""public hearings"",
+    ""policy influence""
+  ]
+}",
+47,46,40,Elon Musk's Role in Climate Policy and Social Impact,"The cluster discusses Elon Musk's influence on climate policies, his controversial public image, and criticisms of his business practices and political alignments. Concerns are raised about the effectiveness and consequences of his environmental initiatives, as well as broader issues surrounding public funding, social justice, and sustainable development.","[""Elon Musk"", ""climate change"", ""public perception"", ""policy criticism"", ""social impact"", ""sustainability""]","{
+  ""topic"": ""Elon Musk's Role in Climate Policy and Social Impact"",
+  ""summary"": ""The cluster discusses Elon Musk's influence on climate policies, his controversial public image, and criticisms of his business practices and political alignments. Concerns are raised about the effectiveness and consequences of his environmental initiatives, as well as broader issues surrounding public funding, social justice, and sustainable development."",
+  ""keywords"": [
+    ""Elon Musk"",
+    ""climate change"",
+    ""public perception"",
+    ""policy criticism"",
+    ""social impact"",
+    ""sustainability""
+  ]
+}",
+48,327,40,solar energy and sustainability,"The cluster discusses the adoption, benefits, innovations, and challenges of solar energy across residential, commercial, and community applications. It highlights advances in technology, policy trends, economic and environmental impacts, equity in access, and the role of solar power in enhancing resilience and moving towards clean energy futures.","[""solar panels"", ""renewable energy"", ""clean energy"", ""sustainability"", ""energy policy"", ""solar innovation""]","{
+  ""topic"": ""solar energy and sustainability"",
+  ""summary"": ""The cluster discusses the adoption, benefits, innovations, and challenges of solar energy across residential, commercial, and community applications. It highlights advances in technology, policy trends, economic and environmental impacts, equity in access, and the role of solar power in enhancing resilience and moving towards clean energy futures."",
+  ""keywords"": [""solar panels"", ""renewable energy"", ""clean energy"", ""sustainability"", ""energy policy"", ""solar innovation""]
+}",
+49,31,31,Fossil Fuel and Renewable Energy Tensions,"The claims describe friction and active opposition between fossil fuel and renewable energy sectors, highlighting fossil fuel industry efforts to undermine renewables, policy and market challenges, and societal attitudes. They emphasize that a true energy transition requires both ramping up renewables and systematically phasing out fossil fuels, while acknowledging barriers like subsidies, misinformation, and inadequate systems.","[""fossil fuel industry"", ""renewable energy"", ""opposition"", ""energy transition"", ""subsidies"", ""market competition""]","{
+  ""topic"": ""Fossil Fuel and Renewable Energy Tensions"",
+  ""summary"": ""The claims describe friction and active opposition between fossil fuel and renewable energy sectors, highlighting fossil fuel industry efforts to undermine renewables, policy and market challenges, and societal attitudes. They emphasize that a true energy transition requires both ramping up renewables and systematically phasing out fossil fuels, while acknowledging barriers like subsidies, misinformation, and inadequate systems."",
+  ""keywords"": [""fossil fuel industry"", ""renewable energy"", ""opposition"", ""energy transition"", ""subsidies"", ""market competition""]
+}",
+50,458,40,Renewable Energy Transition,"Debate centers on the urgency and benefits of shifting to renewable energy, touching on challenges such as grid modernization, intermittency, sustainability, cost, and the economic and societal impacts. Opinions differ on the inevitability and effectiveness of renewables, but most claims highlight the need for faster transition and investment to ensure competitiveness, job creation, and environmental benefits.","[""renewable energy"", ""transition"", ""cost"", ""grid modernization"", ""sustainability"", ""economic impact""]","{
+  ""topic"": ""Renewable Energy Transition"",
+  ""summary"": ""Debate centers on the urgency and benefits of shifting to renewable energy, touching on challenges such as grid modernization, intermittency, sustainability, cost, and the economic and societal impacts. Opinions differ on the inevitability and effectiveness of renewables, but most claims highlight the need for faster transition and investment to ensure competitiveness, job creation, and environmental benefits."",
+  ""keywords"": [
+    ""renewable energy"",
+    ""transition"",
+    ""cost"",
+    ""grid modernization"",
+    ""sustainability"",
+    ""economic impact""
+  ]
+}",
+51,45,40,Republican Opposition to Renewable Energy,"The cluster discusses opposition and active obstruction by Trump and the GOP against renewable energy initiatives, including policies to cut funding, halt projects, and promote fossil fuels over alternatives. Claims mention attacks on wind and solar, alleged misinformation, and broader consequences for the environment, energy prices, and U.S. competitiveness.","[""Trump"", ""GOP"", ""renewable energy"", ""wind and solar"", ""fossil fuels"", ""policy obstruction""]","{
+  ""topic"": ""Republican Opposition to Renewable Energy"",
+  ""summary"": ""The cluster discusses opposition and active obstruction by Trump and the GOP against renewable energy initiatives, including policies to cut funding, halt projects, and promote fossil fuels over alternatives. Claims mention attacks on wind and solar, alleged misinformation, and broader consequences for the environment, energy prices, and U.S. competitiveness."",
+  ""keywords"": [
+    ""Trump"",
+    ""GOP"",
+    ""renewable energy"",
+    ""wind and solar"",
+    ""fossil fuels"",
+    ""policy obstruction""
+  ]
+}",
+52,26,26,"Climate change impact on coffee, chocolate, and related crops","Climate change is driving up prices and threatening the availability of coffee, chocolate, and wine by reducing crop yields and shifting traditional growing regions. These changes may make such products luxury items, spur adaptations for sustainability, and prompt public concern about global warming.","[""climate change"", ""coffee"", ""chocolate"", ""crop yields"", ""rising prices"", ""luxury goods""]","{
+  ""topic"": ""Climate change impact on coffee, chocolate, and related crops"",
+  ""summary"": ""Climate change is driving up prices and threatening the availability of coffee, chocolate, and wine by reducing crop yields and shifting traditional growing regions. These changes may make such products luxury items, spur adaptations for sustainability, and prompt public concern about global warming."",
+  ""keywords"": [""climate change"", ""coffee"", ""chocolate"", ""crop yields"", ""rising prices"", ""luxury goods""]
+}",
+53,108,40,climate change and agriculture,"Climate change significantly threatens agriculture by disrupting food supplies, raising production costs, and impacting farmers worldwide. Addressing these challenges requires adaptive agricultural practices and policy changes to secure food security and mitigate further environmental damage.","[""climate change"", ""agriculture"", ""food supply"", ""farmers"", ""food security"", ""adaptation""]","{
+  ""topic"": ""climate change and agriculture"",
+  ""summary"": ""Climate change significantly threatens agriculture by disrupting food supplies, raising production costs, and impacting farmers worldwide. Addressing these challenges requires adaptive agricultural practices and policy changes to secure food security and mitigate further environmental damage."",
+  ""keywords"": [""climate change"", ""agriculture"", ""food supply"", ""farmers"", ""food security"", ""adaptation""]
+}",
+54,104,40,Climate Change Impacts on Wildlife and Disease,"Climate change is causing shifts in species distributions, population declines, and extinction risks, as well as altering migration patterns and contributing to disease spread among both wildlife and humans. These effects threaten biodiversity, wildlife health, and exacerbate the emergence and transmission of infectious diseases.","[""species decline"", ""disease spread"", ""habitat loss"", ""migration changes"", ""extinction risk"", ""biodiversity""]","{
+  ""topic"": ""Climate Change Impacts on Wildlife and Disease"",
+  ""summary"": ""Climate change is causing shifts in species distributions, population declines, and extinction risks, as well as altering migration patterns and contributing to disease spread among both wildlife and humans. These effects threaten biodiversity, wildlife health, and exacerbate the emergence and transmission of infectious diseases."",
+  ""keywords"": [
+    ""species decline"",
+    ""disease spread"",
+    ""habitat loss"",
+    ""migration changes"",
+    ""extinction risk"",
+    ""biodiversity""
+  ]
+}",
+55,136,40,Sustainable Agriculture and Food Systems,"The claims focus on advancing sustainable agriculture through innovations, supporting local and regenerative farming, enhancing food security, and policies that prioritize environmental impact, fair trade, and resilience. Solutions include plant-based foods, agroforestry, new technologies, and government support to create more robust, equitable food systems.","[""sustainable farming"", ""food security"", ""plant-based foods"", ""agricultural policy"", ""regenerative practices"", ""technology in agriculture""]","{
+  ""topic"": ""Sustainable Agriculture and Food Systems"",
+  ""summary"": ""The claims focus on advancing sustainable agriculture through innovations, supporting local and regenerative farming, enhancing food security, and policies that prioritize environmental impact, fair trade, and resilience. Solutions include plant-based foods, agroforestry, new technologies, and government support to create more robust, equitable food systems."",
+  ""keywords"": [
+    ""sustainable farming"",
+    ""food security"",
+    ""plant-based foods"",
+    ""agricultural policy"",
+    ""regenerative practices"",
+    ""technology in agriculture""
+  ]
+}",
+56,161,40,Clean Energy Policy and Political Conflict,"This cluster focuses on political actions and legislative efforts affecting clean energy, highlighting partisan divisions, the rollback of clean energy incentives, and the influence of fossil fuel interests on policy. Many claims argue Republican-led initiatives and Trump administration policies threaten clean energy investments, jobs, and affordable energy while benefiting the oil and gas industry.","[""clean energy"", ""politics"", ""fossil fuel industry"", ""Republican policy"", ""tax incentives"", ""energy costs""]","{
+  ""topic"": ""Clean Energy Policy and Political Conflict"",
+  ""summary"": ""This cluster focuses on political actions and legislative efforts affecting clean energy, highlighting partisan divisions, the rollback of clean energy incentives, and the influence of fossil fuel interests on policy. Many claims argue Republican-led initiatives and Trump administration policies threaten clean energy investments, jobs, and affordable energy while benefiting the oil and gas industry."",
+  ""keywords"": [""clean energy"", ""politics"", ""fossil fuel industry"", ""Republican policy"", ""tax incentives"", ""energy costs""]
+}",
+57,196,40,clean energy transition,"The transition to clean energy is widely promoted as essential for the future, with benefits including lower costs, improved health, environmental protection, and energy security. However, concerns remain over the pace of progress, need for public investment, equitable access, and the risks posed by insufficient or stalled action.","[""clean energy"", ""transition"", ""climate change"", ""affordability"", ""sustainability"", ""energy security""]","{
+  ""topic"": ""clean energy transition"",
+  ""summary"": ""The transition to clean energy is widely promoted as essential for the future, with benefits including lower costs, improved health, environmental protection, and energy security. However, concerns remain over the pace of progress, need for public investment, equitable access, and the risks posed by insufficient or stalled action."",
+  ""keywords"": [""clean energy"", ""transition"", ""climate change"", ""affordability"", ""sustainability"", ""energy security""]
+}",
+58,89,40,climate change denial,"This cluster features repeated claims that climate change is a hoax, myth, or conspiracy, often linked to political or ideological motives. Some posts dispute these denial narratives, highlighting their ties to misinformation, political figures, and rejection of scientific consensus.","[""climate change"", ""hoax"", ""denial"", ""conspiracy"", ""politics"", ""misinformation""]","{
+  ""topic"": ""climate change denial"",
+  ""summary"": ""This cluster features repeated claims that climate change is a hoax, myth, or conspiracy, often linked to political or ideological motives. Some posts dispute these denial narratives, highlighting their ties to misinformation, political figures, and rejection of scientific consensus."",
+  ""keywords"": [""climate change"", ""hoax"", ""denial"", ""conspiracy"", ""politics"", ""misinformation""]
+}",
+59,28,28,Biodiversity Conservation and Ecosystem Protection,"The cluster emphasizes the urgent need for sustainable and compassionate approaches to protecting biodiversity, supporting vulnerable species, and preserving ecosystems. It highlights the importance of legislative action, environmental education, community involvement, and regulatory measures for the health of both wildlife and human populations.","[""biodiversity"", ""ecosystems"", ""sustainability"", ""conservation"", ""climate change"", ""wildlife""]","{
+  ""topic"": ""Biodiversity Conservation and Ecosystem Protection"",
+  ""summary"": ""The cluster emphasizes the urgent need for sustainable and compassionate approaches to protecting biodiversity, supporting vulnerable species, and preserving ecosystems. It highlights the importance of legislative action, environmental education, community involvement, and regulatory measures for the health of both wildlife and human populations."",
+  ""keywords"": [
+    ""biodiversity"",
+    ""ecosystems"",
+    ""sustainability"",
+    ""conservation"",
+    ""climate change"",
+    ""wildlife""
+  ]
+}",
+60,71,40,Sustainable Fisheries and Ocean Protection,"This cluster discusses various strategies for achieving sustainable fisheries, including responsible aquaculture, alternative seafood sources, policy reforms, legal protections for marine environments, and improved awareness. It highlights both risks from unsustainable practices and benefits to ecosystems and food security when innovative, protective measures are pursued.","[""sustainable fishing"", ""aquaculture"", ""marine protection"", ""alternative seafood"", ""policy reforms"", ""ecosystem health""]","{
+  ""topic"": ""Sustainable Fisheries and Ocean Protection"",
+  ""summary"": ""This cluster discusses various strategies for achieving sustainable fisheries, including responsible aquaculture, alternative seafood sources, policy reforms, legal protections for marine environments, and improved awareness. It highlights both risks from unsustainable practices and benefits to ecosystems and food security when innovative, protective measures are pursued."",
+  ""keywords"": [
+    ""sustainable fishing"",
+    ""aquaculture"",
+    ""marine protection"",
+    ""alternative seafood"",
+    ""policy reforms"",
+    ""ecosystem health""
+  ]
+}",
+61,81,40,Deforestation and its impacts,"The cluster discusses ongoing deforestation worldwide, especially in the Amazon and other key ecosystems, highlighting drivers such as animal agriculture, industrial expansion, and lagging policy efforts. Claims emphasize the urgent need for stronger regulations, immediate action, and financial accountability, while citing environmental, social, and climate consequences.","[""deforestation"", ""Amazon"", ""policy delays"", ""animal agriculture"", ""climate crisis"", ""regulation""]","{
+  ""topic"": ""Deforestation and its impacts"",
+  ""summary"": ""The cluster discusses ongoing deforestation worldwide, especially in the Amazon and other key ecosystems, highlighting drivers such as animal agriculture, industrial expansion, and lagging policy efforts. Claims emphasize the urgent need for stronger regulations, immediate action, and financial accountability, while citing environmental, social, and climate consequences."",
+  ""keywords"": [""deforestation"", ""Amazon"", ""policy delays"", ""animal agriculture"", ""climate crisis"", ""regulation""]
+}",
+62,40,40,"Forests, Trees, and Climate Change","Forests and trees play a crucial role in climate regulation by absorbing carbon and moderating extreme weather. Deforestation, poor management, and climate change threats weaken this function, while reforestation and sustainable practices offer benefits, though tree planting alone is insufficient to solve climate change.","[""forest restoration"", ""deforestation"", ""carbon sink"", ""tree planting"", ""climate mitigation"", ""forest management""]","{
+  ""topic"": ""Forests, Trees, and Climate Change"",
+  ""summary"": ""Forests and trees play a crucial role in climate regulation by absorbing carbon and moderating extreme weather. Deforestation, poor management, and climate change threats weaken this function, while reforestation and sustainable practices offer benefits, though tree planting alone is insufficient to solve climate change."",
+  ""keywords"": [
+    ""forest restoration"",
+    ""deforestation"",
+    ""carbon sink"",
+    ""tree planting"",
+    ""climate mitigation"",
+    ""forest management""
+  ]
+}",
+63,73,40,Sustainable Fashion and Beauty Trends,"The claims highlight a surge in sustainable practices across fashion and beauty, driven by innovation, celebrity influence, diverse designers, and circular economy initiatives. Products, brands, and events in 2025 are increasingly focused on eco-conscious materials, ethical manufacturing, and inclusive approaches, with sustainable alternatives seen as essential rather than a fleeting trend.","[""sustainable fashion"", ""eco-friendly beauty"", ""circular economy"", ""celebrity influence"", ""inclusive design"", ""2025 trends""]","{
+  ""topic"": ""Sustainable Fashion and Beauty Trends"",
+  ""summary"": ""The claims highlight a surge in sustainable practices across fashion and beauty, driven by innovation, celebrity influence, diverse designers, and circular economy initiatives. Products, brands, and events in 2025 are increasingly focused on eco-conscious materials, ethical manufacturing, and inclusive approaches, with sustainable alternatives seen as essential rather than a fleeting trend."",
+  ""keywords"": [
+    ""sustainable fashion"",
+    ""eco-friendly beauty"",
+    ""circular economy"",
+    ""celebrity influence"",
+    ""inclusive design"",
+    ""2025 trends""
+  ]
+}",
+64,23,23,Climate Change and Economic Impact,"This cluster discusses the financial, investment, and policy challenges posed by climate change, including job losses, increased costs, risks to industries like agriculture and real estate, as well as large-scale funding commitments to adapt to or mitigate its effects. It also highlights the need for data-driven accountability, innovation in climate finance, and the evolving strategies of financial institutions in response to climate risks.","[""climate finance"", ""investment risk"", ""economic cost"", ""policy uncertainty"", ""funding commitments"", ""market impacts""]","{
+  ""topic"": ""Climate Change and Economic Impact"",
+  ""summary"": ""This cluster discusses the financial, investment, and policy challenges posed by climate change, including job losses, increased costs, risks to industries like agriculture and real estate, as well as large-scale funding commitments to adapt to or mitigate its effects. It also highlights the need for data-driven accountability, innovation in climate finance, and the evolving strategies of financial institutions in response to climate risks."",
+  ""keywords"": [""climate finance"", ""investment risk"", ""economic cost"", ""policy uncertainty"", ""funding commitments"", ""market impacts""]
+}",
+65,35,35,Legislation Impacting Social Programs and Clean Energy,"The claims focus on recent bills and proposed legislation that reduce funding for healthcare, food assistance, and clean energy programs while favoring tax cuts for wealthy individuals and corporations. There is criticism of these bills' negative effects on vulnerable populations, and support for progressive alternatives and leaders prioritizing social welfare, environmental sustainability, and equity.","[""social programs cuts"", ""healthcare access"", ""clean energy"", ""tax policy"", ""progressive alternatives"", ""legislation impact""]","{
+  ""topic"": ""Legislation Impacting Social Programs and Clean Energy"",
+  ""summary"": ""The claims focus on recent bills and proposed legislation that reduce funding for healthcare, food assistance, and clean energy programs while favoring tax cuts for wealthy individuals and corporations. There is criticism of these bills' negative effects on vulnerable populations, and support for progressive alternatives and leaders prioritizing social welfare, environmental sustainability, and equity."",
+  ""keywords"": [
+    ""social programs cuts"",
+    ""healthcare access"",
+    ""clean energy"",
+    ""tax policy"",
+    ""progressive alternatives"",
+    ""legislation impact""
+  ]
+}",
+66,112,40,Junk Science and Science Denial,"The cluster critiques the prevalence and consequences of 'junk science,' misuse of scientific findings, and science denial in society, politics, and industry. Claims highlight discredited studies, the influence of non-experts, profit-driven distortions, pseudoscience, and skepticism toward authentic scientific expertise.","[""junk science"", ""science denial"", ""pseudoscience"", ""expertise"", ""misinformation"", ""credibility""]","{
+  ""topic"": ""Junk Science and Science Denial"",
+  ""summary"": ""The cluster critiques the prevalence and consequences of 'junk science,' misuse of scientific findings, and science denial in society, politics, and industry. Claims highlight discredited studies, the influence of non-experts, profit-driven distortions, pseudoscience, and skepticism toward authentic scientific expertise."",
+  ""keywords"": [""junk science"", ""science denial"", ""pseudoscience"", ""expertise"", ""misinformation"", ""credibility""]
+}",
+67,73,40,Republican attitudes toward climate change,"The cluster highlights widespread criticism of the Republican Party and its members for denying, downplaying, or politicizing climate change, often attributing these stances to alignment with fossil fuel interests and resistance to environmental regulation. Some claims also mention perceived Democratic shortcomings, but the prevailing sentiment blames Republicans for obstructing meaningful action on climate issues.","[""Republican Party"", ""climate denial"", ""fossil fuel interests"", ""environment"", ""partisan politics"", ""climate policy""]","{
+  ""topic"": ""Republican attitudes toward climate change"",
+  ""summary"": ""The cluster highlights widespread criticism of the Republican Party and its members for denying, downplaying, or politicizing climate change, often attributing these stances to alignment with fossil fuel interests and resistance to environmental regulation. Some claims also mention perceived Democratic shortcomings, but the prevailing sentiment blames Republicans for obstructing meaningful action on climate issues."",
+  ""keywords"": [""Republican Party"", ""climate denial"", ""fossil fuel interests"", ""environment"", ""partisan politics"", ""climate policy""]
+}",
+68,75,40,Climate Change and Water-Related Disasters,"The cluster discusses the link between climate change and increasing occurrences of floods, droughts, declining water resources, and their wide-ranging impacts on communities, infrastructure, and health. It highlights the need for updated flood management tools, adaptation in urban planning, and acknowledgement of new vulnerabilities as extreme weather events become more frequent.","[""climate change"", ""flooding"", ""drought"", ""water resources"", ""infrastructure risk"", ""extreme weather""]","{
+  ""topic"": ""Climate Change and Water-Related Disasters"",
+  ""summary"": ""The cluster discusses the link between climate change and increasing occurrences of floods, droughts, declining water resources, and their wide-ranging impacts on communities, infrastructure, and health. It highlights the need for updated flood management tools, adaptation in urban planning, and acknowledgement of new vulnerabilities as extreme weather events become more frequent."",
+  ""keywords"": [
+    ""climate change"",
+    ""flooding"",
+    ""drought"",
+    ""water resources"",
+    ""infrastructure risk"",
+    ""extreme weather""
+  ]
+}",
+69,47,40,"Climate Change, Migration, and Aviation","The cluster discusses the intertwined relationship between climate change, migration, and aviation. Key claims include predictions of mass migration due to climate effects, debates on aviation's environmental impact, calls for policy and behavioral change, and concerns about the challenges societies will face in adapting to these issues.","[""climate migration"", ""mass displacement"", ""aviation impact"", ""policy adaptation"", ""global warming"", ""human rights""]","{
+  ""topic"": ""Climate Change, Migration, and Aviation"",
+  ""summary"": ""The cluster discusses the intertwined relationship between climate change, migration, and aviation. Key claims include predictions of mass migration due to climate effects, debates on aviation's environmental impact, calls for policy and behavioral change, and concerns about the challenges societies will face in adapting to these issues."",
+  ""keywords"": [
+    ""climate migration"",
+    ""mass displacement"",
+    ""aviation impact"",
+    ""policy adaptation"",
+    ""global warming"",
+    ""human rights""
+  ]
+}",
+70,23,23,Public Policy Failures and Institutional Critique,"The claims highlight failures and inefficiencies in government agencies, especially FEMA, and critique broader institutional neglect of healthcare, environmental protection, and scientific research. They suggest that lack of funding, political interference, and disregard for expertise have severe social and environmental consequences.","[""FEMA"", ""healthcare crisis"", ""environmental protection"", ""institutional failure"", ""research neglect"", ""political interference""]","{
+  ""topic"": ""Public Policy Failures and Institutional Critique"",
+  ""summary"": ""The claims highlight failures and inefficiencies in government agencies, especially FEMA, and critique broader institutional neglect of healthcare, environmental protection, and scientific research. They suggest that lack of funding, political interference, and disregard for expertise have severe social and environmental consequences."",
+  ""keywords"": [""FEMA"", ""healthcare crisis"", ""environmental protection"", ""institutional failure"", ""research neglect"", ""political interference""]
+}",
+71,47,40,Indifference and Neglect by Political and Elite Groups,"Many claims in this cluster criticize political leaders, governments, and elite groups for lacking concern for the well-being and future of ordinary people and communities. There is a recurring sentiment that policy decisions are made in self-interest or due to incompetence, rather than addressing pressing societal, environmental, or economic problems.","[""political indifference"", ""elite neglect"", ""self-interest"", ""policy failure"", ""public well-being"", ""incompetence""]","{
+  ""topic"": ""Indifference and Neglect by Political and Elite Groups"",
+  ""summary"": ""Many claims in this cluster criticize political leaders, governments, and elite groups for lacking concern for the well-being and future of ordinary people and communities. There is a recurring sentiment that policy decisions are made in self-interest or due to incompetence, rather than addressing pressing societal, environmental, or economic problems."",
+  ""keywords"": [
+    ""political indifference"",
+    ""elite neglect"",
+    ""self-interest"",
+    ""policy failure"",
+    ""public well-being"",
+    ""incompetence""
+  ]
+}",
+72,37,37,"Geopolitical Conflict, Climate Change, and Civil Liberties","This cluster discusses concerns about state violence, particularly Israel's actions in Gaza, and how these conflicts intersect with global issues like climate change, civil liberties, political accountability, and repression of dissent. There are also links made between environmental destruction, deteriorating democracy, and the suppression of activism in relation to Palestine and climate change.","[""Israel-Gaza conflict"", ""climate change"", ""civil liberties"", ""state violence"", ""activism repression"", ""political accountability""]","{
+  ""topic"": ""Geopolitical Conflict, Climate Change, and Civil Liberties"",
+  ""summary"": ""This cluster discusses concerns about state violence, particularly Israel's actions in Gaza, and how these conflicts intersect with global issues like climate change, civil liberties, political accountability, and repression of dissent. There are also links made between environmental destruction, deteriorating democracy, and the suppression of activism in relation to Palestine and climate change."",
+  ""keywords"": [""Israel-Gaza conflict"", ""climate change"", ""civil liberties"", ""state violence"", ""activism repression"", ""political accountability""]
+}",
+73,25,25,sustainable practices and products,"The claims discuss various aspects of sustainability, including eco-friendly materials, environmentally conscious consumer behavior, sustainable business practices, and the importance of integrating sustainability into arts, construction, and everyday life. There is emphasis on both individual and organizational efforts to promote long-term environmental and economic well-being.","[""sustainability"", ""eco-friendly products"", ""sustainable materials"", ""green consumerism"", ""sustainable design"", ""environmental protection""]","{
+  ""topic"": ""sustainable practices and products"",
+  ""summary"": ""The claims discuss various aspects of sustainability, including eco-friendly materials, environmentally conscious consumer behavior, sustainable business practices, and the importance of integrating sustainability into arts, construction, and everyday life. There is emphasis on both individual and organizational efforts to promote long-term environmental and economic well-being."",
+  ""keywords"": [""sustainability"", ""eco-friendly products"", ""sustainable materials"", ""green consumerism"", ""sustainable design"", ""environmental protection""]
+}",
+74,58,40,Sustainable Economic Systems,"This cluster discusses the need for more sustainable, equitable economic and business models, often critiquing current capitalist or growth-at-all-cost approaches. Arguments emphasize public control, wealth redistribution, ESG investing, resource-based and moneyless economies, and the importance of collective well-being over individual profit.","[""sustainability"", ""economic models"", ""wealth redistribution"", ""capitalism critique"", ""public control"", ""collective well-being""]","{
+  ""topic"": ""Sustainable Economic Systems"",
+  ""summary"": ""This cluster discusses the need for more sustainable, equitable economic and business models, often critiquing current capitalist or growth-at-all-cost approaches. Arguments emphasize public control, wealth redistribution, ESG investing, resource-based and moneyless economies, and the importance of collective well-being over individual profit."",
+  ""keywords"": [""sustainability"", ""economic models"", ""wealth redistribution"", ""capitalism critique"", ""public control"", ""collective well-being""]
+}",
+75,23,23,media and climate change communication,"The claims discuss how media coverage influences public understanding of climate change, emphasizing the need for accurate, urgent, and localized reporting, while highlighting challenges such as diminished coverage, misinformation, framing, and barriers to linking weather events to climate change. The impact of media ownership, biases, and effective communication strategies is also explored.","[""media coverage"", ""climate change"", ""public awareness"", ""journalism"", ""misinformation"", ""framing""]","{
+  ""topic"": ""media and climate change communication"",
+  ""summary"": ""The claims discuss how media coverage influences public understanding of climate change, emphasizing the need for accurate, urgent, and localized reporting, while highlighting challenges such as diminished coverage, misinformation, framing, and barriers to linking weather events to climate change. The impact of media ownership, biases, and effective communication strategies is also explored."",
+  ""keywords"": [""media coverage"", ""climate change"", ""public awareness"", ""journalism"", ""misinformation"", ""framing""]
+}",
+76,32,32,global warming and glacier melt,"The cluster discusses how global warming is causing glaciers and ice sheets to melt at unprecedented rates, resulting in significant sea level rise, loss of water resources, and changes in regional climates. It highlights the urgency of addressing greenhouse gas emissions to slow or reverse these effects.","[""global warming"", ""glaciers"", ""climate change"", ""sea level rise"", ""melting"", ""greenhouse gases""]","{
+  ""topic"": ""global warming and glacier melt"",
+  ""summary"": ""The cluster discusses how global warming is causing glaciers and ice sheets to melt at unprecedented rates, resulting in significant sea level rise, loss of water resources, and changes in regional climates. It highlights the urgency of addressing greenhouse gas emissions to slow or reverse these effects."",
+  ""keywords"": [""global warming"", ""glaciers"", ""climate change"", ""sea level rise"", ""melting"", ""greenhouse gases""]
+}",
+77,36,36,cleaning and energy,"This cluster discusses the relationship between energy levels and cleaning, highlighting how motivation, mental state, and physical well-being affect the ability to clean. Many claims link a clean environment to positive energy, improved mood, and productivity, while also noting the struggles when energy is lacking.","[""cleaning"", ""energy"", ""mental health"", ""motivation"", ""environment"", ""well-being""]","{
+  ""topic"": ""cleaning and energy"",
+  ""summary"": ""This cluster discusses the relationship between energy levels and cleaning, highlighting how motivation, mental state, and physical well-being affect the ability to clean. Many claims link a clean environment to positive energy, improved mood, and productivity, while also noting the struggles when energy is lacking."",
+  ""keywords"": [""cleaning"", ""energy"", ""mental health"", ""motivation"", ""environment"", ""well-being""]
+}",
+78,20,20,climate change action and protest,"The claims discuss government inaction and inadequate responses to climate change, criminalization of climate protests, and societal consequences if climate change is overlooked. There is concern over ineffective adaptation plans, prosecution of climate change deniers, and diminishing public resources as climate issues worsen.","[""climate change"", ""protests"", ""government action"", ""criminalization"", ""adaptation"", ""societal impact""]","{
+  ""topic"": ""climate change action and protest"",
+  ""summary"": ""The claims discuss government inaction and inadequate responses to climate change, criminalization of climate protests, and societal consequences if climate change is overlooked. There is concern over ineffective adaptation plans, prosecution of climate change deniers, and diminishing public resources as climate issues worsen."",
+  ""keywords"": [""climate change"", ""protests"", ""government action"", ""criminalization"", ""adaptation"", ""societal impact""]
+}",
+79,45,40,"Housing Affordability, Sustainability, and Policy Reform","The claims highlight the ongoing housing crisis, increased costs, and the connection between housing, environmental sustainability, and social equity. Solutions proposed include building more affordable and resilient homes, policy reforms such as tax changes and zoning adjustments, and promoting sustainable models to ensure housing remains accessible in the face of economic and climate challenges.","[""housing crisis"", ""affordability"", ""sustainability"", ""policy reform"", ""climate change"", ""social equity""]","{
+  ""topic"": ""Housing Affordability, Sustainability, and Policy Reform"",
+  ""summary"": ""The claims highlight the ongoing housing crisis, increased costs, and the connection between housing, environmental sustainability, and social equity. Solutions proposed include building more affordable and resilient homes, policy reforms such as tax changes and zoning adjustments, and promoting sustainable models to ensure housing remains accessible in the face of economic and climate challenges."",
+  ""keywords"": [
+    ""housing crisis"",
+    ""affordability"",
+    ""sustainability"",
+    ""policy reform"",
+    ""climate change"",
+    ""social equity""
+  ]
+}",
+80,49,40,sustainable urban development,"Claims emphasize the importance of integrating sustainability, innovation, and resilience into urban planning, architecture, and governance. They highlight successful models, advocate for policy change, and stress the role of community engagement, technology, and equitable solutions to address environmental, social, and economic challenges facing cities.","[""sustainable cities"", ""urban planning"", ""innovation"", ""architecture"", ""policy"", ""community engagement""]","{
+  ""topic"": ""sustainable urban development"",
+  ""summary"": ""Claims emphasize the importance of integrating sustainability, innovation, and resilience into urban planning, architecture, and governance. They highlight successful models, advocate for policy change, and stress the role of community engagement, technology, and equitable solutions to address environmental, social, and economic challenges facing cities."",
+  ""keywords"": [""sustainable cities"", ""urban planning"", ""innovation"", ""architecture"", ""policy"", ""community engagement""]
+}",
+81,45,40,Sustainability of Societal Systems,"The claims discuss the sustainability of various economic, social, and environmental systems, including government debt, capitalism, migration, housing, wealth distribution, and development goals. Concerns repeatedly arise over whether current practices—such as rising debt, migration levels, wealth concentration, and traditional approaches to governance and capitalism—can be maintained without major negative consequences; sustainable alternatives and reforms are suggested but debated in their effectiveness.","[""sustainability"", ""debt"", ""capitalism"", ""housing"", ""migration"", ""inequality""]","{
+  ""topic"": ""Sustainability of Societal Systems"",
+  ""summary"": ""The claims discuss the sustainability of various economic, social, and environmental systems, including government debt, capitalism, migration, housing, wealth distribution, and development goals. Concerns repeatedly arise over whether current practices—such as rising debt, migration levels, wealth concentration, and traditional approaches to governance and capitalism—can be maintained without major negative consequences; sustainable alternatives and reforms are suggested but debated in their effectiveness."",
+  ""keywords"": [""sustainability"", ""debt"", ""capitalism"", ""housing"", ""migration"", ""inequality""]
+}",
+82,61,40,"Sustainability of Current Economic, Political, and Social Systems","The claims emphasize that many contemporary systems—ranging from healthcare, pensions, government policies, and business models to social welfare and environmental practices—are not sustainable under current structures. Concerns include inequality, overreliance on flawed profit motives, and unsustainable governance, with some acknowledgement that reform and alternative approaches are needed.","[""unsustainable systems"", ""economic structures"", ""healthcare"", ""governance"", ""profit models"", ""social policies""]","{
+  ""topic"": ""Sustainability of Current Economic, Political, and Social Systems"",
+  ""summary"": ""The claims emphasize that many contemporary systems—ranging from healthcare, pensions, government policies, and business models to social welfare and environmental practices—are not sustainable under current structures. Concerns include inequality, overreliance on flawed profit motives, and unsustainable governance, with some acknowledgement that reform and alternative approaches are needed."",
+  ""keywords"": [
+    ""unsustainable systems"",
+    ""economic structures"",
+    ""healthcare"",
+    ""governance"",
+    ""profit models"",
+    ""social policies""
+  ]
+}",
+83,103,40,lack of sustainability,"The cluster centers on statements that a certain situation, practice, or condition is not sustainable in the long term. Many express concern that continuing on the current path will lead to negative consequences or require change.","[""not sustainable"", ""unsustainable"", ""long-term viability"", ""negative consequences"", ""change needed"", ""endurance""]","{
+  ""topic"": ""lack of sustainability"",
+  ""summary"": ""The cluster centers on statements that a certain situation, practice, or condition is not sustainable in the long term. Many express concern that continuing on the current path will lead to negative consequences or require change."",
+  ""keywords"": [""not sustainable"", ""unsustainable"", ""long-term viability"", ""negative consequences"", ""change needed"", ""endurance""]
+}",
+84,60,40,sustainable development and practices,"These claims emphasize the importance of adopting sustainable approaches across various sectors such as tourism, business, technology, gaming, and space exploration. There is a call for strategic, long-term solutions to ensure environmental balance, responsible growth, and lasting positive change.","[""sustainable growth"", ""long-term solutions"", ""environmental impact"", ""development"", ""responsible practices"", ""future""]","{
+  ""topic"": ""sustainable development and practices"",
+  ""summary"": ""These claims emphasize the importance of adopting sustainable approaches across various sectors such as tourism, business, technology, gaming, and space exploration. There is a call for strategic, long-term solutions to ensure environmental balance, responsible growth, and lasting positive change."",
+  ""keywords"": [""sustainable growth"", ""long-term solutions"", ""environmental impact"", ""development"", ""responsible practices"", ""future""]
+}",
+85,48,40,Climate Change and Children/Youths,"The cluster discusses the significant impact of climate change on children and young people, expressing concern about their safety, mental health, and future well-being. It includes calls for climate education, policy action, and reflections on youth activism, with some noting generational differences in attitudes and responsibilities towards the crisis.","[""climate change"", ""children"", ""youth"", ""future"", ""mental health"", ""education""]","{
+  ""topic"": ""Climate Change and Children/Youths"",
+  ""summary"": ""The cluster discusses the significant impact of climate change on children and young people, expressing concern about their safety, mental health, and future well-being. It includes calls for climate education, policy action, and reflections on youth activism, with some noting generational differences in attitudes and responsibilities towards the crisis."",
+  ""keywords"": [""climate change"", ""children"", ""youth"", ""future"", ""mental health"", ""education""]
+}",
+86,50,40,Sustainable Practices Across Domains,"The claims discuss the importance and application of sustainability in various fields, including architecture, business, marketing, education, leadership, and personal productivity. Emphasis is on integrating natural processes, creating lasting value, balancing profit with impact, and participatory approaches to achieve harmonious, adaptable, and enduring outcomes.","[""sustainability"", ""business models"", ""architecture"", ""marketing"", ""leadership"", ""long-term success""]","{
+  ""topic"": ""Sustainable Practices Across Domains"",
+  ""summary"": ""The claims discuss the importance and application of sustainability in various fields, including architecture, business, marketing, education, leadership, and personal productivity. Emphasis is on integrating natural processes, creating lasting value, balancing profit with impact, and participatory approaches to achieve harmonious, adaptable, and enduring outcomes."",
+  ""keywords"": [
+    ""sustainability"",
+    ""business models"",
+    ""architecture"",
+    ""marketing"",
+    ""leadership"",
+    ""long-term success""
+  ]
+}",
+87,95,40,Sustainable Parity and Inclusive Progress,"The claims emphasize the necessity of sustainability, inclusivity, and parity for all life as the foundation for a just and prosperous future. They highlight the need for global cooperation, accessible solutions, reimagined leadership, and systemic change to achieve equitable and long-lasting social, economic, and environmental outcomes.","[""sustainable parity"", ""inclusion"", ""cooperation"", ""global collaboration"", ""equity"", ""community empowerment""]","{
+  ""topic"": ""Sustainable Parity and Inclusive Progress"",
+  ""summary"": ""The claims emphasize the necessity of sustainability, inclusivity, and parity for all life as the foundation for a just and prosperous future. They highlight the need for global cooperation, accessible solutions, reimagined leadership, and systemic change to achieve equitable and long-lasting social, economic, and environmental outcomes."",
+  ""keywords"": [""sustainable parity"", ""inclusion"", ""cooperation"", ""global collaboration"", ""equity"", ""community empowerment""]
+}",
+88,22,22,Public Figures and Climate Change Denial,"This cluster discusses the views and actions of various public figures regarding climate change, highlighting skepticism, denial, or lack of concern about climate science. Several claims also compare these figures' stances and effectiveness to those of climate activists, questioning their credibility and empathy.","[""climate denial"", ""public figures"", ""skepticism"", ""climate science"", ""activism"", ""credibility""]","{
+  ""topic"": ""Public Figures and Climate Change Denial"",
+  ""summary"": ""This cluster discusses the views and actions of various public figures regarding climate change, highlighting skepticism, denial, or lack of concern about climate science. Several claims also compare these figures' stances and effectiveness to those of climate activists, questioning their credibility and empathy."",
+  ""keywords"": [""climate denial"", ""public figures"", ""skepticism"", ""climate science"", ""activism"", ""credibility""]
+}",
+89,31,31,"Innovation, Social Change, and Digital Platforms","The claims discuss recent trends and challenges across social media, business models, education, and industry, emphasizing the need for innovation, community action, and adaptation. They highlight shifts to new digital platforms, support for independent initiatives, and sustained efforts toward sustainability, equity, and transparency.","[""social media platforms"", ""innovation"", ""community action"", ""business models"", ""education"", ""sustainability""]","{
+  ""topic"": ""Innovation, Social Change, and Digital Platforms"",
+  ""summary"": ""The claims discuss recent trends and challenges across social media, business models, education, and industry, emphasizing the need for innovation, community action, and adaptation. They highlight shifts to new digital platforms, support for independent initiatives, and sustained efforts toward sustainability, equity, and transparency."",
+  ""keywords"": [""social media platforms"", ""innovation"", ""community action"", ""business models"", ""education"", ""sustainability""]
+}",
+90,39,39,"Sustainability in Business, Technology, and Policy","The claims discuss the need for sustainable practices across business, government, technology, and community initiatives. Themes include environmental responsibility, social impact, sustainable business models, and criticism of corporate and policy approaches that hinder long-term viability or community benefit.","[""sustainability"", ""business models"", ""community impact"", ""environmental responsibility"", ""policy"", ""corporate practices""]","{
+  ""topic"": ""Sustainability in Business, Technology, and Policy"",
+  ""summary"": ""The claims discuss the need for sustainable practices across business, government, technology, and community initiatives. Themes include environmental responsibility, social impact, sustainable business models, and criticism of corporate and policy approaches that hinder long-term viability or community benefit."",
+  ""keywords"": [""sustainability"", ""business models"", ""community impact"", ""environmental responsibility"", ""policy"", ""corporate practices""]
+}",
+91,409,40,Impacts of Climate Change on Weather and Society,"These claims discuss how climate change is intensifying weather phenomena such as heatwaves, storms, and altered seasons, causing regional disruptions and societal concerns. There is a growing recognition of the urgent need for adaptation and climate action, even as denial and political inaction persist in some places.","[""extreme heat"", ""intense storms"", ""seasonal changes"", ""climate adaptation"", ""societal impacts"", ""climate action""]","{
+  ""topic"": ""Impacts of Climate Change on Weather and Society"",
+  ""summary"": ""These claims discuss how climate change is intensifying weather phenomena such as heatwaves, storms, and altered seasons, causing regional disruptions and societal concerns. There is a growing recognition of the urgent need for adaptation and climate action, even as denial and political inaction persist in some places."",
+  ""keywords"": [
+    ""extreme heat"",
+    ""intense storms"",
+    ""seasonal changes"",
+    ""climate adaptation"",
+    ""societal impacts"",
+    ""climate action""
+  ]
+}",
+92,105,40,"Climate Change, Economics, and Policy","The cluster discusses the social, economic, and political ramifications of climate change—highlighting the roles of capitalism, government actions or inactions, wealth concentration, and legal strategies. Claims address both the urgent need for equitable climate action and the potential for widespread human and economic costs if such action fails.","[""climate change"", ""capitalism"", ""policy"", ""economic impact"", ""inequality"", ""legal action""]","{
+  ""topic"": ""Climate Change, Economics, and Policy"",
+  ""summary"": ""The cluster discusses the social, economic, and political ramifications of climate change—highlighting the roles of capitalism, government actions or inactions, wealth concentration, and legal strategies. Claims address both the urgent need for equitable climate action and the potential for widespread human and economic costs if such action fails."",
+  ""keywords"": [""climate change"", ""capitalism"", ""policy"", ""economic impact"", ""inequality"", ""legal action""]
+}",
+93,78,40,Climate Change and Political Attitudes,"The claims discuss how political parties, particularly conservative and right-wing groups, are criticized for either denying climate change or lacking effective policies to address it. Voter preferences, party strategies, and the politicization of climate action are highlighted as central issues.","[""climate denial"", ""political parties"", ""conservative policy"", ""voter attitudes"", ""climate action"", ""partisanship""]","{
+  ""topic"": ""Climate Change and Political Attitudes"",
+  ""summary"": ""The claims discuss how political parties, particularly conservative and right-wing groups, are criticized for either denying climate change or lacking effective policies to address it. Voter preferences, party strategies, and the politicization of climate action are highlighted as central issues."",
+  ""keywords"": [""climate denial"", ""political parties"", ""conservative policy"", ""voter attitudes"", ""climate action"", ""partisanship""]
+}",
+94,57,40,climate change policy and public response,"The cluster discusses the inadequate government and societal responses to climate change, highlighting issues such as political polarization, misinformation, hypocrisy, and the gap between public concern and policy action. It also touches on activism, the role of education, and the critical need for immediate and effective measures to address climate risks.","[""government action"", ""public opinion"", ""climate activism"", ""policy gaps"", ""misinformation"", ""education""]","{
+  ""topic"": ""climate change policy and public response"",
+  ""summary"": ""The cluster discusses the inadequate government and societal responses to climate change, highlighting issues such as political polarization, misinformation, hypocrisy, and the gap between public concern and policy action. It also touches on activism, the role of education, and the critical need for immediate and effective measures to address climate risks."",
+  ""keywords"": [""government action"", ""public opinion"", ""climate activism"", ""policy gaps"", ""misinformation"", ""education""]
+}",
+95,68,40,governance and societal decline,"The cluster discusses the perceived decline of US and global governance, citing loss of leadership, increased inequality, eroding democratic norms, unaddressed crises, and ineffective institutions. It touches on topics like political corruption, social unrest, the necessity for strong leadership, and pessimism about America's and the world's future if current trends continue.","[""US decline"", ""governance"", ""inequality"", ""leadership crisis"", ""institutional failure"", ""democracy""]","{
+  ""topic"": ""governance and societal decline"",
+  ""summary"": ""The cluster discusses the perceived decline of US and global governance, citing loss of leadership, increased inequality, eroding democratic norms, unaddressed crises, and ineffective institutions. It touches on topics like political corruption, social unrest, the necessity for strong leadership, and pessimism about America's and the world's future if current trends continue."",
+  ""keywords"": [
+    ""US decline"",
+    ""governance"",
+    ""inequality"",
+    ""leadership crisis"",
+    ""institutional failure"",
+    ""democracy""
+  ]
+}",
+96,63,40,Future Societal Change and Collapse,"Many claims reflect pessimism about humanity's future due to systemic crises like climate change, inequality, and political inertia, though some still hold hope for transformative change through collective action. The discussion emphasizes the urgency for systemic shifts to avoid catastrophic outcomes and create a sustainable, just society.","[""systemic change"", ""future outlook"", ""collapse"", ""climate crisis"", ""collective action"", ""inequality""]","{
+  ""topic"": ""Future Societal Change and Collapse"",
+  ""summary"": ""Many claims reflect pessimism about humanity's future due to systemic crises like climate change, inequality, and political inertia, though some still hold hope for transformative change through collective action. The discussion emphasizes the urgency for systemic shifts to avoid catastrophic outcomes and create a sustainable, just society."",
+  ""keywords"": [""systemic change"", ""future outlook"", ""collapse"", ""climate crisis"", ""collective action"", ""inequality""]
+}",
+97,137,40,climate change denial and inaction,"This cluster covers opinions denying the existence of climate change, skepticism about its impacts, and criticism of insufficient policies or inaction from governments and organizations. It also highlights the absence of climate change discussions in policy documents and public discourse.","[""climate change denial"", ""policy inaction"", ""climate crisis"", ""skepticism"", ""government response"", ""public discourse""]","{
+  ""topic"": ""climate change denial and inaction"",
+  ""summary"": ""This cluster covers opinions denying the existence of climate change, skepticism about its impacts, and criticism of insufficient policies or inaction from governments and organizations. It also highlights the absence of climate change discussions in policy documents and public discourse."",
+  ""keywords"": [""climate change denial"", ""policy inaction"", ""climate crisis"", ""skepticism"", ""government response"", ""public discourse""]
+}",
+98,35,35,public and political inaction on climate change,"The claims highlight widespread apathy, denial, and inadequate response to climate change from individuals, leaders, media, and policymakers, with some noting deliberate suppression of the issue. Failure to take meaningful action is attributed to political, social, and economic motivations.","[""climate change"", ""public apathy"", ""political inaction"", ""denial"", ""media silence"", ""policy failure""]","{
+  ""topic"": ""public and political inaction on climate change"",
+  ""summary"": ""The claims highlight widespread apathy, denial, and inadequate response to climate change from individuals, leaders, media, and policymakers, with some noting deliberate suppression of the issue. Failure to take meaningful action is attributed to political, social, and economic motivations."",
+  ""keywords"": [""climate change"", ""public apathy"", ""political inaction"", ""denial"", ""media silence"", ""policy failure""]
+}",
+99,721,40,climate change,"The cluster discusses the urgent and far-reaching impact of climate change, emphasizing the need for immediate and comprehensive policy action, global cooperation, and societal change to mitigate catastrophic consequences. Claims touch on its threat to humanity, culture, food, education, and wildlife, as well as debates about the pace and effectiveness of current actions.","[""climate policy"", ""global warming"", ""urgent action"", ""impact"", ""mitigation"", ""societal change""]","{
+  ""topic"": ""climate change"",
+  ""summary"": ""The cluster discusses the urgent and far-reaching impact of climate change, emphasizing the need for immediate and comprehensive policy action, global cooperation, and societal change to mitigate catastrophic consequences. Claims touch on its threat to humanity, culture, food, education, and wildlife, as well as debates about the pace and effectiveness of current actions."",
+  ""keywords"": [""climate policy"", ""global warming"", ""urgent action"", ""impact"", ""mitigation"", ""societal change""]
+}",
+100,32,32,climate change terminology and discourse,"The cluster discusses varying attitudes toward climate change, debates over its terminology, and the societal, political, and psychological responses to its framing and urgency. It includes skepticism, frustration, suggested re-naming, and reflections on public inaction and distraction.","[""climate change"", ""terminology"", ""denial"", ""public response"", ""politics"", ""discourse""]","{
+  ""topic"": ""climate change terminology and discourse"",
+  ""summary"": ""The cluster discusses varying attitudes toward climate change, debates over its terminology, and the societal, political, and psychological responses to its framing and urgency. It includes skepticism, frustration, suggested re-naming, and reflections on public inaction and distraction."",
+  ""keywords"": [""climate change"", ""terminology"", ""denial"", ""public response"", ""politics"", ""discourse""]
+}",
+101,46,40,climate change discourse,"These claims cover the contentious and politicized discussion around climate change, highlighting varying levels of belief, denial, blame, misinformation, and calls for more robust public engagement and action. They address obstacles to climate change acceptance, from political resistance and conspiracy theories to public apathy and media framing.","[""climate change"", ""denial"", ""public discourse"", ""blame"", ""political polarization"", ""media influence""]","{
+  ""topic"": ""climate change discourse"",
+  ""summary"": ""These claims cover the contentious and politicized discussion around climate change, highlighting varying levels of belief, denial, blame, misinformation, and calls for more robust public engagement and action. They address obstacles to climate change acceptance, from political resistance and conspiracy theories to public apathy and media framing."",
+  ""keywords"": [""climate change"", ""denial"", ""public discourse"", ""blame"", ""political polarization"", ""media influence""]
+}",
+102,98,40,Climate Change Denial,"The cluster highlights persistent and evolving forms of climate change denial, including disinformation campaigns, media manipulation, and societal reluctance to accept scientific consensus. Denial is linked to political, economic, and ideological interests, and is often compared to similar denialism in areas like COVID-19 and vaccines.","[""climate denial"", ""disinformation"", ""media influence"", ""science rejection"", ""politics"", ""public perception""]","{
+  ""topic"": ""Climate Change Denial"",
+  ""summary"": ""The cluster highlights persistent and evolving forms of climate change denial, including disinformation campaigns, media manipulation, and societal reluctance to accept scientific consensus. Denial is linked to political, economic, and ideological interests, and is often compared to similar denialism in areas like COVID-19 and vaccines."",
+  ""keywords"": [
+    ""climate denial"",
+    ""disinformation"",
+    ""media influence"",
+    ""science rejection"",
+    ""politics"",
+    ""public perception""
+  ]
+}",
+103,202,40,"Corporate Influence, Public Spending, and Economic Equity","The claims critique the dominance of corporate interests and CEOs in influencing economic policy, public spending, and government subsidies, often at the expense of broader social welfare and equity. They argue for redirecting funds from military and corporate welfare towards social programs, environmental protection, and fairer economic structures, emphasizing accountability, reduced inequality, and public benefit over profit.","[""corporate influence"", ""public spending"", ""inequality"", ""corporate welfare"", ""social programs"", ""economic policy""]","{
+  ""topic"": ""Corporate Influence, Public Spending, and Economic Equity"",
+  ""summary"": ""The claims critique the dominance of corporate interests and CEOs in influencing economic policy, public spending, and government subsidies, often at the expense of broader social welfare and equity. They argue for redirecting funds from military and corporate welfare towards social programs, environmental protection, and fairer economic structures, emphasizing accountability, reduced inequality, and public benefit over profit."",
+  ""keywords"": [""corporate influence"", ""public spending"", ""inequality"", ""corporate welfare"", ""social programs"", ""economic policy""]
+}",
+104,20,20,Media Responsibility and Political Accountability,"Claims discuss concerns over irresponsible journalism, media bias, and the influence of political power on public discourse. There is also criticism of political figures, debate formats, and issues of transparency and representation in both media and government.","[""journalism ethics"", ""media bias"", ""political debate"", ""transparency"", ""press trust"", ""political accountability""]","{
+  ""topic"": ""Media Responsibility and Political Accountability"",
+  ""summary"": ""Claims discuss concerns over irresponsible journalism, media bias, and the influence of political power on public discourse. There is also criticism of political figures, debate formats, and issues of transparency and representation in both media and government."",
+  ""keywords"": [""journalism ethics"", ""media bias"", ""political debate"", ""transparency"", ""press trust"", ""political accountability""]
+}",
+105,96,40,Climate Change Denial and Institutional Suppression,"The claims address the denial and suppression of climate change, including government actions to erase evidence and dismantle key agencies like NOAA, as well as the social and personal consequences of denial. Emotional, economic, and policy impacts are highlighted, emphasizing political resistance, censorship efforts, and the persistence of climate change consequences despite efforts to obscure them.","[""climate change denial"", ""NOAA"", ""government censorship"", ""policy suppression"", ""social impact"", ""economic effects""]","{
+  ""topic"": ""Climate Change Denial and Institutional Suppression"",
+  ""summary"": ""The claims address the denial and suppression of climate change, including government actions to erase evidence and dismantle key agencies like NOAA, as well as the social and personal consequences of denial. Emotional, economic, and policy impacts are highlighted, emphasizing political resistance, censorship efforts, and the persistence of climate change consequences despite efforts to obscure them."",
+  ""keywords"": [
+    ""climate change denial"",
+    ""NOAA"",
+    ""government censorship"",
+    ""policy suppression"",
+    ""social impact"",
+    ""economic effects""
+  ]
+}",
+106,21,21,progress and change in various contexts,"The claims discuss challenges and strategies for achieving progress, such as the need for constructive conversations, effective organizing, cooperative efforts, and learning from past mistakes, across domains including science, sports management, technology, and social issues. Calls for tangible actions, adaptation, and embracing love as motivation for change are also emphasized.","[""progress"", ""organizing"", ""change"", ""discussion"", ""adaptation"", ""management""]","{
+  ""topic"": ""progress and change in various contexts"",
+  ""summary"": ""The claims discuss challenges and strategies for achieving progress, such as the need for constructive conversations, effective organizing, cooperative efforts, and learning from past mistakes, across domains including science, sports management, technology, and social issues. Calls for tangible actions, adaptation, and embracing love as motivation for change are also emphasized."",
+  ""keywords"": [""progress"", ""organizing"", ""change"", ""discussion"", ""adaptation"", ""management""]
+}",
+107,34,34,Climate Change Denial and Suppression under Trump Administration,"The claims highlight actions and attitudes of the Trump administration and its allies that deny, suppress, or obstruct scientific information and policy concerning climate change. These include dismantling research programs, restricting public access to climate data, removing climate change references from government resources, and appointing leaders who dismiss climate science.","[""climate change denial"", ""Trump administration"", ""suppression of science"", ""NASA/NOAA"", ""policy obstruction"", ""public information access""]","{
+  ""topic"": ""Climate Change Denial and Suppression under Trump Administration"",
+  ""summary"": ""The claims highlight actions and attitudes of the Trump administration and its allies that deny, suppress, or obstruct scientific information and policy concerning climate change. These include dismantling research programs, restricting public access to climate data, removing climate change references from government resources, and appointing leaders who dismiss climate science."",
+  ""keywords"": [
+    ""climate change denial"",
+    ""Trump administration"",
+    ""suppression of science"",
+    ""NASA/NOAA"",
+    ""policy obstruction"",
+    ""public information access""
+  ]
+}",
+108,331,40,US Political Parties and Partisan Criticism,"This cluster centers around criticism and analysis of both Republican and Democratic parties in the US, with claims highlighting perceived hypocrisy, harmful policies, and failures in leadership. Critics accuse Republicans of extremism and anti-democratic behavior and Democrats of ineffectiveness, elitism, and hypocrisy, while also expressing frustration over the partisan divide and political system as a whole.","[""Republicans"", ""Democrats"", ""partisanship"", ""hypocrisy"", ""leadership"", ""criticism""]","{
+  ""topic"": ""US Political Parties and Partisan Criticism"",
+  ""summary"": ""This cluster centers around criticism and analysis of both Republican and Democratic parties in the US, with claims highlighting perceived hypocrisy, harmful policies, and failures in leadership. Critics accuse Republicans of extremism and anti-democratic behavior and Democrats of ineffectiveness, elitism, and hypocrisy, while also expressing frustration over the partisan divide and political system as a whole."",
+  ""keywords"": [""Republicans"", ""Democrats"", ""partisanship"", ""hypocrisy"", ""leadership"", ""criticism""]
+}",
+109,34,34,Climate Change Beliefs and Political Responses,"The cluster discusses varied political and personal stances toward climate change, ranging from active leadership and advocacy to denial and misinformation. Politicians, public figures, and critics are evaluated for their actions, beliefs, and impacts on climate policy and public understanding.","[""climate denial"", ""political leaders"", ""public attitudes"", ""climate policy"", ""misinformation"", ""advocacy""]","{
+  ""topic"": ""Climate Change Beliefs and Political Responses"",
+  ""summary"": ""The cluster discusses varied political and personal stances toward climate change, ranging from active leadership and advocacy to denial and misinformation. Politicians, public figures, and critics are evaluated for their actions, beliefs, and impacts on climate policy and public understanding."",
+  ""keywords"": [""climate denial"", ""political leaders"", ""public attitudes"", ""climate policy"", ""misinformation"", ""advocacy""]
+}",
+110,52,40,Trump Administration and Climate Change,"The claims overwhelmingly argue that Trump, his administration, or political allies are taking actions or holding policies that worsen climate change. These actions include deregulation, withdrawing from climate agreements, curtailing research, and prioritizing fossil fuel interests over climate action.","[""Trump"", ""climate change"", ""deregulation"", ""fossil fuels"", ""policy rollback"", ""environmental impact""]","{
+  ""topic"": ""Trump Administration and Climate Change"",
+  ""summary"": ""The claims overwhelmingly argue that Trump, his administration, or political allies are taking actions or holding policies that worsen climate change. These actions include deregulation, withdrawing from climate agreements, curtailing research, and prioritizing fossil fuel interests over climate action."",
+  ""keywords"": [""Trump"", ""climate change"", ""deregulation"", ""fossil fuels"", ""policy rollback"", ""environmental impact""]
+}",
+111,31,31,politics and climate change,"This cluster discusses political figures' stances, actions, and failures regarding climate change, with a focus on denial, inadequate plans, and partisan differences. Claims often reference Trump and Biden, the effectiveness of climate policies, and the politicization of global warming.","[""climate change denial"", ""politicians"", ""Trump"", ""Biden"", ""global warming"", ""environmental policy""]","{
+  ""topic"": ""politics and climate change"",
+  ""summary"": ""This cluster discusses political figures' stances, actions, and failures regarding climate change, with a focus on denial, inadequate plans, and partisan differences. Claims often reference Trump and Biden, the effectiveness of climate policies, and the politicization of global warming."",
+  ""keywords"": [""climate change denial"", ""politicians"", ""Trump"", ""Biden"", ""global warming"", ""environmental policy""]
+}",
+112,29,29,"Pop culture, music, and personal experiences","This cluster features reflections on pop culture icons in music, comics, and video games, alongside anecdotes about personal growth, preferences, and community. Claims include opinions on Green Day, DC comics, creative pursuits, social dynamics, and emotional well-being.","[""Green Day"", ""comics"", ""personal growth"", ""music"", ""pop culture"", ""community""]","{
+  ""topic"": ""Pop culture, music, and personal experiences"",
+  ""summary"": ""This cluster features reflections on pop culture icons in music, comics, and video games, alongside anecdotes about personal growth, preferences, and community. Claims include opinions on Green Day, DC comics, creative pursuits, social dynamics, and emotional well-being."",
+  ""keywords"": [""Green Day"", ""comics"", ""personal growth"", ""music"", ""pop culture"", ""community""]
+}",
+113,47,40,creative works and inspiration,"The cluster discusses the impact of books, art, and creative individuals on personal growth, inspiration, and societal understanding. It highlights the value of unique creative processes, the influence of notable authors and artists, and concerns about originality and technological changes in creative industries.","[""books"", ""art"", ""creativity"", ""inspiration"", ""originality"", ""technology""]","{
+  ""topic"": ""creative works and inspiration"",
+  ""summary"": ""The cluster discusses the impact of books, art, and creative individuals on personal growth, inspiration, and societal understanding. It highlights the value of unique creative processes, the influence of notable authors and artists, and concerns about originality and technological changes in creative industries."",
+  ""keywords"": [""books"", ""art"", ""creativity"", ""inspiration"", ""originality"", ""technology""]
+}",
+114,87,40,Modern American Fascism and Political Denial,"The cluster centers on concerns about the rise and sustainability of fascism in the United States, often criticizing right-wing politics, misinformation, and denial from both political sides. Claims highlight media bias, governmental failures, alleged atrocities, and the dangerous consequences of ignoring reality, with a recurring emphasis on unsustainable political systems and public apathy.","[""fascism"", ""media bias"", ""right-wing politics"", ""political denial"", ""government failure"", ""misinformation""]","{
+  ""topic"": ""Modern American Fascism and Political Denial"",
+  ""summary"": ""The cluster centers on concerns about the rise and sustainability of fascism in the United States, often criticizing right-wing politics, misinformation, and denial from both political sides. Claims highlight media bias, governmental failures, alleged atrocities, and the dangerous consequences of ignoring reality, with a recurring emphasis on unsustainable political systems and public apathy."",
+  ""keywords"": [
+    ""fascism"",
+    ""media bias"",
+    ""right-wing politics"",
+    ""political denial"",
+    ""government failure"",
+    ""misinformation""
+  ]
+}",
+115,31,31,Societal Collapse and Urgent Reform,"This cluster expresses frustration with current societal and political systems, emphasizing a sense of impending collapse and the need for urgent, collective action and radical reforms. Claims highlight the necessity of systemic change, accountability, and unity to address crises such as climate change, inequality, and institutional failure.","[""collapse"", ""systemic reform"", ""urgency"", ""political systems"", ""collective action"", ""crisis response""]","{
+  ""topic"": ""Societal Collapse and Urgent Reform"",
+  ""summary"": ""This cluster expresses frustration with current societal and political systems, emphasizing a sense of impending collapse and the need for urgent, collective action and radical reforms. Claims highlight the necessity of systemic change, accountability, and unity to address crises such as climate change, inequality, and institutional failure."",
+  ""keywords"": [""collapse"", ""systemic reform"", ""urgency"", ""political systems"", ""collective action"", ""crisis response""]
+}",
+116,225,40,Critical commentary on current events and social change,"The cluster reflects a diverse range of short personal remarks, criticisms, and reactions to news, culture, and social issues. Common themes include dissatisfaction with systems and trends, calls for action, skepticism about leadership, and observations on societal shifts.","[""criticism"", ""social commentary"", ""systemic change"", ""leadership"", ""calls for action"", ""personal opinions""]","{
+  ""topic"": ""Critical commentary on current events and social change"",
+  ""summary"": ""The cluster reflects a diverse range of short personal remarks, criticisms, and reactions to news, culture, and social issues. Common themes include dissatisfaction with systems and trends, calls for action, skepticism about leadership, and observations on societal shifts."",
+  ""keywords"": [""criticism"", ""social commentary"", ""systemic change"", ""leadership"", ""calls for action"", ""personal opinions""]
+}",
+117,68,40,"Social Justice, Disinformation, and Accountability","This cluster discusses intersecting issues of human rights, social justice, political repression, and the widespread problems of misinformation and disinformation. The claims critique institutions, leadership, and media for failures in addressing oppression, protecting academic and human rights, and combating deceptive practices that inhibit genuine dialogue and progress.","[""misinformation"", ""human rights"", ""accountability"", ""political repression"", ""media bias"", ""social justice""]","{
+  ""topic"": ""Social Justice, Disinformation, and Accountability"",
+  ""summary"": ""This cluster discusses intersecting issues of human rights, social justice, political repression, and the widespread problems of misinformation and disinformation. The claims critique institutions, leadership, and media for failures in addressing oppression, protecting academic and human rights, and combating deceptive practices that inhibit genuine dialogue and progress."",
+  ""keywords"": [""misinformation"", ""human rights"", ""accountability"", ""political repression"", ""media bias"", ""social justice""]
+}",
+118,88,40,"Critique of Reasoning, Morality, and Social Discourse","The claims largely question the reasoning skills, honesty, and morality of individuals or groups, expressing frustration with perceived ignorance, hypocrisy, misinformation, and lack of nuance in public discourse. There is skepticism towards faith-based belief, concern about performative morality, and criticism of extreme positions, especially in the context of sociopolitical debates.","[""reasoning"", ""morality"", ""hypocrisy"", ""faith"", ""misinformation"", ""public discourse""]","{
+  ""topic"": ""Critique of Reasoning, Morality, and Social Discourse"",
+  ""summary"": ""The claims largely question the reasoning skills, honesty, and morality of individuals or groups, expressing frustration with perceived ignorance, hypocrisy, misinformation, and lack of nuance in public discourse. There is skepticism towards faith-based belief, concern about performative morality, and criticism of extreme positions, especially in the context of sociopolitical debates."",
+  ""keywords"": [""reasoning"", ""morality"", ""hypocrisy"", ""faith"", ""misinformation"", ""public discourse""]
+}",

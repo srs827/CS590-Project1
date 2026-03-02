@@ -1,0 +1,24 @@
+Task: Evaluate whether the extracted ground is correct.
+
+Inputs:
+Text: the original advertisement or social media text
+Claim: the extracted claim
+Ground: the extracted ground
+
+Definition:
+A ground is a reason, evidence, or explanation that supports the claim.
+
+Label:
+VALID — The ground appears in the text (or is clearly implied), supports the claim, and is not simply restating the claim.
+INVALID — Any of the following:
+- The ground is not supported by the text (hallucinated or adds new information)
+- The ground does not support the claim
+- The ground is actually the main claim (misclassified as ground)
+- The ground is "Not present" but the text clearly contains a reason
+
+Guidelines:
+- Advertising language may be implicit.
+- Lists of harms/benefits can be grounds.
+- A ground should answer: “Why should the reader believe the claim?”
+- If the text contains no supporting reason and the ground is "Not present", then it is VALID.
+- Answer with one word only: VALID or INVALID.

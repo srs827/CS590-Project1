@@ -1,0 +1,27 @@
+Example 1
+Text:
+Upgrade your Teaching Toolbox! Uncover free interactive tools with standout resources for teaching fiscal policy. Transform your lessons into engaging, unforgettable experiences.
+
+Output:
+{"claim":"Free interactive tools can transform fiscal policy lessons into engaging and effective learning experiences.","ground":"Not present","warrant":"Not present"}
+
+Example 2
+Text:
+Accelerating the future of energy, together
+
+Output:
+{"claim":"Not present","ground":"Not present","warrant":"Not present"}
+
+Example 3
+Text:
+Our spray foam insulation helps reduce energy waste and supports a more sustainable future.
+
+Output:
+{"claim":"Using this insulation supports a more sustainable future.","ground":"Our spray foam insulation helps reduce energy waste.","warrant":"Not present"}
+
+Example 4 (explicit warrant case)
+Text:
+Our insulation reduces energy waste. Because reducing energy waste lowers carbon emissions, it helps protect the environment.
+
+Output:
+{"claim":"Using this insulation helps protect the environment.","ground":"Our insulation reduces energy waste.","warrant":"Reducing energy waste lowers carbon emissions."}

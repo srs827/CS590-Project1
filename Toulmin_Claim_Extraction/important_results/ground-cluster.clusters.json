@@ -1,0 +1,3591 @@
+{
+  "n_points": 11486,
+  "n_clusters": 112,
+  "n_outliers": 3953,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "size": 24,
+      "avg_membership_prob": 0.9204955865361838,
+      "representatives": [
+        {
+          "local_index": 8319,
+          "membership_prob": 1.0,
+          "claim": "Julia Andrews has a proven track record of standing up for Vermont families and kids."
+        },
+        {
+          "local_index": 8357,
+          "membership_prob": 1.0,
+          "claim": "Michael Mrowicki has a proven track record of standing up for Vermont families and kids."
+        },
+        {
+          "local_index": 8356,
+          "membership_prob": 1.0,
+          "claim": "Andrew Perchlik has a proven track record of standing up for Vermont families and kids."
+        },
+        {
+          "local_index": 8355,
+          "membership_prob": 1.0,
+          "claim": "Nader Hashim has a proven track record of standing up for Vermont families and kids."
+        },
+        {
+          "local_index": 8354,
+          "membership_prob": 1.0,
+          "claim": "Ashley Bartley has a proven track record of standing up for Vermont families and kids."
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 76,
+      "avg_membership_prob": 0.531140045152712,
+      "representatives": [
+        {
+          "local_index": 10641,
+          "membership_prob": 1.0,
+          "claim": "Nuclear power delivers clean, reliable, and always-on energy, strengthening national security, economic stability and energy independence."
+        },
+        {
+          "local_index": 6813,
+          "membership_prob": 1.0,
+          "claim": "In the nuclear industry, your work drives real clean energy solutions and strengthens your community with reliable power."
+        },
+        {
+          "local_index": 9109,
+          "membership_prob": 1.0,
+          "claim": "Nuclear power is a field that not only transforms lives and communities, but can also energize your professional future too."
+        },
+        {
+          "local_index": 10194,
+          "membership_prob": 1.0,
+          "claim": "Nuclear energy provides stable, clean, and limitless energy essential for running massive server farms and quantum computers. It has zero CO2 emissions, unlike fossil fuels, and runs 24/7 without interruption, unlike wind and solar. Smart capital is flowing into nuclear energy projects worldwide."
+        },
+        {
+          "local_index": 10303,
+          "membership_prob": 1.0,
+          "claim": "Nuclear provides clean, reliable energy, and provides high-paying, reliable jobs."
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 40,
+      "avg_membership_prob": 0.9706884836546819,
+      "representatives": [
+        {
+          "local_index": 3524,
+          "membership_prob": 1.0,
+          "claim": "The City offers tools and rebates to make switching easy. Sign a contract or purchase a qualifying unit and then enter to win a free water heater."
+        },
+        {
+          "local_index": 4035,
+          "membership_prob": 1.0,
+          "claim": "Citigen is E.ON’s hidden power station, buried in the heart of London – supplying a lower carbon and cost-efficient source of energy, right into the heart of The City. The heat pump draws from the natural warmth of the earth, as well as recycling waste heat from power generation, which would otherwise vent into the atmosphere. The innovation not only helps to cut carbon emissions but also helps improve air quality. Its network of pipes run for more than 10 miles underground, providing heating, cooling and electricity to residential and commercial buildings in the Square Mile including the Barbican, the Guildhall and the Museum of London."
+        },
+        {
+          "local_index": 4644,
+          "membership_prob": 1.0,
+          "claim": "The facility features an energy-efficient ground-source heat pump system, on-site solar power to generate clean energy, and thoughtful water-saving strategies."
+        },
+        {
+          "local_index": 4916,
+          "membership_prob": 1.0,
+          "claim": "The facility is powered by a combination of solar energy, biogas, and a thermal energy bridge, manages over 190 million gallons of wastewater daily, cuts CO₂ emissions by 95%, and reduces embodied carbon by 58%."
+        },
+        {
+          "local_index": 5276,
+          "membership_prob": 1.0,
+          "claim": "Deep geothermal energy resides three to 10 miles below the earth’s surface and is one of the Earth’s most abundant and sustainable energy sources. Anywhere on the planet, there is enough heat to power all of our energy needs for the next 20 million years. Unlike solar or wind, deep geothermal energy provides a constant and reliable energy supply, regardless of weather or time of day. Quaise's innovative approach uses the existing workforce and supply chain, so they don’t need to create a new infrastructure from scratch. By providing the multi-terawatt levels of energy required to power our civilization, we can build a truly equitable, clean energy source on a global scale."
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 40,
+      "avg_membership_prob": 0.8387949474655306,
+      "representatives": [
+        {
+          "local_index": 694,
+          "membership_prob": 1.0,
+          "claim": "When food waste breaks down in landfills, it releases methane—a powerful greenhouse gas contributing to climate change. Every banana peel you toss, every wilted lettuce leaf, every forgotten half-onion adds up. Produce planning can help stop fruits and veggies from being thrown out before use."
+        },
+        {
+          "local_index": 10601,
+          "membership_prob": 1.0,
+          "claim": "Bring your old, emptied gas can and exchange it for a free no-spill model—a simple swap that helps reduce emissions, while supplies last."
+        },
+        {
+          "local_index": 9642,
+          "membership_prob": 1.0,
+          "claim": "Methane and climate change, overflowing landfills, contaminated water, and the impact on future generations are reasons to sort food waste."
+        },
+        {
+          "local_index": 8736,
+          "membership_prob": 1.0,
+          "claim": "Food waste takes up 50% of the air space in the Summit County landfill. Eliminating food waste will free up room in the landfill, save money in Summit County, and help curb climate change."
+        },
+        {
+          "local_index": 8464,
+          "membership_prob": 1.0,
+          "claim": "At MAC, we are proud to collaborate with partners, architects, and contractors on a common vision to develop sustainable, low-carbon products that contribute to obtaining LEED."
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 247,
+      "avg_membership_prob": 0.8656630318307381,
+      "representatives": [
+        {
+          "local_index": 11388,
+          "membership_prob": 1.0,
+          "claim": "Denmark is using offshore wind and underwater seafood farming; there is increasing competition for space on land and in the sea."
+        },
+        {
+          "local_index": 4359,
+          "membership_prob": 1.0,
+          "claim": "Your symbolic adoption supports Oceana’s campaigns to combat climate change, stop the expansion of offshore drilling, and protect critical habitats."
+        },
+        {
+          "local_index": 4382,
+          "membership_prob": 1.0,
+          "claim": "The judge ruled that the National Marine Fisheries Service’s biological opinion violates federal law and the Endangered Species Act and fails to protect species like the Rice’s whale and loggerhead sea turtles from future oil spills. This win means NMFS must now reassess the devastating impacts of drilling on the region’s wildlife."
+        },
+        {
+          "local_index": 4421,
+          "membership_prob": 1.0,
+          "claim": "Your symbolic adoption supports Oceana’s campaigns to combat climate change, stop the expansion of offshore drilling, and protect critical habitats. All donations go toward protecting and restoring the world’s oceans."
+        },
+        {
+          "local_index": 5917,
+          "membership_prob": 1.0,
+          "claim": "Trawlers continue with business as usual — bycatching a documented 141 million pounds of marine life on average each year, including king salmon, chum salmon, halibut, herring, squid, crab, whales and more. Trawlers trail nets the size of football fields to catch everything in the water column. When they drag the bottom, they rip up seafloor habitat and crush bottom-dwelling species in a way that never comes up to the surface to be counted. 'Midwater' trawlers, which are allowed to trawl in protected areas, drag the bottom up to 100% of the time. Right now, they’re allowed to bycatch an unlimited number of chum salmon."
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 403,
+      "avg_membership_prob": 0.953291164124859,
+      "representatives": [
+        {
+          "local_index": 11099,
+          "membership_prob": 1.0,
+          "claim": "The plant will use new technology to recycle more plastics, which will reduce waste in our landfills, create jobs, avoid incineration, and clean the air we breathe."
+        },
+        {
+          "local_index": 5024,
+          "membership_prob": 1.0,
+          "claim": "Two people teamed up to turn plastic waste into usable fuel by combining vision and electrical know-how."
+        },
+        {
+          "local_index": 4146,
+          "membership_prob": 1.0,
+          "claim": "Retold recycles most clean, dry household textiles/clothes, including wedding dresses and old or worn items, and partners ensure that items sent overseas have value and purpose at their final destination. By raising consciousness over what we throw away and starting small, we can create easy recycling habits that become second nature. @paradisperdusnyc, @vitaminaswim, and @boody are sustainable brands that receive rewards offers from @retoldrecycling. @goodonyou gives @boody high marks for eco-friendly, ethical practices and animal welfare. @fourpawsusa advocates recycling clothes and textiles to help keep new animal-based products out of the supply chain, avoid pollution and deforestation that destroys habitats, and benefits animals."
+        },
+        {
+          "local_index": 4129,
+          "membership_prob": 1.0,
+          "claim": "Over 552 million shampoo bottles end up in our landfills yearly; Malibu C's new technology reduces the time it takes plastic bottles to biodegrade to several years instead of centuries."
+        },
+        {
+          "local_index": 4067,
+          "membership_prob": 1.0,
+          "claim": "Recycling plastic decreases the need for more plastic to be manufactured. Recycling paper reduces deforestation and saves trees from being cut down. Separating cans and other metals helps cut down on harmful mining and the need for raw materials."
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 26,
+      "avg_membership_prob": 0.9373035579130842,
+      "representatives": [
+        {
+          "local_index": 704,
+          "membership_prob": 1.0,
+          "claim": "Within days, it felt like flipping a switch. Deeper breath. Clearer head. Better sleep."
+        },
+        {
+          "local_index": 10713,
+          "membership_prob": 1.0,
+          "claim": "A man who had been suffering from parasitic infection for 30 years was told by the doctor that he could only rely on drugs for life. However, someone took only 3 days to clear the parasites in his body, and the symptoms such as dizziness and fatigue also disappeared."
+        },
+        {
+          "local_index": 10645,
+          "membership_prob": 1.0,
+          "claim": "Neurix kicks in within minutes with zero crash, just clean focus."
+        },
+        {
+          "local_index": 10563,
+          "membership_prob": 1.0,
+          "claim": "Neurix absorbs instantly, so you’re locked in fast."
+        },
+        {
+          "local_index": 10562,
+          "membership_prob": 1.0,
+          "claim": "Neurix works instantly so you can focus on what matters."
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 44,
+      "avg_membership_prob": 0.9510088387140306,
+      "representatives": [
+        {
+          "local_index": 6384,
+          "membership_prob": 1.0,
+          "claim": "This initiative will create an expansive environmental park offering unique opportunities for outdoor recreation and historical engagement, including access to Civil War-era sites and natural landscapes. By enhancing connectivity across Cool Springs, downtown, and other parts of Franklin, this project not only improves quality of life for residents but also reinforces our city's commitment to preserving historical assets and promoting sustainable community development."
+        },
+        {
+          "local_index": 6329,
+          "membership_prob": 1.0,
+          "claim": "Better roads, green infrastructure & a sustainable ecosystem."
+        },
+        {
+          "local_index": 6413,
+          "membership_prob": 1.0,
+          "claim": "In Portugal, overdose deaths fell by 80%. In Vermont, treatment became available in 24 hours. In Seattle, jail bookings for low-level possession dropped by 60%."
+        },
+        {
+          "local_index": 6427,
+          "membership_prob": 1.0,
+          "claim": "Obesity among Black women is not just about personal choices, and it's not just about systemic barriers. It's about both. Many Black women are actively making changes—choosing whole foods, moving more, and prioritizing wellness. Personal responsibility matters. Building healthy habits like meal prepping, mindful eating, and regular exercise can reduce risk for chronic diseases. Motivation often comes from within—but support makes it sustainable. Food deserts, unsafe neighborhoods, and limited healthcare access make healthy living harder. Cultural norms and historical trauma shape how Black women relate to their bodies and food. Healthcare bias means many don’t get the preventive care or counseling they deserve. Obesity increases the risk of heart disease, stroke, diabetes, and certain cancers. Black women have the highest obesity rates in the U.S., with over 56% classified as obese."
+        },
+        {
+          "local_index": 6870,
+          "membership_prob": 1.0,
+          "claim": "The visitor industry and outdoor recreation are driving economic growth, and there is a lot more demand for recreational facilities. Trails are the essential infrastructure for this new economic model of nature access and sustainable tourism."
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 294,
+      "avg_membership_prob": 0.9178343567658478,
+      "representatives": [
+        {
+          "local_index": 27,
+          "membership_prob": 1.0,
+          "claim": "When you use a commercial car wash, you're helping protect our local creeks too. These car washes make sure all that dirty water and pollution goes to a wastewater treatment plant, and steer pollution away from storm drains, creeks, and the Bay."
+        },
+        {
+          "local_index": 5896,
+          "membership_prob": 1.0,
+          "claim": "Experts remind us to manage our water resources with utmost care. We face a future with severe periods of droughts and torrential rains."
+        },
+        {
+          "local_index": 6281,
+          "membership_prob": 1.0,
+          "claim": "Cutting down forests, mining coal, and building more cities have reduced the land’s ability to absorb water. As a result, floods have become more frequent and severe, putting pressure on roads, bridges, and emergency services."
+        },
+        {
+          "local_index": 6285,
+          "membership_prob": 1.0,
+          "claim": "SB 89 has left a community without a reliable clean water source and has caused lasting effects and irreparable damage to both the health of people and landscape."
+        },
+        {
+          "local_index": 6361,
+          "membership_prob": 1.0,
+          "claim": "We successfully installed the second of two new reverse osmosis (RO) filtration units, marking a major step toward doubling the plant’s treatment capacity. Once online, the upgraded RO system will enable the plant to produce significantly more locally sourced, high-quality drinking water, thereby reducing reliance on imported water and enhancing water security for SMWD customers."
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 151,
+          "membership_prob": 1.0,
+          "claim": "California can’t afford half-measures on climate."
+        },
+        {
+          "local_index": 9826,
+          "membership_prob": 1.0,
+          "claim": "The amount of water the state can provide is projected to drop over the next twenty years due to climate change, according to a new report from the California Department of Water Resources."
+        },
+        {
+          "local_index": 9632,
+          "membership_prob": 1.0,
+          "claim": "Proposition 4 offers a chance to bring the LA River back to life by securing $80 million to rewild it, restore natural habitats, and create green spaces that protect our communities from flooding and extreme heat. Prop 4 will fund rewilding efforts to bring nature back, provide access to parks and green spaces, improve flood protection and water quality."
+        },
+        {
+          "local_index": 9598,
+          "membership_prob": 1.0,
+          "claim": "Due to climate change, the California government has allocated significant funding to make our homes more environmentally friendly and efficient. As a result, many rebates and tax credits will be available in 2023."
+        },
+        {
+          "local_index": 9565,
+          "membership_prob": 1.0,
+          "claim": "Prop 4 is a once in a generation opportunity to invest in CA’s water future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "size": 198,
+      "avg_membership_prob": 0.8733840400812278,
+      "representatives": [
+        {
+          "local_index": 145,
+          "membership_prob": 1.0,
+          "claim": "The Greenheart Study found a 17% drop in an inflammatory blood marker linked to a 10% reduction in heart disease, equivalent to 9 years of life, after over 8,000 trees were planted across 4 square miles involving 750 diverse residents."
+        },
+        {
+          "local_index": 6916,
+          "membership_prob": 1.0,
+          "claim": "WNMU is making a world of difference in the fight for a more sustainable future by being recognized as an official Tree Campus by the Arbor Day Foundation and committing to carbon neutrality by 2030."
+        },
+        {
+          "local_index": 6810,
+          "membership_prob": 1.0,
+          "claim": "One tree makes a world of difference."
+        },
+        {
+          "local_index": 6808,
+          "membership_prob": 1.0,
+          "claim": "When you support Seatrees, you’re not just planting trees — you’re supporting jobs, skills, and hope."
+        },
+        {
+          "local_index": 6708,
+          "membership_prob": 1.0,
+          "claim": "In Tanzania and Kenya, every Maasai girl learns which trees to protect and which plants to harvest sustainably."
+        }
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "size": 40,
+      "avg_membership_prob": 0.8720541279102509,
+      "representatives": [
+        {
+          "local_index": 16,
+          "membership_prob": 1.0,
+          "claim": "MoonBitez Sleep Gummies help you fall asleep faster, sleep deeper, and wake up refreshed without melatonin or grogginess. They are non-habit forming, come in a delicious strawberry flavor, and are backed by science."
+        },
+        {
+          "local_index": 10880,
+          "membership_prob": 1.0,
+          "claim": "It is packed with 5 types of hydrolyzed collagen, plus biotin, hyaluronic acid, and vitamin C, and is made with clean, high-quality ingredients that are easily absorbed for maximum results."
+        },
+        {
+          "local_index": 10845,
+          "membership_prob": 1.0,
+          "claim": "No sugar, no crash—just clean, sustained energy. Enhances stamina and endurance for peak performance. Double liquid extraction for faster absorption and maximum impact."
+        },
+        {
+          "local_index": 10755,
+          "membership_prob": 1.0,
+          "claim": "Boosts energy and stamina. Improves cognitive function and memory. Helps reduce stress and anxiety. Reduces inflammation. Supports immune system. Improves sexual health. Promotes healthy aging."
+        },
+        {
+          "local_index": 10710,
+          "membership_prob": 1.0,
+          "claim": "Rosabella Moringa Powder Capsules have science-backed ingredients to help regulate cortisol, reduce water retention and bloating, flatten the pooch belly, alleviate joint pain, and enhance muscle function."
+        }
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "size": 45,
+      "avg_membership_prob": 0.8046801471710799,
+      "representatives": [
+        {
+          "local_index": 5707,
+          "membership_prob": 1.0,
+          "claim": "Pollinators and bees are installed at solar farms to help populate the pollinators."
+        },
+        {
+          "local_index": 6944,
+          "membership_prob": 1.0,
+          "claim": "The event raises awareness about the challenges honeybees face and promotes sustainable beekeeping practices."
+        },
+        {
+          "local_index": 4922,
+          "membership_prob": 1.0,
+          "claim": "Many of our solar projects incorporate pollinator-supporting grasses, shrubs, and wildflowers on-site, which serve as habitats for pollinators and other prairie-dwelling wildlife."
+        },
+        {
+          "local_index": 7103,
+          "membership_prob": 1.0,
+          "claim": "Photo tourism is found in 39 of Namibia’s 86 conservancies and generates 447% more income than hunting in certain areas. Hunting tourism is conducted in 70 conservancies, generates revenue quickly, has a smaller environmental footprint, and provides jobs for local guides. Strict quotas ensure sustainability and healthy wildlife populations."
+        },
+        {
+          "local_index": 4725,
+          "membership_prob": 1.0,
+          "claim": "By creating a pollinator-friendly habitat beneath our solar panels, Marion County Solar Project is helping local bees thrive."
+        }
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "size": 78,
+      "avg_membership_prob": 0.8040154575811345,
+      "representatives": [
+        {
+          "local_index": 8691,
+          "membership_prob": 1.0,
+          "claim": "Elephants are on the brink of extinction due to climate change, habitat destruction, and ivory poaching."
+        },
+        {
+          "local_index": 8711,
+          "membership_prob": 1.0,
+          "claim": "Elephants are ecosystem engineers, deeply emotional beings, and cultural icons, and they need our protection now more than ever. Climate change is becoming one of the biggest threats to elephants. Ethical elephant experiences never involve rides or performances. Organizations like WildAid work in key areas to reduce the demand for ivory products and strengthen policies preventing the illegal wildlife trade."
+        },
+        {
+          "local_index": 8700,
+          "membership_prob": 1.0,
+          "claim": "Every day, dozens of elephants die as a result of habitat destruction, poaching and climate change."
+        },
+        {
+          "local_index": 8689,
+          "membership_prob": 1.0,
+          "claim": "Elephant herds are threatened by climate change, habitat loss, and ivory poaching, and these creatures are now on the brink of extinction. We set a goal for 2,000 dedicated conservationists to join us to protect elephants."
+        },
+        {
+          "local_index": 8687,
+          "membership_prob": 1.0,
+          "claim": "Elephant populations have declined drastically in the last few decades due to habitat loss, human-wildlife conflict and climate change. Future generations may never have the chance to witness these majestic creatures in the wild unless we act now."
+        }
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "size": 183,
+      "avg_membership_prob": 0.570731408667077,
+      "representatives": [
+        {
+          "local_index": 5861,
+          "membership_prob": 1.0,
+          "claim": "Across America, students are gearing up for the growing number of jobs in climate solutions – from wind and solar to energy efficiency."
+        },
+        {
+          "local_index": 7399,
+          "membership_prob": 1.0,
+          "claim": "These four books on climate spotlight possibility over pessimism, offering silver linings and hopeful perspectives."
+        },
+        {
+          "local_index": 9403,
+          "membership_prob": 1.0,
+          "claim": "I’m launching my new project, ‘Echoes of Home’, where I will aim at raising awareness of climate change. I dedicate my music and craft to sharing hope and solutions for this global crisis. Through my future music, stories, albums, live shows and performances, I will try to bring forward a community of people who support my mission."
+        },
+        {
+          "local_index": 9394,
+          "membership_prob": 1.0,
+          "claim": "Hebrew University is a leader in climate change research."
+        },
+        {
+          "local_index": 9339,
+          "membership_prob": 1.0,
+          "claim": "The Climate Initiative provides educators and students with the free educational and empowerment resources they need to make a difference in their communities and beyond."
+        }
+      ]
+    },
+    {
+      "cluster_id": 15,
+      "size": 68,
+      "avg_membership_prob": 0.7126822141039895,
+      "representatives": [
+        {
+          "local_index": 742,
+          "membership_prob": 1.0,
+          "claim": "Today an internal memo revealed that Trump’s @epagov will close its environmental justice offices nationwide. This is yet another example of this administration’s blatant disregard for Americans’ health and safety."
+        },
+        {
+          "local_index": 563,
+          "membership_prob": 1.0,
+          "claim": "The current presidential administration has targeted these initiatives in its quest to end DEI programs. They’ve also shut down the EPA’s Office of Environmental Justice, as well as the Office of Climate Change and Health Equity. State environmental and health departments, regulatory agencies, city and county governments, elementary schools, nonprofits and tribal communities were among those that received grants."
+        },
+        {
+          "local_index": 542,
+          "membership_prob": 1.0,
+          "claim": "MAGA fanatic Lee Zeldin is trying to gut the Environmental Protection Agency (EPA) in a massive giveaway to Big Polluters. He’s leading the charge to destroy critical regulations that protect Americans from toxic contaminants – including industrial emissions and 'forever chemicals' linked to cancer."
+        },
+        {
+          "local_index": 518,
+          "membership_prob": 1.0,
+          "claim": "The EPA has a long history of cleaning up our air. This week, Trump's EPA Administrator Lee Zeldin will testify before Congress about his plans to slash staff and resources from his agency."
+        },
+        {
+          "local_index": 456,
+          "membership_prob": 1.0,
+          "claim": "Elon Musk and his 'Department of Government Efficiency' have seized access to the EPA's contracts and payments system, targeted environmental agencies with layoffs and halt-work orders, threatened to terminate more than 1,100 EPA employees, put the Office of Environmental Justice on administrative leave, and this will prevent agencies from enforcing laws to keep communities safe from pollution and cleaning up after environmental disasters."
+        }
+      ]
+    },
+    {
+      "cluster_id": 16,
+      "size": 68,
+      "avg_membership_prob": 0.624273829131498,
+      "representatives": [
+        {
+          "local_index": 11456,
+          "membership_prob": 1.0,
+          "claim": "Battery energy storage will deliver locally sourced clean power when we need it most."
+        },
+        {
+          "local_index": 2298,
+          "membership_prob": 1.0,
+          "claim": "Batteries can be deployed in a few months."
+        },
+        {
+          "local_index": 2664,
+          "membership_prob": 1.0,
+          "claim": "Battery energy storage systems (BESS) provide grid reliability, local economic benefits, and more."
+        },
+        {
+          "local_index": 2854,
+          "membership_prob": 1.0,
+          "claim": "ABF plans to produce 20 GWh of battery cells annually."
+        },
+        {
+          "local_index": 2899,
+          "membership_prob": 1.0,
+          "claim": "AzGT utilizes our new Battery Energy Storage Systems (BESS) to store and use renewable energy during peak hours or outages."
+        }
+      ]
+    },
+    {
+      "cluster_id": 17,
+      "size": 56,
+      "avg_membership_prob": 0.5891313373100392,
+      "representatives": [
+        {
+          "local_index": 2668,
+          "membership_prob": 1.0,
+          "claim": "Green hydrogen is produced using renewable resources, helping us build a cleaner, greener planet. Green hydrogen is the key to unlocking sustainable solutions across sectors. Harnessing the power of renewable energy reduces reliance on fossil fuels, driving global energy security. The green hydrogen economy is set to grow exponentially, backed by governments and industries worldwide."
+        },
+        {
+          "local_index": 7869,
+          "membership_prob": 1.0,
+          "claim": "Our experts discuss how hydrogen has emerged as a key component in the energy transition."
+        },
+        {
+          "local_index": 6243,
+          "membership_prob": 1.0,
+          "claim": "Unlike conventional fuels, hydrogen offers a way to store and transfer energy without emitting harmful pollutants."
+        },
+        {
+          "local_index": 9006,
+          "membership_prob": 1.0,
+          "claim": "Hydrogen is a promising clean energy source."
+        },
+        {
+          "local_index": 9949,
+          "membership_prob": 1.0,
+          "claim": "Evidence suggests that there could be a continuous flow of hydrogen, one of the cleanest sources of energy, below North Carolina's eastern shores."
+        }
+      ]
+    },
+    {
+      "cluster_id": 18,
+      "size": 51,
+      "avg_membership_prob": 0.7805977000068931,
+      "representatives": [
+        {
+          "local_index": 2254,
+          "membership_prob": 1.0,
+          "claim": "Clay Lacy Aviation is integrating sustainability into its business strategy; it is investing in sustainable aviation fuel, renewable energy, and carbon reduction initiatives, and is minimizing its environmental impact while enhancing efficiency and industry leadership."
+        },
+        {
+          "local_index": 6926,
+          "membership_prob": 1.0,
+          "claim": "A new report predicts the U.S. sustainable aviation fuel (SAF) market will grow to a value of $6.97 billion by the end of the decade. The study by management consultancy MarketsandMarkets appraised the value of the SAF market last year at under a billion dollars."
+        },
+        {
+          "local_index": 6932,
+          "membership_prob": 1.0,
+          "claim": "Aeromag is transitioning its vehicle fleet to hybrid models and developing new glycol recycling facilities to reduce GHG emissions and help airports shrink their carbon footprint."
+        },
+        {
+          "local_index": 6988,
+          "membership_prob": 1.0,
+          "claim": "The tool is part of the fuel provider’s book-and-claim system, enabling operators to purchase sustainable aviation fuel (SAF) benefit credits even when the actual product is unavailable at that location."
+        },
+        {
+          "local_index": 7255,
+          "membership_prob": 1.0,
+          "claim": "Avfuel has established a new sustainable aviation fuel (SAF) supply terminal in Linden, New Jersey."
+        }
+      ]
+    },
+    {
+      "cluster_id": 19,
+      "size": 27,
+      "avg_membership_prob": 0.9996603793527946,
+      "representatives": [
+        {
+          "local_index": 42,
+          "membership_prob": 1.0,
+          "claim": "SB 404 hands multinational shredding corporations a free pass—while strangling California’s local recyclers with red tape. These small, family-run businesses are the true green economy."
+        },
+        {
+          "local_index": 9786,
+          "membership_prob": 1.0,
+          "claim": "Greenpeace USA has been fighting to protect the planet from corporate exploitation for decades and is currently facing a $300 million lawsuit from Big Oil. Your donation can go twice as far during the 2x match."
+        },
+        {
+          "local_index": 8534,
+          "membership_prob": 1.0,
+          "claim": "NJR announced a five-year funding commitment of $500,000 to advance local environmental stewardship in partnership with Monmouth Conservation Foundation."
+        },
+        {
+          "local_index": 7784,
+          "membership_prob": 1.0,
+          "claim": "With my background in environmental and land use law."
+        },
+        {
+          "local_index": 7598,
+          "membership_prob": 1.0,
+          "claim": "The proceeds of a 2017 sovereign green bond – the first-ever by an emerging market – is funding water tanks in 120 communities, easing daily life for over 42,000 people."
+        }
+      ]
+    },
+    {
+      "cluster_id": 20,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 686,
+          "membership_prob": 1.0,
+          "claim": "We shouldn't be charged for the damage polluters cause."
+        },
+        {
+          "local_index": 10840,
+          "membership_prob": 1.0,
+          "claim": "Smart contains scientifically-backed ingredients for focus, is convenient and easy to take on the go, and has no sugar or crash, just clean energy. Customers report it helps with exams and provides focus without jitters."
+        },
+        {
+          "local_index": 9361,
+          "membership_prob": 1.0,
+          "claim": "The Project 2025 agenda promises to unleash polluters on our air, water, and climate. That means ClientEarth's work to hold corporations directly accountable is about to become more important than ever before."
+        },
+        {
+          "local_index": 9045,
+          "membership_prob": 1.0,
+          "claim": "The NIH will align with the Trump administration’s broader push to dismantle climate science initiatives."
+        },
+        {
+          "local_index": 8619,
+          "membership_prob": 1.0,
+          "claim": "Back in the middle of the 20th century, when we first became a nuclear world, the federal government encouraged American citizens to respond to threats of atomic annihilation by taking up doomsday preparation and bunker acquisition."
+        }
+      ]
+    },
+    {
+      "cluster_id": 21,
+      "size": 46,
+      "avg_membership_prob": 0.8722315693683376,
+      "representatives": [
+        {
+          "local_index": 3600,
+          "membership_prob": 1.0,
+          "claim": "Residential propane systems produce 50% fewer greenhouse gas emissions compared to electric models."
+        },
+        {
+          "local_index": 5665,
+          "membership_prob": 1.0,
+          "claim": "Virtually every part of modern life, like medical equipment, computer chips, cell phones and solar panels are made using the chemical building blocks derived from oil and natural gas."
+        },
+        {
+          "local_index": 6031,
+          "membership_prob": 1.0,
+          "claim": "LNG demand is projected to grow, driven by its ability to displace coal and support rising energy needs especially in Southeast Asia, where existing infrastructure and regional affinity make it a practical solution."
+        },
+        {
+          "local_index": 3585,
+          "membership_prob": 1.0,
+          "claim": "Duke has argued that it must use natural gas during its transition away from coal in order to meet rising demand for energy."
+        },
+        {
+          "local_index": 3512,
+          "membership_prob": 1.0,
+          "claim": "Natural gas is used for heating greenhouses, drying grain, and fueling food processing in Colorado's $47 billion agriculture industry."
+        }
+      ]
+    },
+    {
+      "cluster_id": 22,
+      "size": 52,
+      "avg_membership_prob": 0.8113943324235117,
+      "representatives": [
+        {
+          "local_index": 3627,
+          "membership_prob": 1.0,
+          "claim": "#ethanol adds billions of gallons to our nation’s fuel supply, decreasing dependence on foreign energy sources."
+        },
+        {
+          "local_index": 3624,
+          "membership_prob": 1.0,
+          "claim": "Corn-based ethanol helps increase U.S. energy independence."
+        },
+        {
+          "local_index": 11114,
+          "membership_prob": 1.0,
+          "claim": "Pipelines provide a pathway for locally produced ethanol to be sold into new markets, resulting in local economic growth."
+        },
+        {
+          "local_index": 3158,
+          "membership_prob": 1.0,
+          "claim": "Ethanol is neither an efficient nor a clean fuel. It meant far less corn was available for people and livestock, driving up food prices across the board … so much that it touched off an international food crisis. About 1,000 new jobs in steel and aluminum industries were created at the cost of 75,000 fewer manufacturing jobs being created. Laws giving car dealerships monopolies on local sales add thousands of dollars to the cost of your vehicle."
+        },
+        {
+          "local_index": 3629,
+          "membership_prob": 1.0,
+          "claim": "Fuels blended with ethanol burn cleaner, save you money and are EPA approved for use in cars made in 2001 and after."
+        }
+      ]
+    },
+    {
+      "cluster_id": 23,
+      "size": 22,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 349,
+          "membership_prob": 1.0,
+          "claim": "These lands provide critical habitats, clean water sources, and intact ecosystems that support diverse animal and plant life. When public lands are sold to private owners or developers, protections are lost—private landowners are not required to manage land for wildlife or environmental health, and are less restricted in how they use the land. This often leads to habitat destruction, fragmentation, and pollution from development, resource extraction, or luxury housing projects, which can displace wildlife and permanently damage fragile ecosystems. Once these lands are sold and altered, the natural habitats and ecological functions they provide are often lost forever."
+        },
+        {
+          "local_index": 9071,
+          "membership_prob": 1.0,
+          "claim": "With development rapidly expanding from the east, larger parcels like this are increasingly threatened. Once developed, land can lose its ability to support wildlife, absorb carbon, and provide critical environmental services."
+        },
+        {
+          "local_index": 7487,
+          "membership_prob": 1.0,
+          "claim": "From reindeer herding in Lapland to kayaking in the Arctic Archipelago, this magical destination has it all."
+        },
+        {
+          "local_index": 7449,
+          "membership_prob": 1.0,
+          "claim": "Since its inception, the program has permanently preserved more than 127,000 acres across the state."
+        },
+        {
+          "local_index": 6502,
+          "membership_prob": 1.0,
+          "claim": "Public lands are our gift to the future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 24,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 2127,
+          "membership_prob": 1.0,
+          "claim": "Farmers looking to diversify their income on their land should be applauded, not bullied."
+        },
+        {
+          "local_index": 8135,
+          "membership_prob": 1.0,
+          "claim": "As your state representative, I’m proud to stand with our farmers who work tirelessly to feed our communities and drive our economy."
+        },
+        {
+          "local_index": 8047,
+          "membership_prob": 1.0,
+          "claim": "Our farmers are the backbone of our community, and they deserve fair representation, not corporate favoritism."
+        },
+        {
+          "local_index": 7563,
+          "membership_prob": 1.0,
+          "claim": "Farmland is a finite resource, vital to food security and our economy. Farmland is being paved over, fragmented, or converted to other uses. We all walk the same earth."
+        },
+        {
+          "local_index": 7351,
+          "membership_prob": 1.0,
+          "claim": "The regulations target small farms while overlooking the real issues in industrial systems."
+        }
+      ]
+    },
+    {
+      "cluster_id": 25,
+      "size": 38,
+      "avg_membership_prob": 0.8371921397016853,
+      "representatives": [
+        {
+          "local_index": 100,
+          "membership_prob": 1.0,
+          "claim": "Spews methane pollution from New Mexico to Alaska; Racked up nearly $24 million in environmental penalties; Caught releasing methane just ¾ of a mile from elementary schools; Supported trade groups that lobbied to kill the methane emissions fee."
+        },
+        {
+          "local_index": 3677,
+          "membership_prob": 1.0,
+          "claim": "Methane emissions are rising faster than expected. Methane, the second-leading greenhouse gas, is a major contributor to the climate crisis."
+        },
+        {
+          "local_index": 3673,
+          "membership_prob": 1.0,
+          "claim": "Methane is one of the world’s most powerful greenhouse gases — and cows are a significant source of methane."
+        },
+        {
+          "local_index": 3642,
+          "membership_prob": 1.0,
+          "claim": "Methane is a highly potent greenhouse gas."
+        },
+        {
+          "local_index": 3638,
+          "membership_prob": 1.0,
+          "claim": "Methane is a powerful pollutant."
+        }
+      ]
+    },
+    {
+      "cluster_id": 26,
+      "size": 58,
+      "avg_membership_prob": 0.964542949917218,
+      "representatives": [
+        {
+          "local_index": 3591,
+          "membership_prob": 1.0,
+          "claim": "Buildings are responsible for almost 40% of global greenhouse gas emissions."
+        },
+        {
+          "local_index": 10021,
+          "membership_prob": 1.0,
+          "claim": "Data shows Denbury’s carbon pipelines leak more than any other CO₂ pipeline company’s. In 2020, a CO₂ pipeline rupture in Yazoo County, Mississippi sent 45 people to the hospital and caused the evacuation of more than 200. Since 2010, there have been 76 incidents involving CO₂ pipelines, collectively releasing nearly 67,000 barrels of CO₂ into the air. Denbury was responsible for 12, releasing nearly 54,000 barrels, or 81 percent of that amount, according to federal data. Denbury operates more than 1,100 miles of CO₂ pipelines in the Rocky Mountains and the Gulf Coast. Denbury’s pipelines carry CO₂ extracted from natural underground stores of CO₂, or captured from industrial sources, forming a complex network of interconnected pipelines. The company is one of the largest in the U.S. producing oil though enhanced oil recovery, which uses CO₂ to dislodge oil remnants from nearly depleted stores."
+        },
+        {
+          "local_index": 3614,
+          "membership_prob": 1.0,
+          "claim": "Graphyte is collecting and storing carbon dioxide captured by plants before it is released into the atmosphere."
+        },
+        {
+          "local_index": 3674,
+          "membership_prob": 1.0,
+          "claim": "Greenhouse gases (GHGs) are particles in the Earth’s atmosphere that trap heat, are caused by the burning of oil, coal, and gas. In Broward County, the effects of GHG emissions are seen in recent record high temperatures and more intense rainstorms."
+        },
+        {
+          "local_index": 3923,
+          "membership_prob": 1.0,
+          "claim": "CO2 pipelines transport it to storage sites about a mile underground."
+        }
+      ]
+    },
+    {
+      "cluster_id": 27,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 604,
+          "membership_prob": 1.0,
+          "claim": "Platte River Power Authority's plans will likely lead to longterm rate hikes, increased pollution, and hardships for families and communities, and they are using bad data and changing stories to justify their plans."
+        },
+        {
+          "local_index": 10050,
+          "membership_prob": 1.0,
+          "claim": "The sea level on New Jersey’s coastline has risen more than 16 inches in the past century and is expected to rise an additional 18 inches in just the next 25 years."
+        },
+        {
+          "local_index": 9980,
+          "membership_prob": 1.0,
+          "claim": "Sea levels are expected to rise 1 foot by 2050 and rise 7 feet in many areas by 2100."
+        },
+        {
+          "local_index": 9928,
+          "membership_prob": 1.0,
+          "claim": "Massive floods put more buildings underwater each year."
+        },
+        {
+          "local_index": 9872,
+          "membership_prob": 1.0,
+          "claim": "The Big Sur section of the Coast Highway is experiencing increased rates of closures due to landslides, cliff collapses and rockfalls."
+        }
+      ]
+    },
+    {
+      "cluster_id": 28,
+      "size": 47,
+      "avg_membership_prob": 0.8009672874999982,
+      "representatives": [
+        {
+          "local_index": 11450,
+          "membership_prob": 1.0,
+          "claim": "By voting for HB5120 last year, Rep. Churches fought for landowners to be able to build clean energy on their own property and not be prevented by preemptive local ordinances."
+        },
+        {
+          "local_index": 4435,
+          "membership_prob": 1.0,
+          "claim": "South Dakotans have spoken definitively on forcing taxpayers to fund Green New Deal projects like CO2 pipelines. They have fought tirelessly to protect their private property rights. And they have voted to reject any law that would undermine local control. Congressman Dusty Johnson recently introduced a bill that contradicts all that we hold dear."
+        },
+        {
+          "local_index": 11449,
+          "membership_prob": 1.0,
+          "claim": "By voting for HB5120 last year, Rep. Shannon fought for landowners to be able to build clean energy on their own property and not be prevented by preemptive local ordinances."
+        },
+        {
+          "local_index": 4481,
+          "membership_prob": 1.0,
+          "claim": "A House Energy and Commerce proposal would override state laws that protect landowners’ private property rights from being taken by Green New Deal carbon sequestration pipeline companies. The proposal blocks any state or local law that requires approval for a carbon pipeline’s location. The 45Q tax credit is funding this with our tax dollars."
+        },
+        {
+          "local_index": 4524,
+          "membership_prob": 1.0,
+          "claim": "A foreign-tied corporation is using your tax dollars to take your neighbor’s family property to install a dangerous pipeline in service of the socialist Green New Deal agenda. South Dakota politicians are cutting backroom deals to help them do it."
+        }
+      ]
+    },
+    {
+      "cluster_id": 29,
+      "size": 42,
+      "avg_membership_prob": 0.9632265351233856,
+      "representatives": [
+        {
+          "local_index": 78,
+          "membership_prob": 1.0,
+          "claim": "The Colorado Supreme Court ruled that cities cannot hand out noise permits to private, for-profit venues to bypass statewide noise limits, and the Court made it clear that the Noise Abatement Act protects residents, property values, and quality of life. This ruling sets a precedent that could directly affect the amphitheater project in Colorado Springs, shutting the door on relying on noise permits except for covered exemptions like 4th of July fireworks. Colorado Springs neighborhoods now have stronger legal footing to demand peace and quiet and to stop unchecked noise pollution before it starts."
+        },
+        {
+          "local_index": 11039,
+          "membership_prob": 1.0,
+          "claim": "These facilities are highly regulated and held to strict national and NYS safety and fire protection standards. They emit no emissions, are monitored 24/7, and, as part of our national and NYS Homeland Security Infrastructure, are security fenced and gated."
+        },
+        {
+          "local_index": 10676,
+          "membership_prob": 1.0,
+          "claim": "The Trump administration has already given coal plants a free pass to pollute, erased thousands of clean energy jobs, and targeted major environmental safeguards."
+        },
+        {
+          "local_index": 10337,
+          "membership_prob": 1.0,
+          "claim": "These are national safety, performance, and otherwise notable standards."
+        },
+        {
+          "local_index": 8884,
+          "membership_prob": 1.0,
+          "claim": "The EPA is rolling back regulations and slashing funding for environmental justice organizations, but Air Alliance Houston is standing strong and committed to the fight for clean air for all. Every contribution helps amplify efforts to protect the most vulnerable communities and hold polluters accountable."
+        }
+      ]
+    },
+    {
+      "cluster_id": 30,
+      "size": 64,
+      "avg_membership_prob": 0.802951384761078,
+      "representatives": [
+        {
+          "local_index": 7188,
+          "membership_prob": 1.0,
+          "claim": "Farmers need this data to compete, researchers need it to create climate solutions, and advocates need it to push for more sustainable farming policies."
+        },
+        {
+          "local_index": 6669,
+          "membership_prob": 1.0,
+          "claim": "Desertification and soil degradation are advancing silently in many parts of the world, threatening agricultural productivity, biodiversity, and the livelihoods of millions. Soil is the foundation of productive, resilient, and regenerative agriculture."
+        },
+        {
+          "local_index": 7052,
+          "membership_prob": 1.0,
+          "claim": "Regenerative agriculture can reduce costs and increase revenues, tap into the growing demand for regenerative products, leverage practices to maximize profitability and growth, restore land's natural ecosystems and biodiversity, mitigate climate change by sequestering carbon while improving soil health, build a business that aligns with values and contributes to a sustainable future, enhance soil health and fertility for consistent, high-quality yields, future-proof the business against climate uncertainties and market fluctuations, and safeguard the business for generations to come."
+        },
+        {
+          "local_index": 7224,
+          "membership_prob": 1.0,
+          "claim": "Sustainable agriculture helps improve soil health, enhance food security, and create resilient farming communities."
+        },
+        {
+          "local_index": 7465,
+          "membership_prob": 1.0,
+          "claim": "You’ll gain practical, proven strategies that work in the real world. Here’s what we’ll cover: how to regenerate your soil for healthier crops and livestock, strategies to diversify your income streams while cutting costs, techniques to future-proof your farm against market and climate challenges. With these tools, you’ll create a farm that isn’t just surviving—it’s thriving for generations to come. A legacy you can be proud of. You’ll walk away knowing how to boost profitability without relying on chemicals, strengthen your farm’s resilience, and align your operation with principles of stewardship and sustainability."
+        }
+      ]
+    },
+    {
+      "cluster_id": 31,
+      "size": 85,
+      "avg_membership_prob": 0.870949894338146,
+      "representatives": [
+        {
+          "local_index": 10121,
+          "membership_prob": 1.0,
+          "claim": "Food security is national security — but climate change is making it harder to put food on the table. The Farm Bill funds healthy food initiatives like SNAP for low-income Americans and is overwhelmingly supported by America’s farmers."
+        },
+        {
+          "local_index": 4139,
+          "membership_prob": 1.0,
+          "claim": "Episode three of Barbecue Earth tells the story of one Brazilian company’s entanglement with the smuggling and selling of illegal cattle throughout the Amazon."
+        },
+        {
+          "local_index": 8048,
+          "membership_prob": 1.0,
+          "claim": "Factory farms are a horror for animals, a trap for farmers, a danger to our environment and a disaster for rural communities. The IACA would use conservation funds to convert factory farms into more humane and sustainable operations that allow people, animals, and the planet to thrive. The IACA is the FIRST stand-alone federal legislation focused on helping contract farmers who are stuck in the cruel, unfair factory farming system transition to higher-welfare, more resilient animal and crop production."
+        },
+        {
+          "local_index": 4152,
+          "membership_prob": 1.0,
+          "claim": "Many items on the McDonald's menu are high in calories, saturated fats, trans fats, sodium, and added sugars. Regular consumption of these can contribute to weight gain, high cholesterol, high blood pressure, and an increased risk of chronic conditions like heart disease, diabetes, and obesity. Fast food like McDonald's tends to be low in essential nutrients such as fiber, vitamins, and minerals. Relying heavily on fast food can lead to imbalances in the diet and deficiencies in key nutrients. Fast food often contains additives, preservatives, and artificial ingredients. The high levels of sugar and unhealthy fats in fast food can lead to energy crashes and mood swings after consuming large or particularly unhealthy meals. Fast food production, particularly beef production, can have a significant environmental impact, contributing to deforestation, greenhouse gas emissions, and water usage."
+        },
+        {
+          "local_index": 4177,
+          "membership_prob": 1.0,
+          "claim": "Today, Sentient is the only nonprofit, nonpartisan news outlet dedicated to telling the whole story about factory farms, and we’ve got our work cut out for us. This year, we were there for readers, listeners, journalists and newsrooms to make sure the effects of factory farming on climate change, public health and the animals could no longer be a footnote. The role of nonprofit, nonpartisan media in holding power to account and debunking disinformation is more important than ever before."
+        }
+      ]
+    },
+    {
+      "cluster_id": 32,
+      "size": 91,
+      "avg_membership_prob": 0.9613252225027596,
+      "representatives": [
+        {
+          "local_index": 274,
+          "membership_prob": 1.0,
+          "claim": "The Phillips 66 refinery is closing, and oil execs are leaving us with their toxic mess."
+        },
+        {
+          "local_index": 3891,
+          "membership_prob": 1.0,
+          "claim": "The Railroad Commission of Texas has a history of mismanagement, including thousands of abandoned wells littering the landscape, spills of salty wastewater making soil unfit for plants, underground injection wells causing sinkholes and geysers, and a recent petition to revoke Texas’ primary enforcement responsibility over its underground oil and gas-related injection well program."
+        },
+        {
+          "local_index": 3823,
+          "membership_prob": 1.0,
+          "claim": "Oil and Gas companies have been destroying our climate and flooding the airwaves with fear mongering ads. We have seen devastating climate catastrophes increasing in frequency and severity."
+        },
+        {
+          "local_index": 3702,
+          "membership_prob": 1.0,
+          "claim": "California legislators passed a bill allowing the construction of 2,000 new oil wells annually in the San Joaquin Valley."
+        },
+        {
+          "local_index": 3527,
+          "membership_prob": 1.0,
+          "claim": "The Greenhouse Gas Fund could deliver 41K jobs a year, $52B in energy savings, and $65B in economic growth."
+        }
+      ]
+    },
+    {
+      "cluster_id": 33,
+      "size": 38,
+      "avg_membership_prob": 0.9345994639130948,
+      "representatives": [
+        {
+          "local_index": 1,
+          "membership_prob": 1.0,
+          "claim": "Trump is dismantling science-based solutions needed to protect public health and fight climate change; he has exited the Paris Agreement, rolled back clean energy efforts, fired federal scientists, and waged an assault on environmental justice work."
+        },
+        {
+          "local_index": 9231,
+          "membership_prob": 1.0,
+          "claim": "President Trump has no plans to protect our air, water, or public lands. Trump has nominated climate change denier Lee Zeldin to lead the agency responsible for protecting our environment, and Kristi Noem to oversee our disaster response at FEMA. Under Zeldin and Noem’s direction, the agencies tasked with providing critical disaster relief and upholding environmental health standards will be focused more on lining the pockets of Trump’s billionaire buddies than protecting the planet and everyday people from climate catastrophes."
+        },
+        {
+          "local_index": 9226,
+          "membership_prob": 1.0,
+          "claim": "President Trump told Big Oil billionaires he’d roll back key climate policies in exchange for donations. Now he’s doing exactly as he promised."
+        },
+        {
+          "local_index": 9199,
+          "membership_prob": 1.0,
+          "claim": "President Trump called climate change a hoax and promised to slash clean air & water protections."
+        },
+        {
+          "local_index": 8960,
+          "membership_prob": 1.0,
+          "claim": "Trump just fired the scientists protecting our future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 34,
+      "size": 39,
+      "avg_membership_prob": 0.9161626099939567,
+      "representatives": [
+        {
+          "local_index": 3824,
+          "membership_prob": 1.0,
+          "claim": "The oil and gas industry supports New Mexico's healthcare programs, schools, and community projects. It supplies 49% of the state's revenue which includes $1.2 billion for matching federal medicaid funds and 90% of the funding for the Early Childhood Trust."
+        },
+        {
+          "local_index": 7624,
+          "membership_prob": 1.0,
+          "claim": "The current pace of our oil-driven growth has placed significant strain on our labour force. From truck drivers to specialized healthcare professionals, there is a growing need for more human capital to support our development plans and to meet the future requirements for sustainable growth."
+        },
+        {
+          "local_index": 6290,
+          "membership_prob": 1.0,
+          "claim": "Alaska’s mining industry pays out $1.1 billion in wages, supports 11,800 statewide jobs, and spends $1.1 billion annually with over 450 Alaska businesses. Many everyday products are made with mined materials – like your smartphone and favorite beauty products."
+        },
+        {
+          "local_index": 4532,
+          "membership_prob": 1.0,
+          "claim": "Martin Heinrich and Gabe Vasquez are making every one of us poorer and will destroy the New Mexico economy and eliminate every job in Southeastern New Mexico: the hub of American energy."
+        },
+        {
+          "local_index": 3975,
+          "membership_prob": 1.0,
+          "claim": "Many jobs in New Mexico are provided by the oil and gas industry."
+        }
+      ]
+    },
+    {
+      "cluster_id": 35,
+      "size": 48,
+      "avg_membership_prob": 0.7541717462658285,
+      "representatives": [
+        {
+          "local_index": 8454,
+          "membership_prob": 1.0,
+          "claim": "Extreme heat impacted nearly half the world's population for over 30 days in the summer of 2023."
+        },
+        {
+          "local_index": 9563,
+          "membership_prob": 1.0,
+          "claim": "If you go back 100 years, the sustained cold period across New England was about two to three weeks longer and in some spots across the region, temperatures have warmed by five to six degrees since the 1970s."
+        },
+        {
+          "local_index": 9773,
+          "membership_prob": 1.0,
+          "claim": "In September 2024, temperatures in Moscow are still above 25°C, which is unusual for the season."
+        },
+        {
+          "local_index": 9808,
+          "membership_prob": 1.0,
+          "claim": "Extreme heat days are becoming more common."
+        },
+        {
+          "local_index": 7885,
+          "membership_prob": 1.0,
+          "claim": "Las Vegas has an urban heat island effect that makes the city much hotter than nearby rural areas."
+        }
+      ]
+    },
+    {
+      "cluster_id": 36,
+      "size": 44,
+      "avg_membership_prob": 0.9537687803240718,
+      "representatives": [
+        {
+          "local_index": 281,
+          "membership_prob": 1.0,
+          "claim": "The Permian Basin produces nearly 6 million barrels of oil a day and has massive methane leaks."
+        },
+        {
+          "local_index": 10657,
+          "membership_prob": 1.0,
+          "claim": "We’ve already stored eight years of water for future use — and we'll be recharging more every year. Producing copper on-site will reduce emissions and support America’s clean energy future. And we're taking proactive steps to manage dust–because clean air matters to all of us."
+        },
+        {
+          "local_index": 9955,
+          "membership_prob": 1.0,
+          "claim": "Copper holds the key. From clean energy solutions to innovative technologies, Copper Age 2.0 promises to revolutionize our world once again."
+        },
+        {
+          "local_index": 7350,
+          "membership_prob": 1.0,
+          "claim": "This project creates a cleaner, greener copper supply and leads in water efficiency in mining."
+        },
+        {
+          "local_index": 6786,
+          "membership_prob": 1.0,
+          "claim": "Chevron continues expanding production in the Gulf of America while lowering development costs."
+        }
+      ]
+    },
+    {
+      "cluster_id": 37,
+      "size": 27,
+      "avg_membership_prob": 0.968114367865942,
+      "representatives": [
+        {
+          "local_index": 3317,
+          "membership_prob": 1.0,
+          "claim": "So far in 2024, oil & gas companies and WSPA have spent $13 million lobbying in California."
+        },
+        {
+          "local_index": 3946,
+          "membership_prob": 1.0,
+          "claim": "Taxes are coming out of your paycheck to clean up the mess that Big Oil made."
+        },
+        {
+          "local_index": 3944,
+          "membership_prob": 1.0,
+          "claim": "Big Oil is crying."
+        },
+        {
+          "local_index": 3873,
+          "membership_prob": 1.0,
+          "claim": "Mining, oil & gas businesses have the lowest survival rate of any U.S. industry, impacting their ability to attract capital and seek risk."
+        },
+        {
+          "local_index": 3811,
+          "membership_prob": 1.0,
+          "claim": "California's gas prices could skyrocket as Chevron considers closing its last two refineries, cutting supply by a third."
+        }
+      ]
+    },
+    {
+      "cluster_id": 38,
+      "size": 41,
+      "avg_membership_prob": 0.8212818898131505,
+      "representatives": [
+        {
+          "local_index": 2116,
+          "membership_prob": 1.0,
+          "claim": "74 Oklahoma legislators signed a letter backing natural gas, supporting taxpayers and denouncing tax credits for weather-dependent energy sources; Senate Energy Committee Chair Grant Green and House Energy and Natural Resources Oversight Committee Chair Brad Boles joined The Petroleum Alliance in calling for an end to federal subsidies for renewable energy."
+        },
+        {
+          "local_index": 5776,
+          "membership_prob": 1.0,
+          "claim": "Jim will fight the green energy takeover and oppose wind turbines and solar panels; work to phase out the state income tax by cutting wasteful spending; crack down on illegal immigration by supporting e-verify; and advocate for traditional Oklahoma values and supporting law enforcement in stopping the drug epidemic."
+        },
+        {
+          "local_index": 5225,
+          "membership_prob": 1.0,
+          "claim": "Fake conservatives in Oklahoma are pushing radical policies that tell Oklahoma landowners what kind of energy they can and can’t build on their own land – whether it’s solar, oil, gas, or wind. This hurts our state’s ability to attract good businesses and good jobs."
+        },
+        {
+          "local_index": 5199,
+          "membership_prob": 1.0,
+          "claim": "Radical policies tell Oklahoma landowners what kind of energy they can and can't build on their own land and how much."
+        },
+        {
+          "local_index": 3957,
+          "membership_prob": 1.0,
+          "claim": "I’m the only candidate with a track record of supporting our state’s oil and natural gas industry."
+        }
+      ]
+    },
+    {
+      "cluster_id": 39,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 34,
+          "membership_prob": 1.0,
+          "claim": "When temps rise, so does ozone pollution. Ditch the car and ride electric."
+        },
+        {
+          "local_index": 1679,
+          "membership_prob": 1.0,
+          "claim": "Air pollution from single-occupancy vehicle emissions can cause heart and respiratory-related health issues, according to the EPA."
+        },
+        {
+          "local_index": 1472,
+          "membership_prob": 1.0,
+          "claim": "Tailpipe pollution can lead to asthma and respiratory disease. It’s killing Americans—but Sen. Kelly is fighting for cleaner cars and trucks."
+        },
+        {
+          "local_index": 1471,
+          "membership_prob": 1.0,
+          "claim": "Tailpipe pollution can lead to asthma and respiratory disease. It’s killing Americans—but Rep. Scholten is fighting for cleaner cars and trucks."
+        },
+        {
+          "local_index": 1404,
+          "membership_prob": 1.0,
+          "claim": "You may be hearing more about tailpipe pollution from cars lately, but these health concerns have been around for over 50 years."
+        }
+      ]
+    },
+    {
+      "cluster_id": 40,
+      "size": 120,
+      "avg_membership_prob": 0.6719750571584306,
+      "representatives": [
+        {
+          "local_index": 35,
+          "membership_prob": 1.0,
+          "claim": "Smog gets worse in hot weather and can harm our lungs and the planet."
+        },
+        {
+          "local_index": 1254,
+          "membership_prob": 1.0,
+          "claim": "Woodbury County has the highest asthma rate in the state."
+        },
+        {
+          "local_index": 1506,
+          "membership_prob": 1.0,
+          "claim": "We often don’t catch lung cancer until it’s too late. In Joyce Chen’s lab at the University of Chicago, researchers are developing innovative ways to recreate lung cells in order to accelerate the hunt for new treatments."
+        },
+        {
+          "local_index": 1037,
+          "membership_prob": 1.0,
+          "claim": "From not burning wood to using energy-efficient heating methods, we all have a role in keeping the Bay Area’s air healthy."
+        },
+        {
+          "local_index": 913,
+          "membership_prob": 1.0,
+          "claim": "High air pollution levels can cause chronic cough and worsen asthma – especially for children and older adults."
+        }
+      ]
+    },
+    {
+      "cluster_id": 41,
+      "size": 61,
+      "avg_membership_prob": 0.9287786588112052,
+      "representatives": [
+        {
+          "local_index": 4200,
+          "membership_prob": 1.0,
+          "claim": "BOEM has cut the public out of Lease Sale 258’s review—no hearings, no comment period, no chance for communities or tribes to weigh in on new oil drilling in our own back yard."
+        },
+        {
+          "local_index": 3767,
+          "membership_prob": 1.0,
+          "claim": "The Interior Department announced a new policy Tuesday designed to speed up and expand oil and gas leasing on public land. The plan shortens lease parcel reviews by Interior’s Bureau of Land Management to six months — a timeline that could cut review times in half from what they were during the last two years of the Biden administration."
+        },
+        {
+          "local_index": 3828,
+          "membership_prob": 1.0,
+          "claim": "A potential product of such policy could be the Alaska LNG Project. Trump's Alaska executive order claimed permitting for the $44 billion project to extract natural gas on the North Slope and pipe it to the Kenai Peninsula would be expedited under his administration."
+        },
+        {
+          "local_index": 3846,
+          "membership_prob": 1.0,
+          "claim": "President Trump signed several executive orders putting a priority on oil and natural gas. He officially declared an 'energy emergency,' ended leasing to wind farms, and eliminated the Biden administration's electric vehicle mandate."
+        },
+        {
+          "local_index": 10630,
+          "membership_prob": 1.0,
+          "claim": "The Trump Administration is going all out to reverse our climate progress and stall critical developments in clean energy. They’re cancelling permits and stopping funding for wind and solar while fast-tracking new oil and gas projects."
+        }
+      ]
+    },
+    {
+      "cluster_id": 42,
+      "size": 44,
+      "avg_membership_prob": 0.8802674854840177,
+      "representatives": [
+        {
+          "local_index": 4225,
+          "membership_prob": 1.0,
+          "claim": "The Trump’s administration’s actions pave the way for reckless drilling and mining… even in protected lands like the Arctic National Wildlife Refuge."
+        },
+        {
+          "local_index": 10463,
+          "membership_prob": 1.0,
+          "claim": "640 million acres of public land belong to us. Not oil execs. Not hedge funds. Not billionaires. Right now, 3 million acres are on the chopping block. These lands are where we ride singletrack, cast fly rods, climb granite walls, and breathe clean air. Congressional Republicans are moving now to gut clean energy and sell off our shared backyard. Once it’s gone, it’s gone. This is a land grab disguised as a budget cut. A theft of our future, our culture, our access."
+        },
+        {
+          "local_index": 4207,
+          "membership_prob": 1.0,
+          "claim": "Trump and his corporate buddies are hell-bent on sacrificing iconic wildlife and their fragile habitats for short-term profits. They could soon open MILLIONS of acres of Arctic public lands to devastating drilling and mining operations, which could accelerate extinction for weak and starving polar bears."
+        },
+        {
+          "local_index": 4206,
+          "membership_prob": 1.0,
+          "claim": "Trump is hell-bent on ripping open Alaska’s public lands for mega-polluting mining and drilling projects. As cruel machinery invades their habitats, mother bears and cubs could be crushed to death in their dens. Toxic drilling and pro-oil exploitation harms majestic animals and all our communities."
+        },
+        {
+          "local_index": 3966,
+          "membership_prob": 1.0,
+          "claim": "The White House announced new protections for 13 million acres in the Western Arctic. With a focus on wildlife and native communities, and also on conservation of America’s Arctic and disincentivizing our reliance on oil."
+        }
+      ]
+    },
+    {
+      "cluster_id": 43,
+      "size": 26,
+      "avg_membership_prob": 0.9216307222631797,
+      "representatives": [
+        {
+          "local_index": 125,
+          "membership_prob": 1.0,
+          "claim": "The legislation lets big corporations pollute our air and waters and raises costs for everyday families while giving massive tax breaks to the ultra-wealthy and Big Polluters."
+        },
+        {
+          "local_index": 10495,
+          "membership_prob": 1.0,
+          "claim": "Trump’s spending plan would threaten 17,515 clean energy jobs in North Carolina, cut Medicaid, and slash SNAP benefits for millions of Americans."
+        },
+        {
+          "local_index": 10412,
+          "membership_prob": 1.0,
+          "claim": "The GOP spending plan would amount to a full'sledgehammer' repeal of America’s clean energy investments, raise energy bills that could cost families $400 more each year, put 400,000 good-paying clean energy jobs at risk, slash Medicaid and SNAP benefits for millions of Americans, and give bigger tax cuts to billionaires."
+        },
+        {
+          "local_index": 10226,
+          "membership_prob": 1.0,
+          "claim": "Shifting the 'climate credit' funding would provide year-round bill relief and open the door to a smarter, stronger regional grid."
+        },
+        {
+          "local_index": 8950,
+          "membership_prob": 1.0,
+          "claim": "This bill would finally have polluters pay their fair share of the costly damage brought on by the climate crisis."
+        }
+      ]
+    },
+    {
+      "cluster_id": 44,
+      "size": 126,
+      "avg_membership_prob": 0.9500583249589106,
+      "representatives": [
+        {
+          "local_index": 52,
+          "membership_prob": 1.0,
+          "claim": "The train currently runs to Windsor with more stops coming soon."
+        },
+        {
+          "local_index": 8018,
+          "membership_prob": 1.0,
+          "claim": "Chicago could lose its Greyhound station soon if our public officials don't figure out a solution. Intercity bus service is a vital lifeline for many travelers, and Chicago's station is an essential Midwest hub, connecting people to jobs, family, education, and more. If the current station closes, dozens of bus runs could cease operating altogether because of strained capacity, and the buses that remain would be pushed to a curb down the block where passengers would have to wait in the rain and snow."
+        },
+        {
+          "local_index": 8002,
+          "membership_prob": 1.0,
+          "claim": "Today’s launch of AC Transit’s Zero-Emission Bus University is more than just a win for clean energy."
+        },
+        {
+          "local_index": 7900,
+          "membership_prob": 1.0,
+          "claim": "Our latest #FerrovialBlog explores the power of P3s to modernize highways, reduce traffic congestion, and drive economic growth—using the success of our TEXpress Lanes in Dallas-Fort Worth as a shining example."
+        },
+        {
+          "local_index": 7698,
+          "membership_prob": 1.0,
+          "claim": "CAMTB works tirelessly to expand and enhance sustainable bike-friendly trails throughout California. They provide a statewide unified voice to advocate for smart recreation that contributes to the health of our community, including our tourism economy."
+        }
+      ]
+    },
+    {
+      "cluster_id": 45,
+      "size": 40,
+      "avg_membership_prob": 0.9670249745901177,
+      "representatives": [
+        {
+          "local_index": 9543,
+          "membership_prob": 1.0,
+          "claim": "The negative impacts of climate change demand action from elected officials."
+        },
+        {
+          "local_index": 10299,
+          "membership_prob": 1.0,
+          "claim": "Climate Power is making sure that voters know who is responsible for raising their costs through ads like this one — because inflicting economic pain on working people should come with consequences."
+        },
+        {
+          "local_index": 5449,
+          "membership_prob": 1.0,
+          "claim": "Trump and his cronies will be horrible for the climate. Pakistanis put up solar panels and transformed their energy system without government assistance."
+        },
+        {
+          "local_index": 4195,
+          "membership_prob": 1.0,
+          "claim": "Falsehoods like these three are often at the forefront of delaying essential climate action."
+        },
+        {
+          "local_index": 7339,
+          "membership_prob": 1.0,
+          "claim": "Emerging markets & developing economies face large gaps in funding climate-resilient projects."
+        }
+      ]
+    },
+    {
+      "cluster_id": 46,
+      "size": 22,
+      "avg_membership_prob": 0.9870721615919098,
+      "representatives": [
+        {
+          "local_index": 1407,
+          "membership_prob": 1.0,
+          "claim": "You'll learn actionable strategies to reduce your environmental footprint, optimise your supply chain for sustainability, and stay ahead of the growing demand for eco-friendly practices. You'll gain the skills and confidence to lead the sustainability charge. You'll learn from real case studies, get usable downloadables and policy templates, and earn a CPD certification if you complete the full course."
+        },
+        {
+          "local_index": 11108,
+          "membership_prob": 1.0,
+          "claim": "Senator King has provided tireless leadership on climate and clean energy issues, and his continued leadership is needed as the nation and planet suffer from the impacts of the climate crisis."
+        },
+        {
+          "local_index": 7998,
+          "membership_prob": 1.0,
+          "claim": "The corporate Environmental, Social, and Governance (ESG) movement has grown exponentially in the past decade. The concepts of conscious capitalism and businesses as a force for good have been around for a while."
+        },
+        {
+          "local_index": 7868,
+          "membership_prob": 1.0,
+          "claim": "Businesses across the country have invested in building sustainable futures."
+        },
+        {
+          "local_index": 7856,
+          "membership_prob": 1.0,
+          "claim": "Adopt eco-friendly and sustainable practices."
+        }
+      ]
+    },
+    {
+      "cluster_id": 47,
+      "size": 56,
+      "avg_membership_prob": 0.8916149984871355,
+      "representatives": [
+        {
+          "local_index": 191,
+          "membership_prob": 1.0,
+          "claim": "Air quality alerts because of wildfire smoke have been issued 30 times so far this year by the Minnesota Pollution Control Agency. That brings the state closer to the 41 alerts issued in parts of Minnesota in 2023 and the 37 alerts in 2021."
+        },
+        {
+          "local_index": 9271,
+          "membership_prob": 1.0,
+          "claim": "Wildfires in California have increased in frequency and intensity by over 500% since the 1970s, directly correlated with rising global temperatures. Higher temperatures lead to drier vegetation, creating a perfect storm for wildfires."
+        },
+        {
+          "local_index": 6432,
+          "membership_prob": 1.0,
+          "claim": "The State Wildfire Fund should ensure prevention, rapid response, and recovery for all Californians."
+        },
+        {
+          "local_index": 6366,
+          "membership_prob": 1.0,
+          "claim": "Wildfires are becoming more frequent and destructive, putting families and communities at greater risk. California’s Wildfire Fund is a vital safety net that helps victims recover, but it needs to be strengthened."
+        },
+        {
+          "local_index": 6355,
+          "membership_prob": 1.0,
+          "claim": "The State Wildfire Fund should ensure prevention, rapid response, and recovery for all Californians."
+        }
+      ]
+    },
+    {
+      "cluster_id": 48,
+      "size": 46,
+      "avg_membership_prob": 0.8697138259804743,
+      "representatives": [
+        {
+          "local_index": 10051,
+          "membership_prob": 1.0,
+          "claim": "Scientists have found evidence that storms are now becoming fiercer, gaining in strength quicker and even moving more slowly. Hurricanes are drawing their power from warmer oceans, while also unleashing more severe bouts of rainfall due to the extra moisture held in the Earth’s atmosphere due to global heating. The oceans are heating so fast, some scientists have called for a new 'category 6' classification to be added to storms above 192mph."
+        },
+        {
+          "local_index": 9538,
+          "membership_prob": 1.0,
+          "claim": "Warmer oceans mean higher and higher capacities for the atmosphere to hold rain, which can make storms increasingly more severe."
+        },
+        {
+          "local_index": 9493,
+          "membership_prob": 1.0,
+          "claim": "In the wake of two supercharged hurricanes people desperately need help."
+        },
+        {
+          "local_index": 9450,
+          "membership_prob": 1.0,
+          "claim": "Back-to-back catastrophic hurricanes this fall, first Helene and then Milton, have exposed the risks climate change poses to the 16 million Americans who live in mobile or manufactured homes."
+        },
+        {
+          "local_index": 9703,
+          "membership_prob": 1.0,
+          "claim": "Seeing the damage from Hurricane Helene is a reminder about the dangers of climate change. From internet and power outages, to the logistics of moving necessary goods and services so much of our way of life depends on computers, infrastructure, transportation and more. My opponent doesn't believe this is a serious concern."
+        }
+      ]
+    },
+    {
+      "cluster_id": 49,
+      "size": 186,
+      "avg_membership_prob": 0.9560167637356508,
+      "representatives": [
+        {
+          "local_index": 11137,
+          "membership_prob": 1.0,
+          "claim": "Research shows that when people hear about the climate progress we’re making, they become more likely to support climate action."
+        },
+        {
+          "local_index": 9658,
+          "membership_prob": 1.0,
+          "claim": "Our kids are silently terrified about climate change, school shootings, and social media pressure, and they're scared to open up about it."
+        },
+        {
+          "local_index": 8939,
+          "membership_prob": 1.0,
+          "claim": "The symposium explores rising global health risks posed by Chikungunya and Japanese Encephalitis in an era shaped by climate change and global travel, features world-renowned experts, and offers interactive discussion and CME credits."
+        },
+        {
+          "local_index": 8930,
+          "membership_prob": 1.0,
+          "claim": "Park explains how climate change operates as the silent accumulation of a thousand tiny conflagrations: imperceptibly elevated health risks spread across billions of people; pennies off the dollar of productivity; fewer opportunities for upward mobility."
+        },
+        {
+          "local_index": 8927,
+          "membership_prob": 1.0,
+          "claim": "NOAA will stop tracking disaster costs under Trump. These numbers show real harm."
+        }
+      ]
+    },
+    {
+      "cluster_id": 50,
+      "size": 87,
+      "avg_membership_prob": 0.8071304226148058,
+      "representatives": [
+        {
+          "local_index": 8138,
+          "membership_prob": 1.0,
+          "claim": "EVs offer a quiet, smooth ride — plus a lifetime of savings on gas and car maintenance."
+        },
+        {
+          "local_index": 2626,
+          "membership_prob": 1.0,
+          "claim": "At the event, residents can learn how to produce renewable energy at home and save on their power bill with no upfront costs or credit checks, and the first 50 homeowners to sign up will receive a complimentary Tesla EV Wall Connector."
+        },
+        {
+          "local_index": 2815,
+          "membership_prob": 1.0,
+          "claim": "The Best Western Plus Fresno Inn offers on-site EV charging for our guests."
+        },
+        {
+          "local_index": 10266,
+          "membership_prob": 1.0,
+          "claim": "Federal clean energy incentives are going away, but you can still claim until Sept 30th, 2025; up to $7,500 off a new EV; up to $4,000 off a used EV."
+        },
+        {
+          "local_index": 10789,
+          "membership_prob": 1.0,
+          "claim": "Gainesville was set to receive nearly $11.7 million to build 47 EV charging stations — particularly in underserved communities — making EVs a more accessible option. Now, with clean energy funding caught in political crossfire."
+        }
+      ]
+    },
+    {
+      "cluster_id": 51,
+      "size": 40,
+      "avg_membership_prob": 0.8926251539407903,
+      "representatives": [
+        {
+          "local_index": 2384,
+          "membership_prob": 1.0,
+          "claim": "Anna and Giovanni rely on solar and wind power and feel it's gratifying to be living off clean energy and to know their day-to-day activities are not contributing to fossil fuel extraction. They can tell customers that food products are raised sustainably and that being a part of their story is a selling point."
+        },
+        {
+          "local_index": 5071,
+          "membership_prob": 1.0,
+          "claim": "Wind and solar create thousands of jobs, support rural schools, and provide $1.5 billion in lease payments for landowners each year."
+        },
+        {
+          "local_index": 4975,
+          "membership_prob": 1.0,
+          "claim": "John Johansen is a strong supporter of property rights and has personally signed up for wind and solar. He has seen how decisions are made and believes that current ordinances that restrict wind and solar are a violation of landowners' rights. He notes that additional revenue from wind and solar goes to municipalities, and there is a need for power as demand is on a steep incline."
+        },
+        {
+          "local_index": 4914,
+          "membership_prob": 1.0,
+          "claim": "We’ve met with farmers and ranchers across America who love hosting renewables."
+        },
+        {
+          "local_index": 4833,
+          "membership_prob": 1.0,
+          "claim": "Kathy Krusiec wanted wind or solar on her farm for years and saw hosting renewables as an opportunity to help change the world, save family farms, and address catastrophic climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 52,
+      "size": 31,
+      "avg_membership_prob": 0.9268201118797232,
+      "representatives": [
+        {
+          "local_index": 10210,
+          "membership_prob": 1.0,
+          "claim": "The clean energy will be used to power AI servers and the electricity it generates will be sold to one company: Microsoft."
+        },
+        {
+          "local_index": 6277,
+          "membership_prob": 1.0,
+          "claim": "Coal powers our state, creates jobs, and fuels America."
+        },
+        {
+          "local_index": 6133,
+          "membership_prob": 1.0,
+          "claim": "Save money while staying carbon-neutral with plans from SCANA Energy."
+        },
+        {
+          "local_index": 5560,
+          "membership_prob": 1.0,
+          "claim": "Within years, large AI systems are likely to need as much energy as entire nations."
+        },
+        {
+          "local_index": 4025,
+          "membership_prob": 1.0,
+          "claim": "The Decarbonization Plan identifies energy-efficient measures to ensure GHG compliance, saving cost, time, and resources simultaneously. It is developed to sync seamlessly with your docking schedule."
+        }
+      ]
+    },
+    {
+      "cluster_id": 53,
+      "size": 83,
+      "avg_membership_prob": 0.7175966262656375,
+      "representatives": [
+        {
+          "local_index": 13,
+          "membership_prob": 1.0,
+          "claim": "His allies in the House passed the largest cut to the SNAP program ever, turning their backs on the millions of families who rely on SNAP to pay part of their grocery bill (especially with prices going up!)."
+        },
+        {
+          "local_index": 4558,
+          "membership_prob": 1.0,
+          "claim": "National debt increased about $10T during the Obama's 8 yrs, $4T during Trump's 4 yrs (primarily due to Covid), and so far $7T under her Administration (Primarily due to the 'Green New Deal' hidden in the Inflation Reduction Act and Illegal Immigration). The total number of Illegal/undocumented Immigrants doubled, increasing by 11 million, during this Administration. The costs to taxpayers will continue for many years. Wind and Solar depend on Mother Nature. This Administration tried to install a commercial'small nuclear reactor' on Eielson AFB in Aug 2023, but our DLA canceled the effort."
+        },
+        {
+          "local_index": 4483,
+          "membership_prob": 1.0,
+          "claim": "Republicans promised to cut spending and provide tax relief, but some are now pushing for tax increases instead."
+        },
+        {
+          "local_index": 4478,
+          "membership_prob": 1.0,
+          "claim": "The House Freedom Caucus delivered big wins this week in the House, including boosting deficit reduction from $300 billion to $1.5 trillion, fully funding defense, adding Medicaid work requirements in 2026, eliminating major Green New Deal subsidies, protecting seniors by equalizing Medicaid reimbursement rates, removing illegal aliens from Medicaid, welfare programs, and tax subsidies, removing Medicaid funding for sex change operations on adults and children, and ending taxation and regulation of firearm suppressors."
+        },
+        {
+          "local_index": 6022,
+          "membership_prob": 1.0,
+          "claim": "In 2017, Trump’s Tax Cuts gave families an average of $1,500 back each year, fueled job growth, and helped small businesses thrive. But in 2025, these vital tax cuts are set to expire – leading to higher taxes for all Americans."
+        }
+      ]
+    },
+    {
+      "cluster_id": 54,
+      "size": 31,
+      "avg_membership_prob": 0.971969202215972,
+      "representatives": [
+        {
+          "local_index": 7882,
+          "membership_prob": 1.0,
+          "claim": "Palo Alto has a housing shortage; many income levels are not served by market-rate housing."
+        },
+        {
+          "local_index": 8303,
+          "membership_prob": 1.0,
+          "claim": "The housing shortage negatively impacts our residents, schools, businesses, and tax base. I can draw on my past experience. I know that success requires patience, collaboration, and strong listening skills."
+        },
+        {
+          "local_index": 8106,
+          "membership_prob": 1.0,
+          "claim": "Rising living costs and limited housing options are causing families and individuals to struggle. This leads to market supply issues, delayed homeownership, and regulatory challenges that affect everyone."
+        },
+        {
+          "local_index": 8023,
+          "membership_prob": 1.0,
+          "claim": "With a deep understanding of Palo Alto's key issues and no aspirations for higher office."
+        },
+        {
+          "local_index": 10795,
+          "membership_prob": 1.0,
+          "claim": "China is racing ahead on infrastructure."
+        }
+      ]
+    },
+    {
+      "cluster_id": 55,
+      "size": 53,
+      "avg_membership_prob": 0.9646741593563877,
+      "representatives": [
+        {
+          "local_index": 10,
+          "membership_prob": 1.0,
+          "claim": "HR 4450 strips the NEA of its century-old federal charter—and the $27 million war chest they use to attack and thwart homeschooling in every statehouse. Fewer union dollars = fewer assaults on parent-led education."
+        },
+        {
+          "local_index": 6743,
+          "membership_prob": 1.0,
+          "claim": "That’s why I introduced Senate Bill 130—to implement rigorous, data-driven eligibility checks that ensure only eligible Louisiana residents receive Medicaid benefits. By cross-referencing data from the Office of Motor Vehicles and other agencies, we can quickly identify and remove ineligible, out-of-state enrollees. $75 MILLION! That’s how much 12,000 individuals—who no longer live in Louisiana—were costing our Medicaid program. That is staggering."
+        },
+        {
+          "local_index": 6760,
+          "membership_prob": 1.0,
+          "claim": "Every day people are stripped of the safety nets our tax dollars have paid for."
+        },
+        {
+          "local_index": 7035,
+          "membership_prob": 1.0,
+          "claim": "Government at all levels doesn't have a revenue problem, it has a spending problem."
+        },
+        {
+          "local_index": 7040,
+          "membership_prob": 1.0,
+          "claim": "States have to balance their budgets. Spending limits. Efficiency audits. Taxpayer accountability. It’s not rocket science—it’s common sense."
+        }
+      ]
+    },
+    {
+      "cluster_id": 56,
+      "size": 35,
+      "avg_membership_prob": 0.9046079367522012,
+      "representatives": [
+        {
+          "local_index": 24,
+          "membership_prob": 1.0,
+          "claim": "King County, Washington, makes its debut on the Judicial Hellholes® list at No. 9 due to courts that engage in controversial practices like law shopping and allowing junk science evidence, resulting in nuclear verdicts that inflate costs and stifle economic prosperity. Washington state residents pay nearly $2,290 annually in 'tort tax,' and over 163,000 jobs are lost each year due to excessive tort costs."
+        },
+        {
+          "local_index": 11043,
+          "membership_prob": 1.0,
+          "claim": "The Allen Consolidated Schools District lowered its property tax levy from $.92 cents to $.62 cents, due in part to new tax revenues generated by a local wind farm."
+        },
+        {
+          "local_index": 10882,
+          "membership_prob": 1.0,
+          "claim": "Missing out on millions in property tax revenue is unacceptable."
+        },
+        {
+          "local_index": 10214,
+          "membership_prob": 1.0,
+          "claim": "The County Administrator confirmed that this tax revenue was 15% of their budget."
+        },
+        {
+          "local_index": 8189,
+          "membership_prob": 1.0,
+          "claim": "The county's budget relies heavily on external revenue sources, with property taxes accounting for only $163 million for general fund operations out of a total of nearly $2 billion. Federal and state funding for homeless prevention and housing programs and the Metro Supportive Housing Services measure is uncertain. Transportation project costs are skyrocketing, and gas taxes are unsustainable due to the constitutional requirement to allocate 40% to non-highway purposes. The clinics serving the community are heavily dependent on federal and state funding, and potential cuts are possible."
+        }
+      ]
+    },
+    {
+      "cluster_id": 57,
+      "size": 23,
+      "avg_membership_prob": 0.9976156367292294,
+      "representatives": [
+        {
+          "local_index": 6371,
+          "membership_prob": 1.0,
+          "claim": "The $25/hour wage mandate means a $7M annual budget hit and $66M in lost city revenue over 10 years."
+        },
+        {
+          "local_index": 10851,
+          "membership_prob": 1.0,
+          "claim": "SRP Board raises rates 23% in 5 years."
+        },
+        {
+          "local_index": 9975,
+          "membership_prob": 1.0,
+          "claim": "U.S. Treasury Secretary Janet Yellen announced that transitioning to a low-carbon global economy will require $78 trillion in financing by 2050."
+        },
+        {
+          "local_index": 8940,
+          "membership_prob": 1.0,
+          "claim": "The price tag could reach $4.7 trillion by 2050."
+        },
+        {
+          "local_index": 7651,
+          "membership_prob": 1.0,
+          "claim": "Erik A. Groset has saved the district over $4 million by realigning investment strategies, keeping rates low for the last two years."
+        }
+      ]
+    },
+    {
+      "cluster_id": 58,
+      "size": 74,
+      "avg_membership_prob": 0.9447596201769134,
+      "representatives": [
+        {
+          "local_index": 7126,
+          "membership_prob": 1.0,
+          "claim": "Housing in Colorado has increased 132.4% since 2010, while the median household income has increased 65.2%."
+        },
+        {
+          "local_index": 6943,
+          "membership_prob": 1.0,
+          "claim": "These endowment funds are professionally invested to provide long-term, steady income that supports teacher pay year after year. Draining the principal now risks jeopardizing current and future earnings growth."
+        },
+        {
+          "local_index": 7065,
+          "membership_prob": 1.0,
+          "claim": "We’ve offered ATU a competitive wage increase of 10.5% over the next three years, along with continued benefits and job security. Unfortunately, union leadership canceled the vote on this offer—denying their own members the opportunity to decide and further delaying a resolution. Service cuts and delays continue, daily disruptions for working families, and ongoing uncertainty across our transit system."
+        },
+        {
+          "local_index": 7090,
+          "membership_prob": 1.0,
+          "claim": "The Village concluded FY 2022 and FY 2023 with a combined surplus of $3.4 million, as verified by independent auditors on February 4, 2025. In April 2024, the Village approved the strategic allocation of $795,000 from its reserves to address unfunded pension obligations, appropriately staff departments, and enhance operational efficiency. The FY 2025 budget includes a planned allocation that projects a General Fund balance of approximately $8.3 million, which represents 34.8% of the budgeted expenditures. The Village has preserved its favorable A2 bond rating from Moody’s, attributed to recent policy enhancements, timely financial reporting, proactive capital planning, and the commitment of the new management team to address pension liabilities. The Village clearly communicated these budgetary plans and financial strategies in significant detail."
+        },
+        {
+          "local_index": 7202,
+          "membership_prob": 1.0,
+          "claim": "The Assembly plays a critical role in school funding."
+        }
+      ]
+    },
+    {
+      "cluster_id": 59,
+      "size": 48,
+      "avg_membership_prob": 0.8811845677043845,
+      "representatives": [
+        {
+          "local_index": 11385,
+          "membership_prob": 1.0,
+          "claim": "This project is expected to generate millions of dollars for local farmers through direct lease payments to landowners, providing a stream of revenue that Calumet County farmers can depend on."
+        },
+        {
+          "local_index": 8543,
+          "membership_prob": 1.0,
+          "claim": "Investing in infrastructure means upgrading our roads, bridges, and utilities to meet the needs of our growing population. It also involves smart planning that considers sustainability and community resilience. By prioritizing these projects, we can create jobs, attract new businesses, and improve the overall well-being of our residents."
+        },
+        {
+          "local_index": 8439,
+          "membership_prob": 1.0,
+          "claim": "This means investing in infrastructure, supporting local businesses, and ensuring that development enhances, rather than disrupts, our community fabric."
+        },
+        {
+          "local_index": 7938,
+          "membership_prob": 1.0,
+          "claim": "It threatens to eliminate thousands of local jobs, impacting local services like police and fire, while raising the cost of living and destroying sustainable dairy farming in Sonoma County."
+        },
+        {
+          "local_index": 7636,
+          "membership_prob": 1.0,
+          "claim": "When the Town of Palisade chooses to 'Buy Local', we're not just procuring needed services — we're circulating money back into our community, supporting the creation of jobs and helping to fund essential infrastructure like schools, roads, and parks. According to the Small Business Administration, when we spend our tax dollars locally, 68% of that expenditure stays within our community. TechnologyWest specializes in serving government agencies in Western Colorado and is well-equipped to meet and exceed the unique technology needs our town demands."
+        }
+      ]
+    },
+    {
+      "cluster_id": 60,
+      "size": 48,
+      "avg_membership_prob": 0.7769750669182764,
+      "representatives": [
+        {
+          "local_index": 3526,
+          "membership_prob": 1.0,
+          "claim": "Ninety percent of leaders are already investing in Generative AI in some way."
+        },
+        {
+          "local_index": 10084,
+          "membership_prob": 1.0,
+          "claim": "AI4.0 quantum computing model accurately predicts stock trends. 90% investment win rate. Free targeted investment advice and stock trading information. Free 30% to 50% high-dividend quality stocks every month. Insider trading information and opportunities shared in real time."
+        },
+        {
+          "local_index": 9965,
+          "membership_prob": 1.0,
+          "claim": "Market-moving deepfakes. Social engineering by meme. Attacks on AI trading models."
+        },
+        {
+          "local_index": 9421,
+          "membership_prob": 1.0,
+          "claim": "If AI isn't moving in a direction that benefits society, we need to invest to change it because AI is amazing. It's a promising tool, so we really need to get it right."
+        },
+        {
+          "local_index": 9074,
+          "membership_prob": 1.0,
+          "claim": "AI has the potential to fuel historic levels of wealth concentration, leaving workers behind while a handful of companies profit."
+        }
+      ]
+    },
+    {
+      "cluster_id": 61,
+      "size": 28,
+      "avg_membership_prob": 0.9436806801886776,
+      "representatives": [
+        {
+          "local_index": 1014,
+          "membership_prob": 1.0,
+          "claim": "As a nation, we’ve made great progress toward climate solutions with the Inflation Reduction Act (IRA) and policies that protect against using fossil fuels. Clean air and our health depend on continuing these hard-won policies."
+        },
+        {
+          "local_index": 11380,
+          "membership_prob": 1.0,
+          "claim": "Two years ago, the largest investment in clean energy and climate action ever — the Inflation Reduction Act — was signed into law. Through its support, we’re taking bold steps to strengthen our grid, enhance resilience, and secure our future."
+        },
+        {
+          "local_index": 11358,
+          "membership_prob": 1.0,
+          "claim": "Together, the Bipartisan Infrastructure Law and the Inflation Reduction Act invest more than $1.5 trillion into climate action, clean energy and good-paying jobs."
+        },
+        {
+          "local_index": 10095,
+          "membership_prob": 1.0,
+          "claim": "The Inflation Reduction Act includes rebates and tax credits."
+        },
+        {
+          "local_index": 10043,
+          "membership_prob": 1.0,
+          "claim": "The Inflation Reduction Act has created tens of thousands of jobs since its passage. It will help families and businesses save on home energy updates, and improve our air and water quality."
+        }
+      ]
+    },
+    {
+      "cluster_id": 62,
+      "size": 96,
+      "avg_membership_prob": 0.9442021886575662,
+      "representatives": [
+        {
+          "local_index": 6891,
+          "membership_prob": 1.0,
+          "claim": "California’s High-Speed Rail Project is creating over 14,700 good-paying construction jobs and $22 billion in economic activity."
+        },
+        {
+          "local_index": 10557,
+          "membership_prob": 1.0,
+          "claim": "This would put 42,000 Georgia jobs and $28 billion in local investments on the line."
+        },
+        {
+          "local_index": 5856,
+          "membership_prob": 1.0,
+          "claim": "It would bring 815 good-paying jobs."
+        },
+        {
+          "local_index": 6219,
+          "membership_prob": 1.0,
+          "claim": "This funding is nearly doubling Landforce’s crew member workforce this year, helping people with barriers to employment earn progressive wage increases through high-paying jobs that teach the hard and soft skills crew members need to thrive in today’s job market."
+        },
+        {
+          "local_index": 6225,
+          "membership_prob": 1.0,
+          "claim": "Thanks to the CHIPS and Science Act, $41M in federal grants will support Headwaters Tech Hub and Grand Farm."
+        }
+      ]
+    },
+    {
+      "cluster_id": 63,
+      "size": 26,
+      "avg_membership_prob": 0.988188464559178,
+      "representatives": [
+        {
+          "local_index": 2020,
+          "membership_prob": 1.0,
+          "claim": "Our employees buy supplies from the nearby hardware store, eat at area restaurants, and fill up their trucks at local gas stations. Once a project is operational, we continue to patronize local businesses for ongoing maintenance, like landscaping, solar panel washing, and equipment servicing."
+        },
+        {
+          "local_index": 10358,
+          "membership_prob": 1.0,
+          "claim": "It slows down America's progress in the global AI race, raises Pennsylvanians' electricity bills, and kills local jobs."
+        },
+        {
+          "local_index": 10339,
+          "membership_prob": 1.0,
+          "claim": "From the diner to the pizza shop, local businesses are buzzing with new energy, new customers, and a renewed sense of opportunity."
+        },
+        {
+          "local_index": 9557,
+          "membership_prob": 1.0,
+          "claim": "He has funded the greatest number of infrastructure projects in the city’s modern history."
+        },
+        {
+          "local_index": 8384,
+          "membership_prob": 1.0,
+          "claim": "Major projects like the $400 million I-25 and I-80 interchange are powered by bipartisan federal investments. Support for federal funding keeps our roads rolling."
+        }
+      ]
+    },
+    {
+      "cluster_id": 64,
+      "size": 67,
+      "avg_membership_prob": 0.6434683426645652,
+      "representatives": [
+        {
+          "local_index": 5091,
+          "membership_prob": 1.0,
+          "claim": "Organizations and homeowners are working to protect programs that support clean energy adoption in the state."
+        },
+        {
+          "local_index": 10179,
+          "membership_prob": 1.0,
+          "claim": "The result: cleaner air, reliable energy, and affordable power for communities across the state."
+        },
+        {
+          "local_index": 10728,
+          "membership_prob": 1.0,
+          "claim": "Clean energy powers homes and lowers energy bills in West Virginia."
+        },
+        {
+          "local_index": 10729,
+          "membership_prob": 1.0,
+          "claim": "Clean energy powers homes and lowers energy bills in Arizona."
+        },
+        {
+          "local_index": 10731,
+          "membership_prob": 1.0,
+          "claim": "Clean energy powers homes and lowers energy bills in Colorado."
+        }
+      ]
+    },
+    {
+      "cluster_id": 65,
+      "size": 28,
+      "avg_membership_prob": 0.9566614883151914,
+      "representatives": [
+        {
+          "local_index": 10395,
+          "membership_prob": 1.0,
+          "claim": "Michiganders deserve better than yesterday's technology being wrapped up in duct tape and bailing wire while we pay the costs."
+        },
+        {
+          "local_index": 10971,
+          "membership_prob": 1.0,
+          "claim": "General Motors and Western Michigan University are partnering."
+        },
+        {
+          "local_index": 10901,
+          "membership_prob": 1.0,
+          "claim": "Michiganders take big swings to achieve big results."
+        },
+        {
+          "local_index": 10843,
+          "membership_prob": 1.0,
+          "claim": "Legacy employers such as GM invest in Michigan jobs along the frontier of technology."
+        },
+        {
+          "local_index": 11321,
+          "membership_prob": 1.0,
+          "claim": "Sempra made over $3 billion in 2023, more than double their 2021 profits, but it continued to seek rate increases. Sempra has been fined for using ratepayer dollars to lobby against climate policy and cheaper clean energy alternatives. Sempra's CEO was the second highest-paid utility CEO in the country last year, making $27.4 million."
+        }
+      ]
+    },
+    {
+      "cluster_id": 66,
+      "size": 49,
+      "avg_membership_prob": 0.9510202350940757,
+      "representatives": [
+        {
+          "local_index": 332,
+          "membership_prob": 1.0,
+          "claim": "For many frontline communities, the EPA’s Environmental Justice office is a key source of support in fighting pollution and protecting their health."
+        },
+        {
+          "local_index": 8175,
+          "membership_prob": 1.0,
+          "claim": "Brightline is dedicated to environmental justice since 2006 and empowers communities and creates sustainable environments through policy advocacy, education, and direct services. They partner with local leaders to share knowledge, create training programs, and build coalitions that empower frontline communities to gain the data, skills, and access they need to advocate for healthy environments."
+        },
+        {
+          "local_index": 8751,
+          "membership_prob": 1.0,
+          "claim": "A recent drought in southern Spain has led to the re-emergence of a 7,000-year-old megalithic monument. This archaeological site was hidden by water and sediment but has now been brought to light by changing environmental conditions. The structure is believed to have been constructed by prehistoric communities that thrived on the Iberian Peninsula around 7,000 years ago, 2,000 years before the construction of the Egyptian Pyramids and Stonehenge. These ancient builders used massive stones to create structures that may have been ceremonial or astronomical, aligning them with natural elements or celestial events, much like their later counterparts in other parts of the world. The monument provides a glimpse into the spiritual and social lives of early humans in the Iberian region and underscores the rich, yet still partially uncovered, prehistoric legacy of Europe. Climate change and drought conditions are exposing hidden relics, giving archaeologists new opportunities to study and reinterpret early human history."
+        },
+        {
+          "local_index": 8067,
+          "membership_prob": 1.0,
+          "claim": "By attending, you support the movements and initiatives of Indigenous youth and leaders advocating for water sovereignty, justice, and the protection of all life."
+        },
+        {
+          "local_index": 8064,
+          "membership_prob": 1.0,
+          "claim": "Together, along with other #MDBs, we are committed to addressing global challenges such as poverty and climate change, focusing on solutions that build a brighter, more sustainable future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 67,
+      "size": 44,
+      "avg_membership_prob": 0.8512681911515362,
+      "representatives": [
+        {
+          "local_index": 1161,
+          "membership_prob": 1.0,
+          "claim": "Our CEO, Géraldine Picaud, discusses our IMPACT NOW for sustainability services framework, a key step towards achieving our Strategy 27 goals."
+        },
+        {
+          "local_index": 8953,
+          "membership_prob": 1.0,
+          "claim": "Get the tools to help our planet, the only one we have."
+        },
+        {
+          "local_index": 8862,
+          "membership_prob": 1.0,
+          "claim": "Our latest blog details how the National Science Foundation has begun canceling hundreds of grants to 'left-wing research projects.' These projects include concepts related to 'equity,' intersectionality, 'latinx,' and climate change."
+        },
+        {
+          "local_index": 8710,
+          "membership_prob": 1.0,
+          "claim": "Do less of what hurts the planet."
+        },
+        {
+          "local_index": 7910,
+          "membership_prob": 1.0,
+          "claim": "Small actions today will create a sustainable future for generations to come."
+        }
+      ]
+    },
+    {
+      "cluster_id": 68,
+      "size": 23,
+      "avg_membership_prob": 0.9976015948920834,
+      "representatives": [
+        {
+          "local_index": 1856,
+          "membership_prob": 1.0,
+          "claim": "45 municipalities across SE PA have adopted renewable energy resolutions.  20 of these are in Montgomery County."
+        },
+        {
+          "local_index": 4925,
+          "membership_prob": 1.0,
+          "claim": "Expanding wind and solar generation helps reduce our reliance on dirty and foreign energy, which in turn helps reduce greenhouse emissions that are warming the planet and changing the climate. Recurrent flooding from rising sea levels represents an existential threat to the region."
+        },
+        {
+          "local_index": 2956,
+          "membership_prob": 1.0,
+          "claim": "Wind and solar technologies allow us to leverage local sources of energy — the Texas wind and sun — to support a more varied, secure, and resilient electrical grid."
+        },
+        {
+          "local_index": 2822,
+          "membership_prob": 1.0,
+          "claim": "Renewable energy means extra income for farmers, more jobs, and lower taxes."
+        },
+        {
+          "local_index": 2723,
+          "membership_prob": 1.0,
+          "claim": "Renewable energy projects create family-wage jobs, expand the local tax base, and invest millions of dollars in rural communities. In Illinois, they support farming families while funding local schools, fire departments, and road repairs."
+        }
+      ]
+    },
+    {
+      "cluster_id": 69,
+      "size": 22,
+      "avg_membership_prob": 0.9983141464970239,
+      "representatives": [
+        {
+          "local_index": 1101,
+          "membership_prob": 1.0,
+          "claim": "A $75M investment from Joe Biden's clean energy plan is being used to upgrade the Butler Works steel plant, resulting in 1,300 union jobs staying in Butler County."
+        },
+        {
+          "local_index": 11466,
+          "membership_prob": 1.0,
+          "claim": "Michigan labor leaders are celebrating an upcoming $8B investment in clean energy projects that will create 160,000 new jobs across the state."
+        },
+        {
+          "local_index": 11446,
+          "membership_prob": 1.0,
+          "claim": "A new report shows that at least 58 new clean energy projects have been announced or moved forward in Michigan since the passage of President Joe Biden’s Inflation Reduction Act—marking more new projects than nearly every other state."
+        },
+        {
+          "local_index": 11379,
+          "membership_prob": 1.0,
+          "claim": "MI receives $1B for clean energy hub."
+        },
+        {
+          "local_index": 11378,
+          "membership_prob": 1.0,
+          "claim": "Emma is one of 240,000 clean energy workers in Michigan."
+        }
+      ]
+    },
+    {
+      "cluster_id": 70,
+      "size": 26,
+      "avg_membership_prob": 0.9655789479941526,
+      "representatives": [
+        {
+          "local_index": 1756,
+          "membership_prob": 1.0,
+          "claim": "I led the charge for Hamden High’s new fuel cell, cutting our carbon footprint, saving taxpayers $2M in just 4 years, and achieving all this with zero cost to residents."
+        },
+        {
+          "local_index": 10585,
+          "membership_prob": 1.0,
+          "claim": "Rep. Barrett just voted for a total repeal of clean energy investments – gutting American-made energy to fund tax cuts for billionaires."
+        },
+        {
+          "local_index": 10584,
+          "membership_prob": 1.0,
+          "claim": "Rep. Fitzpatrick just voted for a total repeal of clean energy investments – gutting American-made energy to fund tax cuts for billionaires."
+        },
+        {
+          "local_index": 10583,
+          "membership_prob": 1.0,
+          "claim": "Rep. Perry just voted for a total repeal of clean energy investments – gutting American-made energy to fund tax cuts for billionaires."
+        },
+        {
+          "local_index": 10582,
+          "membership_prob": 1.0,
+          "claim": "Rep. Carter just voted for a total repeal of clean energy investments – gutting American-made energy to fund tax cuts for billionaires."
+        }
+      ]
+    },
+    {
+      "cluster_id": 71,
+      "size": 44,
+      "avg_membership_prob": 0.9655708539255734,
+      "representatives": [
+        {
+          "local_index": 130,
+          "membership_prob": 1.0,
+          "claim": "As Nevada bakes from extreme heat, Representative Amodei voted for more pollution and higher energy bills."
+        },
+        {
+          "local_index": 11230,
+          "membership_prob": 1.0,
+          "claim": "Congressman Fitzpatrick has played a key role in advancing clean energy technologies that have created nearly 94,000 jobs in Pennsylvania. During his time in the U.S. House, Congressman Fitzpatrick has worked to promote a safe and healthy environment, supported job-creating policies that strengthen our energy economy, and has championed forward-looking legislation to encourage innovation in energy storage."
+        },
+        {
+          "local_index": 11177,
+          "membership_prob": 1.0,
+          "claim": "Hunter Smith, a candidate for District 24 seat in the Indiana State House, was named a Champion for Clean Energy by the Conservatives for a Clean Energy Future (CCEF)."
+        },
+        {
+          "local_index": 11086,
+          "membership_prob": 1.0,
+          "claim": "Rep. Notter is opposing local, cheap, clean energy sources."
+        },
+        {
+          "local_index": 10833,
+          "membership_prob": 1.0,
+          "claim": "Several bills moving through the Arizona Legislature could lead to higher energy costs while also stifling competition and slowing clean energy progress."
+        }
+      ]
+    },
+    {
+      "cluster_id": 72,
+      "size": 42,
+      "avg_membership_prob": 0.9664021552832338,
+      "representatives": [
+        {
+          "local_index": 4764,
+          "membership_prob": 1.0,
+          "claim": "Never lose power during blackouts or emergencies. Harness the power of the sun to stay connected off-grid. Small, durable, and easy to carry in any survival kit. Built-in flashlight for nighttime safety. Available now with a special offer."
+        },
+        {
+          "local_index": 4844,
+          "membership_prob": 1.0,
+          "claim": "The battery power station and solar panels will ensure that lights, communications, and vital rescue tools will operate when the mains power is out and it is too dangerous to run a diesel generator which attracts drone attacks."
+        },
+        {
+          "local_index": 4878,
+          "membership_prob": 1.0,
+          "claim": "California's clean energy waits years to connect. Texas deployed three times more cheap solar than California in 2024."
+        },
+        {
+          "local_index": 5301,
+          "membership_prob": 1.0,
+          "claim": "It is powered by solar energy and equipped with a hand crank for backup charging, ensuring you’re never without power."
+        },
+        {
+          "local_index": 2865,
+          "membership_prob": 1.0,
+          "claim": "California just celebrated its 100th day of meeting 100% of its electricity demand with renewable energy."
+        }
+      ]
+    },
+    {
+      "cluster_id": 73,
+      "size": 47,
+      "avg_membership_prob": 0.8761867491533556,
+      "representatives": [
+        {
+          "local_index": 11389,
+          "membership_prob": 1.0,
+          "claim": "The council secretly revised and passed a revised resolution that no longer opposes the rate hike, despite the original agenda opposing NV Energy’s proposed rate hike from $16.50 to $45.30, which is the highest basic service charge in the nation. The utility has requested the rate change go into effect on October 1st. As a result of the increase, NV Energy’s revenue is projected to increase by $94.8 million per year. Reno will now pay $45.30, the highest known basic service charge in the USA is $37.41."
+        },
+        {
+          "local_index": 7738,
+          "membership_prob": 1.0,
+          "claim": "Energy costs shouldn't force families to choose between heating their homes and putting food on the table."
+        },
+        {
+          "local_index": 8001,
+          "membership_prob": 1.0,
+          "claim": "Families and seniors across our state are choosing between heating their homes and affording medications. This isn’t sustainable."
+        },
+        {
+          "local_index": 10334,
+          "membership_prob": 1.0,
+          "claim": "This new law is expected to add $170 each year on average to your energy bill, and more than $400 a year for people in several states over the next decade."
+        },
+        {
+          "local_index": 4439,
+          "membership_prob": 1.0,
+          "claim": "The largest utility rate increase in U.S. history is coming for your wallet—draining Florida families for years."
+        }
+      ]
+    },
+    {
+      "cluster_id": 74,
+      "size": 73,
+      "avg_membership_prob": 0.750501159549898,
+      "representatives": [
+        {
+          "local_index": 197,
+          "membership_prob": 1.0,
+          "claim": "Electric bills are rising faster than inflation."
+        },
+        {
+          "local_index": 10207,
+          "membership_prob": 1.0,
+          "claim": "Our bills are already too high, and an average customer could see a 120% increase by 2039."
+        },
+        {
+          "local_index": 4662,
+          "membership_prob": 1.0,
+          "claim": "Now families face higher electric bills, a weaker power grid, and more risk of blackouts."
+        },
+        {
+          "local_index": 5657,
+          "membership_prob": 1.0,
+          "claim": "The innovative Clean Power Prescription program is helping offset the cost of electricity for patients."
+        },
+        {
+          "local_index": 2563,
+          "membership_prob": 1.0,
+          "claim": "Electric bills in Connecticut are skyrocketing, and 68,000 people signed a petition demanding action."
+        }
+      ]
+    },
+    {
+      "cluster_id": 75,
+      "size": 101,
+      "avg_membership_prob": 0.6274986029174205,
+      "representatives": [
+        {
+          "local_index": 5434,
+          "membership_prob": 1.0,
+          "claim": "Over 60% of Iowa's energy comes from wind."
+        },
+        {
+          "local_index": 2048,
+          "membership_prob": 1.0,
+          "claim": "The wind energy revolution in Iowa began with the enactment of a state law in 1983, requiring investor-owned utilities to purchase 105 MW of power from wind generation, making Iowa the first state with a renewable portfolio standard. By 2019, wind energy surpassed coal in electricity generation, accounting for over 40%, and by 2022, capacity exceeded 12,200 MW, providing over 62% of the state’s electricity, ranking Iowa second nationally behind Texas."
+        },
+        {
+          "local_index": 5627,
+          "membership_prob": 1.0,
+          "claim": "Alternative energy advocates say Iowa is making significant progress on reaching its green power goals by 2035."
+        },
+        {
+          "local_index": 5437,
+          "membership_prob": 1.0,
+          "claim": "Iowa's utility-scale clean energy capacity – currently at over 13,000 MW – generates nearly $135 million annually in tax and land lease revenue for Iowa’s communities. The wind, solar, and storage sectors also currently employ 5,469 Iowans."
+        },
+        {
+          "local_index": 5269,
+          "membership_prob": 1.0,
+          "claim": "Some Iowa wind energy companies are raising concerns over how much existing wind projects will be protected during President Trump's pause."
+        }
+      ]
+    },
+    {
+      "cluster_id": 76,
+      "size": 100,
+      "avg_membership_prob": 0.9128428926652077,
+      "representatives": [
+        {
+          "local_index": 94,
+          "membership_prob": 1.0,
+          "claim": "New polling shows Marylanders of all political stripes overwhelmingly support offshore wind."
+        },
+        {
+          "local_index": 8096,
+          "membership_prob": 1.0,
+          "claim": "A recent poll shows strong support among US coastal residents for developing wind projects, driven by benefits like enhanced energy independence, job creation, and economic growth."
+        },
+        {
+          "local_index": 7534,
+          "membership_prob": 1.0,
+          "claim": "We’ll discuss jobs, offshore wind, and sustainable communities."
+        },
+        {
+          "local_index": 7316,
+          "membership_prob": 1.0,
+          "claim": "Once wind turbines are installed, the cost of generating wind power will remain steady for decades because the cost of the fuel – wind – is free."
+        },
+        {
+          "local_index": 6784,
+          "membership_prob": 1.0,
+          "claim": "A new wind ordinance is winding its way through Clinton County."
+        }
+      ]
+    },
+    {
+      "cluster_id": 77,
+      "size": 34,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 1751,
+          "membership_prob": 1.0,
+          "claim": "This Wisconsin farmer used to have wind turbines on their dairy farm, which supported the farm and inspired their son to work in the renewable industry."
+        },
+        {
+          "local_index": 11327,
+          "membership_prob": 1.0,
+          "claim": "Berry Larson said the wind farm is 'vital for us because we're such a small town, and it's a poor town.'"
+        },
+        {
+          "local_index": 11045,
+          "membership_prob": 1.0,
+          "claim": "Wind farms in rural communities are giving young people opportunities to return home and build a career in a booming industry."
+        },
+        {
+          "local_index": 11044,
+          "membership_prob": 1.0,
+          "claim": "In small-town Nebraska, a new wind farm brought record-breaking sales."
+        },
+        {
+          "local_index": 10695,
+          "membership_prob": 1.0,
+          "claim": "Wind turbines provide a reliable source of income that is not weather-dependent and offer lasting benefits to the local community."
+        }
+      ]
+    },
+    {
+      "cluster_id": 78,
+      "size": 29,
+      "avg_membership_prob": 0.9935104127241112,
+      "representatives": [
+        {
+          "local_index": 2285,
+          "membership_prob": 1.0,
+          "claim": "Both phases represent 300 MWs of homegrown, reliable energy for the Golden State."
+        },
+        {
+          "local_index": 10340,
+          "membership_prob": 1.0,
+          "claim": "Tesla’s new Megapack facility is in Shanghai, not in Nevada or Texas."
+        },
+        {
+          "local_index": 9978,
+          "membership_prob": 1.0,
+          "claim": "When we don't have to rely on foreign countries and greedy oil corporations, the electrical grid is stronger and we stay safer."
+        },
+        {
+          "local_index": 8570,
+          "membership_prob": 1.0,
+          "claim": "Plexigrid is a pioneer in a new category and faces the challenge of selling their complex solution to a finite but global market of large, regulated electricity network operators."
+        },
+        {
+          "local_index": 6829,
+          "membership_prob": 1.0,
+          "claim": "Powering communities with sustainable electricity for 3 million residents and businesses."
+        }
+      ]
+    },
+    {
+      "cluster_id": 79,
+      "size": 82,
+      "avg_membership_prob": 0.8372565890974688,
+      "representatives": [
+        {
+          "local_index": 2600,
+          "membership_prob": 1.0,
+          "claim": "With local control, we can keep Gainesville on track to achieve 100% renewable energy by 2045."
+        },
+        {
+          "local_index": 2221,
+          "membership_prob": 1.0,
+          "claim": "Utility-scale wind and solar already beat most types of traditional power plants on cost, and as research refines the technology further, cost per MWh will continue to fall."
+        },
+        {
+          "local_index": 2319,
+          "membership_prob": 1.0,
+          "claim": "The fact is, renewable energy sources were not the driving cause behind the grid failure."
+        },
+        {
+          "local_index": 2336,
+          "membership_prob": 1.0,
+          "claim": "Area restaurants, bakeries, hardware stores, gas stations, banks, grocery stores, and more all tend to see increased traffic while a project is under construction. Neighbors tell us the rising tide of renewable energy development has lifted their local economies’ boats."
+        },
+        {
+          "local_index": 4649,
+          "membership_prob": 1.0,
+          "claim": "Wind and solar projects provide low-cost, homegrown power."
+        }
+      ]
+    },
+    {
+      "cluster_id": 80,
+      "size": 22,
+      "avg_membership_prob": 0.997211426270616,
+      "representatives": [
+        {
+          "local_index": 290,
+          "membership_prob": 1.0,
+          "claim": "Data centers are the only growing sector of electricity demand in Virginia, with growth projected to more than double peak load in 15 years, meaning data centers could double Virginia’s electricity consumption. PEC is working to enhance transparency, establish oversight, provide protections, and incentivize best practices that reduce pollution. In Albemarle, we’ve already helped put limits on larger data centers being built without legislative review."
+        },
+        {
+          "local_index": 11004,
+          "membership_prob": 1.0,
+          "claim": "You can save money on energy upgrades."
+        },
+        {
+          "local_index": 10947,
+          "membership_prob": 1.0,
+          "claim": "Virginia is home to over 300 data centers with more on the way. Just one of these facilities can use as much electricity as a city of 150,000 people. As a result, Virginia’s energy demand is skyrocketing."
+        },
+        {
+          "local_index": 10945,
+          "membership_prob": 1.0,
+          "claim": "Virginia is home to the largest data center market in the world. With that comes a massive energy burden."
+        },
+        {
+          "local_index": 10928,
+          "membership_prob": 1.0,
+          "claim": "Homegrown clean energy, combined with robust and integrated transmission infrastructure, keeps America connected, resilient, and economically strong."
+        }
+      ]
+    },
+    {
+      "cluster_id": 81,
+      "size": 51,
+      "avg_membership_prob": 0.8752598626292689,
+      "representatives": [
+        {
+          "local_index": 129,
+          "membership_prob": 1.0,
+          "claim": "The megabill will raise energy costs in Wisconsin by as much as 8% by 2029, kill thousands of jobs, and increase pollution in our communities."
+        },
+        {
+          "local_index": 10699,
+          "membership_prob": 1.0,
+          "claim": "Clean energy tax credits have lowered Nebraska farmers' bills, helping them stay competitive."
+        },
+        {
+          "local_index": 10653,
+          "membership_prob": 1.0,
+          "claim": "Clean energy tax credits are helping homeowners cut their utility bills."
+        },
+        {
+          "local_index": 10605,
+          "membership_prob": 1.0,
+          "claim": "Clean energy tax credits are being considered for repeal in the House Tax Bill, which could raise your electricity costs by up to $400 per year."
+        },
+        {
+          "local_index": 10571,
+          "membership_prob": 1.0,
+          "claim": "Bad energy policy acts as a hidden tax on rural Americans."
+        }
+      ]
+    },
+    {
+      "cluster_id": 82,
+      "size": 196,
+      "avg_membership_prob": 0.7648378284810561,
+      "representatives": [
+        {
+          "local_index": 11042,
+          "membership_prob": 1.0,
+          "claim": "John and his students know first-hand how clean energy is energizing Nebraska’s workforce."
+        },
+        {
+          "local_index": 5028,
+          "membership_prob": 1.0,
+          "claim": "Building clean energy projects creates jobs – both long-term Operations/Maintenance and short-term construction jobs."
+        },
+        {
+          "local_index": 2914,
+          "membership_prob": 1.0,
+          "claim": "As of 2024, 460,200 Americans have careers in clean energy."
+        },
+        {
+          "local_index": 5208,
+          "membership_prob": 1.0,
+          "claim": "New clean energy manufacturing sites have emerged and job opportunities have appeared in America's Rust Belt, thanks to federal funding for solar panels, batteries, and wind turbines."
+        },
+        {
+          "local_index": 11159,
+          "membership_prob": 1.0,
+          "claim": "Thanks to him, Louisiana is leading the way in carbon capture and clean energy; there are $20B+ in projects, set to create thousands of jobs and boost local revenue."
+        }
+      ]
+    },
+    {
+      "cluster_id": 83,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 1732,
+          "membership_prob": 1.0,
+          "claim": "It's just energy."
+        },
+        {
+          "local_index": 10904,
+          "membership_prob": 1.0,
+          "claim": "Study in San Francisco's energy hub."
+        },
+        {
+          "local_index": 10773,
+          "membership_prob": 1.0,
+          "claim": "Innovation requires a lot of energy."
+        },
+        {
+          "local_index": 10464,
+          "membership_prob": 1.0,
+          "claim": "Our region could face shortages without more energy."
+        },
+        {
+          "local_index": 9098,
+          "membership_prob": 1.0,
+          "claim": "Your energy has impact."
+        }
+      ]
+    },
+    {
+      "cluster_id": 84,
+      "size": 91,
+      "avg_membership_prob": 0.7940446722942675,
+      "representatives": [
+        {
+          "local_index": 6163,
+          "membership_prob": 1.0,
+          "claim": "Breakthrough Energy has worked with companies that are accelerating the Clean Industrial Revolution."
+        },
+        {
+          "local_index": 11106,
+          "membership_prob": 1.0,
+          "claim": "Governor Whitmer signed legislation last year that requires 100% clean energy production by 2040 and carbon neutrality by 2050. We do not have time to waste on this."
+        },
+        {
+          "local_index": 11089,
+          "membership_prob": 1.0,
+          "claim": "Clean energy is evolving—are you keeping up? Stay on top of the latest clean energy power news, from big project launches to groundbreaking studies."
+        },
+        {
+          "local_index": 9695,
+          "membership_prob": 1.0,
+          "claim": "DTE’s CleanVision is about working toward 100% clean energy by 2040."
+        },
+        {
+          "local_index": 8417,
+          "membership_prob": 1.0,
+          "claim": "There’s no time like the present to welcome our clean energy future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 85,
+      "size": 28,
+      "avg_membership_prob": 0.9645519747843819,
+      "representatives": [
+        {
+          "local_index": 1736,
+          "membership_prob": 1.0,
+          "claim": "Solar farms bring more money for schools, libraries, first responders and community services."
+        },
+        {
+          "local_index": 7290,
+          "membership_prob": 1.0,
+          "claim": "The text mentions the solar panels installed for a local nonprofit, work with @universityofga students, and a new climate action hub from @yaleclimateconnections."
+        },
+        {
+          "local_index": 5852,
+          "membership_prob": 1.0,
+          "claim": "Schools and other entities with multiple buildings aren’t allowed to use the electricity generated by the solar panels in one building to power another one and have to pay their utility more instead. This means schools are paying extra for energy – money they could spend on books, equipment, or supplies for students."
+        },
+        {
+          "local_index": 5704,
+          "membership_prob": 1.0,
+          "claim": "Access roads do not require county maintenance, and solar projects do not put a strain on public resources such as schools, emergency services, and hospitals."
+        },
+        {
+          "local_index": 5530,
+          "membership_prob": 1.0,
+          "claim": "Solar energy isn't just powering its schools — it's also benefiting its teachers' salaries."
+        }
+      ]
+    },
+    {
+      "cluster_id": 86,
+      "size": 147,
+      "avg_membership_prob": 0.49787897404029013,
+      "representatives": [
+        {
+          "local_index": 2898,
+          "membership_prob": 1.0,
+          "claim": "InSPIRE has 16 active research sites, a map of over 560 existing agrivoltaics sites in the United States, and a wealth of data to support it."
+        },
+        {
+          "local_index": 2533,
+          "membership_prob": 1.0,
+          "claim": "The National Renewable Energy Laboratory has research on agrisolar methods and has identified the 5 Cs of Agrivoltaic Success: Climate, Configurations, Crop Selection and Cultivation, Compatibility, and Collaboration."
+        },
+        {
+          "local_index": 4694,
+          "membership_prob": 1.0,
+          "claim": "Agrivoltaics blends solar energy with farming practices, providing passive income, higher crop yields, and shade for farm animals. There are almost 600 sites in the US where agrivoltaics is being used."
+        },
+        {
+          "local_index": 5591,
+          "membership_prob": 1.0,
+          "claim": "Solar sites can serve as pasture for grazing livestock, fields for crop production, or pollinator habitat for bees, birds, and other pollinators — all while generating homegrown electricity. The panels even have some benefits for the flora and fauna beneath them; their shade helps prevent water evaporation from the soil and can help keep wildlife and crops cool. To ensure the project’s environmental impact is minimal, our application is reviewed by OPSB members, including those from the Department of Natural Resources, the Department of Agriculture, the Development Services Agency, and the Ohio Department of Health."
+        },
+        {
+          "local_index": 2328,
+          "membership_prob": 1.0,
+          "claim": "With agrivoltaics, farmers don't have to choose between solar panels and crops. They can have both. As more farmers see the benefits of this innovative combination, it's gaining momentum among local farmers."
+        }
+      ]
+    },
+    {
+      "cluster_id": 87,
+      "size": 176,
+      "avg_membership_prob": 0.892984137916525,
+      "representatives": [
+        {
+          "local_index": 25,
+          "membership_prob": 1.0,
+          "claim": "After years of education and a career as a nurse and teacher, God told her it's time to go home to her family."
+        },
+        {
+          "local_index": 8091,
+          "membership_prob": 1.0,
+          "claim": "Jennifer Atlas is committed to protecting Nevada’s public lands and ensuring a healthier, sustainable future for all Nevadans."
+        },
+        {
+          "local_index": 8089,
+          "membership_prob": 1.0,
+          "claim": "She’s focused on building a sustainable, clean energy future for all Nevadans."
+        },
+        {
+          "local_index": 8058,
+          "membership_prob": 1.0,
+          "claim": "Ylenia Aguilar is an advocate committed to securing affordable, sustainable power for current and future generations. As a mom, she knows the importance of ensuring no one is forced to choose between keeping the lights on and food on the table."
+        },
+        {
+          "local_index": 8031,
+          "membership_prob": 1.0,
+          "claim": "She is working hard to ensure Rancho Cucamonga is a safe and sustainable city for everyone."
+        }
+      ]
+    },
+    {
+      "cluster_id": 88,
+      "size": 108,
+      "avg_membership_prob": 0.7368316965422372,
+      "representatives": [
+        {
+          "local_index": 7,
+          "membership_prob": 1.0,
+          "claim": "More outbreaks. Higher costs. Dangerous lies. This is what happens when conspiracies guide policy."
+        },
+        {
+          "local_index": 6913,
+          "membership_prob": 1.0,
+          "claim": "There are between 10-20 open positions at the prison, since they cannot fill the positions the prison is requiring current staff to work overtime, as of March 31 the prison has used 113% of its allocated OT budget, requiring overtime on an ongoing basis depletes the morale and effectiveness of staff, and it wrecks your budget."
+        },
+        {
+          "local_index": 4414,
+          "membership_prob": 1.0,
+          "claim": "The Project 2025 “wishlist” is horrifying."
+        },
+        {
+          "local_index": 5779,
+          "membership_prob": 1.0,
+          "claim": "Best voted everyday product of 2024."
+        },
+        {
+          "local_index": 3025,
+          "membership_prob": 1.0,
+          "claim": "It is free from Big Tech bias, shows you alternative viewpoints, keeps all searches 100% anonymous, and is made in the USA."
+        }
+      ]
+    },
+    {
+      "cluster_id": 89,
+      "size": 33,
+      "avg_membership_prob": 0.9562028788961994,
+      "representatives": [
+        {
+          "local_index": 753,
+          "membership_prob": 1.0,
+          "claim": "Amy Comey Barrett didn't side with the majority in removing water safety guardrails."
+        },
+        {
+          "local_index": 10273,
+          "membership_prob": 1.0,
+          "claim": "She took luxury trips to Vienna and Bellagio, Italy, paid for by interest groups, while families in Southern Indiana struggle; she voted for the 'One Big Beautiful Bill' that slashes Medicaid, SNAP, and clean energy investments, hurting rural hospitals, working families, and farmers across Indiana; she blocked Epstein file transparency and introduced a watered-down resolution; Indiana ranks 48th in teacher freedom; she supports tariffs that raise prices on farm equipment, groceries, and cars, while giving tax breaks to billionaires."
+        },
+        {
+          "local_index": 9997,
+          "membership_prob": 1.0,
+          "claim": "Julia Fox has her way of handling the attacks on repro rights and we have ours — which is to VOTE!"
+        },
+        {
+          "local_index": 9740,
+          "membership_prob": 1.0,
+          "claim": "Teachers, nurses, & firefighters back Jessica Caloza because she will lower costs, protect abortion rights & fund our schools."
+        },
+        {
+          "local_index": 9561,
+          "membership_prob": 1.0,
+          "claim": "Warren not only did nothing to end lawsuits over underfunded schools but has repeatedly supported voucher plans that would take money away from public schools and make it harder for Kansas to meet its constitutionally required levels of funding. Kansas City Star editors pointed out flaws in Warren's claims, including that one of her ads suggests she works with Gov. Laura Kelly, which is only true in the sense that they both have offices in the same building."
+        }
+      ]
+    },
+    {
+      "cluster_id": 90,
+      "size": 43,
+      "avg_membership_prob": 0.8476206961806401,
+      "representatives": [
+        {
+          "local_index": 1175,
+          "membership_prob": 1.0,
+          "claim": "Kamala Harris is a fighter who’s working for us every single day, and her record on gun violence, climate, and reproductive rights is strong."
+        },
+        {
+          "local_index": 11284,
+          "membership_prob": 1.0,
+          "claim": "Kamala Harris will cut middle class taxes, invest in clean energy, and bring down everyday costs for families."
+        },
+        {
+          "local_index": 3473,
+          "membership_prob": 1.0,
+          "claim": "Kamala Harris's really bad USA #oilandgasjobs-killing policies."
+        },
+        {
+          "local_index": 3472,
+          "membership_prob": 1.0,
+          "claim": "Vice President Kamala Harris is diverging from the Democratic Party's left wing on key issues like climate and abortion. She supports restoring Roe v. Wade, disappointing some abortion-rights activists who want stronger protections. On climate, Harris has shifted her stance on fracking, reflecting a more moderate approach than some environmentalists desire. She is also navigating conflicting pressures on cryptocurrency regulation and antitrust policies, balancing progressive demands against business interests. Her stance on Israel-Gaza shows cautious optimism from progressives hoping for a more empathetic policy. Harris emphasizes a pragmatic, consensus-building leadership style, consolidating support as the likely presidential nominee in 2024."
+        },
+        {
+          "local_index": 4585,
+          "membership_prob": 1.0,
+          "claim": "Kamala celebrates in Chicago, Sen. Jon Tester is awfully quiet about her extreme energy positions here in Montana."
+        }
+      ]
+    },
+    {
+      "cluster_id": 91,
+      "size": 156,
+      "avg_membership_prob": 0.6981240893193391,
+      "representatives": [
+        {
+          "local_index": 5753,
+          "membership_prob": 1.0,
+          "claim": "Thanks to the Inflation Reduction Act, small businesses are saving on energy costs with solar panels."
+        },
+        {
+          "local_index": 4678,
+          "membership_prob": 1.0,
+          "claim": "When PA churches & nonprofits go solar, they save money AND expand their community work. One local church used clean energy savings to grow programs that serve neighbors in need. But Reps MacKenzie, Bresnahan & Perry voted to repeal the very programs that made it possible. Now, other churches, nonprofits & small businesses won’t get the same chance."
+        },
+        {
+          "local_index": 5475,
+          "membership_prob": 1.0,
+          "claim": "With three of the five seats contested, voters will determine the future makeup of the Commission. Key issues in the election include a new 'interconnect' fee for rooftop solar users and changes to solar export rates, which have drawn varying opinions from advocates and stakeholders."
+        },
+        {
+          "local_index": 4927,
+          "membership_prob": 1.0,
+          "claim": "Clean energy investments are helping small businesses save money across the state. After installing solar, Heather's energy bills dropped from $1000 a month to $0 a month."
+        },
+        {
+          "local_index": 6438,
+          "membership_prob": 1.0,
+          "claim": "No purchase or installation cost for solar and battery."
+        }
+      ]
+    },
+    {
+      "cluster_id": 92,
+      "size": 36,
+      "avg_membership_prob": 0.967578378803021,
+      "representatives": [
+        {
+          "local_index": 5029,
+          "membership_prob": 1.0,
+          "claim": "The new solar panel system with energy storage will enable the hospital to generate and store electricity, allowing doctors to continue delivering care even when the power grid fails."
+        },
+        {
+          "local_index": 5580,
+          "membership_prob": 1.0,
+          "claim": "Switching to solar energy not only helps reduce your carbon footprint but also saves you money on your energy bills."
+        },
+        {
+          "local_index": 5540,
+          "membership_prob": 1.0,
+          "claim": "Switching to solar power options includes reduction of energy expenses and a smaller carbon footprint."
+        },
+        {
+          "local_index": 5519,
+          "membership_prob": 1.0,
+          "claim": "Misinformation about solar energy is gaining traction."
+        },
+        {
+          "local_index": 5472,
+          "membership_prob": 1.0,
+          "claim": "Since 2022, solar and storage companies have invested nearly $4 billion in New York. Much of this Solar investment is powering upstate New York – from Buffalo, where Dynoraxx manufactures solar panel-mounting systems, to Frankfort, where CleanCapital has brought online a solar project located on a closed landfill and that’s big enough to power over 1,000 homes."
+        }
+      ]
+    },
+    {
+      "cluster_id": 93,
+      "size": 29,
+      "avg_membership_prob": 0.9976597818475589,
+      "representatives": [
+        {
+          "local_index": 74,
+          "membership_prob": 1.0,
+          "claim": "In just five years, I’ve passed 35 bills, including the landmark Freedom to Read Act - which prohibits book bans in Maryland libraries. I helped secure over $170 million in state funding for projects in our community, and helped lead Maryland’s Women’s Caucus to its most successful session in its 60-year history. I am Vice Chair of the Health and Social Services Subcommittee, and have stood up for values by voting to enshrine women's healthcare protections in the Maryland Constitution, to reduce pollution in the Chesapeake Bay, and led efforts to protect libraries and librarians from extremist book bans."
+        },
+        {
+          "local_index": 10037,
+          "membership_prob": 1.0,
+          "claim": "8 in 10 Americans agree that our democracy is under attack."
+        },
+        {
+          "local_index": 9824,
+          "membership_prob": 1.0,
+          "claim": "Everything can change faster than you can say 'October surprise', so we must remain focused on building power in state legislatures."
+        },
+        {
+          "local_index": 9736,
+          "membership_prob": 1.0,
+          "claim": "Securing a Democratic majority means shaping policies on climate change, healthcare, education, and ensuring equality and justice."
+        },
+        {
+          "local_index": 9628,
+          "membership_prob": 1.0,
+          "claim": "Democrats fight for affordable healthcare, climate action and middle-class prosperity, while Republicans prioritize the wealthy and powerful."
+        }
+      ]
+    },
+    {
+      "cluster_id": 94,
+      "size": 125,
+      "avg_membership_prob": 0.8650761471002133,
+      "representatives": [
+        {
+          "local_index": 9099,
+          "membership_prob": 1.0,
+          "claim": "Radical leftists are busy testing new messages and making it clear."
+        },
+        {
+          "local_index": 3058,
+          "membership_prob": 1.0,
+          "claim": "Around the world, there is a coordinated effort to shut down activists speaking out about justice. Whether that’s protesters being jailed, or students being kicked out of their universities, it’s unacceptable. Peaceful protest is not terrorism."
+        },
+        {
+          "local_index": 9787,
+          "membership_prob": 1.0,
+          "claim": "We don't often agree with Fox News, but when they're right, they're right."
+        },
+        {
+          "local_index": 4297,
+          "membership_prob": 1.0,
+          "claim": "Elon Musk's DOGE is tearing through the education department and President Trump is cheering him on."
+        },
+        {
+          "local_index": 1992,
+          "membership_prob": 1.0,
+          "claim": "Allowing the NJBPU to have investigative authority over itself sets a precedent similar to an umpire wearing a Yankees cap while calling balls and strikes."
+        }
+      ]
+    },
+    {
+      "cluster_id": 95,
+      "size": 106,
+      "avg_membership_prob": 0.7535027529759506,
+      "representatives": [
+        {
+          "local_index": 1733,
+          "membership_prob": 1.0,
+          "claim": "Solar energy harnesses renewable power efficiently and reliably."
+        },
+        {
+          "local_index": 5124,
+          "membership_prob": 1.0,
+          "claim": "Solar energy delivers reliable, clean energy and grows the economy."
+        },
+        {
+          "local_index": 5264,
+          "membership_prob": 1.0,
+          "claim": "We have more sun than almost anywhere."
+        },
+        {
+          "local_index": 5274,
+          "membership_prob": 1.0,
+          "claim": "8 years ago, the United States stood at #14 globally in solar component production – now, we’re the third biggest solar manufacturing ecosystem in the world – and rising fast."
+        },
+        {
+          "local_index": 4760,
+          "membership_prob": 1.0,
+          "claim": "Solar power has created over 14,000 good-paying, high-skilled jobs for working Floridians."
+        }
+      ]
+    },
+    {
+      "cluster_id": 96,
+      "size": 28,
+      "avg_membership_prob": 0.9966134697012018,
+      "representatives": [
+        {
+          "local_index": 1764,
+          "membership_prob": 1.0,
+          "claim": "Burr Oak Solar will provide a more stable electric grid, growth of locally produced sustainable power, and over 700 local jobs in the growing renewable energy industry."
+        },
+        {
+          "local_index": 5813,
+          "membership_prob": 1.0,
+          "claim": "Projects big and small help Michigan reduce their energy bills and increase their energy reliability and independence. Read about how the village of L'Anse is using solar to do just that: https://www.thecooldown.com/green-business/community-solar-michigan-village-lanse/"
+        },
+        {
+          "local_index": 5692,
+          "membership_prob": 1.0,
+          "claim": "Thoroughbred Solar will tie directly to the electric grid, where the project’s energy will serve Kentucky communities and businesses – including right here in Hart County."
+        },
+        {
+          "local_index": 5484,
+          "membership_prob": 1.0,
+          "claim": "The video discusses the potential for solar energy, hydroelectricity, minerals, timber, and human resources in Africa."
+        },
+        {
+          "local_index": 5366,
+          "membership_prob": 1.0,
+          "claim": "Marion County Solar Project will serve the PJM power grid into the Galion-Robert South 138 kV line."
+        }
+      ]
+    },
+    {
+      "cluster_id": 97,
+      "size": 27,
+      "avg_membership_prob": 0.9749254137776899,
+      "representatives": [
+        {
+          "local_index": 2109,
+          "membership_prob": 1.0,
+          "claim": "Trust is built through long-term investment, responsiveness, and respect paid to the community."
+        },
+        {
+          "local_index": 10809,
+          "membership_prob": 1.0,
+          "claim": "MSU won the regular season championship and U of M won the tournament championship."
+        },
+        {
+          "local_index": 9744,
+          "membership_prob": 1.0,
+          "claim": "I support conserving Montana’s environment, now and for future generations. Last session, I filed a bill seeking to require high-polluting power plants to reduce their carbon output. I also worked on legislation to bring an infrastructure bank to Montana to access federal money to bring environmentally friendly projects to Montana, together with the good jobs they would create."
+        },
+        {
+          "local_index": 9468,
+          "membership_prob": 1.0,
+          "claim": "I am running to protect our clean water and fragile ecosystems, prepare our county for climate change, & repair our aging infrastructure and fix our roads."
+        },
+        {
+          "local_index": 9052,
+          "membership_prob": 1.0,
+          "claim": "You'll gain valuable insights into lobbying and hear from inspiring leaders committed to promoting clean energy, advancing climate action and environmental justice, and protecting the environment and our communities. After that, you'll have the chance to meet your legislators and discuss the meaningful changes you'd like to see in Maine."
+        }
+      ]
+    },
+    {
+      "cluster_id": 98,
+      "size": 43,
+      "avg_membership_prob": 0.9364239414564245,
+      "representatives": [
+        {
+          "local_index": 9460,
+          "membership_prob": 1.0,
+          "claim": "During the forum, the candidates were asked what they could do to address issues related to climate change and what could be done to provide residents with tax relief. “Unlike his opponents, activist Wesley Lawrence had actionable plans on both climate change and property tax relief.”"
+        },
+        {
+          "local_index": 7703,
+          "membership_prob": 1.0,
+          "claim": "Rep. Golek has a strong record voting in support of environmental and democracy legislation."
+        },
+        {
+          "local_index": 7187,
+          "membership_prob": 1.0,
+          "claim": "Hundreds of advocates traveled to Springfield to urge legislators to support these issues."
+        },
+        {
+          "local_index": 6830,
+          "membership_prob": 1.0,
+          "claim": "Thanks to your generous support, IDP was able to boost Zimmer's campaign and contribute to the resources he needed to run this race and win."
+        },
+        {
+          "local_index": 8727,
+          "membership_prob": 1.0,
+          "claim": "Jeff’s bold, progressive leadership in the Senate is rooted in one ideal: Every family should have the opportunity to thrive. We need leaders in Washington who will fight for bold solutions on health care and climate change and take on the corruption and cruelty coming from the White House."
+        }
+      ]
+    },
+    {
+      "cluster_id": 99,
+      "size": 125,
+      "avg_membership_prob": 0.5448989625242292,
+      "representatives": [
+        {
+          "local_index": 11445,
+          "membership_prob": 1.0,
+          "claim": "To get on the ballot in all 50 states and the District of Columbia and take the White House, we need financial support. The FEC deadline is around the corner, and your contribution today means more than ever."
+        },
+        {
+          "local_index": 4191,
+          "membership_prob": 1.0,
+          "claim": "We need a Georgia-style digital campaign in Texas."
+        },
+        {
+          "local_index": 6155,
+          "membership_prob": 1.0,
+          "claim": "Every door knocked gets us closer to victory in this election."
+        },
+        {
+          "local_index": 3616,
+          "membership_prob": 1.0,
+          "claim": "Visit guides.vote for detailed, nonpartisan voter guides."
+        },
+        {
+          "local_index": 6270,
+          "membership_prob": 1.0,
+          "claim": "Postcards and Letter Writing to Voters write postcards and letters to target voters to increase turnout in close, critical elections across the country."
+        }
+      ]
+    },
+    {
+      "cluster_id": 100,
+      "size": 35,
+      "avg_membership_prob": 0.9934653785594668,
+      "representatives": [
+        {
+          "local_index": 858,
+          "membership_prob": 1.0,
+          "claim": "Georgia Commute Schools will be partnering with Atlanta Public Schools’ (APS) Senior Director of Transportation, Chris E. Salley, to show APS bus drivers how much we all appreciate their hard work."
+        },
+        {
+          "local_index": 9223,
+          "membership_prob": 1.0,
+          "claim": "Sierra Club is here in every corner of the country, to protect our health, our communities, our lands – our future."
+        },
+        {
+          "local_index": 8969,
+          "membership_prob": 1.0,
+          "claim": "VCLI alumni are already making an impact on boards like the Vancouver Housing Authority, Clark County Public Health, the ODOT Equity & Mobility Advisory Committee, and so many more."
+        },
+        {
+          "local_index": 8834,
+          "membership_prob": 1.0,
+          "claim": "I am endorsed by Sunrise movement and other grassroots organizations."
+        },
+        {
+          "local_index": 8302,
+          "membership_prob": 1.0,
+          "claim": "With over a decade of experience working in bankruptcy and real estate law, Sarah Mannion will ensure the financial health of our school district."
+        }
+      ]
+    },
+    {
+      "cluster_id": 101,
+      "size": 48,
+      "avg_membership_prob": 0.9776774270785271,
+      "representatives": [
+        {
+          "local_index": 1035,
+          "membership_prob": 1.0,
+          "claim": "Every donation you make can provide them with the essential supplies, medical and educational resources they need to overcome challenges and pursue their dreams."
+        },
+        {
+          "local_index": 10343,
+          "membership_prob": 1.0,
+          "claim": "Proceeds help keep volunteer firefighters trained and equipped to support their neighbors."
+        },
+        {
+          "local_index": 9908,
+          "membership_prob": 1.0,
+          "claim": "Every donation will be used to improve their quality of life, provide medical care, education and rehabilitation support."
+        },
+        {
+          "local_index": 9761,
+          "membership_prob": 1.0,
+          "claim": "Four of Whatcom County's philanthropic foundations are joining together to screen this impactful film with the hopes of starting a frank conversation about what is, and isn't, working in our local non-profit sector and brainstorm ways to do it better, together."
+        },
+        {
+          "local_index": 9424,
+          "membership_prob": 1.0,
+          "claim": "Your donation fuels the grassroots organizing that helps the movement organize from the bottom up, amplifying every voice and keeping the fight going year-round."
+        }
+      ]
+    },
+    {
+      "cluster_id": 102,
+      "size": 92,
+      "avg_membership_prob": 0.6506494776435348,
+      "representatives": [
+        {
+          "local_index": 3867,
+          "membership_prob": 1.0,
+          "claim": "Your MATCHED gift helps NRDC go up against: Big Oil to protect the Arctic; Agrochemical giants to restrict pesticides wiping out bees and other pollinators; Mining companies to save the rich salmon fisheries of Alaska's majestic Bristol Bay."
+        },
+        {
+          "local_index": 4353,
+          "membership_prob": 1.0,
+          "claim": "Your 10x matched gift will help us fight back against attacks."
+        },
+        {
+          "local_index": 7475,
+          "membership_prob": 1.0,
+          "claim": "All gifts are TRIPLED before midnight on 12/11."
+        },
+        {
+          "local_index": 9028,
+          "membership_prob": 1.0,
+          "claim": "Your gift today will be 3X MATCHED to stop rampant development on public lands."
+        },
+        {
+          "local_index": 6556,
+          "membership_prob": 1.0,
+          "claim": "Legal change takes a long time, often years and sometimes decades. Equality Now requires sustainable funding to do so. If you make your gift before midnight on July 31, you will receive an exclusive Equality Now tote bag as a token of our gratitude."
+        }
+      ]
+    },
+    {
+      "cluster_id": 103,
+      "size": 49,
+      "avg_membership_prob": 0.9604249472500636,
+      "representatives": [
+        {
+          "local_index": 4673,
+          "membership_prob": 1.0,
+          "claim": "This event is perfect for anyone interested in clean energy, exploring energy-related careers, boosting their resume, or connecting with others who want to make a difference. Food is included, and spots are limited."
+        },
+        {
+          "local_index": 6166,
+          "membership_prob": 1.0,
+          "claim": "The event features delicious food, great music, activities for kids of all ages, and opportunities to hear from inspiring local leaders about why your vote matters more than ever."
+        },
+        {
+          "local_index": 8083,
+          "membership_prob": 1.0,
+          "claim": "These two farming families did that in the October 2 JFAN Annual Meeting held via Zoom."
+        },
+        {
+          "local_index": 5972,
+          "membership_prob": 1.0,
+          "claim": "Georgia's First All Pink Breakfast Cafe in Douglasville serves creamy grits, fried green tomatoes, and deviled eggs that guests rave about."
+        },
+        {
+          "local_index": 5634,
+          "membership_prob": 1.0,
+          "claim": "Clean energy advocates are hosting a series of front-porch ribbon cutting ceremonies at homes across Michigan to celebrate investments from the Biden-Harris administration."
+        }
+      ]
+    },
+    {
+      "cluster_id": 104,
+      "size": 62,
+      "avg_membership_prob": 0.8245262722766112,
+      "representatives": [
+        {
+          "local_index": 11351,
+          "membership_prob": 1.0,
+          "claim": "700+ people from across Nashville and the Southeast are taking action to secure a better world."
+        },
+        {
+          "local_index": 7664,
+          "membership_prob": 1.0,
+          "claim": "Texas cities, large and small, have utilized collective bargaining to establish robust, enduring fire departments. It's a part of Texas law - supported by Republicans and Democrats alike."
+        },
+        {
+          "local_index": 7852,
+          "membership_prob": 1.0,
+          "claim": "I’ve sought to ensure neighbors have a voice and are part of the solution, resulting in better solutions that avoid unintended consequences."
+        },
+        {
+          "local_index": 7854,
+          "membership_prob": 1.0,
+          "claim": "Written by a U.S. Marine Veteran."
+        },
+        {
+          "local_index": 7901,
+          "membership_prob": 1.0,
+          "claim": "As a local educator and business owner, I’m committed to fighting for solutions that work for you and your family. I understand the challenges facing Central Maine, including making childcare accessible and affordable, investing in quality education, tackling high energy costs, easing the cost of living, and improving community health."
+        }
+      ]
+    },
+    {
+      "cluster_id": 105,
+      "size": 150,
+      "avg_membership_prob": 0.7344971593942682,
+      "representatives": [
+        {
+          "local_index": 7970,
+          "membership_prob": 1.0,
+          "claim": "His focus is on creating a thriving town for all, with improvements that benefit residents today and generations to come."
+        },
+        {
+          "local_index": 7227,
+          "membership_prob": 1.0,
+          "claim": "Micah has over a decade of experience working in the nonprofit sector as a mental health therapist, serving individuals with severe mental illnesses, addictions, and other challenges. He has also worked with unhoused people, returning citizens, and newcomers. As a leader with Bike Walk Berwyn, Micah has been an advocate for a more sustainable, walkable, and bikeable Berwyn. He is committed to pushing for green infrastructure, better transit options, and centering human and environmental design when it comes to development projects. Micah has pledged to bring Participatory Budgeting to the 1st Ward, which demonstrates his commitment to working with neighbors to make decisions. He understands the importance of creating a Berwyn where families can grow and thrive, including safe streets and parks, strong schools, and a clean, sustainable environment."
+        },
+        {
+          "local_index": 7242,
+          "membership_prob": 1.0,
+          "claim": "Berwyn is full of potential, with the right leadership, we can create a future that works for everyone, safer neighborhoods, a thriving local economy, and more green and recreational spaces for our community to enjoy."
+        },
+        {
+          "local_index": 7526,
+          "membership_prob": 1.0,
+          "claim": "Alton has suffered from failed leadership; roads are crumbling, crime is rising, and the economy is stagnant; Ray Strebel is a businessman and current Third Ward Alderman with fresh ideas."
+        },
+        {
+          "local_index": 7549,
+          "membership_prob": 1.0,
+          "claim": "GAHBA supports leaders like LaDena Bolton who prioritize community-focused progress and strengthen housing in DeKalb."
+        }
+      ]
+    },
+    {
+      "cluster_id": 106,
+      "size": 97,
+      "avg_membership_prob": 0.9559298410815497,
+      "representatives": [
+        {
+          "local_index": 1447,
+          "membership_prob": 1.0,
+          "claim": "For thirty years, I’ve served my neighbors in Carroll County as an ophthalmologist, public health officer, and state representative."
+        },
+        {
+          "local_index": 7837,
+          "membership_prob": 1.0,
+          "claim": "With over 24 years of business and finance expertise, I am committed to finding solutions to budget deficits. I champion economic growth, small business support, and sustainable revenue to eliminate the projected deficit without compromising quality of life. As former Mayor, I delivered balanced budgets and led the successful Levee Improvements Project."
+        },
+        {
+          "local_index": 7827,
+          "membership_prob": 1.0,
+          "claim": "It has been the utmost honor to serve the residents of the 138th district over the past two years."
+        },
+        {
+          "local_index": 7808,
+          "membership_prob": 1.0,
+          "claim": "Meeting residents has highlighted the importance of our community. I’ll soon share more about my volunteer work and commitment to fiscal responsibility. If elected as your Councilwoman, my focus will be on creating a safe, welcoming environment and ensuring transparency in local government. I’m passionate about enhancing recreational spaces and advocating for sustainable practices. Your feedback is vital, and I encourage you to share your thoughts as Election Day approaches."
+        },
+        {
+          "local_index": 7754,
+          "membership_prob": 1.0,
+          "claim": "The environment is at the top of the list of priorities as candidate for City Council District 1. Priorities include creating a greener, healthier Campbell and making streets more bike-friendly to build a sustainable future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 107,
+      "size": 24,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 18,
+          "membership_prob": 1.0,
+          "claim": "Every major mental health organization has condemned conversion therapy as junk science that leads to higher rates of depression, anxiety, and even suicidal ideation."
+        },
+        {
+          "local_index": 10216,
+          "membership_prob": 1.0,
+          "claim": "Stuart Gardner offers a hopeful take on where we are, what’s at stake, and why there’s still good reason to believe in the future we’re working toward."
+        },
+        {
+          "local_index": 10213,
+          "membership_prob": 1.0,
+          "claim": "I have an agenda to grow a region where anything is possible, including delivering affordable housing, clean energy, 21st century infrastructure, clean air and water, and shared prosperity."
+        },
+        {
+          "local_index": 10123,
+          "membership_prob": 1.0,
+          "claim": "I do not believe that we are living up to our potential and I do not believe that we are moving in the right direction."
+        },
+        {
+          "local_index": 9362,
+          "membership_prob": 1.0,
+          "claim": "Meta just experienced a Streisand Effect moment."
+        }
+      ]
+    },
+    {
+      "cluster_id": 108,
+      "size": 32,
+      "avg_membership_prob": 0.9807060308660245,
+      "representatives": [
+        {
+          "local_index": 56,
+          "membership_prob": 1.0,
+          "claim": "We took a deep dive into the key players and risks of a massive project that's raising questions in Doña Ana County."
+        },
+        {
+          "local_index": 9803,
+          "membership_prob": 1.0,
+          "claim": "ADB has an ambitious, new road map to guide our evolution and scale up our support to address the most complex development challenges in Asia and the Pacific."
+        },
+        {
+          "local_index": 9304,
+          "membership_prob": 1.0,
+          "claim": "UNICEF and partners are working around the globe to address the root causes of migration. There are more children on the move than ever before, forced from their homes due to conflict, climate change and other harrowing circumstances. In addition to supporting children and families on the move, UNICEF and partners are working around the globe to address the root causes of migration."
+        },
+        {
+          "local_index": 9293,
+          "membership_prob": 1.0,
+          "claim": "As our nation, and communities grow more divisive, fueled by hateful speech, and as the triple threats of militarism (war), poverty, and racism impact us locally and globally."
+        },
+        {
+          "local_index": 9195,
+          "membership_prob": 1.0,
+          "claim": "On Never Give Up Day (August 18), take on the 24-Hour Challenge—a test of endurance, resilience, and determination. Whether it’s fitness, creativity, fundraising, or personal growth, this is your chance to go all in for 24 hours."
+        }
+      ]
+    },
+    {
+      "cluster_id": 109,
+      "size": 113,
+      "avg_membership_prob": 0.806192972639477,
+      "representatives": [
+        {
+          "local_index": 7054,
+          "membership_prob": 1.0,
+          "claim": "Our bi-weekly newsletter is packed with uplifting stories. Inspiring solutions, straight in your inbox, instead of doom and gloom."
+        },
+        {
+          "local_index": 5951,
+          "membership_prob": 1.0,
+          "claim": "Be sure to watch it on AccessTV.org Channel 2: https://accesstv.org/ch-2 or on YouTube at: https://youtube.com/live/Ed5VIh7xrXc Watch it • Like it • Share it • with Colleagues, family, friends, and foe, that way you can help keep them in the know."
+        },
+        {
+          "local_index": 4218,
+          "membership_prob": 1.0,
+          "claim": "This episode is part of the award-winning Going Big series — a reminder of the impact that thoughtful conversations can have."
+        },
+        {
+          "local_index": 4169,
+          "membership_prob": 1.0,
+          "claim": "Your tradition of rigorous inquiry, fearless activism, and compassionate engagement is a beacon of hope for countless souls across the globe. Your legacy comes with a call to champion truth, dismantle structures of injustice, and build bridges of understanding between disparate cultures and ideologies. Every debate, protest, and act of creative expression contributes to a tapestry of change that has the power to reshape our global society."
+        },
+        {
+          "local_index": 6442,
+          "membership_prob": 1.0,
+          "claim": "This workbook will help you explore how YOUR connects to this movement—through reflection exercises, conversation guides, and action plans."
+        }
+      ]
+    },
+    {
+      "cluster_id": 110,
+      "size": 30,
+      "avg_membership_prob": 0.945453739900086,
+      "representatives": [
+        {
+          "local_index": 7921,
+          "membership_prob": 1.0,
+          "claim": "The 1994 International Conference on Population and Development (ICPD) asserted that empowering women and girls was both the right thing to do, as well as one of the most reliable pathways to sustainable development."
+        },
+        {
+          "local_index": 8226,
+          "membership_prob": 1.0,
+          "claim": "Ceres’ 35th Anniversary Gala is October 23 in NYC to commemorate 35 years of advocacy and progress."
+        },
+        {
+          "local_index": 8009,
+          "membership_prob": 1.0,
+          "claim": "The 1994 International Conference on Population and Development (ICPD) was groundbreaking in asserting that empowering women and girls was both the right thing to do, as well as one of the most reliable pathways to sustainable development. While it’s true that population is declining in some places, it’s still growing in others."
+        },
+        {
+          "local_index": 7989,
+          "membership_prob": 1.0,
+          "claim": "Every year, 12 million girls are married before they turn 18, exposing them to early pregnancies. Complications from pregnancy and childbirth are the leading cause of death for girls aged 15-19 in developing countries. Participation & Award Certificates, IMUN Training for Beginners, Research Paper Writing, and IMUN Study Materials are offered. IMUN 235.0 contributes to advancing the UN Sustainable Development Goals, especially in the areas of quality education, gender equality, and eradicating hunger. Standout contributors will be recognized for their exceptional impact. The conference is backed by respected organizations, including WFP, UNFPA Philippines, WHO Indonesia, UNDP Vietnam, and UNHCR India."
+        },
+        {
+          "local_index": 7977,
+          "membership_prob": 1.0,
+          "claim": "The 1994 International Conference on Population and Development (ICPD) was groundbreaking in asserting this."
+        }
+      ]
+    },
+    {
+      "cluster_id": 111,
+      "size": 80,
+      "avg_membership_prob": 0.9920090279684699,
+      "representatives": [
+        {
+          "local_index": 11084,
+          "membership_prob": 1.0,
+          "claim": "Whether you're into business, engineering or manufacturing, everyone’s talents are welcome."
+        },
+        {
+          "local_index": 9780,
+          "membership_prob": 1.0,
+          "claim": "Inspired by his passion."
+        },
+        {
+          "local_index": 6477,
+          "membership_prob": 1.0,
+          "claim": "WIP funding has both launched and strengthened several higher education programs across Wyoming that benefit the state's digital infrastructure. Sheridan College is home to the state’s first applied software development program and opens a broad range of career opportunities for students."
+        },
+        {
+          "local_index": 11031,
+          "membership_prob": 1.0,
+          "claim": "Our teams work in communities in Texas and across the nation, each one having unique goals and a distinct identity. Community giving opportunities are a chance for our project teams to listen to and work with local leaders and community groups."
+        },
+        {
+          "local_index": 6582,
+          "membership_prob": 1.0,
+          "claim": "The SW Alliance for Child Care Success empowers child care businesses in Southwest Washington with the support they need to flourish and assists leaders to maintain sustainable businesses and enhance child-centered growth and learning."
+        }
+      ]
+    }
+  ]
+}

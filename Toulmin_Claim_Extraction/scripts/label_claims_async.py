@@ -14,52 +14,34 @@ from openai import RateLimitError, APIStatusError, APITimeoutError, APIConnectio
 from tenacity import retry, stop_after_attempt, retry_if_exception, wait_random
 
 
-SYSTEM_PROMPT = """You are an information extraction system.
+BASE_DIR = Path(__file__).resolve().parent
+DEFAULT_SYSTEM_PROMPT_PATH = BASE_DIR / "prompts" / "system_prompt.txt"
+DEFAULT_FEWSHOT_BLOCK_PATH = BASE_DIR / "prompts" / "fewshot_block.txt"
 
-For the given text:
-- Identify the claim, ground, and warrant.
 
-Rules:
-- Extract only what is explicitly written.
-- Do not add or infer information.
-- If something is missing, write "Not present".
-- If the text is only descriptive or factual, the main statement is "Not present".
+def read_prompt_text(path: Path) -> str:
+    try:
+        return path.read_text(encoding="utf-8").strip()
+    except FileNotFoundError as exc:
+        raise FileNotFoundError(f"Prompt file not found: {path}") from exc
 
-Return STRICT JSON only:
-{"claim": "...", "ground": "...", "warrant": "..."}"""
 
-FEWSHOT_BLOCK = """
-Example 1
-Text:
-Upgrade your Teaching Toolbox! Uncover free interactive tools with standout resources for teaching fiscal policy. Transform your lessons into engaging, unforgettable experiences.
+SYSTEM_PROMPT = None
+FEWSHOT_BLOCK = None
 
-Output:
-{"claim":"Free interactive tools can transform fiscal policy lessons into engaging and effective learning experiences.","ground":"Not present","warrant":"Not present"}
 
-Example 2
-Text:
-Accelerating the future of energy, together
-
-Output:
-{"claim":"Not present","ground":"Not present","warrant":"Not present"}
-
-Example 3
-Text:
-Our spray foam insulation helps reduce energy waste and supports a more sustainable future.
-
-Output:
-{"claim":"Using this insulation supports a more sustainable future.","ground":"Our spray foam insulation helps reduce energy waste.","warrant":"Not present"}
-
-Example 4 (explicit warrant case)
-Text:
-Our insulation reduces energy waste. Because reducing energy waste lowers carbon emissions, it helps protect the environment.
-
-Output:
-{"claim":"Using this insulation helps protect the environment.","ground":"Our insulation reduces energy waste.","warrant":"Reducing energy waste lowers carbon emissions."}
-""".strip()
+def resolve_prompt_path(path_str: Optional[str], default_path: Path) -> Path:
+    if not path_str:
+        return default_path
+    path = Path(path_str)
+    if not path.is_absolute():
+        path = (BASE_DIR / path).resolve()
+    return path
 
 
 def build_user_prompt(ad_text: str) -> str:
+    if FEWSHOT_BLOCK is None:
+        raise RuntimeError("FEWSHOT_BLOCK is not loaded. Check prompt paths.")
     return f"""{FEWSHOT_BLOCK}
 
 Now analyze the following text.
@@ -198,6 +180,14 @@ async def process_df(client: AsyncOpenAI, df: pd.DataFrame, args):
 
 
 async def run(args):
+    global SYSTEM_PROMPT, FEWSHOT_BLOCK
+
+    system_prompt_path = resolve_prompt_path(args.system_prompt_path, DEFAULT_SYSTEM_PROMPT_PATH)
+    fewshot_block_path = resolve_prompt_path(args.fewshot_block_path, DEFAULT_FEWSHOT_BLOCK_PATH)
+
+    SYSTEM_PROMPT = read_prompt_text(system_prompt_path)
+    FEWSHOT_BLOCK = read_prompt_text(fewshot_block_path)
+
     input_path = Path(args.input_csv).expanduser().resolve()
     output_path = Path(args.output_csv).expanduser().resolve()
 
@@ -237,6 +227,16 @@ def main():
     ap.add_argument("--input-csv", required=True)
     ap.add_argument("--output-csv", required=True)
     ap.add_argument("--text-col", default="ad_text")
+    ap.add_argument(
+        "--system-prompt-path",
+        default=str(DEFAULT_SYSTEM_PROMPT_PATH),
+        help="Path to system prompt text file.",
+    )
+    ap.add_argument(
+        "--fewshot-block-path",
+        default=str(DEFAULT_FEWSHOT_BLOCK_PATH),
+        help="Path to few-shot block text file.",
+    )
 
     ap.add_argument("--model", default="gpt-4.1")
     ap.add_argument("--concurrency", type=int, default=10)

@@ -1,0 +1,75 @@
+Example 1
+Text:
+Accelerating the future of energy, together
+Claim:
+Not present
+Ground:
+Not present
+Answer:
+VALID
+
+
+Example 2
+Text:
+Our spray foam insulation helps reduce energy waste and supports a more sustainable future.
+Claim:
+Using this insulation supports a more sustainable future.
+Ground:
+Our spray foam insulation helps reduce energy waste.
+Answer:
+VALID
+
+
+Example 3
+Text:
+Protecting the Endangerment Finding protects children's health. Tell EPA to keep cutting pollution.
+Claim:
+Protecting the Endangerment Finding protects children's health.
+Ground:
+Protecting the Endangerment Finding protects children's health.
+Answer:
+INVALID
+
+
+Example 4
+Text:
+Stop Kamala’s radical plan. Her policies would raise taxes and weaken safety.
+Claim:
+Kamala Harris’s plan would harm the country.
+Ground:
+Her policies would raise taxes and weaken safety.
+Answer:
+VALID
+
+
+Example 5
+Text:
+Conduct undergraduate research using next-gen DNA sequencing aboard a research vessel.
+Claim:
+Not present
+Ground:
+Not present
+Answer:
+VALID
+
+
+Example 6
+Text:
+Our spray foam insulation helps reduce energy waste.
+Claim:
+Using this insulation helps the environment.
+Ground:
+This insulation is government certified.
+Answer:
+INVALID
+
+
+Example 7
+Text:
+We’re the third fastest warming city in the nation.
+Claim:
+The city is warming rapidly.
+Ground:
+We’re the third fastest warming city in the nation.
+Answer:
+VALID

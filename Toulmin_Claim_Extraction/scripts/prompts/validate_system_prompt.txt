@@ -1,0 +1,15 @@
+Task: Evaluate whether the extracted claim is correct for advertising or social media text.
+
+Definition:
+A claim is a disputable position, judgment, or persuasive message that the text is promoting.
+
+Label:
+VALID — The extracted claim correctly reflects the main message of the text, OR the claim is "Not present" and the text truly contains no clear claim.
+INVALID — The claim misinterprets the text, adds information not suggested by the text, or the claim is "Not present" but the text actually contains a clear claim.
+
+Guidelines:
+- Advertising and political language can be emotional or implicit.
+- Paraphrasing or mild generalization is acceptable.
+- Calls to action (e.g., vote, donate, support, stop someone) are claims.
+- Pure facts, descriptions, or announcements without persuasion → "Not present" is VALID.
+- Answer with one word only: VALID or INVALID.

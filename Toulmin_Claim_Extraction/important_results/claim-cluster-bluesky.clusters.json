@@ -1,0 +1,3815 @@
+{
+  "n_points": 14528,
+  "n_clusters": 119,
+  "n_outliers": 4324,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "size": 164,
+      "avg_membership_prob": 0.9320623856059563,
+      "representatives": [
+        {
+          "local_index": 7250,
+          "membership_prob": 1.0,
+          "claim": "AI is where the money is at the current moment."
+        },
+        {
+          "local_index": 8979,
+          "membership_prob": 1.0,
+          "claim": "AI is absolutely a problem."
+        },
+        {
+          "local_index": 8961,
+          "membership_prob": 1.0,
+          "claim": "AI is distracting investment away from things people actually need, such as housing and climate change resilience."
+        },
+        {
+          "local_index": 8929,
+          "membership_prob": 1.0,
+          "claim": "A narrative that AI will create an energy crisis is used to build unnecessary fossil fuel infrastructure and cement the market share of a few big companies without questioning whether thatâs necessary."
+        },
+        {
+          "local_index": 8831,
+          "membership_prob": 1.0,
+          "claim": "Some health experts are alarmed about risk analyst Tony Coxâs work being backed by the chemical lobby and the potential impact of a new AI tool on pollution science."
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "size": 208,
+      "avg_membership_prob": 0.4969226387898019,
+      "representatives": [
+        {
+          "local_index": 123,
+          "membership_prob": 1.0,
+          "claim": "Climate change (overpopulation) is altering the jet stream, leading to wildfires in New Jersey and New York in March."
+        },
+        {
+          "local_index": 4372,
+          "membership_prob": 1.0,
+          "claim": "The Jasper fire highlights the risks climate change poses to Canada's world heritage sites."
+        },
+        {
+          "local_index": 4439,
+          "membership_prob": 1.0,
+          "claim": "Climate change causes hydroclimate whiplash which fuels out of control wildfires."
+        },
+        {
+          "local_index": 5571,
+          "membership_prob": 1.0,
+          "claim": "Annual emissions of big tropical countries like Brazil and Indonesia show big jumps from year to year linked to deforestation and forest fires."
+        },
+        {
+          "local_index": 7198,
+          "membership_prob": 1.0,
+          "claim": "Climate change is contributing to larger and hotter wildfires."
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 40,
+      "avg_membership_prob": 0.735953017341157,
+      "representatives": [
+        {
+          "local_index": 14080,
+          "membership_prob": 1.0,
+          "claim": "Je dois faire avec la pollution accrue."
+        },
+        {
+          "local_index": 12024,
+          "membership_prob": 1.0,
+          "claim": "We moeten meer klimaat hysterie hebben."
+        },
+        {
+          "local_index": 11342,
+          "membership_prob": 1.0,
+          "claim": "Des failles dans le processus dâÃ©laboration lÃ©gislative sont pointÃ©es."
+        },
+        {
+          "local_index": 10508,
+          "membership_prob": 1.0,
+          "claim": "Det Ã¤r en fullskalig attack pÃ¥ miljÃ¶skydd och klimatregleringar i USA."
+        },
+        {
+          "local_index": 9938,
+          "membership_prob": 1.0,
+          "claim": "Les politiques et la population n'ont presque jamais Ã©coutÃ© les avertissements sur les ravages de la pollution lancÃ©s par le commandant Cousteau et d'autres pendant 40 ans."
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 60,
+      "avg_membership_prob": 0.71230884661446,
+      "representatives": [
+        {
+          "local_index": 109,
+          "membership_prob": 1.0,
+          "claim": "Climate change is real."
+        },
+        {
+          "local_index": 13272,
+          "membership_prob": 1.0,
+          "claim": "Climate change is real."
+        },
+        {
+          "local_index": 12981,
+          "membership_prob": 1.0,
+          "claim": "Climate change is real."
+        },
+        {
+          "local_index": 11460,
+          "membership_prob": 1.0,
+          "claim": "Climate change is real."
+        },
+        {
+          "local_index": 5536,
+          "membership_prob": 1.0,
+          "claim": "Climate change is real and proven."
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 115,
+      "avg_membership_prob": 0.5361618806385131,
+      "representatives": [
+        {
+          "local_index": 14484,
+          "membership_prob": 1.0,
+          "claim": "I, a control player, am establishing a nature preserve to counteract my pod's reckless fracking practices."
+        },
+        {
+          "local_index": 5155,
+          "membership_prob": 1.0,
+          "claim": "Fracking makes earthquakes more frequent."
+        },
+        {
+          "local_index": 4719,
+          "membership_prob": 1.0,
+          "claim": "Repukes and Fracking both kill."
+        },
+        {
+          "local_index": 3906,
+          "membership_prob": 1.0,
+          "claim": "Fracking is dirty."
+        },
+        {
+          "local_index": 6684,
+          "membership_prob": 1.0,
+          "claim": "Fracking is evil"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 22,
+      "avg_membership_prob": 0.9765083321265734,
+      "representatives": [
+        {
+          "local_index": 708,
+          "membership_prob": 1.0,
+          "claim": "There is a connection between climate change denial and profit from oil."
+        },
+        {
+          "local_index": 10539,
+          "membership_prob": 1.0,
+          "claim": "Big oil doesn't care about our climate; it's just greed."
+        },
+        {
+          "local_index": 9805,
+          "membership_prob": 1.0,
+          "claim": "Country partners of the CCAC have elected the UK as incoming Co-Chair to lead the fight against super pollutants that drive climate change and air pollution."
+        },
+        {
+          "local_index": 8512,
+          "membership_prob": 1.0,
+          "claim": "Climate change caused by oil and gas emissions hurts the oil and gas sector."
+        },
+        {
+          "local_index": 8345,
+          "membership_prob": 1.0,
+          "claim": "The current US government is denying climate change to benefit Big Oil's profits."
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 118,
+      "avg_membership_prob": 0.7517292097369358,
+      "representatives": [
+        {
+          "local_index": 7509,
+          "membership_prob": 1.0,
+          "claim": "All auto makers are problematic, especially those that enable fossil fuel extraction."
+        },
+        {
+          "local_index": 4165,
+          "membership_prob": 1.0,
+          "claim": "Electric cars fueled with sustainable, renewable energy sources are a good thing."
+        },
+        {
+          "local_index": 4350,
+          "membership_prob": 1.0,
+          "claim": "Renault is leading Europeâs transition to electric and sustainable vehicles."
+        },
+        {
+          "local_index": 4468,
+          "membership_prob": 1.0,
+          "claim": "MAGA supporters are being asked to buy electric vehicles, which can be seen as ironic or contradictory."
+        },
+        {
+          "local_index": 4545,
+          "membership_prob": 1.0,
+          "claim": "No one would buy Teslas now because Musk has destroyed the brand value and the cars are outdated."
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 32,
+      "avg_membership_prob": 0.94373917037424,
+      "representatives": [
+        {
+          "local_index": 8573,
+          "membership_prob": 1.0,
+          "claim": "Emergency management funds are being funneled to private prisons while global warming is causing havoc worldwide."
+        },
+        {
+          "local_index": 13592,
+          "membership_prob": 1.0,
+          "claim": "The US is becoming like Alberta."
+        },
+        {
+          "local_index": 12235,
+          "membership_prob": 1.0,
+          "claim": "The United Conservative Party of Alberta makes this woman richer."
+        },
+        {
+          "local_index": 11822,
+          "membership_prob": 1.0,
+          "claim": "The NDP (or the Greens or a new party) have an opportunity to tap into Canadian frustration, but they need to offer something to vote for."
+        },
+        {
+          "local_index": 11718,
+          "membership_prob": 1.0,
+          "claim": "It's time for Canada to dump the Conservatives."
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 43,
+      "avg_membership_prob": 0.7252341864636548,
+      "representatives": [
+        {
+          "local_index": 525,
+          "membership_prob": 1.0,
+          "claim": "The Arctic is what Trump wants, like he wants Canada's Arctic, too."
+        },
+        {
+          "local_index": 8954,
+          "membership_prob": 1.0,
+          "claim": "Trump wants Greenland for reasons other than a defensive position."
+        },
+        {
+          "local_index": 10440,
+          "membership_prob": 1.0,
+          "claim": "Putin wants this [Greenland/Canada]."
+        },
+        {
+          "local_index": 8441,
+          "membership_prob": 1.0,
+          "claim": "Once you own Greenland you can grant Arctic drilling rights to Putin and get a Trump tower in Moscow."
+        },
+        {
+          "local_index": 7757,
+          "membership_prob": 1.0,
+          "claim": "Canada and Greenland are going to have more valuable farming areas as global warming increases."
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "size": 35,
+      "avg_membership_prob": 0.8798734007154644,
+      "representatives": [
+        {
+          "local_index": 829,
+          "membership_prob": 1.0,
+          "claim": "Supersonic flight would lead to substantially higher emissions."
+        },
+        {
+          "local_index": 13973,
+          "membership_prob": 1.0,
+          "claim": "He wants to get rid of planes because they kill way more birds than wind turbines."
+        },
+        {
+          "local_index": 13105,
+          "membership_prob": 1.0,
+          "claim": "Shut down the aviation and war industries or earth burns more quickly."
+        },
+        {
+          "local_index": 12095,
+          "membership_prob": 1.0,
+          "claim": "A recent flurry of big sustainable aviation fuel (SAF) deals is another important tailwind for the #hydrogen economy."
+        },
+        {
+          "local_index": 10165,
+          "membership_prob": 1.0,
+          "claim": "Emissions from aviation will start to drop sharply soon."
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "size": 117,
+      "avg_membership_prob": 0.5585217541391886,
+      "representatives": [
+        {
+          "local_index": 10089,
+          "membership_prob": 1.0,
+          "claim": "New car parking spaces at Warneford park would be a massive setback to sustainable transport."
+        },
+        {
+          "local_index": 7200,
+          "membership_prob": 1.0,
+          "claim": "Non-motorised transportation improvements ought to increase more equitable and healthier sociability opportunities for people and bolster demonstrative potential for more sustainable lifestyles in cities and suburbs."
+        },
+        {
+          "local_index": 8497,
+          "membership_prob": 1.0,
+          "claim": "Strategic Transport has become a leader in adaptable and sustainable transport."
+        },
+        {
+          "local_index": 8549,
+          "membership_prob": 1.0,
+          "claim": "Commuting origin-destination flows are vital for sustainable development across cities around the world."
+        },
+        {
+          "local_index": 8597,
+          "membership_prob": 1.0,
+          "claim": "Informal mobility is central to sustainable transport."
+        }
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "size": 48,
+      "avg_membership_prob": 0.7519448279253766,
+      "representatives": [
+        {
+          "local_index": 7247,
+          "membership_prob": 1.0,
+          "claim": "We are upgrading the End-Permian extinction by doing things faster."
+        },
+        {
+          "local_index": 7610,
+          "membership_prob": 1.0,
+          "claim": "It is ironic that humans might become extinct before aliens arrive."
+        },
+        {
+          "local_index": 6788,
+          "membership_prob": 1.0,
+          "claim": "If humanity is unable to evolve sustainably, we will likely be considered a virus on nature and removed forcibly."
+        },
+        {
+          "local_index": 6768,
+          "membership_prob": 1.0,
+          "claim": "Extinction of humanity is underway by grift and lies."
+        },
+        {
+          "local_index": 7949,
+          "membership_prob": 1.0,
+          "claim": "Without a cohesive and well-organized counterstrategy, this imbalance will persist with dire consequences for humanity and our biosphere."
+        }
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "size": 25,
+      "avg_membership_prob": 0.9440702026881787,
+      "representatives": [
+        {
+          "local_index": 12,
+          "membership_prob": 1.0,
+          "claim": "You were incorrect when you said that insurance companies never have your back."
+        },
+        {
+          "local_index": 11056,
+          "membership_prob": 1.0,
+          "claim": "The Florida Real Estate industry is functionally subsidized by the National Flood Insurance Program."
+        },
+        {
+          "local_index": 10683,
+          "membership_prob": 1.0,
+          "claim": "There was a provision in Florida law that allowed roofers and other third parties to directly negotiate with insurance companies for claims, which was leading to a lot of fraud."
+        },
+        {
+          "local_index": 8758,
+          "membership_prob": 1.0,
+          "claim": "Self-insuring became way cheaper than buying insurance."
+        },
+        {
+          "local_index": 8519,
+          "membership_prob": 1.0,
+          "claim": "Events continue to happen that will impact insurance markets and allow for the phase-in of new taxes."
+        }
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "size": 53,
+      "avg_membership_prob": 0.7338845283762108,
+      "representatives": [
+        {
+          "local_index": 14395,
+          "membership_prob": 1.0,
+          "claim": "Large insurance companies knew climate change was real and needed to understand it for their bottom lines."
+        },
+        {
+          "local_index": 8077,
+          "membership_prob": 1.0,
+          "claim": "Insurance companies donât want to pay out a dime because they see the effects of climate change."
+        },
+        {
+          "local_index": 9462,
+          "membership_prob": 1.0,
+          "claim": "Insurance companies in the US started hiking up premiums because of climate change in the 1970s."
+        },
+        {
+          "local_index": 9665,
+          "membership_prob": 1.0,
+          "claim": "Over one-third of weather-related insured losses over the past two decades, totaling $600 billion, can be attributed to climate change."
+        },
+        {
+          "local_index": 9768,
+          "membership_prob": 1.0,
+          "claim": "My conclusions about the relationship between insurance, climate change, and the future are directly in line with this article."
+        }
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "size": 24,
+      "avg_membership_prob": 0.9970014949649523,
+      "representatives": [
+        {
+          "local_index": 615,
+          "membership_prob": 1.0,
+          "claim": "Fascists are in favor of global warming and are burning more to support it for reasons of indifference to nature and a desire to create a hyperborean fantasy kingdom free of non-white people."
+        },
+        {
+          "local_index": 13398,
+          "membership_prob": 1.0,
+          "claim": "Australia is accused of undermining a landmark climate change case brought by Pacific nations in international court."
+        },
+        {
+          "local_index": 12817,
+          "membership_prob": 1.0,
+          "claim": "New meaningful climate laws of direct relevance to Directors come into effect in Australia."
+        },
+        {
+          "local_index": 12669,
+          "membership_prob": 1.0,
+          "claim": "Australia is a 'rogue actor on the global stage when it comes to climate change and wants to host a COP meeting."
+        },
+        {
+          "local_index": 12320,
+          "membership_prob": 1.0,
+          "claim": "Fascist victory ensures the eventual end of civilization through climate change, which is now close enough to be a cause for concern."
+        }
+      ]
+    },
+    {
+      "cluster_id": 15,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 448,
+          "membership_prob": 1.0,
+          "claim": "Ukraineâs district heating systems are being modernised with EBRD support."
+        },
+        {
+          "local_index": 12165,
+          "membership_prob": 1.0,
+          "claim": "It is feasible to drill a radiator-like structure in hot dry rock and line it with tubing using a benign heat transfer fluid."
+        },
+        {
+          "local_index": 12080,
+          "membership_prob": 1.0,
+          "claim": "If you sunk enough wells to a hot rock geothermal source to power a city, they would be spaced so close eventually you would cool the whole slab."
+        },
+        {
+          "local_index": 11156,
+          "membership_prob": 1.0,
+          "claim": "The #Ecodan #R290 heat pump is an environmentally responsible choice for home heating."
+        },
+        {
+          "local_index": 8945,
+          "membership_prob": 1.0,
+          "claim": "Maybe I should do some kind of HVAC job, maybe by buying a geothermal drilling rig and doing ground source heat pumps."
+        }
+      ]
+    },
+    {
+      "cluster_id": 16,
+      "size": 32,
+      "avg_membership_prob": 0.875773282902944,
+      "representatives": [
+        {
+          "local_index": 238,
+          "membership_prob": 1.0,
+          "claim": "Green hydrogen production is going to play a major role in seasonal energy storage."
+        },
+        {
+          "local_index": 12890,
+          "membership_prob": 1.0,
+          "claim": "Germany is leading the way in green transportation with the introduction of hydrogen-powered passenger trains."
+        },
+        {
+          "local_index": 12251,
+          "membership_prob": 1.0,
+          "claim": "Hydrogen is just an energy storage technique that does the same thing as batteries; it takes electrical energy and stores it for later use."
+        },
+        {
+          "local_index": 12120,
+          "membership_prob": 1.0,
+          "claim": "The cost of green hydrogen from seawater desalination powered by the sun can be reduced from about $10 per kg to $1 per kg in over 15 years."
+        },
+        {
+          "local_index": 11815,
+          "membership_prob": 1.0,
+          "claim": "The USA is out of the hydrogen energy market."
+        }
+      ]
+    },
+    {
+      "cluster_id": 17,
+      "size": 72,
+      "avg_membership_prob": 0.7528417302079718,
+      "representatives": [
+        {
+          "local_index": 10106,
+          "membership_prob": 1.0,
+          "claim": "Agricultural runoff is one of the leading causes of water pollution in the Mississippi River."
+        },
+        {
+          "local_index": 6459,
+          "membership_prob": 1.0,
+          "claim": "Wet wipe producers should be charged to remove their pollution from Englandâs waterways."
+        },
+        {
+          "local_index": 6741,
+          "membership_prob": 1.0,
+          "claim": "There will be more pollution in creeks near your home, making them easier to access."
+        },
+        {
+          "local_index": 5552,
+          "membership_prob": 1.0,
+          "claim": "The pollution continues, and water companies are not being held to account."
+        },
+        {
+          "local_index": 5286,
+          "membership_prob": 1.0,
+          "claim": "Pollution from holiday businesses, farming and water companies is destroying the Lakes."
+        }
+      ]
+    },
+    {
+      "cluster_id": 18,
+      "size": 25,
+      "avg_membership_prob": 0.9537331665004234,
+      "representatives": [
+        {
+          "local_index": 1883,
+          "membership_prob": 1.0,
+          "claim": "Rapidly ending fossil fuel finance by implementing climate justice will better protect our life-sustaining systems on planet earth."
+        },
+        {
+          "local_index": 11561,
+          "membership_prob": 1.0,
+          "claim": "A growing number of states pursue 'climate Superfund' laws that would require major oil and gas companies to pay for climate-related disaster and adaptation costs based on their share of global greenhouse gases."
+        },
+        {
+          "local_index": 11554,
+          "membership_prob": 1.0,
+          "claim": "New Yorkâs climate Superfund law makes fossil fuel companies pay for damage."
+        },
+        {
+          "local_index": 11148,
+          "membership_prob": 1.0,
+          "claim": "Attorney General John McCuskey sues New York over $75 billion climate superfund."
+        },
+        {
+          "local_index": 11081,
+          "membership_prob": 1.0,
+          "claim": "The UN climate summit is at real risk of corruption, capture by fossil fuel companies, and greenwashing."
+        }
+      ]
+    },
+    {
+      "cluster_id": 19,
+      "size": 44,
+      "avg_membership_prob": 0.9653866253115495,
+      "representatives": [
+        {
+          "local_index": 885,
+          "membership_prob": 1.0,
+          "claim": "Poilievre wants to expand fossil fuel production even as Canada experiences some of the worst forest fires in modern history."
+        },
+        {
+          "local_index": 13714,
+          "membership_prob": 1.0,
+          "claim": "The Edmonton Oilers are named after a fossil fuel that is harming the environment and the ice they need to play on."
+        },
+        {
+          "local_index": 8118,
+          "membership_prob": 1.0,
+          "claim": "The Alberta Chapter of Community Energy Cooperative Canada is a province-wide initiative to overcome barriers to community-owned renewable energy."
+        },
+        {
+          "local_index": 8353,
+          "membership_prob": 1.0,
+          "claim": "Support Canada 2050 and the Green Energy Transition to give Canadians an alternative to the Carbon Tax and make Canada better for all Canadians."
+        },
+        {
+          "local_index": 8614,
+          "membership_prob": 1.0,
+          "claim": "US needs Canadian oil because most US refineries are built for heavier crude than what comes from most of the US, and Canadian oil tends to be heavier."
+        }
+      ]
+    },
+    {
+      "cluster_id": 20,
+      "size": 93,
+      "avg_membership_prob": 0.5946606332335717,
+      "representatives": [
+        {
+          "local_index": 13406,
+          "membership_prob": 1.0,
+          "claim": "If all passive uptake were claimed as CO2 removal, nominal 'net zero CO2 emissions' would only stabilise CO2 concentrations, slowing further global warming but not ultimately stopping it."
+        },
+        {
+          "local_index": 6841,
+          "membership_prob": 1.0,
+          "claim": "The molcar world would also suffer from a greenhouse effect due to the molcars' output of methane gas."
+        },
+        {
+          "local_index": 7168,
+          "membership_prob": 1.0,
+          "claim": "A third of the Arcticâs vast carbon sink is now a source of emissions."
+        },
+        {
+          "local_index": 13256,
+          "membership_prob": 1.0,
+          "claim": "There is clear evidence for carbon dioxide removal (CDR) from applying steel slag amendments to cropland soils."
+        },
+        {
+          "local_index": 4237,
+          "membership_prob": 1.0,
+          "claim": "Rice cultivation is responsible for around 12% of global methane emissions and these emissions are expected to increase with global warming and as the human population grows."
+        }
+      ]
+    },
+    {
+      "cluster_id": 21,
+      "size": 51,
+      "avg_membership_prob": 0.7762612276303449,
+      "representatives": [
+        {
+          "local_index": 121,
+          "membership_prob": 1.0,
+          "claim": "We need to admit Ukraine into NATO as soon as possible and not let Trump cut aid to Ukraine."
+        },
+        {
+          "local_index": 13361,
+          "membership_prob": 1.0,
+          "claim": "Every country is paying high costs due to Russia's aggression of Ukraine."
+        },
+        {
+          "local_index": 13329,
+          "membership_prob": 1.0,
+          "claim": "Shell's Â£54bn profits in two years following the invasion of Ukraine are disgraceful."
+        },
+        {
+          "local_index": 13252,
+          "membership_prob": 1.0,
+          "claim": "Russia may decide to expand its border into Nunavut in the future."
+        },
+        {
+          "local_index": 12355,
+          "membership_prob": 1.0,
+          "claim": "Ukraine is going after russian artillery and logistics every day, and these are not sustainable losses for russia."
+        }
+      ]
+    },
+    {
+      "cluster_id": 22,
+      "size": 49,
+      "avg_membership_prob": 0.7759785742615052,
+      "representatives": [
+        {
+          "local_index": 13867,
+          "membership_prob": 1.0,
+          "claim": "China has already won in high speed rail and renewable energy."
+        },
+        {
+          "local_index": 10321,
+          "membership_prob": 1.0,
+          "claim": "China will make great strides with new renewable energy technologies and innovations while the US will be beholden to them."
+        },
+        {
+          "local_index": 10278,
+          "membership_prob": 1.0,
+          "claim": "Seven Chinese companies produced more energy in 2024 than the seven global giants at the heart of Big Oil."
+        },
+        {
+          "local_index": 10800,
+          "membership_prob": 1.0,
+          "claim": "Matt Yglesias thinks Chinaâs capacity to produce electric cars is more important than climate change."
+        },
+        {
+          "local_index": 8551,
+          "membership_prob": 1.0,
+          "claim": "China may be entering a phase where its economic growth no longer depends on rising carbon emissions and is becoming an exporter of clean energy."
+        }
+      ]
+    },
+    {
+      "cluster_id": 23,
+      "size": 72,
+      "avg_membership_prob": 0.648593579688341,
+      "representatives": [
+        {
+          "local_index": 8107,
+          "membership_prob": 1.0,
+          "claim": "We're all in the lifeboat with the folks drilling holes in the bottom."
+        },
+        {
+          "local_index": 12677,
+          "membership_prob": 1.0,
+          "claim": "I want the drilling from the office space below my apartment to stop soon."
+        },
+        {
+          "local_index": 12506,
+          "membership_prob": 1.0,
+          "claim": "Drilling into brick at 8am is not a good idea."
+        },
+        {
+          "local_index": 12335,
+          "membership_prob": 1.0,
+          "claim": "I don't want to start drilling holes into them myself."
+        },
+        {
+          "local_index": 10919,
+          "membership_prob": 1.0,
+          "claim": "You need ADHD drilling services."
+        }
+      ]
+    },
+    {
+      "cluster_id": 24,
+      "size": 26,
+      "avg_membership_prob": 0.9722322169700135,
+      "representatives": [
+        {
+          "local_index": 337,
+          "membership_prob": 1.0,
+          "claim": "When you are mindless, Big Oil can drag you around like a puppet and be their useful idiots for them."
+        },
+        {
+          "local_index": 13190,
+          "membership_prob": 1.0,
+          "claim": "Cheap oil often leads to increased consumption, not conservation."
+        },
+        {
+          "local_index": 11621,
+          "membership_prob": 1.0,
+          "claim": "Carney is sucking up to the oil and gas industry."
+        },
+        {
+          "local_index": 11610,
+          "membership_prob": 1.0,
+          "claim": "Whether the industry learned lessons in the same way as oil did with Piper is questionable."
+        },
+        {
+          "local_index": 7602,
+          "membership_prob": 1.0,
+          "claim": "The oil and gas industry must be stopped and stopped now."
+        }
+      ]
+    },
+    {
+      "cluster_id": 25,
+      "size": 139,
+      "avg_membership_prob": 0.9265311076103799,
+      "representatives": [
+        {
+          "local_index": 22,
+          "membership_prob": 1.0,
+          "claim": "Oil exploration and drilling was a severe threat to the small business tourism and commercial fishing economy of the state and the entire East Coast."
+        },
+        {
+          "local_index": 7375,
+          "membership_prob": 1.0,
+          "claim": "The people of Ecuador has already voted in referendum to end oil drilling in the rainforest."
+        },
+        {
+          "local_index": 7319,
+          "membership_prob": 1.0,
+          "claim": "Our country is moving backward by continuing to focus on drilling instead of wind and solar energy."
+        },
+        {
+          "local_index": 7059,
+          "membership_prob": 1.0,
+          "claim": "The current guy increased oil drilling."
+        },
+        {
+          "local_index": 6990,
+          "membership_prob": 1.0,
+          "claim": "The Norwegian parliament ordered the Labour minority government to launch a new frontier areas oil and gas exploration licensing round."
+        }
+      ]
+    },
+    {
+      "cluster_id": 26,
+      "size": 90,
+      "avg_membership_prob": 0.6750093451232334,
+      "representatives": [
+        {
+          "local_index": 12286,
+          "membership_prob": 1.0,
+          "claim": "Itâs M&S micro plastic pollution."
+        },
+        {
+          "local_index": 12491,
+          "membership_prob": 1.0,
+          "claim": "The Treaty's provisions on sustainability are being ignored or circumvented."
+        },
+        {
+          "local_index": 6363,
+          "membership_prob": 1.0,
+          "claim": "For the Plastics Treaty, we should end pollution at its source."
+        },
+        {
+          "local_index": 5082,
+          "membership_prob": 1.0,
+          "claim": "There is serious global plastic pollution."
+        },
+        {
+          "local_index": 6487,
+          "membership_prob": 1.0,
+          "claim": "There is a need for the treaty to address the protection of human health and the environment from the adverse impacts of plastic pollution."
+        }
+      ]
+    },
+    {
+      "cluster_id": 27,
+      "size": 66,
+      "avg_membership_prob": 0.7145094500083613,
+      "representatives": [
+        {
+          "local_index": 3872,
+          "membership_prob": 1.0,
+          "claim": "Fossil fuel groups demanded more scrutiny, not less, after pouring a record $96m into Trump ahead of the 2024 election."
+        },
+        {
+          "local_index": 11637,
+          "membership_prob": 1.0,
+          "claim": "Let's examine him closely and how he enables fossil fuel users and profits from them."
+        },
+        {
+          "local_index": 6120,
+          "membership_prob": 1.0,
+          "claim": "The Trump Administration is engaging in fossil-fuel-funded corruption."
+        },
+        {
+          "local_index": 5980,
+          "membership_prob": 1.0,
+          "claim": "Trumpâs fossil fuel executive orders threaten young peopleâs rights to life and liberty."
+        },
+        {
+          "local_index": 12002,
+          "membership_prob": 1.0,
+          "claim": "President Trump's administration will try anything to deliver for fossil fuel interests, no matter the public cost."
+        }
+      ]
+    },
+    {
+      "cluster_id": 28,
+      "size": 71,
+      "avg_membership_prob": 0.6218676591322204,
+      "representatives": [
+        {
+          "local_index": 12610,
+          "membership_prob": 1.0,
+          "claim": "'Vegan leather' isn't a form of greenwashing."
+        },
+        {
+          "local_index": 5151,
+          "membership_prob": 1.0,
+          "claim": "It doesnât matter who cuts the grass; itâs symptomatic of false expectations created by greenwashing."
+        },
+        {
+          "local_index": 13296,
+          "membership_prob": 1.0,
+          "claim": "Teaching how to critique articles, identify disinformation and recognise greenwashing is becoming increasingly vital."
+        },
+        {
+          "local_index": 4712,
+          "membership_prob": 1.0,
+          "claim": "META's 100% greenwashing claim is not present in the text."
+        },
+        {
+          "local_index": 4701,
+          "membership_prob": 1.0,
+          "claim": "This greenwashing has to stop."
+        }
+      ]
+    },
+    {
+      "cluster_id": 29,
+      "size": 26,
+      "avg_membership_prob": 0.9763736321962845,
+      "representatives": [
+        {
+          "local_index": 6242,
+          "membership_prob": 1.0,
+          "claim": "We should make effort to prevent massive fires instead of pouring more tax dollars into inhumane projects that are proven not to work."
+        },
+        {
+          "local_index": 10526,
+          "membership_prob": 1.0,
+          "claim": "Fossil fuel companies most responsible for the climate crisis should pay their fair share."
+        },
+        {
+          "local_index": 10149,
+          "membership_prob": 1.0,
+          "claim": "Environmentalists sound alarm as the fossil-fuel industry seeks legal immunity."
+        },
+        {
+          "local_index": 7184,
+          "membership_prob": 1.0,
+          "claim": "Environmental groups sound a new alarm as the fossil fuel lobby pushes for immunity."
+        },
+        {
+          "local_index": 6778,
+          "membership_prob": 1.0,
+          "claim": "A fossil fuel lawsuit could bankrupt Greenpeace."
+        }
+      ]
+    },
+    {
+      "cluster_id": 30,
+      "size": 23,
+      "avg_membership_prob": 0.9895681891444654,
+      "representatives": [
+        {
+          "local_index": 5392,
+          "membership_prob": 1.0,
+          "claim": "Calling state workers back into the office contributes to pollution and cars on the road."
+        },
+        {
+          "local_index": 14031,
+          "membership_prob": 1.0,
+          "claim": "I don't want more noise pollution from supercharged versions of gun noise."
+        },
+        {
+          "local_index": 13694,
+          "membership_prob": 1.0,
+          "claim": "Noise pollution may create a need for influence over the future of our machinery."
+        },
+        {
+          "local_index": 12051,
+          "membership_prob": 1.0,
+          "claim": "Space X had a rapid unscheduled disassembly that littered the Bahamas with Musk pollution."
+        },
+        {
+          "local_index": 11505,
+          "membership_prob": 1.0,
+          "claim": "Noise pollution from cars is so severe that it has changed migration patterns in parts of the country/world."
+        }
+      ]
+    },
+    {
+      "cluster_id": 31,
+      "size": 282,
+      "avg_membership_prob": 0.867200287349325,
+      "representatives": [
+        {
+          "local_index": 103,
+          "membership_prob": 1.0,
+          "claim": "Developmental air pollution exposure augments airway hyperreactivity, alters transcriptome, and DNA methylation in female adult progeny."
+        },
+        {
+          "local_index": 4774,
+          "membership_prob": 1.0,
+          "claim": "There is still some bad pollution happening."
+        },
+        {
+          "local_index": 4876,
+          "membership_prob": 1.0,
+          "claim": "California should continue to enforce its own air pollution standards."
+        },
+        {
+          "local_index": 4971,
+          "membership_prob": 1.0,
+          "claim": "Clean energy, sustainable urban planning, and stronger policies are critical solutions to the worsening air pollution in South Asian cities."
+        },
+        {
+          "local_index": 5020,
+          "membership_prob": 1.0,
+          "claim": "We should charge for the pollution and get a refund."
+        }
+      ]
+    },
+    {
+      "cluster_id": 32,
+      "size": 51,
+      "avg_membership_prob": 0.8643813136870705,
+      "representatives": [
+        {
+          "local_index": 8500,
+          "membership_prob": 1.0,
+          "claim": "Under Zeldin, the EPA allowed nearly 70 coal power plants to bypass mercury pollution regulations by requiring only an email and a deadline."
+        },
+        {
+          "local_index": 11280,
+          "membership_prob": 1.0,
+          "claim": "Trump prefers poisonous air from fossil fuel companies and millions with lung cancer to clean energy."
+        },
+        {
+          "local_index": 9910,
+          "membership_prob": 1.0,
+          "claim": "Trump environmental rollbacks could increase pollution in Florida."
+        },
+        {
+          "local_index": 9784,
+          "membership_prob": 1.0,
+          "claim": "You can object to Trump promoting coal and weakening air pollution protections by submitting a comment to the EPA."
+        },
+        {
+          "local_index": 11296,
+          "membership_prob": 1.0,
+          "claim": "He wants America to be engulfed in an orange haze of pollution again."
+        }
+      ]
+    },
+    {
+      "cluster_id": 33,
+      "size": 35,
+      "avg_membership_prob": 0.9323000214501361,
+      "representatives": [
+        {
+          "local_index": 323,
+          "membership_prob": 1.0,
+          "claim": "Dismantling the EPA's Environmental Justice office rolls back decades of progress."
+        },
+        {
+          "local_index": 12310,
+          "membership_prob": 1.0,
+          "claim": "Gutting the Greenhouse Gas Reporting Program would allow polluters to hide their true impact, harming American families and the environment."
+        },
+        {
+          "local_index": 11833,
+          "membership_prob": 1.0,
+          "claim": "You should submit an official comment against the EPAâs plan to rescind its ability to limit greenhouse gas emissions and gut vehicle standards needed to fight climate change."
+        },
+        {
+          "local_index": 11558,
+          "membership_prob": 1.0,
+          "claim": "Reversing the EPA's 2009 finding that greenhouse gas emissions endanger human health and welfare would eliminate the legal basis for the governmentâs climate laws."
+        },
+        {
+          "local_index": 10458,
+          "membership_prob": 1.0,
+          "claim": "EPA will begin the process of repealing and rewriting regulations, including limits on greenhouse gas emissions from cars and coal plants."
+        }
+      ]
+    },
+    {
+      "cluster_id": 34,
+      "size": 31,
+      "avg_membership_prob": 0.9732567835701115,
+      "representatives": [
+        {
+          "local_index": 29,
+          "membership_prob": 1.0,
+          "claim": "Trumpâs attempts to revive the coal industry will likely fail."
+        },
+        {
+          "local_index": 12889,
+          "membership_prob": 1.0,
+          "claim": "He is lecturing us about clean energy despite having generated a large amount of carbon."
+        },
+        {
+          "local_index": 12078,
+          "membership_prob": 1.0,
+          "claim": "The Government of Petro-Oligarchs is not interested in a clean energy economy."
+        },
+        {
+          "local_index": 11945,
+          "membership_prob": 1.0,
+          "claim": "The Louisiana Public Service Commission is likely to reject the regional network grid's expansion plans because they supply renewable energy sources."
+        },
+        {
+          "local_index": 11389,
+          "membership_prob": 1.0,
+          "claim": "PUC regulators reject electricity contracts that don't adhere to R.I.'s renewable energy standard."
+        }
+      ]
+    },
+    {
+      "cluster_id": 35,
+      "size": 40,
+      "avg_membership_prob": 0.9662790168648329,
+      "representatives": [
+        {
+          "local_index": 27,
+          "membership_prob": 1.0,
+          "claim": "I could not care less about the rest of the story because 'global warming' is in quotes."
+        },
+        {
+          "local_index": 8043,
+          "membership_prob": 1.0,
+          "claim": "The US is doing nothing to reverse global warming."
+        },
+        {
+          "local_index": 8362,
+          "membership_prob": 1.0,
+          "claim": "Scientists may have gotten the global warming timeline seriously wrong."
+        },
+        {
+          "local_index": 8727,
+          "membership_prob": 1.0,
+          "claim": "My home solar usage does not add to global warming."
+        },
+        {
+          "local_index": 8766,
+          "membership_prob": 1.0,
+          "claim": "No global warming was found in the glaciers of Greenland."
+        }
+      ]
+    },
+    {
+      "cluster_id": 36,
+      "size": 191,
+      "avg_membership_prob": 0.8115532745368462,
+      "representatives": [
+        {
+          "local_index": 138,
+          "membership_prob": 1.0,
+          "claim": "If all humans are dead, global warming will be solved."
+        },
+        {
+          "local_index": 9762,
+          "membership_prob": 1.0,
+          "claim": "The three Rs of reduce, remove, and reflect could limit global warming."
+        },
+        {
+          "local_index": 9705,
+          "membership_prob": 1.0,
+          "claim": "One of the worst parts of global warming is how worn out this one is going to get."
+        },
+        {
+          "local_index": 9001,
+          "membership_prob": 1.0,
+          "claim": "Americans who think global warming is happening outnumber those who think it is not by a ratio of more than 5 to 1."
+        },
+        {
+          "local_index": 8707,
+          "membership_prob": 1.0,
+          "claim": "Global warming is literally killing the earth and even those in bunkers won't survive the systems' destruction; the earth can't be rebuilt."
+        }
+      ]
+    },
+    {
+      "cluster_id": 37,
+      "size": 81,
+      "avg_membership_prob": 0.5678084758578179,
+      "representatives": [
+        {
+          "local_index": 382,
+          "membership_prob": 1.0,
+          "claim": "Nuclear energy is going to continue to be a vital part of our overall safe, clean and reliable generation mix."
+        },
+        {
+          "local_index": 5557,
+          "membership_prob": 1.0,
+          "claim": "Nuclear might live on after the Coalitionâs stinging loss."
+        },
+        {
+          "local_index": 5738,
+          "membership_prob": 1.0,
+          "claim": "Nuclear should be grouped with renewables as clean, low lifecycle emission energies; Hydrogen, grouped with fossil fuels as dirty, until CCS or other technology is used at scale."
+        },
+        {
+          "local_index": 5843,
+          "membership_prob": 1.0,
+          "claim": "Nuclear is not clean energy."
+        },
+        {
+          "local_index": 6350,
+          "membership_prob": 1.0,
+          "claim": "Nuclear energy is not safe and clean."
+        }
+      ]
+    },
+    {
+      "cluster_id": 38,
+      "size": 59,
+      "avg_membership_prob": 0.7723299963699551,
+      "representatives": [
+        {
+          "local_index": 295,
+          "membership_prob": 1.0,
+          "claim": "New policy approaches are needed to protect public finances while accelerating essential carbon storage development."
+        },
+        {
+          "local_index": 6872,
+          "membership_prob": 1.0,
+          "claim": "The article about carbon credits is surprisingly riveting and worth a read."
+        },
+        {
+          "local_index": 8483,
+          "membership_prob": 1.0,
+          "claim": "Carbon credits are a scam at best and a liability at worst."
+        },
+        {
+          "local_index": 6370,
+          "membership_prob": 1.0,
+          "claim": "The carbon tax is better for people and is a bare minimum tool for climate action."
+        },
+        {
+          "local_index": 9407,
+          "membership_prob": 1.0,
+          "claim": "It is worrisome that the oil industry has used carbon capture and storage to justify prolonging the extraction of oil and gas."
+        }
+      ]
+    },
+    {
+      "cluster_id": 39,
+      "size": 56,
+      "avg_membership_prob": 0.6350013113892292,
+      "representatives": [
+        {
+          "local_index": 7800,
+          "membership_prob": 1.0,
+          "claim": "We need a green new deal."
+        },
+        {
+          "local_index": 8837,
+          "membership_prob": 1.0,
+          "claim": "Much of the 'Green New Deal' is way behind schedule."
+        },
+        {
+          "local_index": 8537,
+          "membership_prob": 1.0,
+          "claim": "They can't let go of the term 'Green New Deal even though it didn't pass."
+        },
+        {
+          "local_index": 9776,
+          "membership_prob": 1.0,
+          "claim": "You need to join the fight for the Green New Deal by demanding your local politicians give you more buses."
+        },
+        {
+          "local_index": 7885,
+          "membership_prob": 1.0,
+          "claim": "A Green New Deal is needed for effective Canadian sovereignty."
+        }
+      ]
+    },
+    {
+      "cluster_id": 40,
+      "size": 148,
+      "avg_membership_prob": 0.9118166120546117,
+      "representatives": [
+        {
+          "local_index": 44,
+          "membership_prob": 1.0,
+          "claim": "Green tech that is proven is better and usually cheaper than speculative technology."
+        },
+        {
+          "local_index": 9719,
+          "membership_prob": 1.0,
+          "claim": "The 'green' energy boom is trampling human rights."
+        },
+        {
+          "local_index": 9552,
+          "membership_prob": 1.0,
+          "claim": "Attack on Green Peace by Energy Transfer is a strategic lawsuit against public participation."
+        },
+        {
+          "local_index": 9434,
+          "membership_prob": 1.0,
+          "claim": "Green energy is woke."
+        },
+        {
+          "local_index": 9345,
+          "membership_prob": 1.0,
+          "claim": "Amtrak will not be able to power the new train if they kill all the green energy programs."
+        }
+      ]
+    },
+    {
+      "cluster_id": 41,
+      "size": 24,
+      "avg_membership_prob": 0.9962046250190822,
+      "representatives": [
+        {
+          "local_index": 878,
+          "membership_prob": 1.0,
+          "claim": "We should stop extracting more fossil fuels and move to renewable and non-polluting energy as quickly as possible."
+        },
+        {
+          "local_index": 9482,
+          "membership_prob": 1.0,
+          "claim": "We should switch to a renewables-based, sustainable future by stopping our dependence on polluting fossil fuels."
+        },
+        {
+          "local_index": 9201,
+          "membership_prob": 1.0,
+          "claim": "It's past time to start using all that excess clean energy to heat rocks in a box and displace gas in industrial uses."
+        },
+        {
+          "local_index": 8457,
+          "membership_prob": 1.0,
+          "claim": "It's time to stop subsidizing trash incinerators as'renewable energy'."
+        },
+        {
+          "local_index": 8056,
+          "membership_prob": 1.0,
+          "claim": "We should burn more fuels to generate wealth so we can pay for more efficient energy later instead of investing in green energy."
+        }
+      ]
+    },
+    {
+      "cluster_id": 42,
+      "size": 45,
+      "avg_membership_prob": 0.8276281454341787,
+      "representatives": [
+        {
+          "local_index": 6869,
+          "membership_prob": 1.0,
+          "claim": "Online consumption is a red herring regarding Australia's domestic emissions."
+        },
+        {
+          "local_index": 13182,
+          "membership_prob": 1.0,
+          "claim": "Banks are appeasing Trump by taking this action, even though he doesn't support climate change, because they are spineless CEOs."
+        },
+        {
+          "local_index": 13181,
+          "membership_prob": 1.0,
+          "claim": "If the WA Government caves to lobbying from the gas industry, it will expose WA consumers to global prices and make Western Australians pay with higher energy bills for decades."
+        },
+        {
+          "local_index": 10782,
+          "membership_prob": 1.0,
+          "claim": "The only transition in Australia is the transition towards expanded fossil fuel production."
+        },
+        {
+          "local_index": 10031,
+          "membership_prob": 1.0,
+          "claim": "About one-in-seven tonnes of greenhouse gas emitted from Australia could comfortably be attributed to fossil fuel production."
+        }
+      ]
+    },
+    {
+      "cluster_id": 43,
+      "size": 423,
+      "avg_membership_prob": 0.8938188137745349,
+      "representatives": [
+        {
+          "local_index": 7394,
+          "membership_prob": 1.0,
+          "claim": "A popular uprising against the money and influence of the fossil fuel industry is desirable."
+        },
+        {
+          "local_index": 5268,
+          "membership_prob": 1.0,
+          "claim": "The spending on CCS announced yesterday is still horribly relevant due to fossil fuel lobbying."
+        },
+        {
+          "local_index": 10617,
+          "membership_prob": 1.0,
+          "claim": "The fossil fuel industry is always going to call a lot of shots in New Mexico because of the state's economy."
+        },
+        {
+          "local_index": 5339,
+          "membership_prob": 1.0,
+          "claim": "People stopping gas/mineral extraction and burning fossil fuels are crazy."
+        },
+        {
+          "local_index": 5350,
+          "membership_prob": 1.0,
+          "claim": "The American electorate put the fossil fuel industry's political party back into power in D.C."
+        }
+      ]
+    },
+    {
+      "cluster_id": 44,
+      "size": 94,
+      "avg_membership_prob": 0.616154429895607,
+      "representatives": [
+        {
+          "local_index": 11840,
+          "membership_prob": 1.0,
+          "claim": "Moolarben longwall coal mining will cause permanent damage to The Drip and the Goulburn River if approved."
+        },
+        {
+          "local_index": 4522,
+          "membership_prob": 1.0,
+          "claim": "1957 Albertans should not decide if coal mining in the Rockies starts again."
+        },
+        {
+          "local_index": 5924,
+          "membership_prob": 1.0,
+          "claim": "Brian Jean gave an idiotic salad response regarding coal mining in the Alberta Rockies."
+        },
+        {
+          "local_index": 12055,
+          "membership_prob": 1.0,
+          "claim": "The modern-day equivalent of a fop dandy is trying to tell us that coal mining is great for everyone."
+        },
+        {
+          "local_index": 7043,
+          "membership_prob": 1.0,
+          "claim": "Every government since 1976 has honoured the prohibition against coal mining on the Eastern slopes until the current government lifted it."
+        }
+      ]
+    },
+    {
+      "cluster_id": 45,
+      "size": 41,
+      "avg_membership_prob": 0.7554472211793852,
+      "representatives": [
+        {
+          "local_index": 6685,
+          "membership_prob": 1.0,
+          "claim": "You can help Orange-breasted Falcon and other wildlife by boycotting palm oil, soy, and gold deforestation."
+        },
+        {
+          "local_index": 9785,
+          "membership_prob": 1.0,
+          "claim": "Nestle prioritises palm oil greed and profit over human rights and animal rights."
+        },
+        {
+          "local_index": 9654,
+          "membership_prob": 1.0,
+          "claim": "You can help Bengal slow lorises by boycotting palm oil."
+        },
+        {
+          "local_index": 9227,
+          "membership_prob": 1.0,
+          "claim": "We should boycott palm oil to help the survival of Mountain Cuscus."
+        },
+        {
+          "local_index": 8942,
+          "membership_prob": 1.0,
+          "claim": "Help shoebills by being vegan and boycotting palm oil."
+        }
+      ]
+    },
+    {
+      "cluster_id": 46,
+      "size": 21,
+      "avg_membership_prob": 0.9991639267441267,
+      "representatives": [
+        {
+          "local_index": 301,
+          "membership_prob": 1.0,
+          "claim": "There is a network of people attempting to block offshore wind in the USA to protect the fossil fuel industry's profits."
+        },
+        {
+          "local_index": 13809,
+          "membership_prob": 1.0,
+          "claim": "ABC news should report on who is behind the alleged community concerns about off-shore wind farms and their connections to fossil fuel interests and Advance."
+        },
+        {
+          "local_index": 11930,
+          "membership_prob": 1.0,
+          "claim": "Keir Starmer and Ed Miliband's 100% renewable energy crusade is a farce."
+        },
+        {
+          "local_index": 9597,
+          "membership_prob": 1.0,
+          "claim": "We need to be able to explain wind and solar to voters, even if they are not already familiar with them."
+        },
+        {
+          "local_index": 9081,
+          "membership_prob": 1.0,
+          "claim": "MAGA people are sharing the TV series Landman's anti-renewable energy rant as fact on social media because they want to hate renewable energy."
+        }
+      ]
+    },
+    {
+      "cluster_id": 47,
+      "size": 46,
+      "avg_membership_prob": 0.7699496523586099,
+      "representatives": [
+        {
+          "local_index": 32,
+          "membership_prob": 1.0,
+          "claim": "Elon Musk could pay for the entire UK to reach net 0 carbon emissions and still be on equal terms with Bezos in terms of cash."
+        },
+        {
+          "local_index": 14013,
+          "membership_prob": 1.0,
+          "claim": "I will not debate whether it's right for Musk to have billions while children have their lives shortened by poverty."
+        },
+        {
+          "local_index": 13513,
+          "membership_prob": 1.0,
+          "claim": "I encourage you to learn more about Musk from Joe Leahy."
+        },
+        {
+          "local_index": 12409,
+          "membership_prob": 1.0,
+          "claim": "Operative word for Mr. Musk is eugenicist."
+        },
+        {
+          "local_index": 10352,
+          "membership_prob": 1.0,
+          "claim": "Musk prefers tax cuts and fascism to democracy."
+        }
+      ]
+    },
+    {
+      "cluster_id": 48,
+      "size": 327,
+      "avg_membership_prob": 0.8238030914663498,
+      "representatives": [
+        {
+          "local_index": 70,
+          "membership_prob": 1.0,
+          "claim": "Regular solar panel maintenance ensures maximum efficiency and long-term performance."
+        },
+        {
+          "local_index": 7932,
+          "membership_prob": 1.0,
+          "claim": "God put air in the sky and the sun for solar energy."
+        },
+        {
+          "local_index": 7995,
+          "membership_prob": 1.0,
+          "claim": "Many people would take advantage of a US tax credit for homes with 1500 watts of solar and 10kWh of energy storage."
+        },
+        {
+          "local_index": 8012,
+          "membership_prob": 1.0,
+          "claim": "We must switch to solar energy as a matter of urgency."
+        },
+        {
+          "local_index": 8049,
+          "membership_prob": 1.0,
+          "claim": "Scientists have tested a lab-scale solar/storage device and found it works better when it gets hot."
+        }
+      ]
+    },
+    {
+      "cluster_id": 49,
+      "size": 31,
+      "avg_membership_prob": 0.9710478009669344,
+      "representatives": [
+        {
+          "local_index": 577,
+          "membership_prob": 1.0,
+          "claim": "Friction, conflict, and protest at the sites of renewable energy benefits the fossil fuel industry."
+        },
+        {
+          "local_index": 13484,
+          "membership_prob": 1.0,
+          "claim": "It is contradictory to oppose wind turbines because they will put biomass out of business and also oppose the impacts of renewable energy on nature."
+        },
+        {
+          "local_index": 12044,
+          "membership_prob": 1.0,
+          "claim": "The opposition to producing wind and solar energy during an energy emergency is driven by fossil fuel interests."
+        },
+        {
+          "local_index": 10129,
+          "membership_prob": 1.0,
+          "claim": "A company that requires subsidies to survive deserves to fail, especially if its business model is renewable energy for utility level power."
+        },
+        {
+          "local_index": 9931,
+          "membership_prob": 1.0,
+          "claim": "Coal power in the US is being pushed off the energy market by cheaper natural gas and wind/solar."
+        }
+      ]
+    },
+    {
+      "cluster_id": 50,
+      "size": 458,
+      "avg_membership_prob": 0.9237143392297541,
+      "representatives": [
+        {
+          "local_index": 5,
+          "membership_prob": 1.0,
+          "claim": "Just because something is renewable doesn't mean it's sustainable."
+        },
+        {
+          "local_index": 7751,
+          "membership_prob": 1.0,
+          "claim": "It would be electric and the US is all about fossil fuel."
+        },
+        {
+          "local_index": 7604,
+          "membership_prob": 1.0,
+          "claim": "Retired coal plants could be reborn as renewable energy hubs by using piles of dirt to store heat to become backup power stations for the grid, cutting emissions and costs."
+        },
+        {
+          "local_index": 7484,
+          "membership_prob": 1.0,
+          "claim": "Bitcoin mining companies care about the resources it takes to mine and are always in search of the cheapest form of energy from renewable sources."
+        },
+        {
+          "local_index": 7440,
+          "membership_prob": 1.0,
+          "claim": "Doubling onshore wind generation by 2030 will help deliver energy security, create green jobs and growth, and reduce energy bills."
+        }
+      ]
+    },
+    {
+      "cluster_id": 51,
+      "size": 45,
+      "avg_membership_prob": 0.876390185375536,
+      "representatives": [
+        {
+          "local_index": 139,
+          "membership_prob": 1.0,
+          "claim": "It is delusional to think you can negotiate a bill that will favor clean energy over fossil fuels with these people."
+        },
+        {
+          "local_index": 8499,
+          "membership_prob": 1.0,
+          "claim": "The president launched a new attack on renewable energy during a Fox News interview."
+        },
+        {
+          "local_index": 5101,
+          "membership_prob": 1.0,
+          "claim": "Trump is attacking offshore wind so that we cannot affordably electrify heat in downstate New York with clean energy."
+        },
+        {
+          "local_index": 8613,
+          "membership_prob": 1.0,
+          "claim": "Trump stopping renewable energy projects that would have added cheap power is causing electricity shortages."
+        },
+        {
+          "local_index": 8817,
+          "membership_prob": 1.0,
+          "claim": "Murkowski feels âcheatedâ?by Trump administration actions against wind and solar projects."
+        }
+      ]
+    },
+    {
+      "cluster_id": 52,
+      "size": 26,
+      "avg_membership_prob": 0.9850215613910739,
+      "representatives": [
+        {
+          "local_index": 283,
+          "membership_prob": 1.0,
+          "claim": "Global warming will make chocolate too expensive to eat."
+        },
+        {
+          "local_index": 13336,
+          "membership_prob": 1.0,
+          "claim": "It is convenient that coffee bean prices go up due to climate change."
+        },
+        {
+          "local_index": 11555,
+          "membership_prob": 1.0,
+          "claim": "There is no future for coffee on this planet if it is ravaged by carbon pollution."
+        },
+        {
+          "local_index": 10875,
+          "membership_prob": 1.0,
+          "claim": "Treymann is probably not wrong that he can grow coffee beans in his backyard in Nebraska with a couple more years of climate change."
+        },
+        {
+          "local_index": 10067,
+          "membership_prob": 1.0,
+          "claim": "Research conducted at the herbarium at Kew potentially holds hope for coffee drinkers in the era of climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 53,
+      "size": 108,
+      "avg_membership_prob": 0.5703372967986493,
+      "representatives": [
+        {
+          "local_index": 2091,
+          "membership_prob": 1.0,
+          "claim": "Global warming is going to annihilate agriculture because it's climate dependent and future generations will suffer greatly."
+        },
+        {
+          "local_index": 2419,
+          "membership_prob": 1.0,
+          "claim": "The government is blaming farmers for their financial mismanagement while also undermining efforts to respond to climate change."
+        },
+        {
+          "local_index": 3330,
+          "membership_prob": 1.0,
+          "claim": "Climate change will affect farmers."
+        },
+        {
+          "local_index": 2113,
+          "membership_prob": 1.0,
+          "claim": "We shouldn't be talking about the climate changing but about ATE, our Ability To Eat."
+        },
+        {
+          "local_index": 8173,
+          "membership_prob": 1.0,
+          "claim": "People who believe in miracles like water being turned into wine and bread and fish being multiplied deny climate change is a major threat to food security."
+        }
+      ]
+    },
+    {
+      "cluster_id": 54,
+      "size": 104,
+      "avg_membership_prob": 0.7973850024768013,
+      "representatives": [
+        {
+          "local_index": 76,
+          "membership_prob": 1.0,
+          "claim": "Scottish bird species are being affected by climate change."
+        },
+        {
+          "local_index": 3954,
+          "membership_prob": 1.0,
+          "claim": "Climate change deniers can all be the inbred offspring of the same three sons of Noah."
+        },
+        {
+          "local_index": 12668,
+          "membership_prob": 1.0,
+          "claim": "Koala population declines are caused by climate change."
+        },
+        {
+          "local_index": 12936,
+          "membership_prob": 1.0,
+          "claim": "Climate change will be involved in the decline of several species where we have failed to see a clear cause of decline."
+        },
+        {
+          "local_index": 3222,
+          "membership_prob": 1.0,
+          "claim": "Climate change tests the wildlife conservation model in Namibia."
+        }
+      ]
+    },
+    {
+      "cluster_id": 55,
+      "size": 136,
+      "avg_membership_prob": 0.8119777586771171,
+      "representatives": [
+        {
+          "local_index": 119,
+          "membership_prob": 1.0,
+          "claim": "The booming poultry industry faces a reckoning as government is pressed to finance more sustainable methods."
+        },
+        {
+          "local_index": 8189,
+          "membership_prob": 1.0,
+          "claim": "There remains much to be done if we are to transition to more sustainable food and farming systems."
+        },
+        {
+          "local_index": 8152,
+          "membership_prob": 1.0,
+          "claim": "You will find answers and discussions about sustainable food systems and sustainable trade in this conference report."
+        },
+        {
+          "local_index": 8137,
+          "membership_prob": 1.0,
+          "claim": "Plant-based proteins are the key to a sustainable future."
+        },
+        {
+          "local_index": 8079,
+          "membership_prob": 1.0,
+          "claim": "Soy is a better choice than meat for sustainability."
+        }
+      ]
+    },
+    {
+      "cluster_id": 56,
+      "size": 161,
+      "avg_membership_prob": 0.9516707644039977,
+      "representatives": [
+        {
+          "local_index": 7680,
+          "membership_prob": 1.0,
+          "claim": "The bill benefits the wealthy at the expense of the poor and the environment, leading to negative consequences such as loss of healthcare, increased college costs, and loss of the green energy manufacturing industry."
+        },
+        {
+          "local_index": 10017,
+          "membership_prob": 1.0,
+          "claim": "Clean energy is placing a firm kick into the knackers of Trump, Farage, Tufton St and other fossil fuel obsessives."
+        },
+        {
+          "local_index": 9891,
+          "membership_prob": 1.0,
+          "claim": "The cuts to EV and other clean energy credits in Trumpâs multi-trillion dollar tax bill would be 'incredibly destructive' to the country."
+        },
+        {
+          "local_index": 9885,
+          "membership_prob": 1.0,
+          "claim": "Clean energy is under attack by the US Senate."
+        },
+        {
+          "local_index": 9880,
+          "membership_prob": 1.0,
+          "claim": "Senators must vote NO to save our clean energy future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 57,
+      "size": 196,
+      "avg_membership_prob": 0.7265505122434951,
+      "representatives": [
+        {
+          "local_index": 14461,
+          "membership_prob": 1.0,
+          "claim": "We should get cheap clean energy from countries like Canada and the US to the 3rd world to clean the planet as fast as possible."
+        },
+        {
+          "local_index": 1031,
+          "membership_prob": 1.0,
+          "claim": "The clean-energy transition is now well-established, bringing cheaper energy and cleaner air."
+        },
+        {
+          "local_index": 10314,
+          "membership_prob": 1.0,
+          "claim": "We must accelerate the transition to clean energy and hold polluters accountable."
+        },
+        {
+          "local_index": 1820,
+          "membership_prob": 1.0,
+          "claim": "Stop saying 'the clean energy revolution is inevitable'."
+        },
+        {
+          "local_index": 9281,
+          "membership_prob": 1.0,
+          "claim": "The future of clean energy progress in America is certainly in peril."
+        }
+      ]
+    },
+    {
+      "cluster_id": 58,
+      "size": 89,
+      "avg_membership_prob": 0.5308341039125959,
+      "representatives": [
+        {
+          "local_index": 10416,
+          "membership_prob": 1.0,
+          "claim": "Climate change is a hoax used to increase the wealth of the Plutocracy that created it."
+        },
+        {
+          "local_index": 5906,
+          "membership_prob": 1.0,
+          "claim": "Climate change is a hoax."
+        },
+        {
+          "local_index": 5798,
+          "membership_prob": 1.0,
+          "claim": "Climate change is a hoax."
+        },
+        {
+          "local_index": 5649,
+          "membership_prob": 1.0,
+          "claim": "If the disinformation campaign continues, the theory that the Earth can support life will be a hoax, too."
+        },
+        {
+          "local_index": 9323,
+          "membership_prob": 1.0,
+          "claim": "CO2-driven climate change is a woke lie."
+        }
+      ]
+    },
+    {
+      "cluster_id": 59,
+      "size": 28,
+      "avg_membership_prob": 0.9709346314726375,
+      "representatives": [
+        {
+          "local_index": 14404,
+          "membership_prob": 1.0,
+          "claim": "We can help alleviate the toll of the drought in South Eastern Zambia on wildlife by supporting Nsefu Wildlife's efforts to provide water."
+        },
+        {
+          "local_index": 11350,
+          "membership_prob": 1.0,
+          "claim": "Efforts across 8 biodiversity-related conventions aim to support livelihoods, food security, and the planet."
+        },
+        {
+          "local_index": 9431,
+          "membership_prob": 1.0,
+          "claim": "The International Court of Justice's advisory opinion provides a sign of hope for vulnerable populations and the planet's ecosystems and species."
+        },
+        {
+          "local_index": 9298,
+          "membership_prob": 1.0,
+          "claim": "Itâs vital to include animal perspectives in the research process when restoring ecosystems if we want healthy, sustainable solutions."
+        },
+        {
+          "local_index": 11676,
+          "membership_prob": 1.0,
+          "claim": "Urgent action is needed to protect our planetâs rich ecosystems."
+        }
+      ]
+    },
+    {
+      "cluster_id": 60,
+      "size": 71,
+      "avg_membership_prob": 0.6422114737403823,
+      "representatives": [
+        {
+          "local_index": 10224,
+          "membership_prob": 1.0,
+          "claim": "Dalhousie University researchers are making aquaculture more sustainable to feed the world."
+        },
+        {
+          "local_index": 9189,
+          "membership_prob": 1.0,
+          "claim": "Addressing acceptance challenges and improving awareness are critical to unlocking growth, ensuring market confidence, and fostering innovation in EU aquaculture."
+        },
+        {
+          "local_index": 4097,
+          "membership_prob": 1.0,
+          "claim": "This is a good move for aquatic environments & wildlife."
+        },
+        {
+          "local_index": 4065,
+          "membership_prob": 1.0,
+          "claim": "The SURIMI value chain aims to power smarter, sustainable fisheries management."
+        },
+        {
+          "local_index": 9602,
+          "membership_prob": 1.0,
+          "claim": "Mesocosms can be used to advance solutions to grand ecological challenges in aquatic ecosystems."
+        }
+      ]
+    },
+    {
+      "cluster_id": 61,
+      "size": 81,
+      "avg_membership_prob": 0.6216313616961422,
+      "representatives": [
+        {
+          "local_index": 14485,
+          "membership_prob": 1.0,
+          "claim": "Indonesia is leaving a legacy of deforestation to the next generations."
+        },
+        {
+          "local_index": 4724,
+          "membership_prob": 1.0,
+          "claim": "Not deforestation"
+        },
+        {
+          "local_index": 3360,
+          "membership_prob": 1.0,
+          "claim": "Expecting deforestation to disappear in one fell swoop is unrealistic."
+        },
+        {
+          "local_index": 3262,
+          "membership_prob": 1.0,
+          "claim": "We, the greens, remain behind the Deforestation law as it was adopted in last mandate, without postponement."
+        },
+        {
+          "local_index": 2955,
+          "membership_prob": 1.0,
+          "claim": "Deforestation is costing lives."
+        }
+      ]
+    },
+    {
+      "cluster_id": 62,
+      "size": 40,
+      "avg_membership_prob": 0.8855850608295285,
+      "representatives": [
+        {
+          "local_index": 371,
+          "membership_prob": 1.0,
+          "claim": "Climate change is impacting trees."
+        },
+        {
+          "local_index": 12431,
+          "membership_prob": 1.0,
+          "claim": "Ripping up national parks and forests will add to global warming, destroy habitat for wildlife, and make America a wasteland, leading to dry up lakes and rivers."
+        },
+        {
+          "local_index": 9928,
+          "membership_prob": 1.0,
+          "claim": "The impact of planting new woodlands using diverse species mixtures on BVOC emissions from the trees is currently unclear."
+        },
+        {
+          "local_index": 9574,
+          "membership_prob": 1.0,
+          "claim": "Trees are losing the battle against climate change."
+        },
+        {
+          "local_index": 9036,
+          "membership_prob": 1.0,
+          "claim": "Food foresting unused land would reverse all the planetary tipping points that are causing moderate extreme weather, interrupting local droughts and floods, and absorbing atmospheric rivers instead of converting solar energy into heat."
+        }
+      ]
+    },
+    {
+      "cluster_id": 63,
+      "size": 73,
+      "avg_membership_prob": 0.8311366666700207,
+      "representatives": [
+        {
+          "local_index": 84,
+          "membership_prob": 1.0,
+          "claim": "There are too many academic books claiming to explore global perspectives on sustainable fashion with all editors being white women."
+        },
+        {
+          "local_index": 5887,
+          "membership_prob": 1.0,
+          "claim": "Amazon's sustainable skincare range is good for a healthier planet and you."
+        },
+        {
+          "local_index": 6209,
+          "membership_prob": 1.0,
+          "claim": "Sustainable fashion isnât a trend."
+        },
+        {
+          "local_index": 6461,
+          "membership_prob": 1.0,
+          "claim": "This look by designer William Palmer features our weatherproof organic cotton and pushes the limits of sustainable design."
+        },
+        {
+          "local_index": 6946,
+          "membership_prob": 1.0,
+          "claim": "BIPOC designers are leading the eco-friendly movement in fashion."
+        }
+      ]
+    },
+    {
+      "cluster_id": 64,
+      "size": 23,
+      "avg_membership_prob": 0.9992113876503568,
+      "representatives": [
+        {
+          "local_index": 362,
+          "membership_prob": 1.0,
+          "claim": "Financing climate-resilient capital remains a key constraint in settings with missing markets for risk."
+        },
+        {
+          "local_index": 11074,
+          "membership_prob": 1.0,
+          "claim": "Many financial institutions will continue to try to understand climate-related risks and opportunity, simply because that makes good financial sense."
+        },
+        {
+          "local_index": 10991,
+          "membership_prob": 1.0,
+          "claim": "Environmental disasters caused by climate change are likely to trigger panic in financial markets."
+        },
+        {
+          "local_index": 10234,
+          "membership_prob": 1.0,
+          "claim": "I estimate that climate change added about $80 to electricity costs for every Texan in 2023."
+        },
+        {
+          "local_index": 9845,
+          "membership_prob": 1.0,
+          "claim": "Impact-linked finance can turn skilling into climate action."
+        }
+      ]
+    },
+    {
+      "cluster_id": 65,
+      "size": 35,
+      "avg_membership_prob": 0.9466147271627205,
+      "representatives": [
+        {
+          "local_index": 6993,
+          "membership_prob": 1.0,
+          "claim": "I now agree with Stephanie and Raeghn regarding the ballot measure supporting a National Park along Chicago's lakefront."
+        },
+        {
+          "local_index": 11780,
+          "membership_prob": 1.0,
+          "claim": "You should take a minute to call to stop this bill."
+        },
+        {
+          "local_index": 11133,
+          "membership_prob": 1.0,
+          "claim": "Her donations prioritize organizations working on racial justice, LGBTQ+ equality, democracy, and climate change."
+        },
+        {
+          "local_index": 10327,
+          "membership_prob": 1.0,
+          "claim": "Everyone should have voted for Kamala Harris."
+        },
+        {
+          "local_index": 10326,
+          "membership_prob": 1.0,
+          "claim": "The Mayor vetoes worker protection bills passed by the Council."
+        }
+      ]
+    },
+    {
+      "cluster_id": 66,
+      "size": 112,
+      "avg_membership_prob": 0.527038137324051,
+      "representatives": [
+        {
+          "local_index": 14464,
+          "membership_prob": 1.0,
+          "claim": "It looks like junk science."
+        },
+        {
+          "local_index": 4583,
+          "membership_prob": 1.0,
+          "claim": "Editors, authors, and reviewers may compromise scientific integrity to increase paper numbers, citations, and profit if AI hallucinations result in junk science."
+        },
+        {
+          "local_index": 5885,
+          "membership_prob": 1.0,
+          "claim": "This is junk science."
+        },
+        {
+          "local_index": 7292,
+          "membership_prob": 1.0,
+          "claim": "Junk science is emerging."
+        },
+        {
+          "local_index": 2490,
+          "membership_prob": 1.0,
+          "claim": "A godless religion and its leader and administration are big believers in junk science."
+        }
+      ]
+    },
+    {
+      "cluster_id": 67,
+      "size": 73,
+      "avg_membership_prob": 0.7563102786196448,
+      "representatives": [
+        {
+          "local_index": 78,
+          "membership_prob": 1.0,
+          "claim": "If Republicans ignore climate change, it will go away, but if they acknowledge its existence, it will attack them."
+        },
+        {
+          "local_index": 12997,
+          "membership_prob": 1.0,
+          "claim": "Do NOT believe a word the gop says about pollution or global warming."
+        },
+        {
+          "local_index": 12340,
+          "membership_prob": 1.0,
+          "claim": "Republicans ignoring climate change is literally killing people."
+        },
+        {
+          "local_index": 11719,
+          "membership_prob": 1.0,
+          "claim": "Republikans will deny the existence of climate change until it kills us all, and with their last dying breath theyâll blame the Democrats."
+        },
+        {
+          "local_index": 10910,
+          "membership_prob": 1.0,
+          "claim": "Republicans who ran against climate change have lost and so will we."
+        }
+      ]
+    },
+    {
+      "cluster_id": 68,
+      "size": 75,
+      "avg_membership_prob": 0.6891925388186446,
+      "representatives": [
+        {
+          "local_index": 14265,
+          "membership_prob": 1.0,
+          "claim": "Flooding will likely occur due to deforestation."
+        },
+        {
+          "local_index": 6286,
+          "membership_prob": 1.0,
+          "claim": "A flash flood this devastating is mostly the result of climate change."
+        },
+        {
+          "local_index": 7579,
+          "membership_prob": 1.0,
+          "claim": "There will be even more '500 year' floods every couple of years."
+        },
+        {
+          "local_index": 8417,
+          "membership_prob": 1.0,
+          "claim": "This level of flooding hasn't been seen in over 100 years."
+        },
+        {
+          "local_index": 3393,
+          "membership_prob": 1.0,
+          "claim": "The 2022 super floods and its aftermath could be pertinent in securing [something] at COP29 in Baku, Azerbaijan."
+        }
+      ]
+    },
+    {
+      "cluster_id": 69,
+      "size": 47,
+      "avg_membership_prob": 0.91494252672005,
+      "representatives": [
+        {
+          "local_index": 2424,
+          "membership_prob": 1.0,
+          "claim": "10âs of millions of people will be forced to immigrate to the US due to climate change."
+        },
+        {
+          "local_index": 5522,
+          "membership_prob": 1.0,
+          "claim": "If climate change makes the lower 48 uninhabitable, civilization will migrate to areas with a temperate climate, which would be Canada and Greenland."
+        },
+        {
+          "local_index": 6268,
+          "membership_prob": 1.0,
+          "claim": "The relative burden of aviation on global warming is not increasing."
+        },
+        {
+          "local_index": 6820,
+          "membership_prob": 1.0,
+          "claim": "Conservativesâ?fight against the mitigation of climate change will result in massive migration."
+        },
+        {
+          "local_index": 3589,
+          "membership_prob": 1.0,
+          "claim": "Climate change is a primary reason for human migration."
+        }
+      ]
+    },
+    {
+      "cluster_id": 70,
+      "size": 23,
+      "avg_membership_prob": 0.9978429785202346,
+      "representatives": [
+        {
+          "local_index": 576,
+          "membership_prob": 1.0,
+          "claim": "Sheâs no friend of nurses."
+        },
+        {
+          "local_index": 13104,
+          "membership_prob": 1.0,
+          "claim": "FEMA is both slow and overbearing, and itâs crucially underfunded but they donât care."
+        },
+        {
+          "local_index": 12555,
+          "membership_prob": 1.0,
+          "claim": "There is no precedent at CDC after multiple top officials announced their resignations following news of Monarez's ouster."
+        },
+        {
+          "local_index": 12124,
+          "membership_prob": 1.0,
+          "claim": "Not collecting data about SA, pandemics, climate change, and the stagnant economy means those things no longer exist."
+        },
+        {
+          "local_index": 11596,
+          "membership_prob": 1.0,
+          "claim": "A landmark 1884 court case ended the practice of hydraulic mining, setting an early precedent for environmental protection."
+        }
+      ]
+    },
+    {
+      "cluster_id": 71,
+      "size": 47,
+      "avg_membership_prob": 0.9100507724480199,
+      "representatives": [
+        {
+          "local_index": 5926,
+          "membership_prob": 1.0,
+          "claim": "We could not need Israel as an ally if we concentrated on renewable energy."
+        },
+        {
+          "local_index": 12480,
+          "membership_prob": 1.0,
+          "claim": "The football elite does not care about football fans and footballâs future at all."
+        },
+        {
+          "local_index": 12342,
+          "membership_prob": 1.0,
+          "claim": "The Battle of Hastings has nothing to do with what we are experiencing now."
+        },
+        {
+          "local_index": 11693,
+          "membership_prob": 1.0,
+          "claim": "A change in law was not the basis of a claim for compensation."
+        },
+        {
+          "local_index": 11273,
+          "membership_prob": 1.0,
+          "claim": "#SOTEU gave firefighters applause but no sustainable plan: no staffing, no funding, no prevention."
+        }
+      ]
+    },
+    {
+      "cluster_id": 72,
+      "size": 37,
+      "avg_membership_prob": 0.9863885773438976,
+      "representatives": [
+        {
+          "local_index": 216,
+          "membership_prob": 1.0,
+          "claim": "Blaming the governor for not raking leaves is unreasonable."
+        },
+        {
+          "local_index": 13879,
+          "membership_prob": 1.0,
+          "claim": "The country has no real future as a free country."
+        },
+        {
+          "local_index": 12543,
+          "membership_prob": 1.0,
+          "claim": "The general population no longer has any clue what goes on."
+        },
+        {
+          "local_index": 12529,
+          "membership_prob": 1.0,
+          "claim": "We are bringing this issue into the public sphere with Energy Embargo for Palestine and Queers for Palestine."
+        },
+        {
+          "local_index": 12049,
+          "membership_prob": 1.0,
+          "claim": "Felon is going after the federal forests on the eastern seaboard and likely wants to clearcut them for lumber because of his tariffs on Canadian lumber."
+        }
+      ]
+    },
+    {
+      "cluster_id": 73,
+      "size": 25,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 130,
+          "membership_prob": 1.0,
+          "claim": "unmasking is about being authentic and safe in a sustainable way."
+        },
+        {
+          "local_index": 12676,
+          "membership_prob": 1.0,
+          "claim": "Our approach to printing results in no wasted inventory and no products ending up in landfills, making it a smart, sustainable design option."
+        },
+        {
+          "local_index": 12206,
+          "membership_prob": 1.0,
+          "claim": "Consumers around the world want products that are manufactured in the most sustainable and environmentally protective way."
+        },
+        {
+          "local_index": 11792,
+          "membership_prob": 1.0,
+          "claim": "Wood is the source of next-generation supermaterials."
+        },
+        {
+          "local_index": 11509,
+          "membership_prob": 1.0,
+          "claim": "Agilent is delivering intelligent, more sustainable LC/MS solutions that provide deeper insights and better lab efficiency."
+        }
+      ]
+    },
+    {
+      "cluster_id": 74,
+      "size": 58,
+      "avg_membership_prob": 0.9261664276936191,
+      "representatives": [
+        {
+          "local_index": 7842,
+          "membership_prob": 1.0,
+          "claim": "A consortium of the wealthy should pool their resources in a sustainable way and find people to run it to help those at the lowest income and most in need."
+        },
+        {
+          "local_index": 7468,
+          "membership_prob": 1.0,
+          "claim": "Green prescribing, active travel, local care, and digital efficiency are the future of a thriving, sustainable NHS."
+        },
+        {
+          "local_index": 7671,
+          "membership_prob": 1.0,
+          "claim": "Socialism won't save anyone unless we unite as a species for sustainable parity for all life and mature through selfish exploitation for profit."
+        },
+        {
+          "local_index": 7784,
+          "membership_prob": 1.0,
+          "claim": "Boom will have to make some difficult choices to make this succeed and appeal to the market."
+        },
+        {
+          "local_index": 14101,
+          "membership_prob": 1.0,
+          "claim": "Surviving late-stage capitalism is not just about individual survival but also about working collectively to create a more equitable and sustainable future."
+        }
+      ]
+    },
+    {
+      "cluster_id": 75,
+      "size": 23,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 156,
+          "membership_prob": 1.0,
+          "claim": "Once a station is purchased by Sinclair, its volume of climate change reporting drops and the public becomes less aware climate change is happening."
+        },
+        {
+          "local_index": 11852,
+          "membership_prob": 1.0,
+          "claim": "Spanish-language newspapers in the U.S. struggle to localize climate change stories."
+        },
+        {
+          "local_index": 11422,
+          "membership_prob": 1.0,
+          "claim": "I could be disciplined or fired for discussing the compelling evidence linking atmospheric carbon dioxide, climate change, environmental degradation, and mass extinctions during the past half billion years of Earth history."
+        },
+        {
+          "local_index": 11381,
+          "membership_prob": 1.0,
+          "claim": "Public engagement with climate change is falling short despite extensive climate coverage in UK broadcast media."
+        },
+        {
+          "local_index": 10256,
+          "membership_prob": 1.0,
+          "claim": "Climate Change is almost impossibly large for people to contemplate and comprehend."
+        }
+      ]
+    },
+    {
+      "cluster_id": 76,
+      "size": 32,
+      "avg_membership_prob": 0.9985674852564568,
+      "representatives": [
+        {
+          "local_index": 1523,
+          "membership_prob": 1.0,
+          "claim": "Under continued global warming, you can safely count in the partial loss of the West Antarctic Ice Sheet plus all mountain glaciers by that time, resulting in around 10 m (>30 feet) of global sea level rise."
+        },
+        {
+          "local_index": 13225,
+          "membership_prob": 1.0,
+          "claim": "The world's glaciers are melting faster than ever recorded under the impact of climate change."
+        },
+        {
+          "local_index": 13206,
+          "membership_prob": 1.0,
+          "claim": "Glaciers matter."
+        },
+        {
+          "local_index": 12096,
+          "membership_prob": 1.0,
+          "claim": "Normal will keep getting warmer until we stop adding greenhouse gases to the atmosphere."
+        },
+        {
+          "local_index": 11747,
+          "membership_prob": 1.0,
+          "claim": "Japanâs 1200 years of recording cherry blossoming provides a clear record of climate warming in the industrial age of large-scale fossil fuel burning."
+        }
+      ]
+    },
+    {
+      "cluster_id": 77,
+      "size": 36,
+      "avg_membership_prob": 0.9224334704821996,
+      "representatives": [
+        {
+          "local_index": 172,
+          "membership_prob": 1.0,
+          "claim": "I'm constantly having to clean up messes again."
+        },
+        {
+          "local_index": 12405,
+          "membership_prob": 1.0,
+          "claim": "My house can be clean enough even though it is messy and cleaning is a struggle."
+        },
+        {
+          "local_index": 12108,
+          "membership_prob": 1.0,
+          "claim": "I'm going to take advantage of the energy I have to clean my house."
+        },
+        {
+          "local_index": 11993,
+          "membership_prob": 1.0,
+          "claim": "Cleaning the apartment increases cleanliness and decreases energy."
+        },
+        {
+          "local_index": 11650,
+          "membership_prob": 1.0,
+          "claim": "He thinks I am supposed to clean it myself."
+        }
+      ]
+    },
+    {
+      "cluster_id": 78,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 2575,
+          "membership_prob": 1.0,
+          "claim": "Some people would rather half starve themselves than deal with climate change."
+        },
+        {
+          "local_index": 14296,
+          "membership_prob": 1.0,
+          "claim": "I believe in human caused climate change and federally funded relief agencies."
+        },
+        {
+          "local_index": 14122,
+          "membership_prob": 1.0,
+          "claim": "Prosecute climate criminals for treason and ecocide."
+        },
+        {
+          "local_index": 12986,
+          "membership_prob": 1.0,
+          "claim": "A government that doesnât want to stop climate change would result in less bad air days."
+        },
+        {
+          "local_index": 12398,
+          "membership_prob": 1.0,
+          "claim": "We should vote for a government that has failed to take real action on climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 79,
+      "size": 45,
+      "avg_membership_prob": 0.8968855218948572,
+      "representatives": [
+        {
+          "local_index": 79,
+          "membership_prob": 1.0,
+          "claim": "Newly passed CA housing reforms highlight deep systemic failure."
+        },
+        {
+          "local_index": 13979,
+          "membership_prob": 1.0,
+          "claim": "The area is already falling apart and is becoming even worse."
+        },
+        {
+          "local_index": 13618,
+          "membership_prob": 1.0,
+          "claim": "If there is to be positive net immigration, there should be an sufficient increase in housebuilding to meet that."
+        },
+        {
+          "local_index": 13518,
+          "membership_prob": 1.0,
+          "claim": "Approving urban boundary expansion will create a large financial hole for #HamOnt."
+        },
+        {
+          "local_index": 12809,
+          "membership_prob": 1.0,
+          "claim": "Deregulating housing standards and building more housing is his solution to housing being expensive."
+        }
+      ]
+    },
+    {
+      "cluster_id": 80,
+      "size": 49,
+      "avg_membership_prob": 0.7788321241049795,
+      "representatives": [
+        {
+          "local_index": 440,
+          "membership_prob": 1.0,
+          "claim": "Much of what is codified in the Living Building Standard should be made best practice for every project."
+        },
+        {
+          "local_index": 12424,
+          "membership_prob": 1.0,
+          "claim": "To reverse these impacts, we suggest strengthening local governance and institutional capacity, securing sustainable financing, boosting waste collection and treatment infrastructure, and using geospatial data and community engagement for evidence-based planning."
+        },
+        {
+          "local_index": 11729,
+          "membership_prob": 1.0,
+          "claim": "There is a big opportunity for someone with ambition to steer the cityâs economic success to something more equitable, sustainable, and better connected."
+        },
+        {
+          "local_index": 11013,
+          "membership_prob": 1.0,
+          "claim": "Urban data platforms are driving smarter, more sustainable urban spaces."
+        },
+        {
+          "local_index": 9816,
+          "membership_prob": 1.0,
+          "claim": "The New European Bauhaus in Seville is a model for sustainable urban transformation."
+        }
+      ]
+    },
+    {
+      "cluster_id": 81,
+      "size": 45,
+      "avg_membership_prob": 0.9304837401610878,
+      "representatives": [
+        {
+          "local_index": 6442,
+          "membership_prob": 1.0,
+          "claim": "If the leap happens, it will not happen in my lifetime and that's okay; it does not have to happen for MLS to be sustainable or worthwhile."
+        },
+        {
+          "local_index": 11547,
+          "membership_prob": 1.0,
+          "claim": "If workers got paid enough & the system was sustainable there would be nothing to moralize about."
+        },
+        {
+          "local_index": 11370,
+          "membership_prob": 1.0,
+          "claim": "Adding to the debt instead of implementing a fair and progressive tax system and cutting out useless spending is not sustainable."
+        },
+        {
+          "local_index": 10600,
+          "membership_prob": 1.0,
+          "claim": "There is no path to a liveable planet that does not pass through the complete destruction of business as usual."
+        },
+        {
+          "local_index": 8853,
+          "membership_prob": 1.0,
+          "claim": "Companies should maintain sustainable debt levels relative to their earnings."
+        }
+      ]
+    },
+    {
+      "cluster_id": 82,
+      "size": 61,
+      "avg_membership_prob": 0.887840185227115,
+      "representatives": [
+        {
+          "local_index": 4952,
+          "membership_prob": 1.0,
+          "claim": "A business model that uses slaves is not sustainable."
+        },
+        {
+          "local_index": 6252,
+          "membership_prob": 1.0,
+          "claim": "The current situation where wealthier regions are demanding to control poorer ones is not sustainable."
+        },
+        {
+          "local_index": 10923,
+          "membership_prob": 1.0,
+          "claim": "The current way profits are pursued is not sustainable and is making everyone miserable everywhere."
+        },
+        {
+          "local_index": 6335,
+          "membership_prob": 1.0,
+          "claim": "Medicaid is more than sustainable at current levels."
+        },
+        {
+          "local_index": 10693,
+          "membership_prob": 1.0,
+          "claim": "Major polluters cannot continue to act with impunity and treat developing countries as sacrifice zones to further feed corporate greed."
+        }
+      ]
+    },
+    {
+      "cluster_id": 83,
+      "size": 103,
+      "avg_membership_prob": 0.6411575675711756,
+      "representatives": [
+        {
+          "local_index": 282,
+          "membership_prob": 1.0,
+          "claim": "This is not really sustainable, but nothing is really sustainable."
+        },
+        {
+          "local_index": 4730,
+          "membership_prob": 1.0,
+          "claim": "It's not sustainable."
+        },
+        {
+          "local_index": 2701,
+          "membership_prob": 1.0,
+          "claim": "This is not sustainable."
+        },
+        {
+          "local_index": 2698,
+          "membership_prob": 1.0,
+          "claim": "This path is not sustainable."
+        },
+        {
+          "local_index": 5478,
+          "membership_prob": 1.0,
+          "claim": "It's not sustainable."
+        }
+      ]
+    },
+    {
+      "cluster_id": 84,
+      "size": 60,
+      "avg_membership_prob": 0.8526488356668065,
+      "representatives": [
+        {
+          "local_index": 3513,
+          "membership_prob": 1.0,
+          "claim": "It still feels like a step backward for the'sustainable' rocket company."
+        },
+        {
+          "local_index": 9276,
+          "membership_prob": 1.0,
+          "claim": "This tech could make space exploration more sustainable."
+        },
+        {
+          "local_index": 9952,
+          "membership_prob": 1.0,
+          "claim": "Some steps are being made towards a more sustainable future."
+        },
+        {
+          "local_index": 5330,
+          "membership_prob": 1.0,
+          "claim": "Sustainable effort is the goal."
+        },
+        {
+          "local_index": 10240,
+          "membership_prob": 1.0,
+          "claim": "It's time for a Sustainable Development Goal for space."
+        }
+      ]
+    },
+    {
+      "cluster_id": 85,
+      "size": 48,
+      "avg_membership_prob": 0.8882329862196242,
+      "representatives": [
+        {
+          "local_index": 195,
+          "membership_prob": 1.0,
+          "claim": "Australians will have to live with the disasters caused by climate change due to the extension to Woodside, and Gazans die every day as a result of complicity with the state of Israel."
+        },
+        {
+          "local_index": 13860,
+          "membership_prob": 1.0,
+          "claim": "If you only deal with toys, you shouldn't be surprised when the reality of climate change is just around the corner."
+        },
+        {
+          "local_index": 13837,
+          "membership_prob": 1.0,
+          "claim": "I would feel irresponsible bringing kids into a world of climate change, wealth disparity and decreasing social supports."
+        },
+        {
+          "local_index": 13303,
+          "membership_prob": 1.0,
+          "claim": "Climate change risks all of Australia's good fortune and all within my kids' lifetime."
+        },
+        {
+          "local_index": 12876,
+          "membership_prob": 1.0,
+          "claim": "Without strong committed action on climate change you are ensuring your offspring will suffer unimaginable hardships."
+        }
+      ]
+    },
+    {
+      "cluster_id": 86,
+      "size": 50,
+      "avg_membership_prob": 0.9542693116646989,
+      "representatives": [
+        {
+          "local_index": 14420,
+          "membership_prob": 1.0,
+          "claim": "Aligning with nature shows you walk the talk on sustainability and values."
+        },
+        {
+          "local_index": 8568,
+          "membership_prob": 1.0,
+          "claim": "Marketing dei as leadership/organizational development is more sustainable."
+        },
+        {
+          "local_index": 8440,
+          "membership_prob": 1.0,
+          "claim": "It becomes everyoneâs responsibility to look at the relationship and its faults in order to build something sustainable as a team."
+        },
+        {
+          "local_index": 10838,
+          "membership_prob": 1.0,
+          "claim": "Treating suppliers like partners, not afterthoughts, leads to strong back-end and sustainable success."
+        },
+        {
+          "local_index": 7304,
+          "membership_prob": 1.0,
+          "claim": "The ideas for building trust in sustainable marketing generalise to building trust in other domains."
+        }
+      ]
+    },
+    {
+      "cluster_id": 87,
+      "size": 95,
+      "avg_membership_prob": 0.8782369290156531,
+      "representatives": [
+        {
+          "local_index": 7065,
+          "membership_prob": 1.0,
+          "claim": "The @sicily_divide #cycle route gives real voice to Sicilyâs cultural power and provides a sustainable economic engine for overlooked villages."
+        },
+        {
+          "local_index": 11458,
+          "membership_prob": 1.0,
+          "claim": "Building a thriving business starts with protecting the most valuable resource: yourself."
+        },
+        {
+          "local_index": 3652,
+          "membership_prob": 1.0,
+          "claim": "A new, more distributed global framework is emerging, offering a chance for a fairer and more sustainable future."
+        },
+        {
+          "local_index": 4154,
+          "membership_prob": 1.0,
+          "claim": "CAUSE aims to create a community where everyone can contribute to and benefit from a sustainable economy that is just and environmentally healthy."
+        },
+        {
+          "local_index": 10851,
+          "membership_prob": 1.0,
+          "claim": "The need for rethinking leadership in modern democracies and the importance of sustainable equality and an optimistic view on addressing irresolvable problems."
+        }
+      ]
+    },
+    {
+      "cluster_id": 88,
+      "size": 22,
+      "avg_membership_prob": 0.9648808074675945,
+      "representatives": [
+        {
+          "local_index": 6773,
+          "membership_prob": 1.0,
+          "claim": "The answer she did not want to hear was 'climate change.'"
+        },
+        {
+          "local_index": 11956,
+          "membership_prob": 1.0,
+          "claim": "Nancy is a Climate Denier if you look at her actual policy and action."
+        },
+        {
+          "local_index": 10808,
+          "membership_prob": 1.0,
+          "claim": "Climate change is not the reason that Melania's pussy is the driest place on earth."
+        },
+        {
+          "local_index": 10745,
+          "membership_prob": 1.0,
+          "claim": "She likes to argue for British stiff-upperlipping their way through climate change."
+        },
+        {
+          "local_index": 9550,
+          "membership_prob": 1.0,
+          "claim": "Everyone should be like Greta Thunberg regarding spending more time on climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 89,
+      "size": 31,
+      "avg_membership_prob": 0.9993801698066805,
+      "representatives": [
+        {
+          "local_index": 439,
+          "membership_prob": 1.0,
+          "claim": "If you buy our album on Bandcamp today, the artist gets all the money."
+        },
+        {
+          "local_index": 13279,
+          "membership_prob": 1.0,
+          "claim": "Companies are becoming more greedy than Fafnir, making situations like in Black Mirror seem like jokes compared to reality, all while climate change looms."
+        },
+        {
+          "local_index": 12117,
+          "membership_prob": 1.0,
+          "claim": "GAI will never be actively harmful in education unless the parameters of its use can be completely controlled, so never."
+        },
+        {
+          "local_index": 11817,
+          "membership_prob": 1.0,
+          "claim": "Debt Collection became highly useful for getting heroic embodiments later."
+        },
+        {
+          "local_index": 11752,
+          "membership_prob": 1.0,
+          "claim": "I am very grateful to TTO for their efforts and their willingness to share their ways of knowing with others."
+        }
+      ]
+    },
+    {
+      "cluster_id": 90,
+      "size": 39,
+      "avg_membership_prob": 0.9124554362192517,
+      "representatives": [
+        {
+          "local_index": 14389,
+          "membership_prob": 1.0,
+          "claim": "The new âsmart metersâ?are a rip-off."
+        },
+        {
+          "local_index": 9421,
+          "membership_prob": 1.0,
+          "claim": "Being a PGR/PhD student representative is a good opportunity for students to shape events, support early career researchers, and contribute to the community."
+        },
+        {
+          "local_index": 10195,
+          "membership_prob": 1.0,
+          "claim": "@mndot.bsky.social saving money in the long run, making life better for people who live/work along 94, meeting VMT reduction goals & addressing climate change."
+        },
+        {
+          "local_index": 8557,
+          "membership_prob": 1.0,
+          "claim": "@teamlabouruk.bsky.social is the party of the Establishment, the oligarchs, big business and fossil fuel giants."
+        },
+        {
+          "local_index": 14003,
+          "membership_prob": 1.0,
+          "claim": "Ads endorsed by our govt are much worse than ads for cheap temu/aliexpress products."
+        }
+      ]
+    },
+    {
+      "cluster_id": 91,
+      "size": 409,
+      "avg_membership_prob": 0.9867533691016958,
+      "representatives": [
+        {
+          "local_index": 13,
+          "membership_prob": 1.0,
+          "claim": "The US is not actually 'hot' in a positive sense, but is experiencing high temperatures due to climate change."
+        },
+        {
+          "local_index": 9500,
+          "membership_prob": 1.0,
+          "claim": "Weâve failed in keeping the rise below 1.5Â°, which was supposed to limit the worst effects of climate change."
+        },
+        {
+          "local_index": 9483,
+          "membership_prob": 1.0,
+          "claim": "A 59 degree day in December allows me to go riding."
+        },
+        {
+          "local_index": 9192,
+          "membership_prob": 1.0,
+          "claim": "Hurricanes in the future are only going to get worse."
+        },
+        {
+          "local_index": 9162,
+          "membership_prob": 1.0,
+          "claim": "Climate change adds 41 extra days of dangerous heat globally in 2024."
+        }
+      ]
+    },
+    {
+      "cluster_id": 92,
+      "size": 105,
+      "avg_membership_prob": 0.9635923205330349,
+      "representatives": [
+        {
+          "local_index": 9,
+          "membership_prob": 1.0,
+          "claim": "I have no sympathy for FL, LA, and NC because they have denied climate change and sabotaged efforts to slow the change."
+        },
+        {
+          "local_index": 8699,
+          "membership_prob": 1.0,
+          "claim": "I help the public understand the undisclosed roles of economic drivers creating observed consequences like climate change."
+        },
+        {
+          "local_index": 8672,
+          "membership_prob": 1.0,
+          "claim": "There is an urgent need for monetary fiscal coordination to make investment in climate change policies and actions affordable."
+        },
+        {
+          "local_index": 8333,
+          "membership_prob": 1.0,
+          "claim": "Governments need to get ahead of climate change before it triggers a financial crisis from climate damages."
+        },
+        {
+          "local_index": 8262,
+          "membership_prob": 1.0,
+          "claim": "Capitalism lies at the root of climate change and the environmental crises."
+        }
+      ]
+    },
+    {
+      "cluster_id": 93,
+      "size": 78,
+      "avg_membership_prob": 0.963821491980977,
+      "representatives": [
+        {
+          "local_index": 169,
+          "membership_prob": 1.0,
+          "claim": "That the right wing has no solutions to climate change does not make all environmentalists left wing."
+        },
+        {
+          "local_index": 4714,
+          "membership_prob": 1.0,
+          "claim": "Thousands of BC voters are going to vote for a party that denies climate change despite BC suffering an extreme climate event."
+        },
+        {
+          "local_index": 4780,
+          "membership_prob": 1.0,
+          "claim": "Denying climate change does not benefit anyone, including those in the long run, and the states most likely to benefit from carbon reduction are the red states."
+        },
+        {
+          "local_index": 4916,
+          "membership_prob": 1.0,
+          "claim": "Fake businessman doesn't mention the impact of climate change on the operation and future viability of the canal."
+        },
+        {
+          "local_index": 5496,
+          "membership_prob": 1.0,
+          "claim": "Surviving a climate disaster isnât likely to change how you vote."
+        }
+      ]
+    },
+    {
+      "cluster_id": 94,
+      "size": 57,
+      "avg_membership_prob": 0.9587121216985143,
+      "representatives": [
+        {
+          "local_index": 65,
+          "membership_prob": 1.0,
+          "claim": "Too many governments are failing to address the climate change problem properly."
+        },
+        {
+          "local_index": 6318,
+          "membership_prob": 1.0,
+          "claim": "Ignoring climate change makes every single one of us a victim."
+        },
+        {
+          "local_index": 6341,
+          "membership_prob": 1.0,
+          "claim": "Itâs not enough to simply say 'people of color are more vulnerable to climate change' or ascribe that to red-lining without explaining why there is disinvestment."
+        },
+        {
+          "local_index": 6732,
+          "membership_prob": 1.0,
+          "claim": "There is a disconnect between people's desire for more government action on the climate crisis and current national policies."
+        },
+        {
+          "local_index": 6759,
+          "membership_prob": 1.0,
+          "claim": "To repeal the Endangerment Finding is to ignore the impacts of climate change across the country."
+        }
+      ]
+    },
+    {
+      "cluster_id": 95,
+      "size": 68,
+      "avg_membership_prob": 0.9486496182890093,
+      "representatives": [
+        {
+          "local_index": 10453,
+          "membership_prob": 1.0,
+          "claim": "America would be great if certain conditions were met."
+        },
+        {
+          "local_index": 4815,
+          "membership_prob": 1.0,
+          "claim": "Itâll be interesting to see how state governments and, potentially, the federal government will come up with solutions when they wonât even acknowledge the causes."
+        },
+        {
+          "local_index": 9472,
+          "membership_prob": 1.0,
+          "claim": "The city should take leadership on this issue."
+        },
+        {
+          "local_index": 4638,
+          "membership_prob": 1.0,
+          "claim": "We need Mayor Gainey's continued leadership in Pittsburgh."
+        },
+        {
+          "local_index": 9313,
+          "membership_prob": 1.0,
+          "claim": "Governance is retreating from protecting us from techno harms such as to food, drugs, water, air, workplaces, and banking."
+        }
+      ]
+    },
+    {
+      "cluster_id": 96,
+      "size": 63,
+      "avg_membership_prob": 0.8778886122754025,
+      "representatives": [
+        {
+          "local_index": 8144,
+          "membership_prob": 1.0,
+          "claim": "Butler was able to forecast what kind of collapse would result if certain societal trends continued without hindrance."
+        },
+        {
+          "local_index": 4911,
+          "membership_prob": 1.0,
+          "claim": "Iâm not optimistic about the future."
+        },
+        {
+          "local_index": 4863,
+          "membership_prob": 1.0,
+          "claim": "We have the tools to power the future for humanity."
+        },
+        {
+          "local_index": 4857,
+          "membership_prob": 1.0,
+          "claim": "The future we thought we'd have has not materialized."
+        },
+        {
+          "local_index": 4575,
+          "membership_prob": 1.0,
+          "claim": "There is no noncatastrophic future left, and itâs already here."
+        }
+      ]
+    },
+    {
+      "cluster_id": 97,
+      "size": 137,
+      "avg_membership_prob": 0.6032055921531455,
+      "representatives": [
+        {
+          "local_index": 8719,
+          "membership_prob": 1.0,
+          "claim": "This person knows nothing about climate change."
+        },
+        {
+          "local_index": 12399,
+          "membership_prob": 1.0,
+          "claim": "Grocery CEOs never mentioned the impact of climate change during their appearance before the committee, as if they see a connection between climate and their greed."
+        },
+        {
+          "local_index": 11283,
+          "membership_prob": 1.0,
+          "claim": "America is going to do nothing to prepare for the crisis of climate change."
+        },
+        {
+          "local_index": 4506,
+          "membership_prob": 1.0,
+          "claim": "The scheme is meaningless for the environment and does nothing to curb climate change."
+        },
+        {
+          "local_index": 7234,
+          "membership_prob": 1.0,
+          "claim": "Fright wing christians will never care about climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 98,
+      "size": 35,
+      "avg_membership_prob": 0.9951005242401473,
+      "representatives": [
+        {
+          "local_index": 473,
+          "membership_prob": 1.0,
+          "claim": "Americans ignore warnings about climate change in favor of prioritizing profits over people."
+        },
+        {
+          "local_index": 13619,
+          "membership_prob": 1.0,
+          "claim": "No one cares about climate change, which is causing high temperatures."
+        },
+        {
+          "local_index": 12710,
+          "membership_prob": 1.0,
+          "claim": "American climate activists haven't done nearly enough to change the political landscape."
+        },
+        {
+          "local_index": 12537,
+          "membership_prob": 1.0,
+          "claim": "I can't participate in climate civil disobedience."
+        },
+        {
+          "local_index": 11647,
+          "membership_prob": 1.0,
+          "claim": "The term 'climate change' isn't allowed in any state laws."
+        }
+      ]
+    },
+    {
+      "cluster_id": 99,
+      "size": 721,
+      "avg_membership_prob": 0.9715184495506025,
+      "representatives": [
+        {
+          "local_index": 7028,
+          "membership_prob": 1.0,
+          "claim": "We are not 100% sure that continuing the current status quo will not lead to continued large-scale climate change disasters."
+        },
+        {
+          "local_index": 8426,
+          "membership_prob": 1.0,
+          "claim": "Avoiding the worst impacts of climate change and putting a marker in the sand for the economy we want to have is the most logical option we have for both prosperity and survival."
+        },
+        {
+          "local_index": 8367,
+          "membership_prob": 1.0,
+          "claim": "The challenge isn't simply convincing young men to care about climate change - many already do, privately, quietly, in ways that don't fit the prescribed narratives of either environmental activism or masculine performance."
+        },
+        {
+          "local_index": 8339,
+          "membership_prob": 1.0,
+          "claim": "Technological optimism is a form of climate delay."
+        },
+        {
+          "local_index": 8296,
+          "membership_prob": 1.0,
+          "claim": "When it cools down in a couple of days, people will forget about climate change again."
+        }
+      ]
+    },
+    {
+      "cluster_id": 100,
+      "size": 32,
+      "avg_membership_prob": 0.9989488384685008,
+      "representatives": [
+        {
+          "local_index": 16,
+          "membership_prob": 1.0,
+          "claim": "DeSatan might want to arrest you if you use the term climate change."
+        },
+        {
+          "local_index": 13201,
+          "membership_prob": 1.0,
+          "claim": "Covering politics like sports has been more destructive than climate change."
+        },
+        {
+          "local_index": 11616,
+          "membership_prob": 1.0,
+          "claim": "It's hard not to feel the topic weigh down more on me given everything that's happening to US climate science right now."
+        },
+        {
+          "local_index": 11423,
+          "membership_prob": 1.0,
+          "claim": "We should stop using the term 'climate change' and start calling it 'global warming'."
+        },
+        {
+          "local_index": 11320,
+          "membership_prob": 1.0,
+          "claim": "If they mean climate change, they need to write the words 'climate change'."
+        }
+      ]
+    },
+    {
+      "cluster_id": 101,
+      "size": 46,
+      "avg_membership_prob": 0.9651979429075921,
+      "representatives": [
+        {
+          "local_index": 496,
+          "membership_prob": 1.0,
+          "claim": "Throwing in 'climate change' invalidated your argument."
+        },
+        {
+          "local_index": 10650,
+          "membership_prob": 1.0,
+          "claim": "Climate change became very visible in America shortly after we elected a climate Nazi."
+        },
+        {
+          "local_index": 8133,
+          "membership_prob": 1.0,
+          "claim": "Sherman Johnson questioned whether activities like driving SUVs are the primary driver of climate change, suggesting climate change might be due to natural cycles."
+        },
+        {
+          "local_index": 7906,
+          "membership_prob": 1.0,
+          "claim": "People should be talking more, not less, about climate change."
+        },
+        {
+          "local_index": 7652,
+          "membership_prob": 1.0,
+          "claim": "Scientists should consider sending their findings to close allies such as Canada and the UK to safeguard valuable research on climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 102,
+      "size": 98,
+      "avg_membership_prob": 0.7632693991275706,
+      "representatives": [
+        {
+          "local_index": 8994,
+          "membership_prob": 1.0,
+          "claim": "Climate change denial has only worsened as its apocalyptic implications shifted from the future to the present tense."
+        },
+        {
+          "local_index": 4801,
+          "membership_prob": 1.0,
+          "claim": "The motivation behind climate change denial is about the grift."
+        },
+        {
+          "local_index": 6004,
+          "membership_prob": 1.0,
+          "claim": "It was an insta block comment if ever I saw one. It is a comment related to climate change denial or conspiracy theory."
+        },
+        {
+          "local_index": 2512,
+          "membership_prob": 1.0,
+          "claim": "I can use your lack of observed climate change as a counterexample to disprove climate change supporters."
+        },
+        {
+          "local_index": 6038,
+          "membership_prob": 1.0,
+          "claim": "It would be absurd if employers of university-based climate experts dismissed the knowledge they generated and ignored the existential threat of man-made climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 103,
+      "size": 202,
+      "avg_membership_prob": 0.8675465958859838,
+      "representatives": [
+        {
+          "local_index": 7657,
+          "membership_prob": 1.0,
+          "claim": "The article enhances understanding with detailed context on state-level responses and economic data."
+        },
+        {
+          "local_index": 5219,
+          "membership_prob": 1.0,
+          "claim": "It's time to make billionaires pay for the problems they have created."
+        },
+        {
+          "local_index": 5086,
+          "membership_prob": 1.0,
+          "claim": "The U.S. government could reduce or not increase its war budget and have enough money to pay for other expenses."
+        },
+        {
+          "local_index": 10135,
+          "membership_prob": 1.0,
+          "claim": "A huge sell-off of US government securities would likely be a very bad sign."
+        },
+        {
+          "local_index": 10221,
+          "membership_prob": 1.0,
+          "claim": "Businesses impacted will act faster to retain as much revenue or profits as they can."
+        }
+      ]
+    },
+    {
+      "cluster_id": 104,
+      "size": 20,
+      "avg_membership_prob": 1.0,
+      "representatives": [
+        {
+          "local_index": 847,
+          "membership_prob": 1.0,
+          "claim": "NZ media needs to realise there are people endangering others who we donât need to extensively quote just because they always answer the phone."
+        },
+        {
+          "local_index": 11216,
+          "membership_prob": 1.0,
+          "claim": "Praising your country is not journalism."
+        },
+        {
+          "local_index": 11157,
+          "membership_prob": 1.0,
+          "claim": "The funniest response to any news is a joke or comment."
+        },
+        {
+          "local_index": 11102,
+          "membership_prob": 1.0,
+          "claim": "Miggy Dadivas should consider taking up law."
+        },
+        {
+          "local_index": 11046,
+          "membership_prob": 1.0,
+          "claim": "He should resign now and topple his queen Vance also."
+        }
+      ]
+    },
+    {
+      "cluster_id": 105,
+      "size": 96,
+      "avg_membership_prob": 0.9301540294135001,
+      "representatives": [
+        {
+          "local_index": 64,
+          "membership_prob": 1.0,
+          "claim": "People who need to be convinced about climate change are not persuaded by facts or morality, but by emotions and selfishness."
+        },
+        {
+          "local_index": 3644,
+          "membership_prob": 1.0,
+          "claim": "Some fundies oppose combatting climate change and environmental progress because they want the end of the world to happen."
+        },
+        {
+          "local_index": 5501,
+          "membership_prob": 1.0,
+          "claim": "Climate activism is framed as a punishment for moral crimes rather than as a result of outdated and inefficient generation technologies being supported by subsidies."
+        },
+        {
+          "local_index": 5603,
+          "membership_prob": 1.0,
+          "claim": "The USDA will republish climate change information online following a farmer lawsuit."
+        },
+        {
+          "local_index": 6556,
+          "membership_prob": 1.0,
+          "claim": "The military will have access to weather forecast data while everyone else is being shut out, and this is because they are terrified of information about climate change getting out."
+        }
+      ]
+    },
+    {
+      "cluster_id": 106,
+      "size": 21,
+      "avg_membership_prob": 0.9985712212308474,
+      "representatives": [
+        {
+          "local_index": 289,
+          "membership_prob": 1.0,
+          "claim": "Donât miss Dr. Magnus Johanssonâs talk on late-stage C-H functionalisation at #ETOC 2025."
+        },
+        {
+          "local_index": 12648,
+          "membership_prob": 1.0,
+          "claim": "We should honour Ella with real, tangible change."
+        },
+        {
+          "local_index": 12483,
+          "membership_prob": 1.0,
+          "claim": "Love can change us, but we also adapt to relationships."
+        },
+        {
+          "local_index": 10813,
+          "membership_prob": 1.0,
+          "claim": "It should be a cooperative effort."
+        },
+        {
+          "local_index": 7673,
+          "membership_prob": 1.0,
+          "claim": "That must be blocked and canceled."
+        }
+      ]
+    },
+    {
+      "cluster_id": 107,
+      "size": 34,
+      "avg_membership_prob": 0.9929714652657101,
+      "representatives": [
+        {
+          "local_index": 85,
+          "membership_prob": 1.0,
+          "claim": "Maybe we wouldn't be facing a catastrophe, maybe we would have made progress towards climate change if the Supreme Court had allowed Al Gore to be president."
+        },
+        {
+          "local_index": 12736,
+          "membership_prob": 1.0,
+          "claim": "Trump's administration suppressed scientific data on climate change last time he was in office."
+        },
+        {
+          "local_index": 12353,
+          "membership_prob": 1.0,
+          "claim": "Matt Canavan has shown a staggering lack of leadership and a complete dereliction of duty by saying the world is not serious about climate change and defending the'make Australia great again' position."
+        },
+        {
+          "local_index": 12221,
+          "membership_prob": 1.0,
+          "claim": "Trump-GOP wants to stop NOAA from reporting the catastrophic effect of climate change because scientific facts condemn them."
+        },
+        {
+          "local_index": 11569,
+          "membership_prob": 1.0,
+          "claim": "Media people who interview him aren't interested in social policy or climate change or much else."
+        }
+      ]
+    },
+    {
+      "cluster_id": 108,
+      "size": 331,
+      "avg_membership_prob": 0.9797739449522207,
+      "representatives": [
+        {
+          "local_index": 154,
+          "membership_prob": 1.0,
+          "claim": "To be a Republican today you have to be at best ambivalent about race supremacy, sexual bigotry, pollution deregulation, climate denial, fascism, oligarchy, tax breaks for billionaires, and lack the ability to work with others or have empathy."
+        },
+        {
+          "local_index": 8651,
+          "membership_prob": 1.0,
+          "claim": "GOP policies lead to more and more death."
+        },
+        {
+          "local_index": 8826,
+          "membership_prob": 1.0,
+          "claim": "Democrats have to explain to the masses of America why topics like global warming, democracy, and women's rights are beneficial to them."
+        },
+        {
+          "local_index": 8841,
+          "membership_prob": 1.0,
+          "claim": "Evening out both fuels to 12% would be fair, but that will lose votes."
+        },
+        {
+          "local_index": 8914,
+          "membership_prob": 1.0,
+          "claim": "Shapiro seems more like a Republican than a Democrat."
+        }
+      ]
+    },
+    {
+      "cluster_id": 109,
+      "size": 34,
+      "avg_membership_prob": 0.9718973393540085,
+      "representatives": [
+        {
+          "local_index": 7939,
+          "membership_prob": 1.0,
+          "claim": "The falsehoods he spread and conspiracy theories about topics including climate change, vaccines, transgender people and demographic change will live on for many."
+        },
+        {
+          "local_index": 13556,
+          "membership_prob": 1.0,
+          "claim": "James mentioned climate change and a nuclear winter extinction event to trump the other person."
+        },
+        {
+          "local_index": 13338,
+          "membership_prob": 1.0,
+          "claim": "He talks about man-made climate change all the time and consistently brings it up in his videos."
+        },
+        {
+          "local_index": 11578,
+          "membership_prob": 1.0,
+          "claim": "Ignoring or trivializing serious issues like climate change and genocide led to the rise of Trump."
+        },
+        {
+          "local_index": 9970,
+          "membership_prob": 1.0,
+          "claim": "Blanchet was the only leader to actually address climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 110,
+      "size": 52,
+      "avg_membership_prob": 0.890648204990214,
+      "representatives": [
+        {
+          "local_index": 50,
+          "membership_prob": 1.0,
+          "claim": "Trump will deregulate anything climate change related in 2025."
+        },
+        {
+          "local_index": 6632,
+          "membership_prob": 1.0,
+          "claim": "He stops getting paid until repugs address climate change."
+        },
+        {
+          "local_index": 9877,
+          "membership_prob": 1.0,
+          "claim": "The Trump energy program will make the climate problem worse."
+        },
+        {
+          "local_index": 4841,
+          "membership_prob": 1.0,
+          "claim": "Trump is actively making climate change worse."
+        },
+        {
+          "local_index": 10363,
+          "membership_prob": 1.0,
+          "claim": "PP says he will stop with carbon fees and taxes as his way to support fixing climate change."
+        }
+      ]
+    },
+    {
+      "cluster_id": 111,
+      "size": 31,
+      "avg_membership_prob": 0.9893679172807723,
+      "representatives": [
+        {
+          "local_index": 49,
+          "membership_prob": 1.0,
+          "claim": "James Wood losing his house to climate change is going to see me through the Q1 of 2025."
+        },
+        {
+          "local_index": 12799,
+          "membership_prob": 1.0,
+          "claim": "Shapiro is protecting us from climate change by keeping gas in the ground."
+        },
+        {
+          "local_index": 12514,
+          "membership_prob": 1.0,
+          "claim": "He is a climate change denier."
+        },
+        {
+          "local_index": 12150,
+          "membership_prob": 1.0,
+          "claim": "This guy is a reactionary and effectively a climate change denier by saying this."
+        },
+        {
+          "local_index": 11408,
+          "membership_prob": 1.0,
+          "claim": "Al Gore reveals inconvenient truths about Trump being a Nazi Wannabe."
+        }
+      ]
+    },
+    {
+      "cluster_id": 112,
+      "size": 29,
+      "avg_membership_prob": 0.9975372598295824,
+      "representatives": [
+        {
+          "local_index": 157,
+          "membership_prob": 1.0,
+          "claim": "A 'Ten Birds That Changed the World' book that does not include the chicken is missing the plot."
+        },
+        {
+          "local_index": 13112,
+          "membership_prob": 1.0,
+          "claim": "You've cultivated a space for people to feel comfortable and included."
+        },
+        {
+          "local_index": 13007,
+          "membership_prob": 1.0,
+          "claim": "I need a clanker to talk to because I am so lonely."
+        },
+        {
+          "local_index": 12475,
+          "membership_prob": 1.0,
+          "claim": "It's actually a good damn show."
+        },
+        {
+          "local_index": 12329,
+          "membership_prob": 1.0,
+          "claim": "Part of building those fundamentals has been learning to sing without bias, to get as pure a note as possible so that I can intentionally add things like emotion or vibrato later."
+        }
+      ]
+    },
+    {
+      "cluster_id": 113,
+      "size": 47,
+      "avg_membership_prob": 0.8966739410815329,
+      "representatives": [
+        {
+          "local_index": 11150,
+          "membership_prob": 1.0,
+          "claim": "Kim Stanley Robinson is one of the few novelists truly addressing what is going on today, and this novel is spot on."
+        },
+        {
+          "local_index": 10788,
+          "membership_prob": 1.0,
+          "claim": "Trevelyan dreamed up the scheme as a way to call attention to the Eurasian curlew."
+        },
+        {
+          "local_index": 14020,
+          "membership_prob": 1.0,
+          "claim": "I get a particular thrill when I know art for this animal is uncommon."
+        },
+        {
+          "local_index": 9044,
+          "membership_prob": 1.0,
+          "claim": "At least your work gets better with time, mine just gets more confusing."
+        },
+        {
+          "local_index": 4016,
+          "membership_prob": 1.0,
+          "claim": "I use my unique perspectives to educate and contextualize for others."
+        }
+      ]
+    },
+    {
+      "cluster_id": 114,
+      "size": 87,
+      "avg_membership_prob": 0.8603421334979043,
+      "representatives": [
+        {
+          "local_index": 114,
+          "membership_prob": 1.0,
+          "claim": "The Supreme Court is making Americans stupider."
+        },
+        {
+          "local_index": 12116,
+          "membership_prob": 1.0,
+          "claim": "The media only hold the Liberals to account and not the Conservatives."
+        },
+        {
+          "local_index": 3456,
+          "membership_prob": 1.0,
+          "claim": "Liberals are constantly in denial about various issues."
+        },
+        {
+          "local_index": 2925,
+          "membership_prob": 1.0,
+          "claim": "Fascism isn't sustainable and people hope it ends before they die."
+        },
+        {
+          "local_index": 6359,
+          "membership_prob": 1.0,
+          "claim": "Trump isnât currently residing in a dementia ward under a doctorâs full time care."
+        }
+      ]
+    },
+    {
+      "cluster_id": 115,
+      "size": 31,
+      "avg_membership_prob": 0.9680380734008824,
+      "representatives": [
+        {
+          "local_index": 179,
+          "membership_prob": 1.0,
+          "claim": "We're too late to prevent collapse."
+        },
+        {
+          "local_index": 13629,
+          "membership_prob": 1.0,
+          "claim": "He gets the headline saying thereâs more opportunities."
+        },
+        {
+          "local_index": 13385,
+          "membership_prob": 1.0,
+          "claim": "We all need to decarbonize our lives as fast as we can."
+        },
+        {
+          "local_index": 10556,
+          "membership_prob": 1.0,
+          "claim": "This was the plan all along."
+        },
+        {
+          "local_index": 10169,
+          "membership_prob": 1.0,
+          "claim": "It's no surprise that we're all going to be abandoned."
+        }
+      ]
+    },
+    {
+      "cluster_id": 116,
+      "size": 225,
+      "avg_membership_prob": 0.98742534474911,
+      "representatives": [
+        {
+          "local_index": 17,
+          "membership_prob": 1.0,
+          "claim": "The account is either a reply bot or a person who is deeply unwell."
+        },
+        {
+          "local_index": 7120,
+          "membership_prob": 1.0,
+          "claim": "Jamal Murray is one of the greatest finishers in the NBA."
+        },
+        {
+          "local_index": 7291,
+          "membership_prob": 1.0,
+          "claim": "Your solution is far harder to achieve."
+        },
+        {
+          "local_index": 7309,
+          "membership_prob": 1.0,
+          "claim": "Charlie Kirk should have turned off his Big Head Mode cheat deforestation walking into a PvP zone."
+        },
+        {
+          "local_index": 7321,
+          "membership_prob": 1.0,
+          "claim": "The aging Line 5 should be shut down rather than rerouted."
+        }
+      ]
+    },
+    {
+      "cluster_id": 117,
+      "size": 68,
+      "avg_membership_prob": 0.9074424617475485,
+      "representatives": [
+        {
+          "local_index": 10767,
+          "membership_prob": 1.0,
+          "claim": "He and his ilk use every disaster or mishap to malign people of color."
+        },
+        {
+          "local_index": 6748,
+          "membership_prob": 1.0,
+          "claim": "Discouraging interdependence is profitable and uses genocide-like methodology, with the promise of less trauma for those who conform, but without eliminating other forms of oppression."
+        },
+        {
+          "local_index": 11805,
+          "membership_prob": 1.0,
+          "claim": "We must fight misinformation and disinformation."
+        },
+        {
+          "local_index": 6026,
+          "membership_prob": 1.0,
+          "claim": "State leadership is more critical than ever in the face of federal attacks."
+        },
+        {
+          "local_index": 13800,
+          "membership_prob": 1.0,
+          "claim": "Trusting him to prioritize dispelling disinformation and safety of targeted groups from harassment was always a losing game."
+        }
+      ]
+    },
+    {
+      "cluster_id": 118,
+      "size": 88,
+      "avg_membership_prob": 0.926658601324186,
+      "representatives": [
+        {
+          "local_index": 14347,
+          "membership_prob": 1.0,
+          "claim": "Distrusting any confident statement may be more useful."
+        },
+        {
+          "local_index": 9716,
+          "membership_prob": 1.0,
+          "claim": "Misogyny and incel-type culture seems pretty much endemic in Farage's organisation."
+        },
+        {
+          "local_index": 4052,
+          "membership_prob": 1.0,
+          "claim": "It's not wrong to bomb Iran's nuclear program."
+        },
+        {
+          "local_index": 3930,
+          "membership_prob": 1.0,
+          "claim": "He doesn't understand what concession means."
+        },
+        {
+          "local_index": 6699,
+          "membership_prob": 1.0,
+          "claim": "There might be a teeny tiny bit of faith necessary when observing the records of Saints."
+        }
+      ]
+    }
+  ]
+}

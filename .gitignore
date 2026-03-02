@@ -1,1 +1,8 @@
-.DS_Store
+# Ignore generated results under Toulmin claim extraction
+Toulmin_Claim_Extraction/results/
+
+Toulmin_Claim_Extraction/important_results/full_meta_llama_results_merged.csv
+
+Toulmin_Claim_Extraction/important_results/full_bluesky_llama_results_merged.csv
+
+Toulmin_Claim_Extraction/data/all_bluesky_data.csv

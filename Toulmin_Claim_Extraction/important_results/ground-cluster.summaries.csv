@@ -1,0 +1,988 @@
+cluster_id,size,sample_size,topic,summary,keywords,raw,error
+0,24,24,Vermont lawmakers' support for families and children,"Multiple Vermont legislators are praised for their proven commitment to supporting families and kids, reflecting strong ongoing momentum for child care and family-oriented progress in the state. The cluster highlights both individual and collective dedication to these issues.","[""Vermont legislators"", ""families"", ""children"", ""child care"", ""track record"", ""progress""]","{
+  ""topic"": ""Vermont lawmakers' support for families and children"",
+  ""summary"": ""Multiple Vermont legislators are praised for their proven commitment to supporting families and kids, reflecting strong ongoing momentum for child care and family-oriented progress in the state. The cluster highlights both individual and collective dedication to these issues."",
+  ""keywords"": [""Vermont legislators"", ""families"", ""children"", ""child care"", ""track record"", ""progress""]
+}",
+1,76,40,nuclear energy benefits and industry growth,"Nuclear energy is promoted as a clean, reliable, and scalable solution for addressing climate change, supporting economic growth, and meeting rising energy demands. The industry is experiencing renewed interest and investment, creating jobs and advancing technological innovation, with strong public and governmental support for its role in a sustainable, low-carbon future.","[""clean energy"", ""job creation"", ""reliability"", ""industry growth"", ""climate change"", ""innovation""]","{
+  ""topic"": ""nuclear energy benefits and industry growth"",
+  ""summary"": ""Nuclear energy is promoted as a clean, reliable, and scalable solution for addressing climate change, supporting economic growth, and meeting rising energy demands. The industry is experiencing renewed interest and investment, creating jobs and advancing technological innovation, with strong public and governmental support for its role in a sustainable, low-carbon future."",
+  ""keywords"": [""clean energy"", ""job creation"", ""reliability"", ""industry growth"", ""climate change"", ""innovation""]
+}",
+2,40,40,Geothermal and Clean Energy Systems,"Claims highlight the adoption of geothermal energy, heat pumps, and related technologies as clean, efficient alternatives to fossil fuels. Benefits include reduced carbon emissions, lower energy and water usage, improved air quality, technological advances, and increased reliability, although challenges such as induced seismicity remain.","[""geothermal energy"", ""heat pumps"", ""renewable energy"", ""carbon emissions"", ""energy efficiency"", ""clean technology""]","{
+  ""topic"": ""Geothermal and Clean Energy Systems"",
+  ""summary"": ""Claims highlight the adoption of geothermal energy, heat pumps, and related technologies as clean, efficient alternatives to fossil fuels. Benefits include reduced carbon emissions, lower energy and water usage, improved air quality, technological advances, and increased reliability, although challenges such as induced seismicity remain."",
+  ""keywords"": [""geothermal energy"", ""heat pumps"", ""renewable energy"", ""carbon emissions"", ""energy efficiency"", ""clean technology""]
+}",
+3,40,40,Greenhouse Gas Reduction & Waste Management,"Many claims highlight the significant greenhouse gas emissions, especially methane, from landfills due to decomposing food and organic waste. Proposed solutions include composting, waste-to-energy initiatives, low-carbon technologies in construction and manufacturing, and efficient waste management practices to reduce emissions and improve environmental outcomes.","[""methane emissions"", ""food waste"", ""landfills"", ""composting"", ""low-carbon technology"", ""waste-to-energy""]","{
+  ""topic"": ""Greenhouse Gas Reduction & Waste Management"",
+  ""summary"": ""Many claims highlight the significant greenhouse gas emissions, especially methane, from landfills due to decomposing food and organic waste. Proposed solutions include composting, waste-to-energy initiatives, low-carbon technologies in construction and manufacturing, and efficient waste management practices to reduce emissions and improve environmental outcomes."",
+  ""keywords"": [
+    ""methane emissions"",
+    ""food waste"",
+    ""landfills"",
+    ""composting"",
+    ""low-carbon technology"",
+    ""waste-to-energy""
+  ]
+}",
+4,247,40,marine life conservation,"Marine species and ocean ecosystems face severe threats from pollution, overfishing, habitat loss, and climate change. Conservation efforts focus on protecting endangered species, promoting sustainable practices, reducing plastic waste, and expanding marine protected areas to ensure ocean health and biodiversity for future generations.","[""ocean pollution"", ""climate change"", ""marine species"", ""overfishing"", ""conservation"", ""plastic waste""]","{
+  ""topic"": ""marine life conservation"",
+  ""summary"": ""Marine species and ocean ecosystems face severe threats from pollution, overfishing, habitat loss, and climate change. Conservation efforts focus on protecting endangered species, promoting sustainable practices, reducing plastic waste, and expanding marine protected areas to ensure ocean health and biodiversity for future generations."",
+  ""keywords"": [""ocean pollution"", ""climate change"", ""marine species"", ""overfishing"", ""conservation"", ""plastic waste""]
+}",
+5,403,40,Plastic pollution and sustainable alternatives,"This cluster discusses the environmental impact of plastic pollution, the prevalence of microplastics, health and wildlife harms, and the inadequacy of traditional recycling. It highlights various solutions and alternatives including eco-friendly materials, corporate accountability, innovative recycling technologies, product design changes, and personal actions to reduce plastic use and waste.","[""plastic pollution"", ""microplastics"", ""recycling alternatives"", ""sustainable materials"", ""corporate responsibility"", ""consumer behavior""]","{
+  ""topic"": ""Plastic pollution and sustainable alternatives"",
+  ""summary"": ""This cluster discusses the environmental impact of plastic pollution, the prevalence of microplastics, health and wildlife harms, and the inadequacy of traditional recycling. It highlights various solutions and alternatives including eco-friendly materials, corporate accountability, innovative recycling technologies, product design changes, and personal actions to reduce plastic use and waste."",
+  ""keywords"": [
+    ""plastic pollution"",
+    ""microplastics"",
+    ""recycling alternatives"",
+    ""sustainable materials"",
+    ""corporate responsibility"",
+    ""consumer behavior""
+  ]
+}",
+6,26,26,"Health, Wellness, and Environmental Action","The claims highlight the benefits of various products and behavioral changes for improved physical and mental health, including better sleep, increased focus, and relief from fatigue and infections. Several claims also emphasize environmental and community efforts, such as energy conservation, climate action, and improved outdoor access, tied to social responsibility and collective well-being.","[""health benefits"", ""energy conservation"", ""wellness products"", ""climate action"", ""focus improvement"", ""environmental advocacy""]","{
+  ""topic"": ""Health, Wellness, and Environmental Action"",
+  ""summary"": ""The claims highlight the benefits of various products and behavioral changes for improved physical and mental health, including better sleep, increased focus, and relief from fatigue and infections. Several claims also emphasize environmental and community efforts, such as energy conservation, climate action, and improved outdoor access, tied to social responsibility and collective well-being."",
+  ""keywords"": [""health benefits"", ""energy conservation"", ""wellness products"", ""climate action"", ""focus improvement"", ""environmental advocacy""]
+}",
+7,44,40,sustainable communities and public health,"The claims focus on initiatives that promote sustainable development, equitable access to parks and green spaces, and improved community health. Key themes include environmental justice, resilient infrastructure, healthy lifestyle promotion, urban planning for green spaces, and tackling health disparities through both systemic and individual changes.","[""green spaces"", ""sustainable development"", ""community health"", ""environmental justice"", ""urban planning"", ""health disparities""]","{
+  ""topic"": ""sustainable communities and public health"",
+  ""summary"": ""The claims focus on initiatives that promote sustainable development, equitable access to parks and green spaces, and improved community health. Key themes include environmental justice, resilient infrastructure, healthy lifestyle promotion, urban planning for green spaces, and tackling health disparities through both systemic and individual changes."",
+  ""keywords"": [
+    ""green spaces"",
+    ""sustainable development"",
+    ""community health"",
+    ""environmental justice"",
+    ""urban planning"",
+    ""health disparities""
+  ]
+}",
+8,294,40,"Water Infrastructure, Pollution, and Climate Resilience","This cluster discusses the importance of clean water, water infrastructure upgrades, and pollution control in the context of climate change, urban development, and community health. It highlights challenges such as outdated systems, stormwater pollution, inequitable impacts on marginalized communities, and the urgent need for both technological innovation and policy action to ensure safe and reliable water supplies.","[""clean water"", ""infrastructure"", ""pollution"", ""stormwater"", ""climate change"", ""community health""]","{
+  ""topic"": ""Water Infrastructure, Pollution, and Climate Resilience"",
+  ""summary"": ""This cluster discusses the importance of clean water, water infrastructure upgrades, and pollution control in the context of climate change, urban development, and community health. It highlights challenges such as outdated systems, stormwater pollution, inequitable impacts on marginalized communities, and the urgent need for both technological innovation and policy action to ensure safe and reliable water supplies."",
+  ""keywords"": [
+    ""clean water"",
+    ""infrastructure"",
+    ""pollution"",
+    ""stormwater"",
+    ""climate change"",
+    ""community health""
+  ]
+}",
+9,20,20,California Climate Action and Proposition 4,"The claims highlight the urgent need for comprehensive climate action in California, with a specific focus on the benefits of Proposition 4, a $10 billion bond to invest in wildfire prevention, clean water, sustainable agriculture, clean energy, and climate resilience infrastructure. Supporters emphasize its potential to address current environmental threats, protect vulnerable communities, and secure a sustainable future for the state.","[""California"", ""climate change"", ""Proposition 4"", ""clean water"", ""wildfire prevention"", ""sustainable agriculture""]","{
+  ""topic"": ""California Climate Action and Proposition 4"",
+  ""summary"": ""The claims highlight the urgent need for comprehensive climate action in California, with a specific focus on the benefits of Proposition 4, a $10 billion bond to invest in wildfire prevention, clean water, sustainable agriculture, clean energy, and climate resilience infrastructure. Supporters emphasize its potential to address current environmental threats, protect vulnerable communities, and secure a sustainable future for the state."",
+  ""keywords"": [""California"", ""climate change"", ""Proposition 4"", ""clean water"", ""wildfire prevention"", ""sustainable agriculture""]
+}",
+10,198,40,"Forests, Trees, and Climate Change","This cluster addresses the ecological, social, and climate benefits of forests and tree planting, covering topics such as carbon sequestration, biodiversity, air and water quality, indigenous stewardship, threats like deforestation and biomass energy, as well as global and local reforestation initiatives. The claims also discuss policy, gender leadership, and technological solutions to preserve and restore forests as critical resources for environmental and societal well-being.","[""forests"", ""tree planting"", ""carbon sequestration"", ""deforestation"", ""biodiversity"", ""climate action""]","{
+  ""topic"": ""Forests, Trees, and Climate Change"",
+  ""summary"": ""This cluster addresses the ecological, social, and climate benefits of forests and tree planting, covering topics such as carbon sequestration, biodiversity, air and water quality, indigenous stewardship, threats like deforestation and biomass energy, as well as global and local reforestation initiatives. The claims also discuss policy, gender leadership, and technological solutions to preserve and restore forests as critical resources for environmental and societal well-being."",
+  ""keywords"": [
+    ""forests"",
+    ""tree planting"",
+    ""carbon sequestration"",
+    ""deforestation"",
+    ""biodiversity"",
+    ""climate action""
+  ]
+}",
+11,40,40,Wellness and Functional Health Products,"This cluster highlights a wide range of wellness and functional health products claiming natural, science-backed benefits for sleep, energy, mental clarity, weight management, metabolism, immune function, oral health, and detoxification. Many emphasize clean ingredients, innovative formulations (like protein coffee, functional mushrooms, probiotics, collagen, and plant extracts), and sustainability, often offering guarantees and endorsements to boost consumer confidence.","[""natural supplements"", ""energy & metabolism"", ""clean ingredients"", ""immune support"", ""functional foods"", ""detoxification""]","{
+  ""topic"": ""Wellness and Functional Health Products"",
+  ""summary"": ""This cluster highlights a wide range of wellness and functional health products claiming natural, science-backed benefits for sleep, energy, mental clarity, weight management, metabolism, immune function, oral health, and detoxification. Many emphasize clean ingredients, innovative formulations (like protein coffee, functional mushrooms, probiotics, collagen, and plant extracts), and sustainability, often offering guarantees and endorsements to boost consumer confidence."",
+  ""keywords"": [
+    ""natural supplements"",
+    ""energy & metabolism"",
+    ""clean ingredients"",
+    ""immune support"",
+    ""functional foods"",
+    ""detoxification""
+  ]
+}",
+12,45,40,"Pollinators, Wildlife, and Habitat Conservation","Pollinators like bees, butterflies, and birds are essential for ecosystem health, food security, and biodiversity but are threatened by habitat loss, pollution, pesticides, and climate change. Conservation efforts such as pollinator-friendly solar farms, rewilding projects, reduced pesticide use, and sustainable development can protect pollinators and wildlife, supporting both environmental and economic benefits.","[""pollinators"", ""habitat loss"", ""solar farms"", ""biodiversity"", ""wildlife conservation"", ""climate change""]","{
+  ""topic"": ""Pollinators, Wildlife, and Habitat Conservation"",
+  ""summary"": ""Pollinators like bees, butterflies, and birds are essential for ecosystem health, food security, and biodiversity but are threatened by habitat loss, pollution, pesticides, and climate change. Conservation efforts such as pollinator-friendly solar farms, rewilding projects, reduced pesticide use, and sustainable development can protect pollinators and wildlife, supporting both environmental and economic benefits."",
+  ""keywords"": [
+    ""pollinators"",
+    ""habitat loss"",
+    ""solar farms"",
+    ""biodiversity"",
+    ""wildlife conservation"",
+    ""climate change""
+  ]
+}",
+13,78,40,wildlife extinction and conservation threats,"Many animal and plant species worldwide face rapid population declines and risk of extinction due to human-driven factors like habitat loss, climate change, poaching, pollution, and the illegal wildlife trade. Conservation efforts are critical against these mounting threats, but continued inaction may result in the disappearance of numerous keystone and endangered species.","[""habitat loss"", ""climate change"", ""poaching"", ""extinction"", ""conservation"", ""biodiversity""]","{
+  ""topic"": ""wildlife extinction and conservation threats"",
+  ""summary"": ""Many animal and plant species worldwide face rapid population declines and risk of extinction due to human-driven factors like habitat loss, climate change, poaching, pollution, and the illegal wildlife trade. Conservation efforts are critical against these mounting threats, but continued inaction may result in the disappearance of numerous keystone and endangered species."",
+  ""keywords"": [
+    ""habitat loss"",
+    ""climate change"",
+    ""poaching"",
+    ""extinction"",
+    ""conservation"",
+    ""biodiversity""
+  ]
+}",
+14,183,40,Climate Change Awareness and Engagement Initiatives,"This cluster covers a wide array of educational programs, advocacy efforts, creative arts projects, community events, and resources aimed at increasing awareness, inspiring action, and empowering individuals and communities to address climate change. Collaborations span schools, local governments, non-profits, artists, and activists, using innovative and accessible approaches to foster climate solutions and climate justice.","[""education"", ""advocacy"", ""community events"", ""art & storytelling"", ""climate solutions"", ""youth engagement""]","{
+  ""topic"": ""Climate Change Awareness and Engagement Initiatives"",
+  ""summary"": ""This cluster covers a wide array of educational programs, advocacy efforts, creative arts projects, community events, and resources aimed at increasing awareness, inspiring action, and empowering individuals and communities to address climate change. Collaborations span schools, local governments, non-profits, artists, and activists, using innovative and accessible approaches to foster climate solutions and climate justice."",
+  ""keywords"": [
+    ""education"",
+    ""advocacy"",
+    ""community events"",
+    ""art & storytelling"",
+    ""climate solutions"",
+    ""youth engagement""
+  ]
+}",
+15,68,40,Trump Administration EPA Rollbacks,"The cluster discusses the Trump administration's efforts to weaken or eliminate environmental protections through the EPA, including reversing the Endangerment Finding, rolling back regulations on pollution and greenhouse gases, closing key offices, and removing scientific foundations for policy. Critics warn these actions threaten public health, environmental justice, and climate safety, while some defend them as cutting regulatory costs.","[""EPA rollback"", ""Endangerment Finding"", ""pollution regulations"", ""greenhouse gases"", ""scientific integrity"", ""environmental justice""]","{
+  ""topic"": ""Trump Administration EPA Rollbacks"",
+  ""summary"": ""The cluster discusses the Trump administration's efforts to weaken or eliminate environmental protections through the EPA, including reversing the Endangerment Finding, rolling back regulations on pollution and greenhouse gases, closing key offices, and removing scientific foundations for policy. Critics warn these actions threaten public health, environmental justice, and climate safety, while some defend them as cutting regulatory costs."",
+  ""keywords"": [""EPA rollback"", ""Endangerment Finding"", ""pollution regulations"", ""greenhouse gases"", ""scientific integrity"", ""environmental justice""]
+}",
+16,68,40,Battery Energy Storage Systems (BESS),"Battery Energy Storage Systems (BESS) improve grid reliability, stabilize energy costs, and support renewable integration by quickly storing and dispatching electricity when needed. BESS projects are increasingly cost-effective, emission-free, and provide significant local economic and environmental benefits, while new technologies and policies are accelerating widespread deployment.","[""grid reliability"", ""renewable integration"", ""local economic impact"", ""emissions reduction"", ""cost savings"", ""energy resilience""]","{
+  ""topic"": ""Battery Energy Storage Systems (BESS)"",
+  ""summary"": ""Battery Energy Storage Systems (BESS) improve grid reliability, stabilize energy costs, and support renewable integration by quickly storing and dispatching electricity when needed. BESS projects are increasingly cost-effective, emission-free, and provide significant local economic and environmental benefits, while new technologies and policies are accelerating widespread deployment."",
+  ""keywords"": [
+    ""grid reliability"",
+    ""renewable integration"",
+    ""local economic impact"",
+    ""emissions reduction"",
+    ""cost savings"",
+    ""energy resilience""
+  ]
+}",
+17,56,40,Hydrogen as Clean Energy and Industry Decarbonization,"Hydrogen, particularly green hydrogen produced from renewables, is being positioned as a crucial solution for decarbonizing hard-to-electrify sectors such as heavy industry, transportation, and shipping. Supported by investments, technological advances, and government policies worldwide, hydrogen offers clean energy storage, zero-emission fuel, and significant growth potential, though challenges remain with production, cost, and potential pollution from non-renewable sources.","[""green hydrogen"", ""clean energy"", ""decarbonization"", ""fuel cell"", ""renewable energy"", ""industrial transition""]","{
+  ""topic"": ""Hydrogen as Clean Energy and Industry Decarbonization"",
+  ""summary"": ""Hydrogen, particularly green hydrogen produced from renewables, is being positioned as a crucial solution for decarbonizing hard-to-electrify sectors such as heavy industry, transportation, and shipping. Supported by investments, technological advances, and government policies worldwide, hydrogen offers clean energy storage, zero-emission fuel, and significant growth potential, though challenges remain with production, cost, and potential pollution from non-renewable sources."",
+  ""keywords"": [""green hydrogen"", ""clean energy"", ""decarbonization"", ""fuel cell"", ""renewable energy"", ""industrial transition""]
+}",
+18,51,40,Sustainable Aviation Fuel (SAF) and Aviation Industry Decarbonization,"The aviation industry is accelerating its transition toward sustainability by investing in sustainable aviation fuel (SAF) made from renewable resources, aiming for net-zero carbon emissions by 2050. SAF reduces lifecycle greenhouse gas emissions by up to 80%, supports economic growth via job creation and agricultural income, and benefits from strong public and government backing for scaling production and infrastructure.","[""sustainable aviation fuel"", ""net-zero emissions"", ""renewable resources"", ""aviation industry"", ""economic impact"", ""carbon reduction""]","{
+  ""topic"": ""Sustainable Aviation Fuel (SAF) and Aviation Industry Decarbonization"",
+  ""summary"": ""The aviation industry is accelerating its transition toward sustainability by investing in sustainable aviation fuel (SAF) made from renewable resources, aiming for net-zero carbon emissions by 2050. SAF reduces lifecycle greenhouse gas emissions by up to 80%, supports economic growth via job creation and agricultural income, and benefits from strong public and government backing for scaling production and infrastructure."",
+  ""keywords"": [
+    ""sustainable aviation fuel"",
+    ""net-zero emissions"",
+    ""renewable resources"",
+    ""aviation industry"",
+    ""economic impact"",
+    ""carbon reduction""
+  ]
+}",
+19,27,27,Legal Threats Against Environmental Groups and Advocacy,"Environmental organizations, especially Greenpeace, are facing large, strategic lawsuits from major fossil fuel companies aiming to silence criticism and activism, particularly regarding opposition to projects like the Dakota Access Pipeline. These legal actions are widely viewed as attempts to suppress dissent, intimidate environmental defenders, and jeopardize the sustainability movement, while various funding and green investment efforts continue to support environmental progress.","[""Greenpeace"", ""strategic lawsuits"", ""Big Oil"", ""environmental activism"", ""Standing Rock"", ""legal intimidation""]","{
+  ""topic"": ""Legal Threats Against Environmental Groups and Advocacy"",
+  ""summary"": ""Environmental organizations, especially Greenpeace, are facing large, strategic lawsuits from major fossil fuel companies aiming to silence criticism and activism, particularly regarding opposition to projects like the Dakota Access Pipeline. These legal actions are widely viewed as attempts to suppress dissent, intimidate environmental defenders, and jeopardize the sustainability movement, while various funding and green investment efforts continue to support environmental progress."",
+  ""keywords"": [
+    ""Greenpeace"",
+    ""strategic lawsuits"",
+    ""Big Oil"",
+    ""environmental activism"",
+    ""Standing Rock"",
+    ""legal intimidation""
+  ]
+}",
+20,20,20,Project 2025 and Environmental Risks,"Many claims center on Project 2025's proposals that would weaken federal environmental protections, dismantle agencies like the EPA and NOAA, and roll back progress on clean energy and climate action, thereby increasing pollution and greenhouse gas emissions. Other concerns raised include nuclear threats, governmental accountability for pollution, and the negative impact on public health and climate preparedness.","[""Project 2025"", ""EPA"", ""climate change"", ""pollution"", ""clean energy"", ""government policy""]","{
+  ""topic"": ""Project 2025 and Environmental Risks"",
+  ""summary"": ""Many claims center on Project 2025's proposals that would weaken federal environmental protections, dismantle agencies like the EPA and NOAA, and roll back progress on clean energy and climate action, thereby increasing pollution and greenhouse gas emissions. Other concerns raised include nuclear threats, governmental accountability for pollution, and the negative impact on public health and climate preparedness."",
+  ""keywords"": [
+    ""Project 2025"",
+    ""EPA"",
+    ""climate change"",
+    ""pollution"",
+    ""clean energy"",
+    ""government policy""
+  ]
+}",
+21,46,40,Role of Propane and Natural Gas in Clean Energy Transition,"This cluster discusses how propane and natural gas are positioned as affordable, reliable, and relatively clean energy options for homes, agriculture, industry, and transportation, particularly in supporting emission reductions and transitioning away from coal. The claims highlight renewable variants, infrastructure advantages, real-world applications, emission statistics, and counterpoints about environmental impacts and rising costs associated with liquefied natural gas.","[""propane"", ""natural gas"", ""renewable energy"", ""emissions"", ""LNG"", ""energy transition""]","{
+  ""topic"": ""Role of Propane and Natural Gas in Clean Energy Transition"",
+  ""summary"": ""This cluster discusses how propane and natural gas are positioned as affordable, reliable, and relatively clean energy options for homes, agriculture, industry, and transportation, particularly in supporting emission reductions and transitioning away from coal. The claims highlight renewable variants, infrastructure advantages, real-world applications, emission statistics, and counterpoints about environmental impacts and rising costs associated with liquefied natural gas."",
+  ""keywords"": [""propane"", ""natural gas"", ""renewable energy"", ""emissions"", ""LNG"", ""energy transition""]
+}",
+22,52,40,Low-carbon fuels and emissions reduction,"The cluster discusses the benefits and trade-offs of renewable fuels like ethanol and renewable diesel in reducing greenhouse gas emissions, promoting energy independence, and supporting economic growth. There are also concerns about efficiency, environmental impacts, and the complexities of implementing new fuel technologies and infrastructure.","[""ethanol"", ""renewable fuels"", ""emissions reduction"", ""energy independence"", ""climate policy"", ""clean fuels""]","{
+  ""topic"": ""Low-carbon fuels and emissions reduction"",
+  ""summary"": ""The cluster discusses the benefits and trade-offs of renewable fuels like ethanol and renewable diesel in reducing greenhouse gas emissions, promoting energy independence, and supporting economic growth. There are also concerns about efficiency, environmental impacts, and the complexities of implementing new fuel technologies and infrastructure."",
+  ""keywords"": [""ethanol"", ""renewable fuels"", ""emissions reduction"", ""energy independence"", ""climate policy"", ""clean fuels""]
+}",
+23,22,22,Public Land Protection and Habitat Conservation,"The cluster discusses the environmental importance of protecting public lands, especially fragile habitats like the Arctic, from private development and resource extraction. Claims emphasize unique wildlife, impacts on communities, economic considerations, and long-term benefits of conservation versus the irreversible loss caused by privatization or development.","[""public lands"", ""habitat conservation"", ""Arctic Refuge"", ""private development"", ""environmental protection"", ""wildlife""]","{
+  ""topic"": ""Public Land Protection and Habitat Conservation"",
+  ""summary"": ""The cluster discusses the environmental importance of protecting public lands, especially fragile habitats like the Arctic, from private development and resource extraction. Claims emphasize unique wildlife, impacts on communities, economic considerations, and long-term benefits of conservation versus the irreversible loss caused by privatization or development."",
+  ""keywords"": [""public lands"", ""habitat conservation"", ""Arctic Refuge"", ""private development"", ""environmental protection"", ""wildlife""]
+}",
+24,20,20,Farmland Preservation and Rural Economic Challenges,"Farmers face increasing economic pressures from low profits, regulatory challenges, and land loss, while farmland preservation efforts are debated as vital for food security and community stability. Support for fair policies, land use flexibility, and rural values is seen as essential to protect both current and future generations of farmers.","[""farmland preservation"", ""economic instability"", ""rural values"", ""land use"", ""farm policy"", ""agriculture challenges""]","{
+  ""topic"": ""Farmland Preservation and Rural Economic Challenges"",
+  ""summary"": ""Farmers face increasing economic pressures from low profits, regulatory challenges, and land loss, while farmland preservation efforts are debated as vital for food security and community stability. Support for fair policies, land use flexibility, and rural values is seen as essential to protect both current and future generations of farmers."",
+  ""keywords"": [
+    ""farmland preservation"",
+    ""economic instability"",
+    ""rural values"",
+    ""land use"",
+    ""farm policy"",
+    ""agriculture challenges""
+  ]
+}",
+25,38,38,Methane Pollution and Climate Change,"Methane is a highly potent greenhouse gas, responsible for around 30% of global temperature increases and warming the atmosphere much faster than carbon dioxide. Major sources include oil and gas industry leaks, livestock emissions, and waste, with recent technological advances like MethaneSAT providing more accurate measurements; efforts to reduce methane are crucial for mitigating climate change.","[""methane emissions"", ""greenhouse gas"", ""oil and gas industry"", ""climate change"", ""MethaneSAT"", ""global warming""]","{
+  ""topic"": ""Methane Pollution and Climate Change"",
+  ""summary"": ""Methane is a highly potent greenhouse gas, responsible for around 30% of global temperature increases and warming the atmosphere much faster than carbon dioxide. Major sources include oil and gas industry leaks, livestock emissions, and waste, with recent technological advances like MethaneSAT providing more accurate measurements; efforts to reduce methane are crucial for mitigating climate change."",
+  ""keywords"": [""methane emissions"", ""greenhouse gas"", ""oil and gas industry"", ""climate change"", ""MethaneSAT"", ""global warming""]
+}",
+26,58,40,Carbon Emissions and Carbon Management,"The cluster covers the sources, impacts, and management of carbon emissions, including fossil fuel combustion, land use changes, industrial activity, and food systems. It discusses both the challenges of rising greenhouse gas levels and the effectiveness of strategies like carbon capture, storage, reforestation, and offsets, highlighting ongoing innovation, large corporate impacts, and issues with current mitigation efforts.","[""carbon emissions"", ""carbon capture"", ""greenhouse gases"", ""carbon storage"", ""climate mitigation"", ""fossil fuels""]","{
+  ""topic"": ""Carbon Emissions and Carbon Management"",
+  ""summary"": ""The cluster covers the sources, impacts, and management of carbon emissions, including fossil fuel combustion, land use changes, industrial activity, and food systems. It discusses both the challenges of rising greenhouse gas levels and the effectiveness of strategies like carbon capture, storage, reforestation, and offsets, highlighting ongoing innovation, large corporate impacts, and issues with current mitigation efforts."",
+  ""keywords"": [
+    ""carbon emissions"",
+    ""carbon capture"",
+    ""greenhouse gases"",
+    ""carbon storage"",
+    ""climate mitigation"",
+    ""fossil fuels""
+  ]
+}",
+27,20,20,Rising Sea Levels and Coastal Impacts,"Coastal communities are facing significant challenges due to rising sea levels, including increased flooding, property damage, and socioeconomic hardships. Accelerated sea level rise, worsening storms, and subsidence are leading to greater risks for infrastructure, housing, and agriculture in vulnerable regions worldwide.","[""sea level rise"", ""coastal flooding"", ""climate change"", ""community risk"", ""property damage"", ""subsidence""]","{
+  ""topic"": ""Rising Sea Levels and Coastal Impacts"",
+  ""summary"": ""Coastal communities are facing significant challenges due to rising sea levels, including increased flooding, property damage, and socioeconomic hardships. Accelerated sea level rise, worsening storms, and subsidence are leading to greater risks for infrastructure, housing, and agriculture in vulnerable regions worldwide."",
+  ""keywords"": [
+    ""sea level rise"",
+    ""coastal flooding"",
+    ""climate change"",
+    ""community risk"",
+    ""property damage"",
+    ""subsidence""
+  ]
+}",
+28,47,40,Property Rights and Environmental Regulation,"This cluster discusses legislative, regulatory, and judicial actions impacting landowners’ property rights, with a focus on eminent domain, local control, and environmental projects such as pipelines, renewable energy, and pollution mitigation. It reflects concerns about government and corporate overreach, threats to local autonomy, and the balance between development and environmental safeguards.","[""eminent domain"", ""landowner rights"", ""environmental regulation"", ""renewable energy"", ""local control"", ""property seizures""]","{
+  ""topic"": ""Property Rights and Environmental Regulation"",
+  ""summary"": ""This cluster discusses legislative, regulatory, and judicial actions impacting landowners’ property rights, with a focus on eminent domain, local control, and environmental projects such as pipelines, renewable energy, and pollution mitigation. It reflects concerns about government and corporate overreach, threats to local autonomy, and the balance between development and environmental safeguards."",
+  ""keywords"": [
+    ""eminent domain"",
+    ""landowner rights"",
+    ""environmental regulation"",
+    ""renewable energy"",
+    ""local control"",
+    ""property seizures""
+  ]
+}",
+29,42,40,Environmental and Public Safety Regulations,"This cluster discusses the importance and controversy surrounding regulations on industrial activities to protect air quality, public health, workplace safety, and community well-being. It covers government actions both tightening and loosening safeguards, legal precedents for local protections, new rules on pollution and workplace conditions, enforcement challenges, and industry responses.","[""pollution control"", ""regulatory rollbacks"", ""public health"", ""environmental standards"", ""legal protections"", ""industry exemptions""]","{
+  ""topic"": ""Environmental and Public Safety Regulations"",
+  ""summary"": ""This cluster discusses the importance and controversy surrounding regulations on industrial activities to protect air quality, public health, workplace safety, and community well-being. It covers government actions both tightening and loosening safeguards, legal precedents for local protections, new rules on pollution and workplace conditions, enforcement challenges, and industry responses."",
+  ""keywords"": [""pollution control"", ""regulatory rollbacks"", ""public health"", ""environmental standards"", ""legal protections"", ""industry exemptions""]
+}",
+30,64,40,Sustainable and Regenerative Agriculture Practices,"Claims in this cluster focus on sustainable and regenerative agricultural approaches, emphasizing their role in improving soil health, increasing biodiversity, reducing resource use and emissions, and supporting long-term farm resilience. Both technological innovations and traditional practices, such as permaculture and renewable energy, are highlighted for their contributions to environmental protection and profitability.","[""soil health"", ""regenerative agriculture"", ""biodiversity"", ""climate-smart practices"", ""resource conservation"", ""renewable energy""]","{
+  ""topic"": ""Sustainable and Regenerative Agriculture Practices"",
+  ""summary"": ""Claims in this cluster focus on sustainable and regenerative agricultural approaches, emphasizing their role in improving soil health, increasing biodiversity, reducing resource use and emissions, and supporting long-term farm resilience. Both technological innovations and traditional practices, such as permaculture and renewable energy, are highlighted for their contributions to environmental protection and profitability."",
+  ""keywords"": [
+    ""soil health"",
+    ""regenerative agriculture"",
+    ""biodiversity"",
+    ""climate-smart practices"",
+    ""resource conservation"",
+    ""renewable energy""
+  ]
+}",
+31,85,40,"Food Systems, Agriculture, and Corporate Influence","Modern food systems are heavily shaped by corporate interests, resulting in environmental harm, health crises, and social injustices. Claims highlight problems such as factory farming, poor nutrition, deforestation, and corporate monopolies, while advocating for sustainable, local, and equitable food practices to improve health, environment, and food security.","[""factory farming"", ""corporate control"", ""food security"", ""sustainability"", ""nutrition"", ""environmental impact""]","{
+  ""topic"": ""Food Systems, Agriculture, and Corporate Influence"",
+  ""summary"": ""Modern food systems are heavily shaped by corporate interests, resulting in environmental harm, health crises, and social injustices. Claims highlight problems such as factory farming, poor nutrition, deforestation, and corporate monopolies, while advocating for sustainable, local, and equitable food practices to improve health, environment, and food security."",
+  ""keywords"": [
+    ""factory farming"",
+    ""corporate control"",
+    ""food security"",
+    ""sustainability"",
+    ""nutrition"",
+    ""environmental impact""
+  ]
+}",
+32,91,40,Fossil Fuel Industry Impact and Accountability,"Claims highlight the environmental, social, and health harms caused by fossil fuel and mining industries, including pollution, climate change, misinformation, corporate lobbying, lack of industry accountability, and the burden of cleanup shifted to the public. These issues are exacerbated by inadequate regulation, pervasive investment in fossil fuels, and systematic industry efforts to block climate action while prioritizing profits over people.","[""fossil fuels"", ""pollution"", ""fracking"", ""climate change"", ""lobbying"", ""industry accountability""]","{
+  ""topic"": ""Fossil Fuel Industry Impact and Accountability"",
+  ""summary"": ""Claims highlight the environmental, social, and health harms caused by fossil fuel and mining industries, including pollution, climate change, misinformation, corporate lobbying, lack of industry accountability, and the burden of cleanup shifted to the public. These issues are exacerbated by inadequate regulation, pervasive investment in fossil fuels, and systematic industry efforts to block climate action while prioritizing profits over people."",
+  ""keywords"": [
+    ""fossil fuels"",
+    ""pollution"",
+    ""fracking"",
+    ""climate change"",
+    ""lobbying"",
+    ""industry accountability""
+  ]
+}",
+33,38,38,Trump Administration and Environmental Policy,"The claims argue that Donald Trump and his administration have taken extensive actions to roll back environmental protections, undermine climate change mitigation efforts, and favor fossil fuel interests over public health and conservation. They highlight dangers to clean air and water, endangered species, and disaster response, and warn of further widespread environmental harm in a potential second Trump term.","[""environmental rollbacks"", ""climate change"", ""EPA regulations"", ""fossil fuel industry"", ""endangered species"", ""Project 2025""]","{
+  ""topic"": ""Trump Administration and Environmental Policy"",
+  ""summary"": ""The claims argue that Donald Trump and his administration have taken extensive actions to roll back environmental protections, undermine climate change mitigation efforts, and favor fossil fuel interests over public health and conservation. They highlight dangers to clean air and water, endangered species, and disaster response, and warn of further widespread environmental harm in a potential second Trump term."",
+  ""keywords"": [
+    ""environmental rollbacks"",
+    ""climate change"",
+    ""EPA regulations"",
+    ""fossil fuel industry"",
+    ""endangered species"",
+    ""Project 2025""
+  ]
+}",
+34,39,39,"Oil, Gas, and Mining Industry Impacts","Claims cover the economic benefits and drawbacks of the oil, gas, and mining sectors, including job creation, state and local revenues, and support for public institutions. They also address environmental concerns, corporate profits, legislative impacts, and energy policy controversies surrounding fossil fuels and sustainability.","[""jobs"", ""tax revenue"", ""public funding"", ""corporate profits"", ""environmental impact"", ""policy debates""]","{
+  ""topic"": ""Oil, Gas, and Mining Industry Impacts"",
+  ""summary"": ""Claims cover the economic benefits and drawbacks of the oil, gas, and mining sectors, including job creation, state and local revenues, and support for public institutions. They also address environmental concerns, corporate profits, legislative impacts, and energy policy controversies surrounding fossil fuels and sustainability."",
+  ""keywords"": [
+    ""jobs"",
+    ""tax revenue"",
+    ""public funding"",
+    ""corporate profits"",
+    ""environmental impact"",
+    ""policy debates""
+  ]
+}",
+35,48,40,Extreme Heat and Climate Change,"Recent years have seen record-breaking global temperatures, with extreme heat waves becoming more frequent and severe due to climate change. These conditions impact human health, agriculture, energy demand, and are exacerbated by fossil fuel use and insufficient climate action.","[""record heat"", ""climate change"", ""heat waves"", ""global warming"", ""human health"", ""fossil fuels""]","{
+  ""topic"": ""Extreme Heat and Climate Change"",
+  ""summary"": ""Recent years have seen record-breaking global temperatures, with extreme heat waves becoming more frequent and severe due to climate change. These conditions impact human health, agriculture, energy demand, and are exacerbated by fossil fuel use and insufficient climate action."",
+  ""keywords"": [""record heat"", ""climate change"", ""heat waves"", ""global warming"", ""human health"", ""fossil fuels""]
+}",
+36,44,40,"US Oil, Gas, and Copper Industries","Claims highlight the dominance of U.S. oil, gas, and copper production, their economic and strategic roles, advances in extraction technology, ongoing government subsidies, and related environmental concerns such as greenhouse gas emissions and water usage. There is significant debate around energy independence, the transition to cleaner energy sources, and the resilience and risks in domestic supply chains.","[""oil and gas production"", ""copper mining"", ""energy subsidies"", ""energy independence"", ""environmental impact"", ""clean energy transition""]","{
+  ""topic"": ""US Oil, Gas, and Copper Industries"",
+  ""summary"": ""Claims highlight the dominance of U.S. oil, gas, and copper production, their economic and strategic roles, advances in extraction technology, ongoing government subsidies, and related environmental concerns such as greenhouse gas emissions and water usage. There is significant debate around energy independence, the transition to cleaner energy sources, and the resilience and risks in domestic supply chains."",
+  ""keywords"": [""oil and gas production"", ""copper mining"", ""energy subsidies"", ""energy independence"", ""environmental impact"", ""clean energy transition""]
+}",
+37,27,27,"Oil and Gas Industry Profits, Subsidies, and Political Influence","The oil and gas industry receives significant government subsidies, amasses record profits, and exerts substantial political influence through lobbying and campaign spending. At the same time, the industry faces scrutiny for price gouging, declining domestic drilling activity, environmental costs, and regional shifts in production.","[""subsidies"", ""profits"", ""lobbying"", ""price gouging"", ""drilling activity"", ""regional production""]","{
+  ""topic"": ""Oil and Gas Industry Profits, Subsidies, and Political Influence"",
+  ""summary"": ""The oil and gas industry receives significant government subsidies, amasses record profits, and exerts substantial political influence through lobbying and campaign spending. At the same time, the industry faces scrutiny for price gouging, declining domestic drilling activity, environmental costs, and regional shifts in production."",
+  ""keywords"": [""subsidies"", ""profits"", ""lobbying"", ""price gouging"", ""drilling activity"", ""regional production""]
+}",
+38,41,40,oil and natural gas industry advocacy in Oklahoma,"This cluster centers on strong advocacy for Oklahoma’s oil and natural gas industry, highlighting political support, opposition to green energy policies, industry networking, and state-level legislative victories. There is a consistent emphasis on protecting jobs, maintaining energy security, and resisting federal and renewable energy initiatives perceived as threats.","[""oil and gas"", ""Oklahoma"", ""industry advocacy"", ""legislative support"", ""renewable energy opposition"", ""energy independence""]","{
+  ""topic"": ""oil and natural gas industry advocacy in Oklahoma"",
+  ""summary"": ""This cluster centers on strong advocacy for Oklahoma’s oil and natural gas industry, highlighting political support, opposition to green energy policies, industry networking, and state-level legislative victories. There is a consistent emphasis on protecting jobs, maintaining energy security, and resisting federal and renewable energy initiatives perceived as threats."",
+  ""keywords"": [
+    ""oil and gas"",
+    ""Oklahoma"",
+    ""industry advocacy"",
+    ""legislative support"",
+    ""renewable energy opposition"",
+    ""energy independence""
+  ]
+}",
+39,20,20,Vehicle Emissions and Air Pollution,"Vehicle emissions, especially from cars, trucks, and buses, are a major source of air pollution linked to serious health issues such as asthma and heart disease. Solutions like reducing idling, using clean transportation alternatives, and advancing clean vehicle technologies can significantly improve air quality and community health.","[""vehicle emissions"", ""air pollution"", ""health impacts"", ""clean transportation"", ""idling"", ""ozone""]","{
+  ""topic"": ""Vehicle Emissions and Air Pollution"",
+  ""summary"": ""Vehicle emissions, especially from cars, trucks, and buses, are a major source of air pollution linked to serious health issues such as asthma and heart disease. Solutions like reducing idling, using clean transportation alternatives, and advancing clean vehicle technologies can significantly improve air quality and community health."",
+  ""keywords"": [""vehicle emissions"", ""air pollution"", ""health impacts"", ""clean transportation"", ""idling"", ""ozone""]
+}",
+40,120,40,air pollution and health,"Air pollution, particularly fine particulate matter and smog, significantly harms respiratory and cardiovascular health, increases mortality risk, and disproportionately impacts vulnerable groups and communities. Research also links air pollution to mental health issues, reproductive and developmental problems, and decreased quality of life, making clean air essential for public health.","[""air pollution"", ""smog"", ""respiratory health"", ""cardiovascular disease"", ""asthma"", ""environmental justice""]","{
+  ""topic"": ""air pollution and health"",
+  ""summary"": ""Air pollution, particularly fine particulate matter and smog, significantly harms respiratory and cardiovascular health, increases mortality risk, and disproportionately impacts vulnerable groups and communities. Research also links air pollution to mental health issues, reproductive and developmental problems, and decreased quality of life, making clean air essential for public health."",
+  ""keywords"": [""air pollution"", ""smog"", ""respiratory health"", ""cardiovascular disease"", ""asthma"", ""environmental justice""]
+}",
+41,61,40,"Oil and Gas Policy, Climate Accountability, and Legal Battles","The cluster centers on the tension between expanding oil and gas extraction—often under Trump administration policies—and efforts to hold fossil fuel companies accountable for climate damages. It highlights executive actions expediting fossil fuel projects, legal and legislative attempts to shift cleanup costs to polluters, opposition to clean energy, and ongoing lawsuits over environmental protections.","[""oil and gas drilling"", ""climate accountability"", ""executive orders"", ""environmental lawsuits"", ""renewable energy opposition"", ""public lands""]","{
+  ""topic"": ""Oil and Gas Policy, Climate Accountability, and Legal Battles"",
+  ""summary"": ""The cluster centers on the tension between expanding oil and gas extraction—often under Trump administration policies—and efforts to hold fossil fuel companies accountable for climate damages. It highlights executive actions expediting fossil fuel projects, legal and legislative attempts to shift cleanup costs to polluters, opposition to clean energy, and ongoing lawsuits over environmental protections."",
+  ""keywords"": [
+    ""oil and gas drilling"",
+    ""climate accountability"",
+    ""executive orders"",
+    ""environmental lawsuits"",
+    ""renewable energy opposition"",
+    ""public lands""
+  ]
+}",
+42,44,40,Trump Administration and Public Lands,"The Trump administration prioritized opening millions of acres of public lands, particularly in Alaska and the Arctic, to fossil fuel drilling and mining by rolling back environmental protections. These actions were widely criticized for endangering wildlife, Indigenous communities, and ecosystems, and ignited significant opposition and advocacy efforts to restore and strengthen land protections.","[""Trump administration"", ""public lands"", ""drilling"", ""environmental protections"", ""Arctic"", ""fossil fuels""]","{
+  ""topic"": ""Trump Administration and Public Lands"",
+  ""summary"": ""The Trump administration prioritized opening millions of acres of public lands, particularly in Alaska and the Arctic, to fossil fuel drilling and mining by rolling back environmental protections. These actions were widely criticized for endangering wildlife, Indigenous communities, and ecosystems, and ignited significant opposition and advocacy efforts to restore and strengthen land protections."",
+  ""keywords"": [""Trump administration"", ""public lands"", ""drilling"", ""environmental protections"", ""Arctic"", ""fossil fuels""]
+}",
+43,26,26,Environmental Legislation and Economic Impacts,"The cluster discusses legislation that increases fossil fuel production, weakens clean energy initiatives, reduces pollution safeguards, and offers tax breaks to wealthy individuals and polluters, while raising costs for ordinary families and threatening public health and jobs. Some claims highlight the dismantling of climate funding and social programs, while a few support incentives for alternate energy and economic competitiveness.","[""fossil fuel expansion"", ""clean energy rollbacks"", ""tax cuts for wealthy"", ""public lands policy"", ""pollution safeguards"", ""economic and health impacts""]","{
+  ""topic"": ""Environmental Legislation and Economic Impacts"",
+  ""summary"": ""The cluster discusses legislation that increases fossil fuel production, weakens clean energy initiatives, reduces pollution safeguards, and offers tax breaks to wealthy individuals and polluters, while raising costs for ordinary families and threatening public health and jobs. Some claims highlight the dismantling of climate funding and social programs, while a few support incentives for alternate energy and economic competitiveness."",
+  ""keywords"": [
+    ""fossil fuel expansion"",
+    ""clean energy rollbacks"",
+    ""tax cuts for wealthy"",
+    ""public lands policy"",
+    ""pollution safeguards"",
+    ""economic and health impacts""
+  ]
+}",
+44,126,40,Public Transit and Electrification,"The cluster discusses the expansion and benefits of clean, electric public transit—especially school buses—including reduced pollution, improved public health, cost savings, and enhanced community connectivity. Concerns over infrastructure expansions, congestion, and local environmental impact are also raised, while many claims highlight government support and funding for sustainable transportation initiatives.","[""electric buses"", ""public transit"", ""pollution reduction"", ""government funding"", ""community impact"", ""infrastructure""]","{
+  ""topic"": ""Public Transit and Electrification"",
+  ""summary"": ""The cluster discusses the expansion and benefits of clean, electric public transit—especially school buses—including reduced pollution, improved public health, cost savings, and enhanced community connectivity. Concerns over infrastructure expansions, congestion, and local environmental impact are also raised, while many claims highlight government support and funding for sustainable transportation initiatives."",
+  ""keywords"": [""electric buses"", ""public transit"", ""pollution reduction"", ""government funding"", ""community impact"", ""infrastructure""]
+}",
+45,40,40,Climate Change Politics and Advocacy,"This cluster highlights the intersection of political actions, disinformation, and advocacy in the fight against climate change. Claims cover the harmful impacts of anti-climate policies, the role of misinformation, the importance of voter mobilization and electoral reforms, as well as calls for accountability among corporate and political actors.","[""climate change"", ""politics"", ""disinformation"", ""voter mobilization"", ""policy rollback"", ""advocacy""]","{
+  ""topic"": ""Climate Change Politics and Advocacy"",
+  ""summary"": ""This cluster highlights the intersection of political actions, disinformation, and advocacy in the fight against climate change. Claims cover the harmful impacts of anti-climate policies, the role of misinformation, the importance of voter mobilization and electoral reforms, as well as calls for accountability among corporate and political actors."",
+  ""keywords"": [""climate change"", ""politics"", ""disinformation"", ""voter mobilization"", ""policy rollback"", ""advocacy""]
+}",
+46,22,22,Sustainability and ESG in Business and Policy,"This cluster discusses the integration of sustainability and ESG (Environmental, Social, and Governance) practices in business operations, policy initiatives, and investment decisions. It highlights actionable strategies, new career paths, global and regional leadership, and the growing importance of responsible practices for economic and environmental benefits.","[""sustainability"", ""ESG"", ""business practices"", ""climate"", ""investment"", ""policy""]","{
+  ""topic"": ""Sustainability and ESG in Business and Policy"",
+  ""summary"": ""This cluster discusses the integration of sustainability and ESG (Environmental, Social, and Governance) practices in business operations, policy initiatives, and investment decisions. It highlights actionable strategies, new career paths, global and regional leadership, and the growing importance of responsible practices for economic and environmental benefits."",
+  ""keywords"": [""sustainability"", ""ESG"", ""business practices"", ""climate"", ""investment"", ""policy""]
+}",
+47,56,40,Wildfires and Climate Change,"Wildfires are becoming more frequent, intense, and destructive due to climate change, with rising temperatures, prolonged droughts, and extreme weather driving dangerous fire conditions globally. The impacts include poor air quality, destruction of communities and infrastructure, threats to health, disruption of industries like solar energy and wineries, and urgent needs for better prevention, response, and climate policies.","[""wildfires"", ""climate change"", ""air quality"", ""extreme weather"", ""public health"", ""prevention and policy""]","{
+  ""topic"": ""Wildfires and Climate Change"",
+  ""summary"": ""Wildfires are becoming more frequent, intense, and destructive due to climate change, with rising temperatures, prolonged droughts, and extreme weather driving dangerous fire conditions globally. The impacts include poor air quality, destruction of communities and infrastructure, threats to health, disruption of industries like solar energy and wineries, and urgent needs for better prevention, response, and climate policies."",
+  ""keywords"": [""wildfires"", ""climate change"", ""air quality"", ""extreme weather"", ""public health"", ""prevention and policy""]
+}",
+48,46,40,Impact of Climate Change on Severe Weather,"There is a growing consensus that climate change is increasing the frequency and intensity of extreme weather events such as hurricanes, floods, heatwaves, and storms. These events are causing widespread damage to infrastructure, property, and communities, highlighting vulnerabilities and the urgent need for adaptation and mitigation strategies.","[""climate change"", ""hurricanes"", ""extreme weather"", ""flooding"", ""heatwaves"", ""infrastructure damage""]","{
+  ""topic"": ""Impact of Climate Change on Severe Weather"",
+  ""summary"": ""There is a growing consensus that climate change is increasing the frequency and intensity of extreme weather events such as hurricanes, floods, heatwaves, and storms. These events are causing widespread damage to infrastructure, property, and communities, highlighting vulnerabilities and the urgent need for adaptation and mitigation strategies."",
+  ""keywords"": [""climate change"", ""hurricanes"", ""extreme weather"", ""flooding"", ""heatwaves"", ""infrastructure damage""]
+}",
+49,186,40,climate change impacts and responses,"Climate change is causing widespread environmental, economic, and health crises, including extreme weather, resource depletion, and threats to vulnerable communities. There is ongoing debate over the severity and causes of climate risks, as well as emerging solutions such as policy changes, insurance programs, and resilience initiatives.","[""climate impacts"", ""health risks"", ""extreme weather"", ""policy responses"", ""resilience"", ""debate""]","{
+  ""topic"": ""climate change impacts and responses"",
+  ""summary"": ""Climate change is causing widespread environmental, economic, and health crises, including extreme weather, resource depletion, and threats to vulnerable communities. There is ongoing debate over the severity and causes of climate risks, as well as emerging solutions such as policy changes, insurance programs, and resilience initiatives."",
+  ""keywords"": [
+    ""climate impacts"",
+    ""health risks"",
+    ""extreme weather"",
+    ""policy responses"",
+    ""resilience"",
+    ""debate""
+  ]
+}",
+50,87,40,Electric Vehicle Incentives and Infrastructure,"The cluster discusses the expansion, impact, and challenges of electric vehicle (EV) incentives, charging infrastructure, and related programs in the US and internationally. Key points include the role of government funding, tax credits, job creation, environmental benefits, and emerging policy and market challenges facing EV adoption.","[""EV tax credits"", ""charging infrastructure"", ""clean energy funding"", ""job creation"", ""environmental impact"", ""policy challenges""]","{
+  ""topic"": ""Electric Vehicle Incentives and Infrastructure"",
+  ""summary"": ""The cluster discusses the expansion, impact, and challenges of electric vehicle (EV) incentives, charging infrastructure, and related programs in the US and internationally. Key points include the role of government funding, tax credits, job creation, environmental benefits, and emerging policy and market challenges facing EV adoption."",
+  ""keywords"": [
+    ""EV tax credits"",
+    ""charging infrastructure"",
+    ""clean energy funding"",
+    ""job creation"",
+    ""environmental impact"",
+    ""policy challenges""
+  ]
+}",
+51,40,40,renewable energy and farming,"Farmers and landowners increasingly adopt solar and wind projects, gaining financial stability, preserving family farms, and supporting local communities through enhanced tax revenues and jobs. Advocacy emphasizes farmers' rights to decide, fights misinformation, and highlights renewables’ role in rural revitalization, property rights, and sustainability.","[""solar energy"", ""wind energy"", ""farm income"", ""property rights"", ""community benefits"", ""misinformation""]","{
+  ""topic"": ""renewable energy and farming"",
+  ""summary"": ""Farmers and landowners increasingly adopt solar and wind projects, gaining financial stability, preserving family farms, and supporting local communities through enhanced tax revenues and jobs. Advocacy emphasizes farmers' rights to decide, fights misinformation, and highlights renewables’ role in rural revitalization, property rights, and sustainability."",
+  ""keywords"": [
+    ""solar energy"",
+    ""wind energy"",
+    ""farm income"",
+    ""property rights"",
+    ""community benefits"",
+    ""misinformation""
+  ]
+}",
+52,31,31,AI Energy Demand and Clean vs. Dirty Power Sources,"The rapid growth of AI and data centers is driving a significant increase in global energy demand, which raises concerns over energy supply, grid reliability, and emissions. There is ongoing debate around transitioning from coal and other dirty energy sources to renewables, the environmental impact of AI, industry efforts to use clean energy, and the challenges of ensuring reliability and affordability during this technological transition.","[""AI energy demand"", ""coal vs. renewables"", ""data centers"", ""emissions"", ""grid reliability"", ""energy transition""]","{
+  ""topic"": ""AI Energy Demand and Clean vs. Dirty Power Sources"",
+  ""summary"": ""The rapid growth of AI and data centers is driving a significant increase in global energy demand, which raises concerns over energy supply, grid reliability, and emissions. There is ongoing debate around transitioning from coal and other dirty energy sources to renewables, the environmental impact of AI, industry efforts to use clean energy, and the challenges of ensuring reliability and affordability during this technological transition."",
+  ""keywords"": [
+    ""AI energy demand"",
+    ""coal vs. renewables"",
+    ""data centers"",
+    ""emissions"",
+    ""grid reliability"",
+    ""energy transition""
+  ]
+}",
+53,83,40,"Federal Budget, Tax Cuts, and Social Program Cuts","This cluster discusses proposed and enacted federal budget bills associated with Trump and GOP lawmakers, focusing on making the 2017 tax cuts permanent, plans to cut taxes on income, Social Security, and tips, and proposed offsets through deep cuts to programs like Medicaid, food assistance (SNAP), healthcare, clean energy, and other social safety nets. The claims highlight the polarized impact on working families, deficits, national debt, and the economic future, including debates over who benefits (wealthy vs. working class) and the consequences for public services, while referencing political battles in Congress.","[""Trump tax cuts"", ""federal budget"", ""Medicaid/SNAP cuts"", ""national debt"", ""clean energy"", ""income/Social Security taxes""]","{
+  ""topic"": ""Federal Budget, Tax Cuts, and Social Program Cuts"",
+  ""summary"": ""This cluster discusses proposed and enacted federal budget bills associated with Trump and GOP lawmakers, focusing on making the 2017 tax cuts permanent, plans to cut taxes on income, Social Security, and tips, and proposed offsets through deep cuts to programs like Medicaid, food assistance (SNAP), healthcare, clean energy, and other social safety nets. The claims highlight the polarized impact on working families, deficits, national debt, and the economic future, including debates over who benefits (wealthy vs. working class) and the consequences for public services, while referencing political battles in Congress."",
+  ""keywords"": [
+    ""Trump tax cuts"",
+    ""federal budget"",
+    ""Medicaid/SNAP cuts"",
+    ""national debt"",
+    ""clean energy"",
+    ""income/Social Security taxes""
+  ]
+}",
+54,31,31,Housing Affordability and Community Challenges,"Many communities are struggling with housing shortages, rising rents, infrastructure issues, and increased living costs, which place a strain on families and local economies. These challenges are linked to broader concerns like childcare expenses, air pollution, and the need for sustainable solutions and collaborative action from local and state governments.","[""housing shortage"", ""rising rents"", ""infrastructure"", ""cost of living"", ""community impact"", ""affordability""]","{
+  ""topic"": ""Housing Affordability and Community Challenges"",
+  ""summary"": ""Many communities are struggling with housing shortages, rising rents, infrastructure issues, and increased living costs, which place a strain on families and local economies. These challenges are linked to broader concerns like childcare expenses, air pollution, and the need for sustainable solutions and collaborative action from local and state governments."",
+  ""keywords"": [
+    ""housing shortage"",
+    ""rising rents"",
+    ""infrastructure"",
+    ""cost of living"",
+    ""community impact"",
+    ""affordability""
+  ]
+}",
+55,53,40,Government Spending and Fiscal Policy,"The claims focus on concerns over government spending at federal, state, and local levels, with criticisms about inefficiency, lack of accountability, and fiscal mismanagement. There is debate about the effectiveness and fairness of programs funded by taxpayer dollars, the impact of budget cuts or freezes, rising healthcare costs, and the role of regulations and business incentives.","[""government spending"", ""taxpayer dollars"", ""budget cuts"", ""fiscal responsibility"", ""public programs"", ""tax policy""]","{
+  ""topic"": ""Government Spending and Fiscal Policy"",
+  ""summary"": ""The claims focus on concerns over government spending at federal, state, and local levels, with criticisms about inefficiency, lack of accountability, and fiscal mismanagement. There is debate about the effectiveness and fairness of programs funded by taxpayer dollars, the impact of budget cuts or freezes, rising healthcare costs, and the role of regulations and business incentives."",
+  ""keywords"": [
+    ""government spending"",
+    ""taxpayer dollars"",
+    ""budget cuts"",
+    ""fiscal responsibility"",
+    ""public programs"",
+    ""tax policy""
+  ]
+}",
+56,35,35,Taxes and Public Spending,"The claims discuss a wide range of issues related to taxes, including property and sales tax increases, government spending, tax incentives, and the effects of tax policy on public services, infrastructure, and economic development. Concerns about tax fairness, sustainability, ballooning property tax bills, and the impacts of subsidies or tax credits on local economies are highlighted, as well as debates over budget surpluses and revenue shortfalls.","[""property tax"", ""sales tax"", ""public spending"", ""tax incentives"", ""infrastructure"", ""tax fairness""]","{
+  ""topic"": ""Taxes and Public Spending"",
+  ""summary"": ""The claims discuss a wide range of issues related to taxes, including property and sales tax increases, government spending, tax incentives, and the effects of tax policy on public services, infrastructure, and economic development. Concerns about tax fairness, sustainability, ballooning property tax bills, and the impacts of subsidies or tax credits on local economies are highlighted, as well as debates over budget surpluses and revenue shortfalls."",
+  ""keywords"": [
+    ""property tax"",
+    ""sales tax"",
+    ""public spending"",
+    ""tax incentives"",
+    ""infrastructure"",
+    ""tax fairness""
+  ]
+}",
+57,23,23,"public finance, policy, and resource allocation","The claims discuss various strategies and challenges in public finance, including methods to generate revenue, manage or reduce budgets, implement tax or wage policies, provide incentives, promote transparency, and fund large-scale programs. Key concerns include balancing budgets, supporting community initiatives, incentivizing economic growth, and managing the costs of policy mandates and infrastructure investments.","[""budget impact"", ""public policy"", ""taxes and incentives"", ""community investment"", ""cost management"", ""infrastructure funding""]","{
+  ""topic"": ""public finance, policy, and resource allocation"",
+  ""summary"": ""The claims discuss various strategies and challenges in public finance, including methods to generate revenue, manage or reduce budgets, implement tax or wage policies, provide incentives, promote transparency, and fund large-scale programs. Key concerns include balancing budgets, supporting community initiatives, incentivizing economic growth, and managing the costs of policy mandates and infrastructure investments."",
+  ""keywords"": [
+    ""budget impact"",
+    ""public policy"",
+    ""taxes and incentives"",
+    ""community investment"",
+    ""cost management"",
+    ""infrastructure funding""
+  ]
+}",
+58,74,40,Economic Pressures and Budget Management,"Claims highlight escalating costs across housing, utilities, insurance, and wages, with many communities and sectors struggling to keep up with inflation and stagnant funding. Several statements address the need for greater fiscal accountability, sustainable school and municipal financing, and transparency in budgeting, while others express concern over the impact of government policies and the importance of safeguarding critical support like dividends and union-negotiated wages.","[""inflation"", ""rising costs"", ""school funding"", ""budget management"", ""wages"", ""fiscal sustainability""]","{
+  ""topic"": ""Economic Pressures and Budget Management"",
+  ""summary"": ""Claims highlight escalating costs across housing, utilities, insurance, and wages, with many communities and sectors struggling to keep up with inflation and stagnant funding. Several statements address the need for greater fiscal accountability, sustainable school and municipal financing, and transparency in budgeting, while others express concern over the impact of government policies and the importance of safeguarding critical support like dividends and union-negotiated wages."",
+  ""keywords"": [
+    ""inflation"",
+    ""rising costs"",
+    ""school funding"",
+    ""budget management"",
+    ""wages"",
+    ""fiscal sustainability""
+  ]
+}",
+59,48,40,Local Economic and Community Benefits,"Projects and investments create jobs, boost local revenue, and provide stable income to landowners, supporting community infrastructure such as schools, roads, and public services. These initiatives foster sustainable growth, keep farmland productive, and address economic disparities, enhancing long-term prosperity for rural areas and local businesses.","[""job creation"", ""local revenue"", ""landowner income"", ""community infrastructure"", ""sustainable growth"", ""economic disparities""]","{
+  ""topic"": ""Local Economic and Community Benefits"",
+  ""summary"": ""Projects and investments create jobs, boost local revenue, and provide stable income to landowners, supporting community infrastructure such as schools, roads, and public services. These initiatives foster sustainable growth, keep farmland productive, and address economic disparities, enhancing long-term prosperity for rural areas and local businesses."",
+  ""keywords"": [
+    ""job creation"",
+    ""local revenue"",
+    ""landowner income"",
+    ""community infrastructure"",
+    ""sustainable growth"",
+    ""economic disparities""
+  ]
+}",
+60,48,40,Artificial Intelligence Trends and Impact,"This cluster highlights the rapid adoption and transformative potential of AI across sectors such as healthcare, finance, energy, and governance. Core themes include investment growth, regulatory action (notably the EU AI Act), market predictions, societal impacts like job displacement and ethics, and the promise of AI-driven innovation for economic and social benefit.","[""AI investment"", ""regulation"", ""market trends"", ""societal impacts"", ""innovation"", ""superintelligence""]","{
+  ""topic"": ""Artificial Intelligence Trends and Impact"",
+  ""summary"": ""This cluster highlights the rapid adoption and transformative potential of AI across sectors such as healthcare, finance, energy, and governance. Core themes include investment growth, regulatory action (notably the EU AI Act), market predictions, societal impacts like job displacement and ethics, and the promise of AI-driven innovation for economic and social benefit."",
+  ""keywords"": [
+    ""AI investment"",
+    ""regulation"",
+    ""market trends"",
+    ""societal impacts"",
+    ""innovation"",
+    ""superintelligence""
+  ]
+}",
+61,28,28,Inflation Reduction Act and Climate Action,"The Inflation Reduction Act (IRA) represents the largest federal investment in combating climate change, supporting clean energy, job creation, and energy efficiency across the U.S. Through tax credits, rebates, and direct funding, the IRA drives economic growth, reduces pollution, and helps households and businesses lower energy costs while advancing climate solutions.","[""Inflation Reduction Act"", ""clean energy"", ""climate change"", ""job creation"", ""tax credits"", ""energy efficiency""]","{
+  ""topic"": ""Inflation Reduction Act and Climate Action"",
+  ""summary"": ""The Inflation Reduction Act (IRA) represents the largest federal investment in combating climate change, supporting clean energy, job creation, and energy efficiency across the U.S. Through tax credits, rebates, and direct funding, the IRA drives economic growth, reduces pollution, and helps households and businesses lower energy costs while advancing climate solutions."",
+  ""keywords"": [""Inflation Reduction Act"", ""clean energy"", ""climate change"", ""job creation"", ""tax credits"", ""energy efficiency""]
+}",
+62,96,40,"Public Funding for Infrastructure, Environment, and Economic Development","A wide range of federal, state, and local grants, investments, and programs are supporting infrastructure upgrades, clean energy, environmental restoration, sustainable agriculture, and workforce development across the United States. These initiatives prioritize pollution reduction, job creation, economic opportunity, and climate resilience, often targeting underserved communities and advancing equity.","[""infrastructure funding"", ""environmental grants"", ""sustainable agriculture"", ""clean energy"", ""job creation"", ""community development""]","{
+  ""topic"": ""Public Funding for Infrastructure, Environment, and Economic Development"",
+  ""summary"": ""A wide range of federal, state, and local grants, investments, and programs are supporting infrastructure upgrades, clean energy, environmental restoration, sustainable agriculture, and workforce development across the United States. These initiatives prioritize pollution reduction, job creation, economic opportunity, and climate resilience, often targeting underserved communities and advancing equity."",
+  ""keywords"": [
+    ""infrastructure funding"",
+    ""environmental grants"",
+    ""sustainable agriculture"",
+    ""clean energy"",
+    ""job creation"",
+    ""community development""
+  ]
+}",
+63,26,26,Local Economic Impact of Federal Investment,"Federal and state investments, particularly through recent infrastructure laws, are driving job creation, supporting local businesses, and enhancing community services such as transportation, energy, and housing. These funds are revitalizing local economies, boosting small businesses, and improving public infrastructure across various regions.","[""federal funding"", ""infrastructure investment"", ""local business support"", ""job creation"", ""community development"", ""bipartisan legislation""]","{
+  ""topic"": ""Local Economic Impact of Federal Investment"",
+  ""summary"": ""Federal and state investments, particularly through recent infrastructure laws, are driving job creation, supporting local businesses, and enhancing community services such as transportation, energy, and housing. These funds are revitalizing local economies, boosting small businesses, and improving public infrastructure across various regions."",
+  ""keywords"": [
+    ""federal funding"",
+    ""infrastructure investment"",
+    ""local business support"",
+    ""job creation"",
+    ""community development"",
+    ""bipartisan legislation""
+  ]
+}",
+64,67,40,Clean Energy Adoption and Benefits,"Across multiple states, the adoption of clean energy technologies—such as solar, efficiency upgrades, and renewables—is increasing, benefiting households, businesses, and communities by lowering energy bills, improving reliability, and supporting local job creation. Legislation, incentives, and local efforts play a key role, although some criticisms focus on costs and policy controversies.","[""clean energy"", ""lower energy bills"", ""incentives"", ""state policies"", ""job creation"", ""renewable adoption""]","{
+  ""topic"": ""Clean Energy Adoption and Benefits"",
+  ""summary"": ""Across multiple states, the adoption of clean energy technologies—such as solar, efficiency upgrades, and renewables—is increasing, benefiting households, businesses, and communities by lowering energy bills, improving reliability, and supporting local job creation. Legislation, incentives, and local efforts play a key role, although some criticisms focus on costs and policy controversies."",
+  ""keywords"": [""clean energy"", ""lower energy bills"", ""incentives"", ""state policies"", ""job creation"", ""renewable adoption""]
+}",
+65,28,28,Michigan's Economic and Infrastructure Challenges and Opportunities,"Michigan faces significant challenges in infrastructure, economy, and public health, often ranking low nationally, but is simultaneously attracting substantial investments and advancing in technology, manufacturing, and clean energy. Initiatives from legacy employers, government programs, and research institutions are positioning Michigan for a future in advanced manufacturing and energy innovation, despite ongoing concerns about underfunding and inequality.","[""Michigan"", ""infrastructure"", ""investments"", ""manufacturing"", ""technology"", ""clean energy""]","{
+  ""topic"": ""Michigan's Economic and Infrastructure Challenges and Opportunities"",
+  ""summary"": ""Michigan faces significant challenges in infrastructure, economy, and public health, often ranking low nationally, but is simultaneously attracting substantial investments and advancing in technology, manufacturing, and clean energy. Initiatives from legacy employers, government programs, and research institutions are positioning Michigan for a future in advanced manufacturing and energy innovation, despite ongoing concerns about underfunding and inequality."",
+  ""keywords"": [""Michigan"", ""infrastructure"", ""investments"", ""manufacturing"", ""technology"", ""clean energy""]
+}",
+66,49,40,Environmental Justice and Community Empowerment,"The cluster highlights initiatives and partnerships that focus on advancing environmental justice, protecting vulnerable communities, and promoting sustainability. Key themes include Indigenous leadership, racial and gender equity, advocacy for policy change, and community-driven solutions to climate change and environmental degradation.","[""environmental justice"", ""community advocacy"", ""sustainability"", ""Indigenous rights"", ""climate action"", ""equity""]","{
+  ""topic"": ""Environmental Justice and Community Empowerment"",
+  ""summary"": ""The cluster highlights initiatives and partnerships that focus on advancing environmental justice, protecting vulnerable communities, and promoting sustainability. Key themes include Indigenous leadership, racial and gender equity, advocacy for policy change, and community-driven solutions to climate change and environmental degradation."",
+  ""keywords"": [""environmental justice"", ""community advocacy"", ""sustainability"", ""Indigenous rights"", ""climate action"", ""equity""]
+}",
+67,44,40,Corporate Sustainability Initiatives,"Organizations are highlighting milestones, progress, and strategies in their sustainability efforts, emphasizing the importance of collective action, innovation, and responsible business practices to address environmental crises. Reports and events showcase achievements related to climate action, sustainable design, empowerment, and advancing global sustainability targets.","[""sustainability"", ""corporate responsibility"", ""climate action"", ""innovation"", ""collective action"", ""sustainable development""]","{
+  ""topic"": ""Corporate Sustainability Initiatives"",
+  ""summary"": ""Organizations are highlighting milestones, progress, and strategies in their sustainability efforts, emphasizing the importance of collective action, innovation, and responsible business practices to address environmental crises. Reports and events showcase achievements related to climate action, sustainable design, empowerment, and advancing global sustainability targets."",
+  ""keywords"": [""sustainability"", ""corporate responsibility"", ""climate action"", ""innovation"", ""collective action"", ""sustainable development""]
+}",
+68,23,23,Local and Economic Benefits of Renewable Energy,"Renewable energy projects, especially wind and solar, are being adopted by municipalities and businesses across multiple states, delivering economic benefits such as job creation, increased tax revenue, and support for local communities. These projects also enhance energy independence, reduce reliance on foreign energy, and help address climate change while investing in workforce development and supporting local economies.","[""renewable energy"", ""local jobs"", ""economic benefits"", ""energy independence"", ""climate change"", ""community investment""]","{
+  ""topic"": ""Local and Economic Benefits of Renewable Energy"",
+  ""summary"": ""Renewable energy projects, especially wind and solar, are being adopted by municipalities and businesses across multiple states, delivering economic benefits such as job creation, increased tax revenue, and support for local communities. These projects also enhance energy independence, reduce reliance on foreign energy, and help address climate change while investing in workforce development and supporting local economies."",
+  ""keywords"": [""renewable energy"", ""local jobs"", ""economic benefits"", ""energy independence"", ""climate change"", ""community investment""]
+}",
+69,22,22,Clean Energy Investments and Job Creation,"Michigan and other regions are experiencing significant growth in clean energy investment, resulting in thousands of new jobs, modernized manufacturing, and reduced pollution. Federal and state funding, especially after the Inflation Reduction Act, is driving a surge in clean energy projects and infrastructure upgrades.","[""clean energy"", ""job creation"", ""Michigan"", ""investment"", ""infrastructure"", ""federal funding""]","{
+  ""topic"": ""Clean Energy Investments and Job Creation"",
+  ""summary"": ""Michigan and other regions are experiencing significant growth in clean energy investment, resulting in thousands of new jobs, modernized manufacturing, and reduced pollution. Federal and state funding, especially after the Inflation Reduction Act, is driving a surge in clean energy projects and infrastructure upgrades."",
+  ""keywords"": [""clean energy"", ""job creation"", ""Michigan"", ""investment"", ""infrastructure"", ""federal funding""]
+}",
+70,26,26,clean energy policies and political actions,"The cluster centers on political debates over clean energy investments, with some claims emphasizing job creation, economic benefits, and reduced costs, while others criticize increased energy rates, regulatory burdens, and the repeal of such initiatives in favor of tax cuts for the wealthy. The claims highlight partisan divides regarding the impact of clean energy legislation and funding.","[""clean energy"", ""political votes"", ""job creation"", ""energy policy"", ""tax cuts"", ""regulation""]","{
+  ""topic"": ""clean energy policies and political actions"",
+  ""summary"": ""The cluster centers on political debates over clean energy investments, with some claims emphasizing job creation, economic benefits, and reduced costs, while others criticize increased energy rates, regulatory burdens, and the repeal of such initiatives in favor of tax cuts for the wealthy. The claims highlight partisan divides regarding the impact of clean energy legislation and funding."",
+  ""keywords"": [
+    ""clean energy"",
+    ""political votes"",
+    ""job creation"",
+    ""energy policy"",
+    ""tax cuts"",
+    ""regulation""
+  ]
+}",
+71,44,40,Clean Energy Policy and Partisan Budget Legislation,"This cluster discusses the political divide on clean energy policies, highlighting claims that recent Republican budget bills and legislative actions would reduce clean energy investments, raise energy costs, threaten benefits and jobs, and stall climate progress. Several claims contrast lawmakers labeled as champions for clean energy with those accused of favoring polluters or harming constituents' economic and environmental interests.","[""clean energy"", ""Republican budget bills"", ""energy costs"", ""tax credits"", ""partisan politics"", ""job impact""]","{
+  ""topic"": ""Clean Energy Policy and Partisan Budget Legislation"",
+  ""summary"": ""This cluster discusses the political divide on clean energy policies, highlighting claims that recent Republican budget bills and legislative actions would reduce clean energy investments, raise energy costs, threaten benefits and jobs, and stall climate progress. Several claims contrast lawmakers labeled as champions for clean energy with those accused of favoring polluters or harming constituents' economic and environmental interests."",
+  ""keywords"": [
+    ""clean energy"",
+    ""Republican budget bills"",
+    ""energy costs"",
+    ""tax credits"",
+    ""partisan politics"",
+    ""job impact""
+  ]
+}",
+72,42,40,Renewable Energy Growth and Grid Resilience,"The cluster outlines the rapid expansion and adoption of renewable energy sources such as solar, wind, and energy storage in the US and abroad. Claims highlight record-breaking clean energy generation, economic benefits, public support, contributions to grid reliability and resilience, and the substantial reduction in costs and emissions driven by renewables.","[""renewable energy"", ""solar power"", ""energy storage"", ""grid reliability"", ""carbon emissions"", ""public support""]","{
+  ""topic"": ""Renewable Energy Growth and Grid Resilience"",
+  ""summary"": ""The cluster outlines the rapid expansion and adoption of renewable energy sources such as solar, wind, and energy storage in the US and abroad. Claims highlight record-breaking clean energy generation, economic benefits, public support, contributions to grid reliability and resilience, and the substantial reduction in costs and emissions driven by renewables."",
+  ""keywords"": [
+    ""renewable energy"",
+    ""solar power"",
+    ""energy storage"",
+    ""grid reliability"",
+    ""carbon emissions"",
+    ""public support""
+  ]
+}",
+73,47,40,"Energy Costs, Legislation, and Clean Energy Access","Many claims highlight concerns about rising energy costs for families, especially due to new legislation perceived to favor fossil fuels and block clean energy options. There is emphasis on the financial burden from increased utility rates, the need for affordable and clean energy, and the benefits of tax credits and incentives for clean energy adoption.","[""energy bills"", ""clean energy"", ""utility rate hikes"", ""energy legislation"", ""tax credits"", ""affordability""]","{
+  ""topic"": ""Energy Costs, Legislation, and Clean Energy Access"",
+  ""summary"": ""Many claims highlight concerns about rising energy costs for families, especially due to new legislation perceived to favor fossil fuels and block clean energy options. There is emphasis on the financial burden from increased utility rates, the need for affordable and clean energy, and the benefits of tax credits and incentives for clean energy adoption."",
+  ""keywords"": [
+    ""energy bills"",
+    ""clean energy"",
+    ""utility rate hikes"",
+    ""energy legislation"",
+    ""tax credits"",
+    ""affordability""
+  ]
+}",
+74,73,40,Electricity Bills and Energy Policy,"Claims focus on rising electricity bills across the U.S., with some attributing increases to the rollback of renewable energy incentives or outdated infrastructure, while others highlight the potential for lower bills through investment in modernized grids and clean energy. Concerns are raised about affordability, policy decisions, regional differences, and the impact on vulnerable groups.","[""electric bills"", ""rate increases"", ""renewable energy"", ""energy policy"", ""power grid"", ""affordability""]","{
+  ""topic"": ""Electricity Bills and Energy Policy"",
+  ""summary"": ""Claims focus on rising electricity bills across the U.S., with some attributing increases to the rollback of renewable energy incentives or outdated infrastructure, while others highlight the potential for lower bills through investment in modernized grids and clean energy. Concerns are raised about affordability, policy decisions, regional differences, and the impact on vulnerable groups."",
+  ""keywords"": [
+    ""electric bills"",
+    ""rate increases"",
+    ""renewable energy"",
+    ""energy policy"",
+    ""power grid"",
+    ""affordability""
+  ]
+}",
+75,101,40,Iowa Wind and Renewable Energy Leadership,"Iowa is a national leader in wind and renewable energy, with wind providing over 60% of its electricity and significant investment from utilities and businesses. This clean, affordable energy has spurred economic growth, created jobs, lowered energy costs, and positioned Iowa at the forefront of America's energy transition, though some concerns remain about fossil fuel reliance and local resistance.","[""Iowa wind energy"", ""renewable electricity"", ""clean energy"", ""economic impact"", ""energy leadership"", ""utility investment""]","{
+  ""topic"": ""Iowa Wind and Renewable Energy Leadership"",
+  ""summary"": ""Iowa is a national leader in wind and renewable energy, with wind providing over 60% of its electricity and significant investment from utilities and businesses. This clean, affordable energy has spurred economic growth, created jobs, lowered energy costs, and positioned Iowa at the forefront of America's energy transition, though some concerns remain about fossil fuel reliance and local resistance."",
+  ""keywords"": [
+    ""Iowa wind energy"",
+    ""renewable electricity"",
+    ""clean energy"",
+    ""economic impact"",
+    ""energy leadership"",
+    ""utility investment""
+  ]
+}",
+76,100,40,Offshore and Onshore Wind Energy,"Wind energy, especially offshore wind, is increasingly seen as a clean, efficient, and economic solution for energy generation in the United States, enjoying broad public support and driving job creation. While there are some concerns and misinformation around environmental impacts and costs, most claims highlight impressive energy payback times, potential for grid reliability, and positive effects on local economies and carbon emissions.","[""offshore wind"", ""energy payback"", ""clean energy"", ""job creation"", ""public support"", ""misinformation""]","{
+  ""topic"": ""Offshore and Onshore Wind Energy"",
+  ""summary"": ""Wind energy, especially offshore wind, is increasingly seen as a clean, efficient, and economic solution for energy generation in the United States, enjoying broad public support and driving job creation. While there are some concerns and misinformation around environmental impacts and costs, most claims highlight impressive energy payback times, potential for grid reliability, and positive effects on local economies and carbon emissions."",
+  ""keywords"": [
+    ""offshore wind"",
+    ""energy payback"",
+    ""clean energy"",
+    ""job creation"",
+    ""public support"",
+    ""misinformation""
+  ]
+}",
+77,34,34,Economic and Community Benefits of Wind Energy,"Wind energy projects provide substantial financial rewards and stability to rural communities, farmers, and local governments, including lease payments, jobs, tax revenue, and support for infrastructure and schools. These benefits foster local economic growth, community development, and encourage clean energy transitions without sacrificing farmland or traditional livelihoods.","[""wind energy"", ""farm income"", ""tax revenue"", ""community development"", ""infrastructure"", ""renewable energy""]","{
+  ""topic"": ""Economic and Community Benefits of Wind Energy"",
+  ""summary"": ""Wind energy projects provide substantial financial rewards and stability to rural communities, farmers, and local governments, including lease payments, jobs, tax revenue, and support for infrastructure and schools. These benefits foster local economic growth, community development, and encourage clean energy transitions without sacrificing farmland or traditional livelihoods."",
+  ""keywords"": [
+    ""wind energy"",
+    ""farm income"",
+    ""tax revenue"",
+    ""community development"",
+    ""infrastructure"",
+    ""renewable energy""
+  ]
+}",
+78,29,29,Electric Grid Modernization and Renewable Transition,"Claims discuss the ongoing transition to renewable energy, modernization of electrical grids, and the integration of technologies like solar, wind, battery storage, and virtual power plants. They address benefits such as reliability and self-sufficiency, challenges including outdated infrastructure, international supply chains, data center demand, and the need for coordinated grid planning.","[""grid modernization"", ""renewable energy"", ""energy storage"", ""supply chain"", ""grid reliability"", ""infrastructure challenges""]","{
+  ""topic"": ""Electric Grid Modernization and Renewable Transition"",
+  ""summary"": ""Claims discuss the ongoing transition to renewable energy, modernization of electrical grids, and the integration of technologies like solar, wind, battery storage, and virtual power plants. They address benefits such as reliability and self-sufficiency, challenges including outdated infrastructure, international supply chains, data center demand, and the need for coordinated grid planning."",
+  ""keywords"": [
+    ""grid modernization"",
+    ""renewable energy"",
+    ""energy storage"",
+    ""supply chain"",
+    ""grid reliability"",
+    ""infrastructure challenges""
+  ]
+}",
+79,82,40,Renewable Energy Cost and Local Benefits,"Wind and solar energy are now among the cheapest sources of electricity, often outcompeting fossil fuels even without subsidies. Beyond lower costs, renewable projects generate local economic benefits, improve energy grid flexibility, and provide reliable, domestic power.","[""wind"", ""solar"", ""cost"", ""grid reliability"", ""local economy"", ""renewable energy""]","{
+  ""topic"": ""Renewable Energy Cost and Local Benefits"",
+  ""summary"": ""Wind and solar energy are now among the cheapest sources of electricity, often outcompeting fossil fuels even without subsidies. Beyond lower costs, renewable projects generate local economic benefits, improve energy grid flexibility, and provide reliable, domestic power."",
+  ""keywords"": [""wind"", ""solar"", ""cost"", ""grid reliability"", ""local economy"", ""renewable energy""]
+}",
+80,22,22,Data Center Energy Demand and Clean Energy Solutions,"Data centers, particularly in Virginia, are driving rapid increases in electricity demand, creating significant challenges for grid capacity and sustainability. The cluster emphasizes the need for clean energy adoption, infrastructure upgrades, energy efficiency, and regulatory oversight to manage this growth and reduce environmental impacts.","[""data centers"", ""electricity demand"", ""Virginia"", ""clean energy"", ""energy efficiency"", ""grid infrastructure""]","{
+  ""topic"": ""Data Center Energy Demand and Clean Energy Solutions"",
+  ""summary"": ""Data centers, particularly in Virginia, are driving rapid increases in electricity demand, creating significant challenges for grid capacity and sustainability. The cluster emphasizes the need for clean energy adoption, infrastructure upgrades, energy efficiency, and regulatory oversight to manage this growth and reduce environmental impacts."",
+  ""keywords"": [
+    ""data centers"",
+    ""electricity demand"",
+    ""Virginia"",
+    ""clean energy"",
+    ""energy efficiency"",
+    ""grid infrastructure""
+  ]
+}",
+81,51,40,Clean energy tax credits and energy policy impacts,"Claims in this cluster debate the effects of clean energy tax credits, with proponents arguing they lower energy costs, create jobs, and boost local economies, while critics suggest repealing them or enacting certain policies will increase utility bills, hinder clean energy progress, and negatively impact both consumers and the environment. Several claims suggest that legislative changes could result in higher costs for households and businesses, reduce energy security, and stall clean energy development.","[""clean energy tax credits"", ""energy costs"", ""job creation"", ""energy policy"", ""utility bills"", ""legislation""]","{
+  ""topic"": ""Clean energy tax credits and energy policy impacts"",
+  ""summary"": ""Claims in this cluster debate the effects of clean energy tax credits, with proponents arguing they lower energy costs, create jobs, and boost local economies, while critics suggest repealing them or enacting certain policies will increase utility bills, hinder clean energy progress, and negatively impact both consumers and the environment. Several claims suggest that legislative changes could result in higher costs for households and businesses, reduce energy security, and stall clean energy development."",
+  ""keywords"": [
+    ""clean energy tax credits"",
+    ""energy costs"",
+    ""job creation"",
+    ""energy policy"",
+    ""utility bills"",
+    ""legislation""
+  ]
+}",
+82,196,40,Clean Energy Jobs and Economic Impact,"The clean energy sector is rapidly expanding in the United States, creating hundreds of thousands of new, good-paying jobs across diverse regions and industries, particularly due to federal incentives, state mandates, and private investments. However, policy uncertainty and potential rollbacks threaten continued growth, with industry groups and local leaders emphasizing both the economic and community benefits of sustained investment in clean energy.","[""clean energy jobs"", ""economic growth"", ""federal incentives"", ""manufacturing"", ""job training"", ""policy risks""]","{
+  ""topic"": ""Clean Energy Jobs and Economic Impact"",
+  ""summary"": ""The clean energy sector is rapidly expanding in the United States, creating hundreds of thousands of new, good-paying jobs across diverse regions and industries, particularly due to federal incentives, state mandates, and private investments. However, policy uncertainty and potential rollbacks threaten continued growth, with industry groups and local leaders emphasizing both the economic and community benefits of sustained investment in clean energy."",
+  ""keywords"": [""clean energy jobs"", ""economic growth"", ""federal incentives"", ""manufacturing"", ""job training"", ""policy risks""]
+}",
+83,20,20,Global Energy Supply and Transition,"Rising energy demand, supply chain disruptions, and a global transition to clean energy are increasing strain on energy systems, leading to higher costs and market volatility worldwide. These shifts create opportunities and challenges for investment, infrastructure, job creation, and maintaining reliability while advancing renewable solutions.","[""energy demand"", ""supply shortages"", ""renewable transition"", ""market volatility"", ""investment opportunities"", ""infrastructure challenges""]","{
+  ""topic"": ""Global Energy Supply and Transition"",
+  ""summary"": ""Rising energy demand, supply chain disruptions, and a global transition to clean energy are increasing strain on energy systems, leading to higher costs and market volatility worldwide. These shifts create opportunities and challenges for investment, infrastructure, job creation, and maintaining reliability while advancing renewable solutions."",
+  ""keywords"": [""energy demand"", ""supply shortages"", ""renewable transition"", ""market volatility"", ""investment opportunities"", ""infrastructure challenges""]
+}",
+84,91,40,Clean Energy Transition,"This cluster emphasizes the urgency and benefits of transitioning to affordable, clean energy, highlighting economic, environmental, health, and national security advantages. Claims stress job creation, cost savings, technological readiness, and the need for policy action to achieve renewable energy goals and reduce reliance on fossil fuels.","[""clean energy"", ""affordability"", ""job creation"", ""policy"", ""environmental benefits"", ""energy independence""]","{
+  ""topic"": ""Clean Energy Transition"",
+  ""summary"": ""This cluster emphasizes the urgency and benefits of transitioning to affordable, clean energy, highlighting economic, environmental, health, and national security advantages. Claims stress job creation, cost savings, technological readiness, and the need for policy action to achieve renewable energy goals and reduce reliance on fossil fuels."",
+  ""keywords"": [""clean energy"", ""affordability"", ""job creation"", ""policy"", ""environmental benefits"", ""energy independence""]
+}",
+85,28,28,Solar Energy Benefits for Schools and Communities,"Solar energy adoption in schools and communities leads to financial benefits such as increased funding for education, community services, and salaries, as well as providing clean, reliable power. Additionally, educational programs and solar co-ops support learning, community engagement, and job creation while helping schools go green and save money.","[""solar power"", ""school funding"", ""community services"", ""clean energy"", ""education programs"", ""solar co-ops""]","{
+  ""topic"": ""Solar Energy Benefits for Schools and Communities"",
+  ""summary"": ""Solar energy adoption in schools and communities leads to financial benefits such as increased funding for education, community services, and salaries, as well as providing clean, reliable power. Additionally, educational programs and solar co-ops support learning, community engagement, and job creation while helping schools go green and save money."",
+  ""keywords"": [
+    ""solar power"",
+    ""school funding"",
+    ""community services"",
+    ""clean energy"",
+    ""education programs"",
+    ""solar co-ops""
+  ]
+}",
+86,147,40,Agrivoltaics and Solar Grazing,"Agrivoltaics combines solar energy production with agriculture, allowing crops, livestock grazing, and pollinator habitats to coexist with solar panels. This dual-use approach provides environmental and economic benefits to farmers, such as increased revenue, land productivity, water savings, and improved soil and crop health.","[""agrivoltaics"", ""solar grazing"", ""dual-use land"", ""livestock"", ""crop production"", ""renewable energy""]","{
+  ""topic"": ""Agrivoltaics and Solar Grazing"",
+  ""summary"": ""Agrivoltaics combines solar energy production with agriculture, allowing crops, livestock grazing, and pollinator habitats to coexist with solar panels. This dual-use approach provides environmental and economic benefits to farmers, such as increased revenue, land productivity, water savings, and improved soil and crop health."",
+  ""keywords"": [
+    ""agrivoltaics"",
+    ""solar grazing"",
+    ""dual-use land"",
+    ""livestock"",
+    ""crop production"",
+    ""renewable energy""
+  ]
+}",
+87,176,40,Local Environmental and Community Advocacy,"These claims highlight local leaders and advocates working to improve their communities through environmental sustainability, clean energy, green infrastructure, affordable housing, and inclusive public service. Efforts include advancing renewable energy, protecting rural and agricultural land, enhancing public safety, empowering small businesses, and fostering diversity and economic growth.","[""environmental advocacy"", ""clean energy"", ""affordable housing"", ""community development"", ""public safety"", ""diversity and inclusion""]","{
+  ""topic"": ""Local Environmental and Community Advocacy"",
+  ""summary"": ""These claims highlight local leaders and advocates working to improve their communities through environmental sustainability, clean energy, green infrastructure, affordable housing, and inclusive public service. Efforts include advancing renewable energy, protecting rural and agricultural land, enhancing public safety, empowering small businesses, and fostering diversity and economic growth."",
+  ""keywords"": [
+    ""environmental advocacy"",
+    ""clean energy"",
+    ""affordable housing"",
+    ""community development"",
+    ""public safety"",
+    ""diversity and inclusion""
+  ]
+}",
+88,108,40,"Misinformation, Project 2025, and Social/Policy Impacts","Many claims focus on the spread of misinformation and its effects on society, technology, and policy discussions. There's significant concern around 'Project 2025,' a policy agenda attributed to Trump allies aiming to reshape US governance, with critics warning of authoritarian shifts and dismantling of key institutions. Other claims discuss affordable housing, healthcare access, rural resource cuts, and challenges in public sector staffing.","[""misinformation"", ""Project 2025"", ""Trump administration"", ""disinformation"", ""policy impact"", ""affordable housing"", ""healthcare""]","{
+  ""topic"": ""Misinformation, Project 2025, and Social/Policy Impacts"",
+  ""summary"": ""Many claims focus on the spread of misinformation and its effects on society, technology, and policy discussions. There's significant concern around 'Project 2025,' a policy agenda attributed to Trump allies aiming to reshape US governance, with critics warning of authoritarian shifts and dismantling of key institutions. Other claims discuss affordable housing, healthcare access, rural resource cuts, and challenges in public sector staffing."",
+  ""keywords"": [""misinformation"", ""Project 2025"", ""Trump administration"", ""disinformation"", ""policy impact"", ""affordable housing"", ""healthcare""]
+}",
+89,33,33,US Political Candidate Positions and Records,"The claims discuss various U.S. political candidates, highlighting their stances on healthcare, environmental regulation, crime, taxes, and social issues like reproductive rights, immigration, and gun reform. Some claims promote candidates as champions for progressive or conservative values, while others criticize their policy records, ethical conduct, or alignment with party agendas.","[""healthcare"", ""environment"", ""taxes"", ""reproductive rights"", ""crime policy"", ""candidate records""]","{
+  ""topic"": ""US Political Candidate Positions and Records"",
+  ""summary"": ""The claims discuss various U.S. political candidates, highlighting their stances on healthcare, environmental regulation, crime, taxes, and social issues like reproductive rights, immigration, and gun reform. Some claims promote candidates as champions for progressive or conservative values, while others criticize their policy records, ethical conduct, or alignment with party agendas."",
+  ""keywords"": [""healthcare"", ""environment"", ""taxes"", ""reproductive rights"", ""crime policy"", ""candidate records""]
+}",
+90,43,40,Kamala Harris's Policy Positions and Political Image,"The cluster discusses Kamala Harris’s mixed record on issues like climate, energy (especially fracking), reproductive rights, and gun control. Claims reflect both support and criticism, with some labeling her stances as extreme or inconsistent, particularly on energy policy, while others highlight her advocacy for clean energy, pay equality, and middle-class support.","[""climate policy"", ""fracking"", ""energy"", ""reproductive rights"", ""progressive vs moderate"", ""Kamala Harris""]","{
+  ""topic"": ""Kamala Harris's Policy Positions and Political Image"",
+  ""summary"": ""The cluster discusses Kamala Harris’s mixed record on issues like climate, energy (especially fracking), reproductive rights, and gun control. Claims reflect both support and criticism, with some labeling her stances as extreme or inconsistent, particularly on energy policy, while others highlight her advocacy for clean energy, pay equality, and middle-class support."",
+  ""keywords"": [""climate policy"", ""fracking"", ""energy"", ""reproductive rights"", ""progressive vs moderate"", ""Kamala Harris""]
+}",
+91,156,40,Solar Incentives and No-Cost Solar Programs,"Numerous federal, state, and utility-backed solar programs across the U.S. offer substantial financial incentives, rebates, and even no-upfront-cost installation options for homeowners, non-profits, and small businesses, often especially targeting low-income or underserved communities. These initiatives aim to reduce energy bills, promote clean energy adoption, and provide additional benefits like cash credits, tax rebates, and weatherization grants while sometimes warning consumers about scams.","[""solar incentives"", ""no-cost solar"", ""federal grants"", ""tax credits"", ""energy bill savings"", ""clean energy adoption""]","{
+  ""topic"": ""Solar Incentives and No-Cost Solar Programs"",
+  ""summary"": ""Numerous federal, state, and utility-backed solar programs across the U.S. offer substantial financial incentives, rebates, and even no-upfront-cost installation options for homeowners, non-profits, and small businesses, often especially targeting low-income or underserved communities. These initiatives aim to reduce energy bills, promote clean energy adoption, and provide additional benefits like cash credits, tax rebates, and weatherization grants while sometimes warning consumers about scams."",
+  ""keywords"": [
+    ""solar incentives"",
+    ""no-cost solar"",
+    ""federal grants"",
+    ""tax credits"",
+    ""energy bill savings"",
+    ""clean energy adoption""
+  ]
+}",
+92,36,36,solar energy adoption and impacts,"Claims highlight the financial, environmental, and societal benefits of solar energy, including lower utility bills, job creation, grid reliability during extreme weather, and reduced carbon emissions. Challenges such as misinformation, policy debates, and opposition from entrenched energy interests are also noted, alongside technological innovations and regional solar investment stories.","[""lower bills"", ""clean energy"", ""grid reliability"", ""carbon reduction"", ""jobs"", ""solar adoption""]","{
+  ""topic"": ""solar energy adoption and impacts"",
+  ""summary"": ""Claims highlight the financial, environmental, and societal benefits of solar energy, including lower utility bills, job creation, grid reliability during extreme weather, and reduced carbon emissions. Challenges such as misinformation, policy debates, and opposition from entrenched energy interests are also noted, alongside technological innovations and regional solar investment stories."",
+  ""keywords"": [""lower bills"", ""clean energy"", ""grid reliability"", ""carbon reduction"", ""jobs"", ""solar adoption""]
+}",
+93,29,29,State and National Legislative Politics,"The claims highlight the impact of party control in state legislatures and Congress on policy outcomes in areas like healthcare, climate change, voting rights, and education. They stress the importance of political engagement, flipping legislative seats, local news access, and the influence of advocacy and public opinion on legislative decisions, while also reflecting partisan disputes and concerns about threats to democracy.","[""legislative control"", ""state politics"", ""Democrats vs Republicans"", ""policy outcomes"", ""political engagement"", ""voting rights""]","{
+  ""topic"": ""State and National Legislative Politics"",
+  ""summary"": ""The claims highlight the impact of party control in state legislatures and Congress on policy outcomes in areas like healthcare, climate change, voting rights, and education. They stress the importance of political engagement, flipping legislative seats, local news access, and the influence of advocacy and public opinion on legislative decisions, while also reflecting partisan disputes and concerns about threats to democracy."",
+  ""keywords"": [""legislative control"", ""state politics"", ""Democrats vs Republicans"", ""policy outcomes"", ""political engagement"", ""voting rights""]
+}",
+94,125,40,"Culture Wars, Free Speech, and Media Narratives","The cluster includes concerns over cultural and political polarization, particularly regarding 'woke' language, free speech, progressive media influence, and social activism. It also highlights debates over ideological control, misinformation, bias in media, and conflicts over rights relating to gender, health, and protest.","[""woke ideology"", ""free speech"", ""media bias"", ""progressive influence"", ""social activism"", ""political polarization""]","{
+  ""topic"": ""Culture Wars, Free Speech, and Media Narratives"",
+  ""summary"": ""The cluster includes concerns over cultural and political polarization, particularly regarding 'woke' language, free speech, progressive media influence, and social activism. It also highlights debates over ideological control, misinformation, bias in media, and conflicts over rights relating to gender, health, and protest."",
+  ""keywords"": [
+    ""woke ideology"",
+    ""free speech"",
+    ""media bias"",
+    ""progressive influence"",
+    ""social activism"",
+    ""political polarization""
+  ]
+}",
+95,106,40,solar energy growth and impact,"Solar energy in the United States is experiencing rapid growth, driven by supportive policies and technological advancements. This boom is creating tens of thousands of jobs, boosting local economies, lowering energy costs, and contributing to cleaner air and reduced carbon emissions, with increased manufacturing capacity and innovations in solar technologies and recycling.","[""solar jobs"", ""US manufacturing"", ""clean energy"", ""policy support"", ""economic benefits"", ""technology advancements""]","{
+  ""topic"": ""solar energy growth and impact"",
+  ""summary"": ""Solar energy in the United States is experiencing rapid growth, driven by supportive policies and technological advancements. This boom is creating tens of thousands of jobs, boosting local economies, lowering energy costs, and contributing to cleaner air and reduced carbon emissions, with increased manufacturing capacity and innovations in solar technologies and recycling."",
+  ""keywords"": [""solar jobs"", ""US manufacturing"", ""clean energy"", ""policy support"", ""economic benefits"", ""technology advancements""]
+}",
+96,28,28,Solar Energy Projects and Community Impacts,"A diverse range of solar energy projects are being developed across various regions, leading to increased renewable energy production, job creation, economic investment, and community benefits such as energy cost savings and environmental improvements. While most communities experience positive developments, some express concerns about property values and local restrictions on solar expansion.","[""solar energy"", ""job creation"", ""local investment"", ""community benefits"", ""renewable projects"", ""property value concerns""]","{
+  ""topic"": ""Solar Energy Projects and Community Impacts"",
+  ""summary"": ""A diverse range of solar energy projects are being developed across various regions, leading to increased renewable energy production, job creation, economic investment, and community benefits such as energy cost savings and environmental improvements. While most communities experience positive developments, some express concerns about property values and local restrictions on solar expansion."",
+  ""keywords"": [""solar energy"", ""job creation"", ""local investment"", ""community benefits"", ""renewable projects"", ""property value concerns""]
+}",
+97,27,27,"Local Governance, Community Development, and Environment","The claims emphasize the importance of transparent, responsive local governance, responsible fiscal practices, and inclusive community engagement. Key issues raised include infrastructure improvement, affordable housing, environmental protection, clean energy advocacy, public safety, and ensuring all voices are heard in policymaking.","[""local governance"", ""community engagement"", ""infrastructure"", ""environmental protection"", ""public safety"", ""affordable housing""]","{
+  ""topic"": ""Local Governance, Community Development, and Environment"",
+  ""summary"": ""The claims emphasize the importance of transparent, responsive local governance, responsible fiscal practices, and inclusive community engagement. Key issues raised include infrastructure improvement, affordable housing, environmental protection, clean energy advocacy, public safety, and ensuring all voices are heard in policymaking."",
+  ""keywords"": [
+    ""local governance"",
+    ""community engagement"",
+    ""infrastructure"",
+    ""environmental protection"",
+    ""public safety"",
+    ""affordable housing""
+  ]
+}",
+98,43,40,Political Candidates and Campaign Issues,"The claims discuss various political candidates, their platforms, endorsements, legislative records, stances on climate change, healthcare, and workers’ rights, as well as allegations of extremism and corruption. Additional themes include campaign finance, party dynamics, constituent engagement, and contrasts between progressive and conservative agendas.","[""candidates"", ""campaign platforms"", ""climate change"", ""healthcare"", ""endorsements"", ""party politics""]","{
+  ""topic"": ""Political Candidates and Campaign Issues"",
+  ""summary"": ""The claims discuss various political candidates, their platforms, endorsements, legislative records, stances on climate change, healthcare, and workers’ rights, as well as allegations of extremism and corruption. Additional themes include campaign finance, party dynamics, constituent engagement, and contrasts between progressive and conservative agendas."",
+  ""keywords"": [
+    ""candidates"",
+    ""campaign platforms"",
+    ""climate change"",
+    ""healthcare"",
+    ""endorsements"",
+    ""party politics""
+  ]
+}",
+99,125,40,Voter Engagement and Election Participation,"The claims urge voter participation through voter registration, voting by mail, and other civic actions, emphasizing the importance of every vote in critical elections and promoting policies for progressive change. They also discuss legal and legislative barriers to voter access while encouraging community-driven outreach and support for fair voting processes.","[""voter registration"", ""election participation"", ""absentee ballots"", ""community outreach"", ""voting rights"", ""progressive change""]","{
+  ""topic"": ""Voter Engagement and Election Participation"",
+  ""summary"": ""The claims urge voter participation through voter registration, voting by mail, and other civic actions, emphasizing the importance of every vote in critical elections and promoting policies for progressive change. They also discuss legal and legislative barriers to voter access while encouraging community-driven outreach and support for fair voting processes."",
+  ""keywords"": [
+    ""voter registration"",
+    ""election participation"",
+    ""absentee ballots"",
+    ""community outreach"",
+    ""voting rights"",
+    ""progressive change""
+  ]
+}",
+100,35,35,Education and Environmental Advocacy Endorsements,"This cluster highlights school board and local political candidates emphasizing endorsements from environmental organizations such as the Sierra Club and League of Conservation Voters, along with a focus on community service, fiscal responsibility, transparency, educational quality, and sustainability initiatives. The claims underscore the connection between strong public education, environmentally responsible policies, and broad-based community engagement.","[""school board"", ""Sierra Club"", ""environmental endorsements"", ""fiscal responsibility"", ""community advocacy"", ""sustainable policies""]","{
+  ""topic"": ""Education and Environmental Advocacy Endorsements"",
+  ""summary"": ""This cluster highlights school board and local political candidates emphasizing endorsements from environmental organizations such as the Sierra Club and League of Conservation Voters, along with a focus on community service, fiscal responsibility, transparency, educational quality, and sustainability initiatives. The claims underscore the connection between strong public education, environmentally responsible policies, and broad-based community engagement."",
+  ""keywords"": [""school board"", ""Sierra Club"", ""environmental endorsements"", ""fiscal responsibility"", ""community advocacy"", ""sustainable policies""]
+}",
+101,48,40,community-driven aid and humanitarian relief,"This cluster highlights the impact of grassroots donations and volunteerism in providing essential support—such as food, shelter, medical care, education, and emergency response—to communities in crisis, especially in areas impacted by war, poverty, or disaster. Emphasis is placed on the vital role of collective action, local partnerships, and sustained generosity in fostering long-term resilience and systemic change.","[""donations"", ""volunteering"", ""humanitarian aid"", ""emergency response"", ""grassroots support"", ""community resilience""]","{
+  ""topic"": ""community-driven aid and humanitarian relief"",
+  ""summary"": ""This cluster highlights the impact of grassroots donations and volunteerism in providing essential support—such as food, shelter, medical care, education, and emergency response—to communities in crisis, especially in areas impacted by war, poverty, or disaster. Emphasis is placed on the vital role of collective action, local partnerships, and sustained generosity in fostering long-term resilience and systemic change."",
+  ""keywords"": [
+    ""donations"",
+    ""volunteering"",
+    ""humanitarian aid"",
+    ""emergency response"",
+    ""grassroots support"",
+    ""community resilience""
+  ]
+}",
+102,92,40,Donation Matching and Incentives,"The claims promote charitable giving by emphasizing donation matching (e.g., doubling, tripling, or quadrupling gifts), limited-time multipliers, and additional incentives such as gift cards or recognition. These strategies increase perceived donor impact and often tie contributions to specific projects or challenges.","[""donation matching"", ""gift multipliers"", ""charity incentives"", ""limited-time offers"", ""recognition"", ""fundraising campaigns""]","{
+  ""topic"": ""Donation Matching and Incentives"",
+  ""summary"": ""The claims promote charitable giving by emphasizing donation matching (e.g., doubling, tripling, or quadrupling gifts), limited-time multipliers, and additional incentives such as gift cards or recognition. These strategies increase perceived donor impact and often tie contributions to specific projects or challenges."",
+  ""keywords"": [""donation matching"", ""gift multipliers"", ""charity incentives"", ""limited-time offers"", ""recognition"", ""fundraising campaigns""]
+}",
+103,49,40,Community Events and Engagement,"This cluster features a diverse array of community-oriented events ranging from clean energy celebrations and educational expos to family-friendly festivals, workshops, and rallies. The common thread is fostering community connection, education, sustainability, empowerment, and celebration through inclusive activities and resources.","[""community events"", ""clean energy"", ""festivals"", ""workshops"", ""sustainability"", ""education""]","{
+  ""topic"": ""Community Events and Engagement"",
+  ""summary"": ""This cluster features a diverse array of community-oriented events ranging from clean energy celebrations and educational expos to family-friendly festivals, workshops, and rallies. The common thread is fostering community connection, education, sustainability, empowerment, and celebration through inclusive activities and resources."",
+  ""keywords"": [""community events"", ""clean energy"", ""festivals"", ""workshops"", ""sustainability"", ""education""]
+}",
+104,62,40,Community Engagement and Local Action,"This cluster revolves around individuals and organizations driving positive change through civic engagement, grassroots activism, and partnerships across local communities. Claimants highlight efforts to listen, mobilize, and address issues ranging from public policy to community health, education, and quality of life, emphasizing collective action and leadership to achieve measurable improvements.","[""civic engagement"", ""grassroots activism"", ""community leadership"", ""local initiatives"", ""collective action"", ""policy change""]","{
+  ""topic"": ""Community Engagement and Local Action"",
+  ""summary"": ""This cluster revolves around individuals and organizations driving positive change through civic engagement, grassroots activism, and partnerships across local communities. Claimants highlight efforts to listen, mobilize, and address issues ranging from public policy to community health, education, and quality of life, emphasizing collective action and leadership to achieve measurable improvements."",
+  ""keywords"": [""civic engagement"", ""grassroots activism"", ""community leadership"", ""local initiatives"", ""collective action"", ""policy change""]
+}",
+105,150,40,Local Leadership and Endorsements,"The cluster highlights local leaders and candidates recognized for their dedication to community progress, public safety, sustainability, and effective governance. Many claims focus on endorsements, proven track records, and commitments to affordable housing, climate action, and creating thriving, inclusive communities.","[""endorsements"", ""community leadership"", ""public safety"", ""sustainability"", ""affordable housing"", ""inclusive growth""]","{
+  ""topic"": ""Local Leadership and Endorsements"",
+  ""summary"": ""The cluster highlights local leaders and candidates recognized for their dedication to community progress, public safety, sustainability, and effective governance. Many claims focus on endorsements, proven track records, and commitments to affordable housing, climate action, and creating thriving, inclusive communities."",
+  ""keywords"": [
+    ""endorsements"",
+    ""community leadership"",
+    ""public safety"",
+    ""sustainability"",
+    ""affordable housing"",
+    ""inclusive growth""
+  ]
+}",
+106,97,40,Community Leadership and Public Service,"Claims in this cluster emphasize candidates' backgrounds in community involvement, public service, and leadership across various levels of local government. They highlight values such as integrity, transparency, fiscal responsibility, sustainable development, collaboration, and dedication to improving public amenities and services for all residents.","[""public service"", ""community leadership"", ""fiscal responsibility"", ""transparency"", ""sustainable development"", ""integrity""]","{
+  ""topic"": ""Community Leadership and Public Service"",
+  ""summary"": ""Claims in this cluster emphasize candidates' backgrounds in community involvement, public service, and leadership across various levels of local government. They highlight values such as integrity, transparency, fiscal responsibility, sustainable development, collaboration, and dedication to improving public amenities and services for all residents."",
+  ""keywords"": [""public service"", ""community leadership"", ""fiscal responsibility"", ""transparency"", ""sustainable development"", ""integrity""]
+}",
+107,24,24,Societal Progress and Challenges,"The claims focus on societal and economic challenges, the urgency of addressing them, and optimistic strategies for inclusive growth and opportunity. Emphasis is placed on infrastructure, job creation, climate solutions, mental health concerns, and ensuring no one is left behind in future advancements.","[""economic development"", ""social challenges"", ""inclusive opportunity"", ""future growth"", ""mental health"", ""climate solutions""]","{
+  ""topic"": ""Societal Progress and Challenges"",
+  ""summary"": ""The claims focus on societal and economic challenges, the urgency of addressing them, and optimistic strategies for inclusive growth and opportunity. Emphasis is placed on infrastructure, job creation, climate solutions, mental health concerns, and ensuring no one is left behind in future advancements."",
+  ""keywords"": [""economic development"", ""social challenges"", ""inclusive opportunity"", ""future growth"", ""mental health"", ""climate solutions""]
+}",
+108,32,32,innovation and challenges in community and global development,"This cluster examines the key players, risks, and solutions in large-scale development projects, emphasizing sustainable growth, equity, and resilience across communities. The claims highlight actionable ideas, policy guidance, environmental concerns, and the need for evidence-based and inclusive approaches to overcome complex social, economic, and environmental challenges worldwide.","[""sustainable growth"", ""community development"", ""equity"", ""innovation"", ""global challenges"", ""resilience""]","{
+  ""topic"": ""innovation and challenges in community and global development"",
+  ""summary"": ""This cluster examines the key players, risks, and solutions in large-scale development projects, emphasizing sustainable growth, equity, and resilience across communities. The claims highlight actionable ideas, policy guidance, environmental concerns, and the need for evidence-based and inclusive approaches to overcome complex social, economic, and environmental challenges worldwide."",
+  ""keywords"": [""sustainable growth"", ""community development"", ""equity"", ""innovation"", ""global challenges"", ""resilience""]
+}",
+109,113,40,"Inspiration, Action, and Community Engagement","This cluster emphasizes inspiring stories, creative solutions, and collective action to drive social change and hope. It highlights the importance of reflection, sharing impactful content, building community, and sustaining movements through creativity, recognition, and collaboration.","[""storytelling"", ""community action"", ""hope"", ""creativity"", ""inspiration"", ""collaboration""]","{
+  ""topic"": ""Inspiration, Action, and Community Engagement"",
+  ""summary"": ""This cluster emphasizes inspiring stories, creative solutions, and collective action to drive social change and hope. It highlights the importance of reflection, sharing impactful content, building community, and sustaining movements through creativity, recognition, and collaboration."",
+  ""keywords"": [""storytelling"", ""community action"", ""hope"", ""creativity"", ""inspiration"", ""collaboration""]
+}",
+110,30,30,Women and Youth Empowerment for Sustainable Development,"This cluster centers on initiatives and advocacy efforts aimed at empowering women and young people through education, leadership development, economic opportunities, and social support. Programs highlighted address gender equality, sustainability, health, violence prevention, and community resilience, all in alignment with global development goals.","[""women's empowerment"", ""education"", ""gender equality"", ""youth leadership"", ""sustainable development"", ""community resilience""]","{
+  ""topic"": ""Women and Youth Empowerment for Sustainable Development"",
+  ""summary"": ""This cluster centers on initiatives and advocacy efforts aimed at empowering women and young people through education, leadership development, economic opportunities, and social support. Programs highlighted address gender equality, sustainability, health, violence prevention, and community resilience, all in alignment with global development goals."",
+  ""keywords"": [
+    ""women's empowerment"",
+    ""education"",
+    ""gender equality"",
+    ""youth leadership"",
+    ""sustainable development"",
+    ""community resilience""
+  ]
+}",
+111,80,40,"Education, Community, and Workforce Development Initiatives","The claims emphasize the importance of educational programs, hands-on training, and collaborative community efforts to empower children, youth, professionals, and underrepresented groups. They highlight partnerships, funding, mentorship, and inclusive leadership as key drivers for building a resilient workforce, promoting sustainability, and fostering positive change.","[""education"", ""community collaboration"", ""workforce development"", ""youth empowerment"", ""partnerships"", ""funding support""]","{
+  ""topic"": ""Education, Community, and Workforce Development Initiatives"",
+  ""summary"": ""The claims emphasize the importance of educational programs, hands-on training, and collaborative community efforts to empower children, youth, professionals, and underrepresented groups. They highlight partnerships, funding, mentorship, and inclusive leadership as key drivers for building a resilient workforce, promoting sustainability, and fostering positive change."",
+  ""keywords"": [""education"", ""community collaboration"", ""workforce development"", ""youth empowerment"", ""partnerships"", ""funding support""]
+}",
