@@ -1,0 +1,55 @@
+segment,cluster_id,cluster_claim,num_texts,error,model_used
+Pro-Energy,Pro-Energy_0,Alberta's political and economic reliance on fossil fuels is undermining Canada's progress toward sustainable energy leadership.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_16,Trump’s energy policies prioritize fossil fuels at the expense of renewable energy development.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_17,Political opposition is deliberately undermining the Green New Deal to prevent its potential social and economic benefits.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_18,Democrats must prioritize bold progressive policies to win elections and govern effectively.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_19,Current policies prioritizing fossil fuels and corporate subsidies over clean energy harm working families and accelerate environmental degradation.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_2,The U.S.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_20,Political opposition to renewable energy prioritizes short-term interests over long-term environmental and economic sustainability.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_21,Political leaders and corporate interests aligned with fossil fuels are actively undermining clean energy progress to protect the oil industry.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_25,"Fossil fuel pricing and subsidies distort energy markets, preventing meaningful progress toward renewable adoption.",5,,mistral-large-2407
+Pro-Energy,Pro-Energy_26,Residential solar power and efficient energy systems can eliminate household electricity costs and achieve net energy independence.,5,,mistral-large-2407
+Pro-Energy,Pro-Energy_9,"Unchecked corporate and political elite power undermines democracy, civil rights, and effective governance.",5,,mistral-large-2407
+Pro-Climate,Pro-Climate_0,Individuals must prioritize systemic climate action over personal comfort guilt.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_1,Insurance companies’ responses to rising climate-related risks demonstrate that climate change is an urgent economic threat.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_10,Expanding fossil fuel drilling accelerates environmental destruction and undermines climate progress.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_12,Climate change is the primary driver of rising coffee prices.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_14,AI is accelerating climate change while society fails to recognize its harmful consequences.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_15,China's strategic investments in renewable energy have positioned it as the global leader in clean technology while Western nations lag due to short-sighted policies.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_17,Halting the expansion of oil and gas production is necessary to mitigate catastrophic global warming.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_2,The U.S.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_22,Corporate greenwashing is a widespread and deliberate strategy to mislead consumers for profit.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_25,Climate change is expanding the geographic range and increasing the transmission of vector-borne diseases.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_26,Human-caused climate change is accelerating biodiversity loss across ecosystems.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_27,"Pope Francis demonstrated that moral leadership requires prioritizing environmental stewardship, social justice, and compassion over economic exploitation and political ideology.",5,,mistral-large-2407
+Pro-Climate,Pro-Climate_29,"Government investment in social services, education, healthcare, and green energy is necessary to reduce inequality and improve societal well-being.",5,,mistral-large-2407
+Pro-Climate,Pro-Climate_31,MAGA supporters deny climate change publicly while privately preparing for its consequences.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_32,Human activity is the primary cause of irreversible harm to marine ecosystems.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_33,Phasing out fossil fuels improves public health.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_37,Immediate and decisive action is required to halt global deforestation.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_38,The widespread adoption of affordable green energy is inevitable and beneficial.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_40,"Climate change will force unprecedented global migration, making it the defining moral and humanitarian challenge of the 21st century.",5,,mistral-large-2407
+Pro-Climate,Pro-Climate_43,Religious fatalism undermines urgent action on climate collapse.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_48,The continued reliance on fossil fuels imposes unacceptable costs on society while enabling industry-driven obstruction of meaningful climate action.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_49,Corporate profit motives drive deliberate climate change denial and obstruction of environmental action.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_50,Florida’s vulnerability to climate change makes it an unsustainable and doomed region.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_53,Climate change and fascism are mutually reinforcing threats that must be confronted simultaneously to prevent societal collapse.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_6,"The UK's security, prosperity, and global influence depend on deep integration with Europe.",5,,mistral-large-2407
+Pro-Climate,Pro-Climate_60,Republican obstructionism is the primary obstacle to addressing climate change.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_63,Social justice movements for marginalized groups and systemic change are morally necessary and non-negotiable.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_64,A diversified energy strategy that includes nuclear power is essential to effectively combat catastrophic climate change.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_69,Climate change and human mismanagement are the primary drivers of increasingly severe and frequent wildfires.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_7,The Trump administration's rollback of climate protections prioritized political and economic interests over scientific evidence of climate change's threat to public health.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_70,Human-caused climate change is accelerating global warming and its most severe environmental consequences.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_71,Climate change is the primary driver of increasingly severe and frequent extreme heat events worldwide.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_72,Climate change is making extreme weather events the defining and increasingly dangerous norm that societies are unprepared to address.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_75,Journalism must abandon false balance in climate reporting to prioritize factual accuracy over manufactured controversy.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_76,Unusual weather patterns and shifting seasonal norms provide clear evidence that climate change is real and accelerating.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_77,Climate change is intensifying extreme weather events and altering natural systems.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_78,Current climate policies and trends will fail to prevent catastrophic global warming.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_79,Political interference in climate data undermines public understanding and response to climate change.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_8,Governments can be held legally accountable under international law for failing to address climate change.,5,,mistral-large-2407
+Pro-Climate,Pro-Climate_9,"Australia's conservative leadership prioritizes divisive politics and corporate interests over urgent social, economic, and environmental crises.",5,,mistral-large-2407
+Neutral,Neutral_15,Taking responsibility for others' messes is unsustainable and harmful to one's well-being.,5,,mistral-large-2407
+Neutral,Neutral_20,Sustainable parity for all life is the only just and viable foundation for a healthy society.,5,,mistral-large-2407
+Neutral,Neutral_23,Extreme wealth concentration in a few hands is unsustainable for societal stability.,5,,mistral-large-2407
